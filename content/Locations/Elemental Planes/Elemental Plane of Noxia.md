@@ -60,7 +60,7 @@ Okzalira (ok-zah-LEE-rah), Charu (KHAH-roo), Pithra (PITH-rah), Quarix (KWAH-rik
 
 Every one of them was built by the works, for the works, and is owed for. A village in Noxia does not have a founding story. It has an opening date and a balance.
 
-> *I asked in Varilpithru how a person clears a debt. The clerk explained the schedule, which was long. I asked how many had cleared one. He said that was a different question and that he was not paid to answer different questions.*
+> *A child born in Noxia is entered in the ledger at Varilpithru on the day it is born, with the cost of the delivery against its name. I watched a midwife present her bill at the counter, and the clerk asked her, very politely, whether she wanted it charged to the mother or carried by the child.*
 
 ## Design Notes
 

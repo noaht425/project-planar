@@ -60,7 +60,7 @@ Teiru (TAY-roo), Chovas (KHOH-vas), Panira (pah-NEE-rah), Chalu (KHAH-loo), Agra
 
 Most sit at the mouth of one tunnel or at one end of one seam, and the grant that keeps them there is held by a single family. A village whose grant lapses does not usually last a year.
 
-> *I asked a woman in Kelaxos whether she owned her house. She said she held it. I asked what the difference was. She said that if I had to ask, I had never held anything, which I think was fair and which I did not enjoy.*
+> *A woman in Kelaxos showed me her family's grant, which is older than the city around it and has been renewed every generation without a word of it changing. She keeps it in a box under the floor. She was much less careful with the house.*
 
 ## Design Notes
 

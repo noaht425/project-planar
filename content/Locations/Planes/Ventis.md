@@ -17,7 +17,7 @@ At the very centre of Ventis, where all four winds meet and combine, stands a st
 
 Most of Ventis is open air. What ground there is comes in floating pieces, glass-like, drifting on the wind.
 
-> *I asked a local how the islands stay up. They said the wind holds them. I asked what happens when the wind stops. They looked at me the way you look at a child who has asked what happens when the sun forgets to rise, and then they went back to their work, and I have been thinking about that look ever since.*
+> *Visitors to Ventis who cannot fly are tied on. My host ran a line from my belt to a ring set in each island we stood on, and moved it himself every time we crossed to another. It was some days before I noticed that nobody else, the children included, was tied to anything.*
 
 ## The Courts
 

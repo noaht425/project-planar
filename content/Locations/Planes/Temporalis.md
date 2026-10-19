@@ -19,7 +19,7 @@ It is a strange place to look at. Much of it reads as metaphysical rather than b
 
 **It That Was** is a wide lake ringed on every side by waterfalls. The waterfalls cannot be reached either, however long a visitor rows toward them.
 
-> *Every scholar who goes to the future tries to reach the trees. I tried. I walked for what I was later told was eleven days, and when I stopped they were precisely as far off as when I set out. I was not even tired. I was, however, extremely annoyed. Do not pack provisions for the attempt. Pack a book.*
+> *Every scholar who goes to the future tries to reach the trees. I tried. I walked for what I was later told was the better part of a fortnight, and when I stopped they were precisely as far off as when I set out. I was not even tired. I was, however, extremely annoyed. Do not pack provisions for the attempt. Pack a book.*
 
 ## The Scholarchs
 

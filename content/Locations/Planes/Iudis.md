@@ -80,7 +80,7 @@ The hells can be moved between as well. Their borders are policed, crossing is f
 
 A reward is still a reward, and every heaven carries a cost inside the thing it gives. The cost is never a trick played on the soul. It is what that particular reward turns out to do to a person who receives it without end.
 
-> *I had assumed the hells would be loud. Several of them are. What I had not prepared for was the paperwork. There is a great deal of paperwork. Somewhere in the hells is a soul whose eternal punishment is to be slightly behind on all of it, and I think about that soul more than is good for me.*
+> *I had assumed the hells would be loud. Several of them are. What I had not prepared for was the paperwork. There is a great deal of paperwork. Somewhere in the hells is a soul whose eternal punishment is to be slightly behind on all of it. I was shown its desk.*
 
 ## Design Notes
 

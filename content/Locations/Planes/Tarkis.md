@@ -59,7 +59,7 @@ Each lord rules from a seat shaped like a hoard, suited to the realm and to what
 
 The second dragons keep to their own realms loosely and travel far more than the lords do, both between the elemental realms and out into the other planes.
 
-> *The dragons do not hold court as the Winds do. A dragon's seat of power is a hoard, and a hoard is whatever that dragon has decided is worth piling up. For one of them this means a mountain of gold. For another it means every ship that ever went down, laid out on the sea floor in rows, which I am assured also counts.*
+> *Nobody checked my papers anywhere in Tarkis. On my way out, at the edge of the steam seam, a woman with a slate stopped me and read me a list of everything I had done in the realm that was large enough to be noticed, and then let me go. It was a short list, and she seemed disappointed in it.*
 
 ## The Storm
 

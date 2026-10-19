@@ -62,7 +62,7 @@ Vethu (VEH-thoo), Dallira (dal-LEE-rah), Shurava (shoo-RAH-vah), Iasu (ee-AH-soo
 
 Most are single households strung along the shelf or tucked into the walls of the middle water. Several are only reachable by swimming through something unpleasant, which the people living there consider an advantage.
 
-> *Veturde Talthu is the most beautiful city in Tarkis and I would not advise going. Everything there has been arranged, including the dead, and after a week I caught myself wondering what row I would be put in.*
+> *The family I lodged with in Veturde Talthu keep a section of the floor from the century before last, mostly fishing boats. The eldest son walks it every morning with a measuring rod. Anything the current has moved by so much as a finger's width he puts back, and writes the correction in a book.*
 
 ## Design Notes
 

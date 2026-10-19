@@ -17,7 +17,7 @@ Arenis was made in 10 AF out of pieces of every other realm. It does not look li
 
 The [[Map of Arenis]] is the whole plane. Three continents, with [[The Nexus]] made by hand in the middle of them and the [[Panarex]] standing on it. Climate and local detail sit in the individual location notes.
 
-> *The mortal realm is the least alarming of the nine and I say that with affection. Nothing here is trying to read your mind, rearrange your energy or grow over you while you sit still. People get up, go to work, complain about the weather and go to bed. After a year abroad I found this close to miraculous.*
+> *The mortal realm is the least alarming of the nine and I say that with affection. Nothing here is trying to read your mind or grow over you while you sit still. People get up, go to work, complain about the weather and go to bed. After a year abroad I found this close to miraculous.*
 
 ## Magic and Making Things
 

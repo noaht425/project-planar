@@ -13,7 +13,7 @@ It is an ethereal place. There is no ground to speak of and a visitor drifts thr
 
 The eight regions are separated from one another and each is built around its own school. Every one of them is working on whoever is inside it. The sensation is of being studied, taken apart and operated on by the region itself, and it does not stop while a visitor remains.
 
-> *I spent some time in Divination being read. It is a peculiar thing to be understood that thoroughly by somewhere rather than someone. It got me entirely right, which I resented, and it got me right before I had finished deciding, which I resented more.*
+> *I wrote to Hekate to ask how she had got into Arcanis and how she had got out again. Her reply reached me inside a week, in her own hand. It was my letter, returned, with the grammar corrected.*
 
 ## The Eight Regions
 

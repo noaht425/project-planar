@@ -60,7 +60,7 @@ Rasavu (rah-SAH-voo), Hespis (HES-pis), Tsarilos (tsah-REE-los), Perisa (peh-REE
 
 They are single-industry places, most of them tied to one quarry, one crossing or one stretch of flow. Nothing in any of them is more than a day's walk from something that will kill a visitor who is not paying attention.
 
-> *They sell a cloak in Arteros that will keep a mortal alive on the flows for about six hours. I asked the man what happens at seven hours. He said nobody had ever come back to complain, and then he laughed for a long time. I bought two.*
+> *They sell a cloak in Arteros that will keep a mortal alive on the flows for about a morning. I asked the man what happens in the afternoon. He said nobody had ever come back to complain, and then he laughed for a long time. I bought two.*
 
 ## Design Notes
 
