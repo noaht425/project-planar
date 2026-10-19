@@ -21,7 +21,7 @@ There is nothing to report and I want to be clear that this is the finding rathe
 
 The texts from before that describe a quiet child who was close to his sister.
 
-> *The last time he appears in any record he is nine thousand years old and he is being described as somebody's brother. That is the whole of the entry. I have gone back to it more times than is reasonable, because the entry is in a list of people present at the divorce, and he is the only name on it that does not appear again.*
+> *Cado is last recorded on a list of those present at the divorce, where he is written down only as Eos's brother, on the line below her. Every other name on that list turns up again in some later record, and I have checked them all. His does not.*
 
 ## Goals
 

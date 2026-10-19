@@ -11,7 +11,7 @@ Member of the [[Nekerux]].
 
 ## Appearance
 
-Seisear (SHESH-ar) is a dog with six heads, one for each of the six portions of [[Iudis]]. The heads are not identical and people who have seen them disagree about which is which.
+Seisear (SAY-seer) is a dog with six heads, one for each of the six portions of [[Iudis]]. The heads are not identical and people who have seen them disagree about which is which.
 
 ## Manner
 

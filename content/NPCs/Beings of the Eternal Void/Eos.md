@@ -21,7 +21,7 @@ Eos is the only one of the four Beings who will deal with mortals as a matter of
 
 She is direct about what she wants and she is relentless about it. Several of the parties she has approached describe the same experience: a conversation that was pleasant, a request that was reasonable, and a second request six months later that was not.
 
-> *I have found her in four places I did not expect, across two hundred years of records, and she asked the same question in all four. Not about her parents. About whether the person she was speaking to had ever been persuaded of something by someone they trusted, and how they had found out.*
+> *Eos found me, in the end, rather than the other way about. She asked whether I had ever been persuaded of something by someone I trusted, and how I had found out. I told her about a colleague and a forged letter, at some length. She listened to all of it and then asked how long it had taken me to stop believing the letter after I knew it was forged.*
 
 ## Goals
 

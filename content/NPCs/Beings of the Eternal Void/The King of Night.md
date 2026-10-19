@@ -23,7 +23,7 @@ Dalla (DAL-la). Known to no one but himself. The name survives hidden in the wor
 
 ## Manner
 
-I have not met him, and the narrator of this book is not going to pretend otherwise. What follows is from records and from the four beings who have dealt with him.
+I have not met him. What follows is from records and from the four beings who have dealt with him.
 
 He is the god of secrets and he is described, consistently, as a good listener. He asks, he remembers, and he does not repeat. Every account of a petition to him agrees that he gave the petitioner his full attention and that nothing of what was said went anywhere afterwards.
 

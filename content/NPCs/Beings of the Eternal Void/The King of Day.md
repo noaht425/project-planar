@@ -29,7 +29,7 @@ He holds the domains of life, healing and knowledge, and before the Syzygy he wa
 
 Where the two Kings are described together, in the old texts, he is the one who talked.
 
-> *The marriage is attested in eleven sources and every one of them is about him. What he said, what he gave, who he received. His husband appears in all eleven as a presence in the room. I went looking for the Syzygy expecting to find the record of a fight and I found that the talking simply stops, in the middle of a century, and does not resume.*
+> *There are still clerics of the King of Day in the mortal realm, and they still pray to him. I spent an evening with one who has served all her adult life and has never had an answer she could be sure of. She keeps a book of her petitions. Every one is dated, and every one has been copied out a second time underneath in a better hand, in case the first was the problem.*
 
 ## History
 

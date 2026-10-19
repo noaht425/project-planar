@@ -22,7 +22,7 @@ Two decisions, in order.
 
 A soul meets Bis first. Seisear's decision is quick. Bis's is not.
 
-> *I had the order wrong for most of a year, because every account I collected described the dog first. The dog is the one people remember. Six heads, one question, done in a moment, and then you go. The serpent is where you waited, and the people I spoke to could not tell me how long they had waited, which I now think is the answer.*
+> *I had the order wrong for most of a year, because every account I collected from the dead described the dog first. The dog is the one people remember. Six heads, one question, done in a moment, and then you go. The serpent came before it, and the only thing anyone could tell me about the serpent was that nobody had said they were allowed to sit down.*
 
 ## Design Notes
 

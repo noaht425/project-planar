@@ -21,7 +21,7 @@ He has gotten stuck nitpicking the exact morality of tiny actions. A theft of br
 
 [[Themis]] of the [[Archangels|archangels]] reads every decision he makes and sends him an objection whenever she disagrees, which is often. He reads all of them. He has never once replied.
 
-> *I asked him about a case and he asked me which way I would have found. I gave him an answer and he asked me why, and I gave him a reason, and he asked what the reason would do to eleven other cases he then described to me in detail. We were there a long time. I never did learn which way he found.*
+> *I went to Bis on behalf of the family of a printer I had known, to argue that he had been sent to the wrong side. I made the mistake everyone makes in Liminia and said that he had been a decent man on the whole. Both heads stopped. One asked me to set out the whole, item by item, and the other began writing it down, and by evening we had got as far as his fourth birthday.*
 
 ## Goals
 

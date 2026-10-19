@@ -26,7 +26,7 @@ Lilien is the only one of the twelve aside from Abaddon who is visibly two, whic
 
 Desire covers lust, envy and greed, and Lilien regards the three as one thing badly divided, which is a view the other archdevils have learned not to raise.
 
-> *Lilien had the only map of Iudis that anyone would sell me, and named a price I could pay. I paid it, and the map was brought out and laid on the table in front of me while a clerk went to find a pen for the receipt. I sat with my hand on the table beside it for the rest of the afternoon. Nobody stopped me picking it up. The left half watched my hand the whole time, and I never did.*
+> *Lilien had the map of Iudis I had come for and sold it to me at a fair price. While it was being wrapped, the left half mentioned that there was an older one, more complete, for only a little more, and I bought that instead. While that one was being wrapped, the right half mentioned another. I left at nightfall without any map at all, and owing for several.*
 
 ## Goals
 
