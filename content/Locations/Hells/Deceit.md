@@ -1,0 +1,17 @@
+---
+tags: []
+type: location
+summary: >-
+  The hell of Deceit, ruled by Tiyanak, built of glass and tricks of sight, and holding a tenth that is not spoken of.
+locationType: plane
+---
+
+One of the six hells of [[Iudis]], ruled by [[Tiyanak]]. For how punishment, standing and travel work across the afterlives, see [[Iudis]].
+
+The caverns are glass, lit in colours, and the walls hand a soul back its own reflection from angles it did not expect. Distance cannot be judged by eye anywhere in it. The whole place is dressed like a fairground.
+
+Deceit is built largely of glass, and most of what happens here is done to a soul's sight. Souls are shown things that are not there, are blinded, and are given back a view that cannot be trusted. The look of the place runs to carnival.
+
+A tenth of the original territory is held by [[Tiyanak]] alone and the rest went to [[Verita]] in the deal that ended the [[Divine War]]. [[Indri]] is caged in that tenth.
+
+> *I asked for directions four times in Deceit and was given four different routes, every one of which worked. I still do not know what that was meant to teach me.*

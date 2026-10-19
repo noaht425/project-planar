@@ -1,0 +1,93 @@
+---
+type: npc
+tags: []
+cr: '24'
+ac: 20
+hp: 527
+---
+
+Lord of the [[Elemental Plane of Noxia]]
+
+Created [[Amol]]
+
+Home Realm: [[Tarkis]]
+
+
+## Stat Block
+
+Gargantuan dragon
+
+- **Armor Class** 20 (natural armor)
+- **Hit Points** 527 (27d20+243)
+- **Speed** 30 ft., swim 40 ft., fly 80 ft. (hover)
+- **Saving Throws** Dex +15, Con +16, Wisdom +13, Charisma +14
+- **Skills** Intimidation +14, Perception +13, Stealth +15, Survival +13
+- **Damage Resistances** acid, necrotic; bludgeoning, piercing, slashing from nonmagical attacks
+- **Damage Immunities** poison
+- **Condition Immunities** charmed, frightened, poisoned
+- **Senses** blindsight 90 ft., darkvision 120 ft., passive Perception 23
+- **Languages** Common, Draconic, telepathy 120 ft.
+- **Challenge** 24 (62,000 XP)
+- **Proficiency Bonus** +7
+
+### Traits
+
+**Magic Resistance.** Okzu has advantage on saving throws against spells and other magical effects.
+
+**Legendary Resistance (3/Day).** If Okzu fails a saving throw, it can choose to succeed instead.
+
+**Gaseous Lord.** Any effect that would contain Okzu or remove it from the battlefield (forcecage, maze, imprisonment, and the like) ends at the start of its next turn as it seeps between the barriers as poison gas and reconstitutes.
+
+**Shroud of Miasma.** Toxic fog fills a 20-foot emanation around Okzu. The area is heavily obscured for other creatures (Okzu ignores it). A creature that starts its turn in the fog must succeed on a DC 22 Constitution saving throw or take 18 (4d8) poison damage and be poisoned until the start of its next turn. Wind of 20+ mph disperses the fog for 1 round; Okzu re-forms it at the start of its turn.
+
+**Corrosive Hide.** A creature that touches Okzu or hits it with a melee attack takes 5 (1d10) acid damage. A nonmagical weapon that hits Okzu takes a permanent −1 penalty to attack and damage rolls (stacking); at −5 it is destroyed.
+
+### Actions
+
+**Multiattack.** Okzu uses Withering Presence, then makes three attacks, no more than one of which can be Tail Slam.
+
+**Bite.** *Melee Weapon Attack* +15 to hit, reach 15 ft., one target. Hit: 19 (2d10 + 8) piercing plus 13 (3d8) poison damage. The target is grappled (escape DC 18) and can't regain hit points while grappled.
+
+**Claw.** *Melee Weapon Attack* +15 to hit, reach 10 ft., one target. Hit: 17 (2d8 + 8) slashing plus 5 (1d10) acid damage.
+
+**Tail Slam.** *Melee Weapon Attack* +15 to hit, reach 20 ft., one target. Hit: 21 (3d8 + 8) bludgeoning damage, and the target is knocked prone unless it succeeds on a DC 22 Strength saving throw.
+
+**Withering Presence.** Each creature of Okzu's choice within 120 ft. and aware of it must succeed on a DC 21 Wisdom saving throw or be frightened and poisoned until the start of Okzu's next turn (24-hour immunity to the frighten on a success).
+
+**Contagion (Recharge 5–6).** One creature within 30 ft. must make a DC 22 Constitution saving throw or contract a wasting sickness. While sick, it takes 18 (4d8) poison damage at the start of each of its turns, can't regain hit points, and has disadvantage on ability checks and attack rolls. It repeats the save at the end of each of its turns; on a second failed save it is also incapacitated and on a third failed save it drops to 0 hit points. Any successful save ends the whole effect, as does lesser restoration (removes the incapacitation) or greater restoration/heal (ends it).
+
+**Plague Wind Breath (Recharge 5–6).** Okzu exhales green plague-gas in a 90-ft. cone. Each creature makes a DC 22 Constitution saving throw, taking 56 (16d6) poison damage and being poisoned for 1 minute (repeat save at end of turn) on a failure, or half damage on a success. The area becomes a heavily obscuring cloud that creeps 10 ft. farther from Okzu at the start of each of its turns (to a maximum of 60 ft. beyond the cone) for 1 minute; a creature that starts its turn in it takes 10 (3d6) poison damage and can't regain hit points until the start of its next turn.
+
+**Dissolve (1/Day).** Okzu spits primordial acid at a point within 120 ft.; it bursts in a 20-ft. radius. Each creature there makes a DC 22 Dexterity saving throw, taking 44 (8d10) acid damage on a failure or half on a success. The ground there becomes a pool of acid (difficult terrain; 22 (4d10) acid to enter or start a turn in it) for 1 minute.
+
+### Reactions
+
+**Bloodied Breath.** The first time Okzu drops to 263 hit points or fewer, it recharges Plague Wind Breath and uses it (no action).
+
+### Legendary Actions (3/round)
+
+**Tail (1).** Okzu makes a Tail Slam attack.
+
+**Billow (1).** The Shroud of Miasma expands to 40 ft. until the start of Okzu's next turn; a creature that enters the new area or starts its turn there makes the shroud's DC 22 Constitution save.
+
+**Caustic Spray (1).** One creature within 30 ft. makes a DC 22 Dexterity saving throw or takes 14 (4d6) acid damage and has its AC reduced by 1 until it repairs or replaces its armor (stacking, minimum AC 10).
+
+**Drag Under (2).** One creature grappled by Okzu or within 15 ft. makes a DC 22 Constitution saving throw or takes 27 (6d8) poison damage and is blinded until the end of its next turn.
+
+### Lair Actions
+
+**Rising Miasma.** Poison gas floods a 40-ft.-radius area within 120 ft. to a height of 20 ft., heavily obscuring it (not for Okzu). A creature that starts its turn there or enters it makes a DC 22 Constitution saving throw, taking 18 (4d8) poison damage and being poisoned until initiative 20 next round on a failure. Lasts until initiative 20 next round.
+
+**Caustic Downpour.** Acid rain falls in a 30-ft.-radius cylinder within 120 ft. Each creature makes a DC 22 Dexterity saving throw, taking 21 (6d6) acid damage on a failure or half on a success; a creature that fails also has its armor's AC bonus reduced by 1 until repaired.
+
+**Sump.** A 20-ft.-radius patch of ground within 120 ft. turns to toxic sludge — difficult terrain, and a creature that starts its turn there makes a DC 22 Strength saving throw or sinks in (restrained, escape DC 22). Lasts until initiative 20 next round.
+
+### Regional Effects (while Vetur lives)
+
+- The air is faintly poisonous. A creature that finishes a long rest here without protection from poison must succeed on a DC 12 Constitution saving throw or gain 1 level of exhaustion (removed by a long rest in clean air).
+- Haze never fully lifts; outdoor visibility rarely exceeds a few hundred feet.
+- Metal corrodes, wood rots, and food spoils within a day. Only Okzu's chosen and native Noxian life are spared.
+- Standing water is caustic (treat as acid; 2d6 to submerge).
+
+If Okzu dies, the air clears over 1d10 days. What corroded stays corroded.
+

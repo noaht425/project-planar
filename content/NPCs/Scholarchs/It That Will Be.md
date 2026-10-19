@@ -1,0 +1,90 @@
+---
+type: npc
+tags: []
+cr: '23'
+ac: 19
+hp: 481
+---
+
+Home Realm: [[Temporalis]]
+
+Member of the [[Scholarchs]].
+
+## Stat Block
+
+Gargantuan Monstrosity, lawful neutral
+
+- **Armor Class** 19 (natural armor)
+- **Hit Points** 481 (26d20+208)
+- **Speed** 40 ft., fly 75 ft. (hover)
+- **Saving Throws** Dex +11, Con +15, Int +17, Wis +16
+- **Skills** Arcana +17, History +17, Insight +16, Perception +16
+- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+- **Damage Immunities** psychic
+- **Condition Immunities** charmed, frightened, stunned, paralyzed
+- **Senses** truesight 120 ft., passive Perception 25
+- **Languages** Common, Archaic
+- **Challenge** 23 (50,000 XP)
+- **Proficiency Bonus** +7
+
+### Traits
+
+**Innate Spellcasting.** It That Will Be's Innate Spellcasting ability is Intelligence (spell save DC 25). It That Was can innately cast imprisonment twice per day, requiring no material components.
+
+**Legendary Resistances (3/Day).** If It That Will Be fails a saving throw, it can choose to succeed instead.
+
+**Inscrutable.** It That Will Be is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain its intentions or sincerity have disadvantage.
+
+**Magic Resistance.** It That Will Be has advantage on saving throws against spells and other magical effects.
+
+**It Has Been Seen.** Attack rolls against It That Will Be don't benefit from advantage, and it can't be surprised. (While its self-cast foresight is active - the default - it also has advantage on its own attacks, saves, and checks, and attackers have disadvantage.
+
+**That Which Will Come (1/Round).** Once per round, when a creature within 100 ft. of It That Will Be rolls a d20, It That Will Be can replace it's roll with a number adjacent to the roll on the d20 (see the table below).
+
+**Spellcasting.** It That Was is a 20th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 25, +17 to hit (27) with spell attacks). It That Will Be has the following spells prepared:
+- At will: guidance, message, mind sliver.
+- 3/day each: counterspell, hold monster, confusion, hypnotic pattern.
+- 1/day each: contingency, scrying, time stop, foresight (cast on itself; see Already Seen - usually already active when encountered).
+
+### Actions
+
+**Multiattack.** It That Will Be makes two claw attacks. It can cast a spell with a casting time of 1 action in place of one claw attack.
+
+**Claw.** *Melee Weapon Attack* +14 to hit, reach 10 ft., one target. Hit: 23 (3d10 + 7) slashing. If the target is a creature, DC 23 Wisdom save or the next saving throw it makes before the end of its next turn is rolled with disadvantage.
+
+**Forgone Conclusion.**  Up to three creatures within 120 ft. each make a DC 23 Wisdom saving throw. On a failure: 16 (3d10) psychic and doomed for 1 minute (the first time each round the creature rolls a d20, it rolls with disadvantage). Repeats the save at the end of each of its turns, taking 9 (2d6) psychic on a failure, ending on a success. 24h immunity on a successful initial save.
+
+**Pronounce the End (Rechagre 5-6).** Each creature within 30 ft. makes a DC 23 Wisdom saving throw: 35 (10d6) psychic and doomed on a failure, half damage on a success.
+
+### Legendary Actions
+
+**Cast a Spell (2).** It That Is casts a spell with a casting time of 1 action.
+
+**Claw.** It That Is makes a Claw attack.
+
+**Step Between Moments.** It That Is teleports to a location it can see within 60 ft. and ends any restrained/enclosed effects on it.
+
+**Inevitable End.** One creature within 120 ft. takes 22 (4d10) psychic damage that can't be reduced, prevented, or redirected by any effect (immunity to psychic damage still applies).
+
+| Roll | Results |
+|------|---------|
+| 1 | 7, 13, 19 |
+| 2 | 12, 18, 20 |
+| 3 | 16, 17, 19 |
+| 4 | 11, 14, 18 |
+| 5 | 13, 15, 18 |
+| 6 | 9, 14, 16 |
+| 7 | 1, 15, 17 |
+| 8 | 10, 16, 20 |
+| 9 | 6, 11, 19 |
+| 10 | 8, 12, 17 |
+| 11 | 4, 9, 13 |
+| 12 | 2, 10, 15 |
+| 13 | 1, 5, 11 |
+| 14 | 4, 6, 20 |
+| 15 | 5, 7, 12 |
+| 16 | 3, 6, 8 |
+| 17 | 3, 7, 10 |
+| 18 | 2, 4, 5 |
+| 19 | 1, 3, 9 |
+| 20 | 2, 8, 14 |

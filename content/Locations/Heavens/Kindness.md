@@ -1,0 +1,17 @@
+---
+tags: []
+type: location
+summary: >-
+  The heaven of Kindness, ruled by Neema, where the kind are treated as they treated others.
+locationType: plane
+---
+
+One of the six heavens of [[Iudis]], ruled by [[Neema]]. For how reward, cost and travel work across the afterlives, see [[Iudis]].
+
+A warm, well lit country of small towns with the doors standing open. People come out onto the road to meet anyone arriving.
+
+Souls in Kindness are treated by strangers exactly as they treated strangers, continually and without having to ask.
+
+What the souls here were best at is giving, and there is nobody to give to. Everyone is already looked after. A soul whose life was built on being needed arrives somewhere nobody needs anything.
+
+> *I tried to help a woman in Kindness carry a load up a hill. She thanked me and would not let me, because she did not need the help, and there nobody ever will.*

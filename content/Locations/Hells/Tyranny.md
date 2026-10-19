@@ -1,0 +1,19 @@
+---
+tags: []
+type: location
+summary: >-
+  The hell of Tyranny, ruled by Archon, where the damned live out the lives of the lowest people in a society.
+locationType: plane
+---
+
+One of the six hells of [[Iudis]], ruled by [[Archon]]. For how punishment, standing and travel work across the afterlives, see [[Iudis]].
+
+The hell is cut down into the rock in tiers. The galleries near the surface are dry and lit and reasonably comfortable, and they belong to souls who have climbed. Each tier below is hotter, wetter and lower than the one above it. Arrivals start at the bottom.
+
+Tyranny is a working society with a hard hierarchy, and every soul that arrives is placed at the bottom of it. The bottom is where the labour is and where the orders land.
+
+Souls who ruled by force spend their time under the force of others. Advancement up the hierarchy is real and it is possible, which is the mechanism that keeps the bottom working.
+
+Particular tyrants are given particular places in the structure, chosen to answer what they did with the power they had.
+
+> *I was shown around by a soul who had worked its way up to the fourth gallery across nine hundred years, and which was enormously proud of its spot in the fourth gallery. I have seen better rooms in a prison. I did not say so, and I have been trying to figure out why ever since.*

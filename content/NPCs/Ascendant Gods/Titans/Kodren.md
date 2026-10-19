@@ -1,0 +1,10 @@
+---
+type: npc
+tags: []
+---
+
+Elder Hill Giant. Gifted power by [[Kleipur]]. One of the first [[Giantkin]].
+
+Home Realm: [[Arenis]]
+
+Member of the [[Ascendant Gods]].
