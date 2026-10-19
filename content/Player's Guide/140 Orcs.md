@@ -16,6 +16,4 @@ Play any orc you like, including the half-orcs the Progenitors had nothing to do
 
 **What to know going in.** Oinarria is the orc and giantkin kingdom and most orcs are from there. Orcs elsewhere are usually there for a reason, and the reason is yours to invent. The orc and giantkin arrangement is old and mostly works, which surprises outsiders who expect it not to.
 
-*If your orc is from Oinarria,* go to [[230 Oinarria|230 · Oinarria]].
-
-*If your orc is from somewhere else,* the other kingdom pages are being written. Tell me which one and I will write it next.
+*Now pick where they are from.* Go to [[200 Where You Are From|200 · Where You Are From]].

@@ -22,6 +22,6 @@ He is a newer god than almost anything else you could bind yourself to, and it s
 
 **Decide one thing.** What your character wants badly enough that a god noticed. Ignatius did not pick you at random, he picked you because you were already reaching for something.
 
-The subclass is [[Warlock - Ambition|Warlock, the Ambition patron]].
+The subclass is [[Warlock Ambition|Warlock, the Ambition patron]].
 
 *Go to* [[900 Finish|900 · Finish]].

@@ -6,7 +6,7 @@ summary: >-
   The kingdom of orcs and giantkin, capital Goro. Founded 3 AM.
 ---
 
-# 230 · Oinarria
+# 213 · Oinarria
 
 Founded in the third year of the Age of the Many, which makes it one of the older kingdoms. Orcs and giantkin together, and the sharing is the point of the place rather than a complication in it.
 
