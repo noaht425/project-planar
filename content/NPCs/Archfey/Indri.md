@@ -8,22 +8,57 @@ hp: 273
 
 Home Realm: [[Iris]]
 
-Killed by [[Tiyanak]].
+Domain: [[Trickery]], held in his name by [[Tiyanak]] since 3,096 AF.
 
-Domain: Trickery
-
-Appearance: Pale face, pure black eyes, silver freckles.
-
-God of Vengeance, known as the Mad God. Same appearance but wears a dark cloak, has razor teeth.
-
-Used [[Mendax]] as their ascendent relic.
+God of Vengeance, known as the Mad God. Used [[Mendax]] as his ascendant relic.
 
 Member of the [[Ascendant Gods]] and the [[Archfey]].
 
+## Appearance
+
+Indri (IN-dree) has a pale face, pure black eyes and silver freckles. [[Tiyanak]] has worn that face in the fey realms for three thousand years and the domain has no memory of any other.
+
+As the Mad God he keeps the same face, under a dark cloak, with razor teeth.
+
+## Manner
+
+What is walking around as the god of vengeance is not what was killed. Indri went into the afterlife as an unnamed soul with almost no memories, was locked in a completely dark cave, and spent three thousand years in it with nothing to work from. A crack in the cage let light in for the first time at the [[Great Separation]] in 50 AF, and he got out in 700 AM.
+
+He does not know who he is. He knows that something was taken, he knows the shape of the hole, and he has a name he cannot attach to anything. He is articulate in short stretches and then he is not.
+
+Reports from the mortal realm since 700 AM describe a mad god killing people. The reports are accurate.
+
+> *I have one account from a survivor and it is four sentences long, because he only said four things. He asked her name. He told her a name that was not his. He asked her whether she had been there. Then he apologised, and he was very clear about it, and then he killed everyone else in the room.*
+
+## Goals
+
+Indri wants to remember who he is.
+
+He wants [[Tiyanak]] dead, as violently and as publicly as possible, and the public part is not incidental. He has worked out that something took his name, and he has worked out that whatever took it is being obeyed somewhere as him.
+
+Tiyanak does not know he is out. This is the single largest piece of leverage available to anyone in the setting.
+
 ## History
 
-Escaped the Underworld: 44 Mortera, 700 AM
+Killed in secret by [[Tiyanak]] in 3,096 AF, during [[The Division]]. Most of his memories and his name were taken; [[Mendax]] was left inside him and went into the afterlife with him.
 
+A crack formed in his cage at the [[Great Separation]], 50 AF.
+
+Escaped the underworld 44 Mortera, 700 AM, and rose as the god of Vengeance. Reports of a mad god in the mortal realm begin the same year.
+
+Campaign start is 702 AM.
+
+## Design Notes
+
+Indri is two years out of a dark cave at the point the campaign begins, which is the reason the timeline puts the escape where it does. Everything about him is recent and nothing about him is settled.
+
+The thing that makes him usable rather than simply a monster is that he is right. He has been robbed, the thief is wearing his face, and nobody who could do anything about it knows.
+
+He is the one being of this rank whose goals a party can satisfy cheaply. Telling him the truth costs nothing and does an enormous amount of damage, which is the decision to put in front of them.
+
+## Open
+
+What he does after Tiyanak, and whether the memories can be recovered at all, is unwritten.
 
 ## Stat Block
 
