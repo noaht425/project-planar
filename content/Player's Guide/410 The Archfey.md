@@ -14,12 +14,16 @@ Seven of them, one for each domain of Iris. They are the most common patrons by 
 
 **A fae bargain is kept exactly.** None of them will cheat you. Several of them will give you precisely what you asked for.
 
-- **Thera**, Seasons. Holds a court at the centre of his domain, with his four children ruling the quarters.
-- **Hakea**, Lush. A woodland witch who sees petitioners in order of arrival.
-- **Atris**, Hunt. Gave a mortal the power to become a god and did it as a kindness.
-- **Indri**, Trickery. Plays games with people who come asking for things.
-- **Alsa**, Bone. Kept at arm's length by the others, and holds the domain anyway.
-- **Grixt**, Rot. Behaves like a kindly old man. Is not one.
-- **Chronos**, Time. Everything in his domain runs exactly on schedule, including you.
+*[[411 Thera|Thera]], Seasons.* Holds a court, with his four children ruling the quarters.
 
-*Tell me which one and I will write their page next.*
+*[[412 Hakea|Hakea]], Lush.* A woodland witch who sees petitioners in order of arrival.
+
+*[[413 Chronos|Chronos]], Time.* Everything in his domain runs exactly on schedule, including you.
+
+*[[414 Atris|Atris]], Hunt.* Gave a mortal the power to become a god, as a kindness.
+
+*[[415 Indri|Indri]], Trickery.* Plays games with everyone who comes asking for things.
+
+*[[416 Alsa|Alsa]], Bone.* Kept at arm's length by the others, and holds the domain anyway.
+
+*[[417 Grixt|Grixt]], Rot.* Behaves like a kindly old man. Is not one.

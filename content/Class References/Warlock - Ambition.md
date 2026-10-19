@@ -39,7 +39,7 @@ Ignatius does not let you stop at a failure.
 
 When you miss with an attack roll or fail a saving throw or ability check, you can reroll it. You must use the new roll.
 
-The first time you do this after a long rest costs you nothing. Every time after that, you take 1d6 psychic damage for each time you have already used this feature since your last long rest. This damage cannot be reduced or prevented in any way, including by Unrelenting.
+The first time you do this after a long rest costs you nothing. Every time after that, you take 1d8 psychic damage for each time you have already used this feature since your last long rest. This damage cannot be reduced or prevented in any way, including by Unrelenting.
 
 ## Level 10 Nothing Wasted
 
