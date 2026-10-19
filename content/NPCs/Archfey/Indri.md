@@ -28,7 +28,7 @@ He does not know who he is. He knows that something was taken, he knows the shap
 
 Reports from the mortal realm since 700 AM describe a mad god killing people. The reports are accurate.
 
-> *I have one account from a survivor and it is four sentences long, because he only said four things. He asked her name. He told her a name that was not his. He asked her whether she had been there. Then he apologised, and he was very clear about it, and then he killed everyone else in the room.*
+> *I have one account from a survivor and it is four sentences long, because he only said four things. He said he did not know. He asked her whether she had been there. Then he apologised, and he was very clear about it, and then he killed everyone else in the room.*
 
 ## Goals
 
