@@ -6,7 +6,15 @@ summary: >-
   the conventions for flavor boxes, pronunciations and design notes.
 ---
 
-Shared guidance for the sourcebook. Anything that applies to more than one page belongs here rather than being repeated on each page.
+Shared guidance for both books. Anything that applies to more than one page belongs here rather than being repeated on each page.
+
+There are two books and they have different readers.
+
+The **sourcebook** is for the DM. It is written by the historian described below and it contains everything, including what the players must not know.
+
+The **Player's Guide** is for players. It is written in the author's own voice, speaking directly to them, casual and funny. The historian appears in it only inside flavor boxes. Nothing in it may contain material the players should not have.
+
+Until the two are separated on the published site, every Player's Guide page carries `draft: true`, which keeps it out of the build.
 
 ## The Narrator
 
@@ -49,3 +57,22 @@ Two names in the same language should not respell identically. Where that happen
 ## Shared Guidance
 
 A rule that governs a group of pages is written once on the parent page and linked from the others. The afterlives work this way, with the common rules on [[Iudis]] and only the specifics on each of the twelve.
+
+## The Player's Guide
+
+The guide is a path. Each page ends in choices that route the reader onward, and the spine is four decisions: what you are, where you are from, what you do, who you owe.
+
+Pages are numbered in blocks with gaps, so inserting a page never renumbers another one. The number is part of the title and never changes.
+
+| Block | Contents |
+| --- | --- |
+| 1 to 99 | Opening, the world in brief, how to use the guide |
+| 100s | The nine peoples |
+| 200s | Homelands |
+| 300s | Callings |
+| 400s | Patrons |
+| 900 | Finish, and what the DM needs |
+
+The path is a graph rather than a tree. A later page may hand the reader something an earlier page did not offer, and when it does it says so under a heading of its own and links to it. A page reachable only that way says so at the top.
+
+Branches that have not been written yet say so on the page and invite the reader to ask for them, rather than linking nowhere.
