@@ -7,7 +7,7 @@
   <key>ProgramArguments</key>
   <array>
     <string>/bin/bash</string>
-    <string>/Users/Noah/Desktop/DnD Stuff/Project Planar/site/autopublish.sh</string>
+    <string>/Users/Noah/Sites/project-planar/autopublish.sh</string>
   </array>
   <key>StartInterval</key>
   <integer>600</integer>

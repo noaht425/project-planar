@@ -19,7 +19,7 @@ This guide builds your character's place in the world. It does not build your ch
 
 Read the page you land on, pick the option that sounds like your character, and follow it. If none of the options sound right, come tell me and we will make one. That happens a lot and it is not a problem.
 
-Every page has a number. The numbers never change, so if I tell you to go to 420, that page will still be 420 next year.
+Every page has a number. The numbers never change, so if I tell you to go to 422, that page will still be 422 next year.
 
 The path is not one way. A later choice can hand you back something an earlier page did not offer, and when that happens the page says so and points you at it. A pact with an archdevil is a reason to have been places an ordinary orc from Oinarria has not been.
 

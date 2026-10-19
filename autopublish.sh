@@ -2,7 +2,7 @@
 # Rebuild and publish the site if the vault has changed. Run by launchd.
 set -uo pipefail
 
-SITE="/Users/Noah/Desktop/DnD Stuff/Project Planar/site"
+SITE="/Users/Noah/Sites/project-planar"
 VAULT="/Users/Noah/Vaults/Project Planar"
 LOG="$SITE/autopublish.log"
 STAMP="$SITE/.last-vault-state"

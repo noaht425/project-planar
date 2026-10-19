@@ -18,18 +18,20 @@ That means three things.
 
 **Other people know what you are.** A warlock of a particular patron carries that patron's reputation whether or not they have earned it.
 
-Who grants pacts, in rough order of how often it happens:
+Who grants pacts, and where to read about them:
 
-- **The Archfey**, seven of them, and the most common patrons by a wide margin
-- **The Archdevils**, six, and more approachable than people expect
-- **The Archangels**, six, and harder to reach than the archdevils
-- **The Dragons**, who rule the elemental realms
-- **The Scholarchs**, the three sphinxes of Temporalis
-- **The Wind Gods**, four
-- **The Ascendant Gods**, mortals who became gods, who are the newest and the least predictable
+*The **Archfey**, seven of them, and the most common patrons by a long way.* Go to [[410 The Archfey|410 · The Archfey]].
+
+*The **Archdevils**, six, and more approachable than people expect.* Go to [[420 The Archdevils|420 · The Archdevils]].
+
+*The **Archangels**, six, and harder to reach than the archdevils.* Go to [[430 The Archangels|430 · The Archangels]].
+
+*The **Dragons**, who rule the elemental realms.* Go to [[440 The Dragons|440 · The Dragons]].
+
+*The **Scholarchs**, the three sphinxes of Temporalis.* Go to [[455 The Scholarchs|455 · The Scholarchs]].
+
+*The **Wind Gods**, four of them.* Go to [[460 The Wind Gods|460 · The Wind Gods]].
+
+*The **Ascendant Gods**, mortals who became gods, the newest and least predictable.* Go to [[470 The Ascendant Gods|470 · The Ascendant Gods]].
 
 You do not have to decide what your patron wants. That is mine to know and yours to find out.
-
-*For Abaddon, Archdevil of Cruelty,* go to [[420 Abaddon|420 · Abaddon]].
-
-*The other patrons are being written. Tell me who you want and I will write them next.*
