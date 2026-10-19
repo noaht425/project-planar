@@ -6,12 +6,47 @@ ac: 18
 hp: 455
 ---
 
-Home Realm: [[Tarkis]]
+Created by [[Okzu]], without assistance.
 
-Created by [[Okzu]].
+Home Realm: [[Tarkis]]
 
 Member of the [[Dragons]].
 
+## Appearance
+
+Amol (A-mol) is an acid dragon, and the scales are wet in a way that does not dry. Where Amol has rested there is a mark afterwards.
+
+## Manner
+
+Amol is the proudest of the ten about parentage and the least accomplished of them, and the two facts are related. Made by [[Okzu]] alone, with no outside hand in it, and will raise this within an hour of meeting anyone.
+
+Of the ten, this is the dragon that holds the collaborations in open contempt. [[Brilis]], [[Charis]] and [[Mens]] are each addressed as lesser dragons to their faces, and all three have long since stopped responding to it.
+
+Amol is not stupid and is not a bully to anything smaller. The contempt runs upward only, at the three dragons who outrank Amol in every respect except how they were made.
+
+> *Amol asked me, twice, whether I understood the difference between a dragon made by one dragon and a dragon made by a dragon and a committee. I said that I did. The second time I said it we had been talking about something else for an hour, and the question had not been prompted by anything, and I understood then that it had not been about me at all.*
+
+## Goals
+
+Amol wants standing among the ten and goes about it badly. The dragons' business is collective, the quarrel over lineage has produced nothing in three thousand years, and Amol keeps raising it because it is the one axis on which Amol is ahead.
+
+Amol wants [[Afthor]] dead with the rest of them and has volunteered for it repeatedly.
+
+What Amol collects is not settled.
+
+## What It Asks
+
+Amol asks for recognition, and what that means in practice is being brought into things. A warlock of Amol is asked to make Amol's involvement visible to the other dragons.
+
+## Design Notes
+
+Amol is the insecure one, and this is the dragon to use when a party needs a powerful ally who is cheap to recruit and who will make their situation worse by being proud of it.
+
+The flavor box is the whole character: the question was not aimed at the narrator and was not about the narrator, and Amol has been asking it for three thousand years.
+
+## Open
+
+Amol's hoard is unwritten, which is a real gap rather than a deliberate one, and it is the thing that would tell us most about this dragon. The obvious reading is that Amol has not settled on one.
 
 ## Stat Block
 

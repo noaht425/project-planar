@@ -10,6 +10,43 @@ Lord of the [[Elemental Plane of Water]].
 
 Home Realm: [[Tarkis]]
 
+Created [[Charis]] in collaboration with [[Grixt]].
+
+Member of the [[Dragons]].
+
+## Appearance
+
+Vetur (VEH-tur) is a sea dragon of the old kind, long and pale, and cold enough that the water moves away from the body rather than around it.
+
+## Manner
+
+Vetur is an archivist of losses. Everything that has ever sunk into the realm of water is laid out across the trench floor in order, and the arrangement is maintained, which is a labour nobody asked for and which has gone on for nine thousand years.
+
+The drowned are part of the arrangement. Vetur keeps them where they fell and in the condition they arrived, and regards moving one as a falsification.
+
+Of the five lords this is the one that will talk at length, and the subject is always what was lost and where it is now.
+
+> *I asked whether anything in the trench had ever been given back. I was taken a long way along the floor and shown an empty place in a row, with the two neighbours still in position, and told the name of the family that had asked and the year. Then we went back. Nothing else was said about it for the rest of the day.*
+
+## Goals
+
+Vetur wants the arrangement complete, which means everything that has sunk accounted for and in position, and the realm keeps producing more.
+
+Vetur wants [[Charis]] back in the water. Charis travels, collects the dead from everywhere, and keeps them somewhere other than the trench, and Vetur regards this as a hoard being built out of material that belongs in the arrangement. The two have not resolved it in three thousand years.
+
+Vetur wants [[Afthor]] dead with the rest of them, and is the least urgent about it.
+
+## What It Asks
+
+Vetur asks for the recovery of things that went down and were not accounted for, and for the position they went down in. A wreck's cargo is worth less to Vetur than the wreck's location.
+
+## Design Notes
+
+Vetur is the dragon to go to when something is lost, and the answer will be yes, it is here, and no, you cannot have it.
+
+The empty place in the row is the image that explains the character. One thing has been given back in nine thousand years and the gap was never closed.
+
+The quarrel with Charis is the only dispute between a lord and its own second, and it is about collection policy rather than about loyalty, which keeps it in character for both.
 
 ## Stat Block
 

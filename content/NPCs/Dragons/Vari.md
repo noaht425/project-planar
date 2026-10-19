@@ -6,11 +6,45 @@ ac: 19
 hp: 462
 ---
 
-Created by [[Zaros]]. Killed by [[Afthor]].
+Created by [[Zaros]], without assistance. Killed by [[Afthor]].
+
+Deceased, and not gone for good.
 
 Home Realm: [[Tarkis]]
 
 Member of the [[Dragons]].
+
+## Appearance
+
+Vari (VA-ree) was a thunder dragon, and the accounts are about sound rather than about the body. People in the air realm describe knowing Vari had arrived before anything was visible.
+
+## Manner
+
+Vari and [[Zaros]] ruled the air realm together, which no other lord and second did. The arrangement was not a division of territory. They were both over all of it, and the realm's records from that period name them jointly.
+
+Of the ten, Vari is the one the surviving dragons speak about with something like affection, and none of them will elaborate on it to an outsider.
+
+> *I asked eight dragons about Vari. [[Brilis]] changed the subject, [[Amol]] gave me a lecture about lineage, [[Mens]] gave me dates, and the other five said nothing at all. I have a great deal of material on the other nine and almost none on this one, and the gap is not in the sources. It is in the dragons.*
+
+## Goals
+
+Dead, and not gone for good. [[Okzu]] is running the effort to return both of them.
+
+What Vari wanted is not recorded anywhere I could reach, and the dragons who would know have declined to say.
+
+## Design Notes
+
+Vari is deliberately the thinnest page of the ten, and the thinness is the content. The surviving dragons will not talk about this one, which is the only subject on which all eight are consistent.
+
+That gives a DM a reason for a party to be the ones who find out, and it means the resurrection has a second payoff beyond the return of a power: somebody will finally have to say what Vari was.
+
+Ruling jointly with Zaros is the mechanical detail worth keeping. The two of them are one claim, which is why Afthor had to kill both to take the realm, and why returning one without the other may not restore it.
+
+## Open
+
+Vari's hoard is unwritten. Whether Vari had a separate one at all, given the joint rule, is the first question.
+
+Everything about Vari's manner and goals is unwritten, on purpose.
 
 ## Stat Block
 

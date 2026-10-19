@@ -8,9 +8,45 @@ hp: 506
 
 Lord of the [[Elemental Plane of Earth]].
 
-Created [[Mens]] in collaboration with original [[Indri]].
-
 Home Realm: [[Tarkis]]
+
+Created [[Mens]] in collaboration with the original [[Indri]].
+
+Member of the [[Dragons]].
+
+## Appearance
+
+Tenu (TEH-noo) is stone, and has been in the same mountain long enough that telling the dragon from the chamber is a problem for visitors. The eyes are the reliable way.
+
+## Manner
+
+Tenu has hollowed out a mountain chamber by chamber until the whole of it is one vault, and the stone is the hoard. Anyone living in the earth realm is living in something Tenu considers already counted, and Tenu is entirely at ease with them doing it.
+
+This makes Tenu the most generous landlord in [[Tarkis]] and the least willing to let anything leave. Quarrying is permitted. Export is not.
+
+Tenu speaks rarely and in short sentences, and the pauses between them are long enough that most visitors talk over the second half of the answer.
+
+> *I asked for a sample of the stone to take with me and was refused, and then offered the use of as much of it as I liked for as long as I stayed. I stayed eleven days in a chamber the size of a cathedral that had been cut for me. When I left I understood that I had been given more than I asked for and that the refusal still stood.*
+
+## Goals
+
+Tenu wants the vault finished, which means the whole of the earth realm hollowed and counted, and the work has about as far to run as it has already gone.
+
+Tenu made [[Mens]] with the original [[Indri]], and the original Indri was murdered in 3,096 AF by something now wearing his face. Tenu has never been given an account of it that holds together, has said so once, and has not raised it since. What Tenu wants is the account.
+
+Tenu wants [[Afthor]] dead with the rest of them.
+
+## What It Asks
+
+Tenu asks for the earth realm mapped. A warlock of Tenu surveys: what is under a place, how deep, and what is in it. Nothing is to be removed.
+
+## Design Notes
+
+Tenu is the dragon who will give a party everything except the one thing they came for, and the refusal is never personal and never negotiable.
+
+The hoard being the realm itself makes Tenu the only dragon whose hoard cannot be added to, which is why the brief is surveying. Counting is the only contribution available.
+
+Tenu's open question about the original Indri is the dragons' doorway into the [[Tiyanak]] plot, and it is the only thread the dragons have into it. Tenu asked once, got a bad answer, and stopped, which is in character and which means nobody has followed it up for three thousand years.
 
 ## Stat Block
 

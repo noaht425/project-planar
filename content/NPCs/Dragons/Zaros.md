@@ -6,11 +6,47 @@ hp: 600
 cr: '24'
 ---
 
-Former lord of the [[Elemental Plane of Air]]. Killed by [[Afthor]].
+Former lord of the [[Elemental Plane of Air]]. Killed by [[Afthor]], who drank his blood and took the realm.
+
+Deceased, and not gone for good.
 
 Home Realm: [[Tarkis]]
 
+Created [[Vari]], without assistance.
+
 Member of the [[Dragons]].
+
+## Appearance
+
+Zaros (ZA-ros) is recorded as a blue dragon of enormous size who was almost never on the ground. The accounts agree that he was seen from below and at a distance, above the cities, and that this was deliberate.
+
+## Manner
+
+Zaros collected cities. The realm of air was built up and busy under him for exactly that reason, and the building was encouraged, funded and protected, because a city was an addition to the hoard.
+
+This made him the only dragon whose hoard required its contents to prosper. He is described as attentive, demanding and present, and the people of the air realm under him were the best off in [[Tarkis]].
+
+He made [[Vari]] alone and the two ruled together, which no other lord and second did.
+
+> *Fifty years of storm and the air realm still talks about him, and the talk is not reverent. It is specific. A bridge he paid for. A tax he refused to allow. A district he had rebuilt twice because he did not like how the second one looked. I have not heard any other dragon spoken about that way, and I have met the rest of them.*
+
+## Goals
+
+He is dead and the question of what he wants is open until he is back.
+
+The eight surviving dragons intend to return him and [[Vari]] both, and [[Okzu]] is running the effort. What they will find when it works is a dragon who has been gone fifty years and whose hoard has been destroyed in the meantime.
+
+## Design Notes
+
+Zaros is the setting's statement about what the dragons are capable of being. His realm was the richest and best governed in Tarkis, and the reason was a hoard that only grew if its contents thrived.
+
+Keeping him recoverable is the point. The resurrection is a live project with a manager and a cost, and a campaign that completes it has put a major power back on the board owing the party a debt.
+
+What is waiting for him is the harder material. Fifty years of storm, the cities gone, the people poor, and the dragon who comes back is the one who collected cities.
+
+## Open
+
+His disposition on return is unwritten and should be decided by what the party did to get him back.
 
 ## Stat Block
 

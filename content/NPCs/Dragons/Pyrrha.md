@@ -10,9 +10,45 @@ Lord of the [[Elemental Plane of Fire]].
 
 Home Realm: [[Tarkis]]
 
-Had a child ([[Iras]]) with [[Lux]]. Created [[Brilis]].
+Had a child ([[Iras]]) with [[Lux]]. Created [[Brilis]] in collaboration with the [[Archangels]].
 
 Member of the [[Dragons]].
+
+## Appearance
+
+Pyrrha (PIR-ra) is burned rather than burning. The scales are matte and dark where they have been through fire too many times, and the light comes out from between them.
+
+She is the largest of the five lords and the one that moves least.
+
+## Manner
+
+Pyrrha is a curator. Her realm destroys almost everything in it, and what she does with her time is identify the remainder and bring it inside the volcano, and she has been doing that without interruption since the realm began.
+
+She is slow to speak and exact when she does. A conversation with her is mostly waiting. She does not repeat herself and she does not take a question twice.
+
+She is the only dragon who has had a child with something that was not a dragon. [[Iras]] is hers and [[Lux]]'s, and he is king of the [[Kingdom of Geno]]. She has never been to see him and has never explained that either.
+
+> *I was allowed in and shown a shelf. On it were eleven objects, all of them ugly, none of them worth anything to anyone outside that mountain. She named what each one had survived. The eleventh was a clay cup and she had been keeping it for nine thousand years because it had come through a thing that had taken a city.*
+
+## Goals
+
+Pyrrha wants everything fireproof in her realm inside her mountain, and she is close. What is left outside it is what she is working on, and most of what remains is in the seams where Fire meets the other four realms.
+
+She wants [[Afthor]] dead with the rest of them.
+
+She wants to know what [[Lux]] did with their son's siblings. Lux took every one of his other descendants into Pride and left Iras on the throne, and Pyrrha has never been given a reason.
+
+## What She Asks
+
+A warlock or an ally of Pyrrha brings her things that came through fire. Not valuable things. Things that should have burned and did not, with an account of what they survived, and the account matters as much as the object.
+
+## Design Notes
+
+Pyrrha is the patron for a player who wants a collection quest rather than a war, and the brief is unusually easy to hand out: anything that survived a fire, from anywhere, with its story.
+
+Making her hoard worthless by any outside measure is the point. She is the dragon whose hoard cannot be stolen for profit and can be devastated by a single careless fire.
+
+Her distance from Iras is the thread into the Geno plot. She is not estranged and she is not interested, and she has one question about his family that she would trade for.
 
 ## Stat Block
 

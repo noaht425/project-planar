@@ -23,7 +23,7 @@ He does not permit a guest to leave. Indulgence as he rules it works by removing
 
 He takes no interest in combat and has never fought in one personally.
 
-> *He asked whether I had eaten. I said that I had. Three mouths put the question again in slightly different words while a fourth was already apologising for the delay, and a hand I had not seen set a bowl down in front of me. I ate it. I do not remember deciding to.*
+> *He asked whether I had eaten. I said that I had. Three mouths put the question again in slightly different words while a fourth was already apologising for the delay, and a hand I had not seen set a bowl down in front of me. I ate it. I do not remember deciding to, but I do remember it being the best meal I had ever eaten.*
 
 ## Goals
 

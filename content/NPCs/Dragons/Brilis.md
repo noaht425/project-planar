@@ -6,11 +6,45 @@ ac: 19
 hp: 500
 ---
 
-Created by [[Pyrrha]].
+Created by [[Pyrrha]] in collaboration with the [[Archangels]].
 
 Home Realm: [[Tarkis]]
 
 Member of the [[Dragons]].
+
+## Appearance
+
+Brilis (BRIH-liss) is a dragon of light, and fourteen stars hold an orbit around the body at a distance. The scales themselves are bright enough to be difficult to look at directly.
+
+## Manner
+
+Brilis is the most sociable of the ten and the most widely travelled. The seconds keep to their realms loosely and Brilis barely keeps to one at all, and there are worshippers of Brilis in the mortal realm, which no other dragon has.
+
+Brilis is vain, generous and easily flattered, and is aware of all three. Of the ten, this is the dragon that will simply help, and the price is that Brilis is then owed admiration and will collect.
+
+Made in collaboration with the [[Archangels|archangels]], which [[Amol]] and the unassisted line hold against Brilis constantly. Brilis treats the insult as a compliment about parentage and this infuriates them.
+
+> *The stars are not decoration and they are not tame. I was told where to stand and I stood there, and one of them came close enough that I felt it on the side of my face, and the attendant apologised on the dragon's behalf and said that it happens with guests because the stars are curious. I have not decided whether that was a joke.*
+
+## Goals
+
+Brilis collects treasure and anything that catches light, which is the most conventional hoard of the ten, and Brilis is not embarrassed about that.
+
+Brilis wants a temple. The worshippers in the mortal realm came about on their own and Brilis has been encouraging it without ever quite asking, and what is wanted is a built thing with a name on it.
+
+Brilis wants [[Afthor]] dead with the rest of them, and is the one most likely to go at him early and alone.
+
+## What It Asks
+
+Brilis asks for gold, gems, mirrors, polished metal and anything that throws light, and asks to be told about it first. A gift presented well is worth more to Brilis than a better gift handed over.
+
+## Design Notes
+
+Brilis is the dragon for a party that needs a powerful friend and can flatter one, and the easiest of the ten to get an audience with.
+
+The mortal cult is the hook. It is already in play at the campaign's opening, it grew without Brilis directing it, and what Brilis wants from it is a building, which is a thing a party can actually deliver.
+
+Giving the most recognisable dragon the most conventional hoard is deliberate. Nine of the ten collect something strange and this one wants gold, and that makes the other nine read as choices rather than as quirks.
 
 ## Stat Block
 

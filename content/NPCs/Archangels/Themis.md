@@ -19,29 +19,35 @@ The eyes were Themis's own doing, immediately after the Division.
 
 ## Manner
 
-[[Themati]] meant to rule. [[Archon]] kept the appetite for it and Themis kept the obligation, which is the half that has to do the work and has no appetite for any of it.
+[[Themati]] meant to rule. [[Archon]] kept the appetite for it and Themis kept the obligation, which is the half that carries the duty and has no taste for any of it.
 
-Themis hears cases. All of them, personally, for every soul that arrives in the heavens and the hells, which is why the queue is measured in centuries and why Themis has the worst temper of the six. Rulings are correct and arrive late, and Themis is aware of what the lateness costs and hears cases anyway.
+She does not judge the dead. That was taken out of the hands of all twelve at the end of the [[Divine War]], which had been fought over who ruled the Judgements, and handing the sorting to two created beings was the only term both sides would accept. [[Bis]] and [[Seisear]] do it in [[Liminia]], and neither of them answers to her.
 
-Themis raised [[XLZL]] from the moment of their making and is the only one of the twelve to have raised anything. It is the subject Themis will drop a case to discuss.
+What she does instead is read their decisions. Every one of them, personally, after the fact, and she has no power to overturn a single one. When she disagrees she writes an objection and sends it to Bis.
 
-> *The scales are not a symbol, they are in use, and I was in the room when a ruling came down. The sword hand does not move during a judgement. The scales hand does, constantly, in very small amounts, the way a hand does when it is holding something that has not settled. It had been two hundred years on that case.*
+She raised [[XLZL]] from the moment of their making and is the only one of the twelve to have raised anything. It is the subject she will put a case file down for.
+
+> *The scales are not a symbol, they are in use, and I was in the room while she worked. The sword hand does not move. The scales hand does, constantly, in very small amounts, the way a hand does when it is holding something that has not settled. The ruling she was weighing had been handed down in Liminia four hundred years ago and there was nothing she could do about it.*
 
 ## Goals
 
-Themis wants the backlog cleared and will not delegate any part of it, which means Themis wants something that cannot happen.
+Themis wants the right to hear cases herself. Not for the twelve. For her, on the grounds that she is the archangel of justice and is the only party to the arrangement with no say in it.
 
-Themis supports the purification of the ill-leaning [[Omens]] on procedural grounds and is the only archangel to have put the reasoning in writing. The argument is that an Omen's disposition is established at creation and that judging each one individually is therefore a waste of the court's time. [[Neema]] has read it and the two have not spoken since.
+She has been pressing [[Bis]] toward a standard rather than toward individual verdicts, on the reasoning that if she cannot overturn a decision she can at least shape the rule it was made under. The objections go out constantly. Bis reads all of them.
 
-Themis wants [[XLZL]] kept out of all of it.
+She supports the purification of the ill-leaning [[Omens]] and is the only archangel to have put the argument in writing. It holds that an Omen's disposition is fixed at creation and that weighing each one individually is therefore a waste of Liminia's time. It was addressed to Bis rather than to her own side. [[Neema]] has read it and the two have not spoken since.
+
+She wants [[XLZL]] kept out of all of it.
 
 ## Design Notes
 
-Justice is the domain where the setting's cruelty is bureaucratic. Themis is not corrupt, is not biased and is not lazy, and the realm is a horror because one being insists on hearing everything.
+Themis is the archangel of justice who does not get to judge, and that is the whole character. The war she helped fight ended in the judging being given to two beings made for the purpose, and she has spent three thousand years reviewing work she cannot touch.
 
-Self-blinding is the detail that explains the rest of the character. Themis chose it, immediately, to rule without being swayed by appearances, and the result is a judge who cannot see the queue.
+Self-blinding is the detail that explains the rest. She did it immediately, to rule without being swayed by appearances, and then the ruling was taken off her.
 
-The written argument for the purification is the most useful object on this page. It is a document a party can obtain, it is signed, and it is the thing to put in front of [[Neema]] or in front of a ruler in [[Kingdom of Krotaphos|Krotaphos]].
+[[Bis]] getting stuck nitpicking the morality of tiny actions is, on my reading, partly her doing. Three thousand years of objections from the archangel of justice would do that to a judge. She did not intend it and she has not stopped.
+
+The written argument for the purification is the most useful object on this page. It exists, it is signed, and it was sent to the judge rather than to her colleagues, which is the thing to show a party. Putting it in front of [[Neema]] or a ruler in [[Kingdom of Krotaphos|Krotaphos]] is one use. Putting it in front of Bis, who already has it, is another.
 
 The sword is below.
 

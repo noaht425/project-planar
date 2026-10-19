@@ -10,6 +10,45 @@ Created by [[Vetur]] in collaboration with [[Grixt]].
 
 Home Realm: [[Tarkis]]
 
+Member of the [[Dragons]].
+
+## Appearance
+
+Charis (HA-riss) is an undead dragon. The body is intact in the sense that all of it is present and none of it is working, and what moves it is whatever [[Grixt]] contributed.
+
+## Manner
+
+Charis hoards the dead, and travels further than any dragon except [[Brilis]] to do it. Wherever something has died in quantity, Charis arrives afterwards, and the collection has been growing for three thousand years in a place that is not the water realm and that [[Vetur]] has never been shown.
+
+Charis is quiet, patient and entirely without malice about any of this. The dead are not trophies and they are not servants. They are the hoard, and a hoard is counted and kept.
+
+Made in collaboration with [[Grixt]], the Lord of Rot, which makes Charis the one dragon with a standing relationship outside [[Tarkis]], and the one the unassisted line distrusts most.
+
+> *Everything in Rot breaks down and is used again, and nothing there is kept. Charis keeps everything and lets nothing break down. I put it to Charis that this is the opposite of the thing that made it. I was told, without any heat at all, that this is why Grixt comes to visit.*
+
+## Goals
+
+Charis wants the collection to keep growing, and the realm of air has been a storm for fifty years and has been generous.
+
+Charis is in [[Orcus]]'s plan against [[The King of Night]], brought in by [[Grixt]], and the reason Charis has is that it is a chance to punish [[Afthor]]. Charis does not know that Grixt is the author of the whole thing.
+
+Charis wants [[Afthor]] dead, and would prefer to be the one who does it, and would prefer Afthor's body afterwards.
+
+## What It Asks
+
+Charis asks for the dead, and for the place and manner of their dying. A warlock of Charis is expected to turn up where there has been killing and account for it, and is not expected to cause it.
+
+## Design Notes
+
+Charis is the setting's answer to what death-hoarding looks like when it is not evil. The dead are counted and kept with more care than the living get anywhere in Tarkis, and a party that wants a body back will find it is on a list.
+
+The link through [[Grixt]] is the useful part. Charis is the thread from the dragons into the conspiracy against the Kings, and Charis is in it for a personal grudge and does not know whose plan it is.
+
+Having Charis keep the hoard somewhere Vetur has never seen is the open question of the page and should stay open until a campaign needs the location.
+
+## Open
+
+Where the collection is kept is unwritten.
 
 ## Stat Block
 

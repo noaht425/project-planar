@@ -4,3 +4,57 @@ tags: []
 summary: ''
 ---
 
+The ten dragons of [[Tarkis]]. Five lords, one over each elemental realm, and five seconds, one made by each lord.
+
+Born around 10,000 AF. The seconds were created around 9,900 AF.
+
+For the realms, the seats and what each lord piles up, see [[Tarkis]]. A dragon's seat of power is its hoard, and the hoard is the claim.
+
+The dragons speak [[Ancient Draconic]]. Names are stressed on the penultimate syllable.
+
+## The Two Lineages
+
+Three of the seconds were made with outside help. [[Brilis]] was made by [[Pyrrha]] in collaboration with the [[Archangels|archangels]], [[Charis]] by [[Vetur]] in collaboration with [[Grixt]], and [[Mens]] by [[Tenu]] in collaboration with the original [[Indri]].
+
+Two were made without assistance. [[Okzu]] made [[Amol]] alone and [[Zaros]] made [[Vari]] alone.
+
+The unassisted line holds the collaborations to be lesser dragons and says so. It has never come to anything beyond that, because the collective business of the dragons has been more pressing than the quarrel for three thousand years.
+
+> *Three thousand years and it has never once come to blood. It comes up at every meeting. I sat in on one, about the storm and about Afthor, and it was raised twice before anyone got to the storm, and both times by the same dragon, and both times everyone waited politely for it to finish.*
+
+## What They All Want
+
+[[Afthor]] killed [[Zaros]] and [[Vari]], drank their blood and took the realm of air, and he does not keep it. All eight surviving dragons intend to kill him and take the realm back. This is one plan rather than eight.
+
+They also intend to bring Zaros and Vari back. The two are dead and they are not gone for good. [[Okzu]] is running that effort.
+
+## Hoards
+
+Each dragon collects a different thing, and helping a patron add to its hoard is what a dragon asks of anyone it deals with.
+
+| Dragon | Hoard |
+| --- | --- |
+| [[Pyrrha]] | Everything in Fire that fire cannot destroy |
+| [[Brilis]] | Treasure, and anything that catches light |
+| [[Vetur]] | Everything that has ever sunk |
+| [[Charis]] | The dead |
+| [[Tenu]] | The stone of the earth realm itself |
+| [[Mens]] | Knowledge |
+| [[Okzu]] | Debts owed to him |
+| [[Amol]] | Unwritten |
+| [[Zaros]] | The cities of the air realm |
+| [[Vari]] | Unwritten |
+
+## Design Notes
+
+The hoard being the seat of power is what separates the dragons from the [[Wind Gods|winds]] and the [[Archfey|archfey]], who hold courts. A dragon does not want to be obeyed. It wants to be added to, which gives any party dealing with one a task rather than an oath.
+
+The collaboration prejudice is the dragons' internal politics and it should stay petty. It has produced no violence in three thousand years and it comes up constantly.
+
+Keeping Zaros and Vari recoverable gives the setting two powers in reserve that a campaign can bring back, and it gives the other eight something they are actively working on.
+
+## Open
+
+The Word document lists the dragons who hold the collaborations to be lesser as Amol, Tenu, Zaros and Vari. Tenu made Mens with Indri, so I have written the division along the unassisted and collaborated line instead and left Tenu out of it. Worth settling.
+
+Amol's and Vari's hoards are not written.

@@ -16,13 +16,13 @@ Member of the [[Archdevils]].
 
 Lilien (LEE-lee-en) is split down the middle. The right half is a woman, and is beautiful by the standard of whoever is looking. The left half is a man, scarred and burned, covered in boils and open wounds that leak molten gold.
 
-Both halves are awake and both speak. They do not argue in front of visitors.
+Both halves are awake and both speak. They do not frequently argue in front of visitors.
 
 ## Manner
 
 [[Aaranea]] meant to love. Lilien kept wanting and lost having, and every soul in Desire is kept at the point just before a thing is obtained.
 
-Lilien is the only one of the twelve who is visibly two, which the others treat as an obscenity. All twelve avoid the number two out of hatred for what they used to be, and Lilien cannot. The other five archdevils address only the right half and have done so for three thousand years. [[Belphegor]] is the exception and talks to both.
+Lilien is the only one of the twelve aside from Abaddon who is visibly two, which the others treat as an obscenity. All twelve avoid the number two out of hatred for what they used to be, and Lilien cannot. The other five archdevils address only the right half and have done so for three thousand years. [[Belphegor]] is the exception and talks to both.
 
 Desire covers lust, envy and greed, and Lilien regards the three as one thing badly divided, which is a view the other archdevils have learned not to raise.
 
