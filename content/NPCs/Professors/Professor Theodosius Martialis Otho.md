@@ -3,6 +3,16 @@ type: npc
 tags: []
 ---
 
-Race: [[Fae]] (automata)
+Race: [[Fae]] (automata), from the realm of [[Chronos]].
 
-Conquest Paladin of [[Abaddon]]. Works at [[Aravis Academy]].
+Conquest Paladin of [[Abaddon]]. Works at [[Aravis Academy]] in [[Hekatania]], where he teaches history and warfare.
+
+His office holds war trophies, and letters and pictures connecting him to a ring that he kept in a puzzle box.
+
+Everyone knows who Abaddon is. He is the name people reach for when they want to curse someone out, in any language, and he is held to be the ultimate cause of suffering. Swearing a paladin's oath to him is not a normal thing to have done, and nobody at the Academy has a public explanation for it.
+
+## DM Notes
+
+Whether Otho chose that oath or was coerced into it is not settled.
+
+His office was robbed in Session 1. The party took the puzzle box, which held a ring rather than the dagger [[Nerinè Melpomene]] had been sent for.
