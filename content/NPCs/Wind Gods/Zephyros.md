@@ -19,7 +19,7 @@ Shy, and mysterious as a consequence rather than as a policy. He does not like b
 
 His court is the best run of the four and he is the least visible ruler in [[Ventis]]. The air genasi and wind elementals of the west speak about him protectively.
 
-> *Nobody at the western court would take me to him and all of them were polite about it. I was given his answer to every question I asked, promptly and in full, by a steward who had not left the room to get it. I never established how. I was there eleven days.*
+> *Nobody at the western court would take me to Zephyros, and all of them were polite about it. Every question I put was answered promptly and in full by a steward who never left the room to fetch the answer. On my last morning I asked her whether he had minded being asked so much. She said that he had not, and that he had particularly liked the one about the gardens.*
 
 ## Goals
 

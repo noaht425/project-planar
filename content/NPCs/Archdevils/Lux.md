@@ -25,7 +25,7 @@ Had a child, [[Iras]], with [[Pyrrha]]. Iras became king of the [[Kingdom of Gen
 
 [[Genasi]] fought him over it on 36 Aucaela, 405 AM. Lux won in four days and then agreed to let someone other than his own line hold Geno, which is the only concession any archdevil has made to a progenitor.
 
-> *I asked him why he gave up the kingdom after winning the war for it. He told me the story of the four days twice, with different details the second time, and both versions were very good. He never answered the question and I did not notice until I was writing this up.*
+> *I went in meaning to put it to Lux that handing Geno back had been a performance. He agreed with me at once, warmly and at length, in front of everyone in the hall, and by the end of it I had said aloud that it was the most generous thing any archdevil had ever done. He wrote my words in the air himself, and they had hardened onto the wall before I reached the door.*
 
 ## Goals
 

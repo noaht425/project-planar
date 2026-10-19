@@ -21,7 +21,7 @@ This makes him the most dangerous of the four to make an arrangement with, and h
 
 He is funny, and he is the only one of the four who is.
 
-> *He promised me an escort to the border and forgot within the hour, and then promised me a map instead, and then asked whether I had been given an escort, and seemed pleased for me when I said that I had been promised one. I walked. The weather was very good the whole way, which I have decided to count.*
+> *He promised me an escort to the border and forgot within the hour, and then promised me a map instead, and then asked whether I had been given an escort, and seemed pleased for me when I said that I had been promised one. I walked. The weather was very good the whole way.*
 
 ## Goals
 

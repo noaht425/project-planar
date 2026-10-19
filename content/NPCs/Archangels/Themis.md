@@ -27,7 +27,7 @@ What she does instead is read their decisions. Every one of them, personally, af
 
 She raised [[XLZL]] from the moment of their making and is the only one of the twelve to have raised anything. It is the subject she will put a case file down for.
 
-> *The scales are not a symbol, they are in use, and I was in the room while she worked. The sword hand does not move. The scales hand does, constantly, in very small amounts, the way a hand does when it is holding something that has not settled. The ruling she was weighing had been handed down in Liminia four hundred years ago and there was nothing she could do about it.*
+> *I was in the room while she worked. The sword hand does not move. The scales hand does, constantly, in very small amounts, the way a hand does when it is holding something that has not settled. The ruling she was weighing had been made by Bis before I was born, and the soul it concerned had long since gone where Bis sent it. She was still weighing it when I left.*
 
 ## Goals
 

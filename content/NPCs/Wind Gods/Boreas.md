@@ -21,7 +21,7 @@ He is the senior wind by temperament rather than by any rule, and the other thre
 
 He is aware that [[Princess Verna]] wants out of their betrothal. He has not released her and has never given a reason, and he has also never once pressed the engagement forward.
 
-> *I asked at his court how long the current storm had been running. The answer was that it was not a storm, it was the weather, and that the distinction mattered. I asked how long the weather had been running. Nobody there understood the question.*
+> *Boreas described the wedding to me for most of an afternoon, the order of the procession and what would be served to whom, and it was plain he had been over it many times. At the end I asked when it would be. He said that it would be in the winter. When I pointed out that it is always winter in Fuairlanea, he agreed with me, and went on to the seating.*
 
 ## Goals
 

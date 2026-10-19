@@ -27,7 +27,7 @@ Anyone who says the name aloud in Tiyanak's hearing has Tiyanak's full attention
 
 They do not lie about small things and find it tedious when others do.
 
-> *I have read four accounts of the Division written by people who were present for it. Three of them agree closely and are very fine pieces of work. It took me two years to notice that all three were written in the same hand, and another year to accept what that meant about the fourth, which is badly written, contradicts everything, and is the only one I now believe.*
+> *I have read every account of the Division I could find that was written by someone who was present. Most of them agree closely and are very fine pieces of work. It took me a long time to notice that they were all in the same hand, and longer to accept what that meant about the one that is not. It is badly written and contradicts all of them, and it is the only one I now believe.*
 
 ## Goals
 
