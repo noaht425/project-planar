@@ -23,6 +23,8 @@ Both sides avoid the number two, out of hatred for what they used to be. Do not 
 - **Archon**, Tyranny. Iron gauntlets fused to his hands and a thorn crown grown into his head.
 - **Lilien**, Desire. Split down the middle, one half beautiful and one half ruined.
 
+Devils have mortal children, and not only the six. If your character descends from one rather than bargaining with one, the subclass is [[Sorcerer Devil|Sorcerer, the Devil bloodline]], and which devil you came from decides your damage type.
+
 *For Abaddon,* go to [[422 Abaddon|422 · Abaddon]].
 
 *Tell me which of the others you want and I will write them next.*

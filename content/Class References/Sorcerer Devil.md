@@ -13,7 +13,19 @@ What it does carry is the habit of the place it came from. The archdevils rule t
 
 ## Level 1 Infernal Bloodline
 
-You learn to speak, read, and write [[Infernal]], and you have resistance to fire damage.
+Choose the devil your line descends from. Your choice determines the damage type associated with your magic, as shown in the Devil Ancestry table.
+
+| Devil | Domain | Damage Type |
+| --- | --- | --- |
+| [[Belphegor]] | Indulgence | Poison |
+| [[Abaddon]] | Cruelty | Necrotic |
+| [[Tiyanak]] | Deceit | Psychic |
+| [[Lux]] | Pride | Radiant |
+| [[Archon]] | Tyranny | Force |
+| [[Lilien]] | Desire | Fire |
+| A lesser devil | — | Choose any one of the above |
+
+You learn to speak, read, and write [[Infernal]], and you have resistance to the damage type associated with your ancestry.
 
 You also inherit your ancestor's instinct for terms. You have advantage on Charisma checks made to negotiate the specific conditions of an exchange, such as a price, a payment, or what each side must do.
 
@@ -21,26 +33,29 @@ You also inherit your ancestor's instinct for terms. You have advantage on Chari
 
 Harm done to you is collected without your asking.
 
-The first time on each creature's turn that it deals damage to you, that creature takes fire damage equal to half your sorcerer level, rounded up.
+The first time on each creature's turn that it deals damage to you, that creature takes damage of your ancestry's type equal to half your sorcerer level, rounded up.
 
 This requires no action from you and continues while you are unconscious.
 
-## Level 6 Flames of the Pit
+## Level 6 The Family Trade
 
-Starting at 6th level, when you cast a spell that deals fire damage, you can add your Charisma modifier to one damage roll of that spell.
+Starting at 6th level, when you cast a spell that deals damage of your ancestry's type, you can add your Charisma modifier to one damage roll of that spell.
 
-In addition, when you cast a spell that deals damage of another type, you can spend 1 sorcery point to change that spell's damage type to fire.
+In addition, when you cast a spell that deals damage of another type, you can spend 1 sorcery point to change that spell's damage type to your ancestry's type.
 
 ## Level 14 Infernal Wings
 
-At 14th level, you can use a bonus action to manifest a pair of wings of smoke and ember from your back. They last for 1 minute, and while they are present you have a flying speed equal to your walking speed.
+At 14th level, you can use a bonus action to manifest a pair of wings from your back, in the colours your ancestor is remembered by. They last for 1 minute, and while they are present you have a flying speed equal to your walking speed.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-## Level 18 Unpayable
+## Level 18 Sentence Passed
 
-At 18th level, you can call up the full authority of the blood in you.
+At 18th level, you can hold court the way your ancestors do.
 
-As a bonus action, you can spend 5 sorcery points. For the next minute, fire damage you deal ignores resistance to fire damage and treats immunity to fire damage as resistance.
+As a bonus action, you can spend 5 sorcery points. For the next minute, you gain the following effects:
 
-While this is active, a creature that takes fire damage from you cannot regain hit points until the end of your next turn.
+- The Debt triggers every time a creature deals damage to you, rather than only the first time on that creature's turn.
+- The Debt deals damage equal to your sorcerer level, rather than half of it.
+- Damage of your ancestry's type that you deal ignores resistance to that damage type and treats immunity to it as resistance.
+- A creature that takes damage from The Debt must succeed on a Charisma saving throw against your spell save DC or be frightened of you until the end of its next turn.
