@@ -19,4 +19,6 @@ Four of them, one for each quarter of Ventis. Their quarters bleed into each oth
 
 A pact with a wind puts you in that plan whether or not anyone tells you.
 
+The subclass is [[Warlock Wind|Warlock, the Wind patron]]. Because the four quarters bleed together, it gives you all four rather than only the one that took you.
+
 *Tell me which one you want and I will write their page next.*

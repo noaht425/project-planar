@@ -24,4 +24,6 @@ A dragon rules from a hoard, and a hoard is whatever that dragon has decided is 
 
 The second dragons travel far more than the lords do, which makes them easier to actually meet.
 
+A dragon's warlock works to add to the hoard and to see the dragon's aims through, and is entered into the collection in return. The subclass is [[Warlock Dragon|Warlock, the Dragon patron]].
+
 *Tell me which dragon you want and I will write their page next.*

@@ -20,4 +20,6 @@ Their shared purpose is keeping the balance, which is as specific as they will b
 
 **One thing worth knowing.** Divination magic used to be far easier than it is. It That Will Be grew paranoid and made it harder, and it has stayed that way. If your character is a diviner, that is who to be annoyed at.
 
+The subclass is [[Warlock Scholarch|Warlock, the Scholarch patron]], and which of the three took you changes how it works.
+
 *Tell me which one you want and I will write their page next.*
