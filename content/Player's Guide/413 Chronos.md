@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 413
 summary: >-
   Archfey of Time, whose domain runs exactly as designed.
 ---

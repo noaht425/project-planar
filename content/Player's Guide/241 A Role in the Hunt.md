@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 241
 summary: >-
   An origin reachable only from a patron page. Your character was given a role in
   the Hunt and came out the other side.

@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 213
 summary: >-
   The kingdom of orcs and giantkin, capital Goro. Founded 3 AM.
 ---

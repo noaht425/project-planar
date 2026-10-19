@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 218
 summary: >-
   The fae kingdom at Velanea, the other half of Thalamas.
 ---

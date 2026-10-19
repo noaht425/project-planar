@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 460
 summary: >-
   The four winds of Ventis, their temperaments, and the thing they all want.
 ---

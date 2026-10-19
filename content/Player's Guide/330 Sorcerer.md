@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 330
 summary: >-
   It is in your blood, which means somebody put it there.
 ---

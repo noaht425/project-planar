@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 120
 summary: >-
   Giantkin, made by Kleipur, who was made first.
 ---

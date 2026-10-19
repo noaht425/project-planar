@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 440
 summary: >-
   The dragons who rule the five elemental realms, and the second dragons beneath them.
 ---

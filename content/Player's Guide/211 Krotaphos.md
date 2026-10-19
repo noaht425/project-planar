@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 211
 summary: >-
   The Omen kingdom at Panthea, religious power, and the loser of the last great war.
 ---

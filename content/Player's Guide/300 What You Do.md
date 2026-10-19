@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 300
 summary: >-
   Your class, and which classes tie you to something in the world.
 ---

@@ -1,5 +1,6 @@
 ---
 type: class-reference
+audience: player
 tags: []
 class: Warlock
 subclass: Scholarch
@@ -27,13 +28,15 @@ The Scholarch lets you choose from an expanded list of spells when you learn a w
 
 Choose which of the three took you on. Your choice determines how your foreknowledge works, as shown in the Scholarch table. You can change this choice only if your patron changes.
 
-When you finish a short or long rest, roll one d20 and record the number rolled. You can replace any attack roll, saving throw, or ability check with this number. Once you do, you lose the recorded die until you finish a rest.
+When you finish a short or long rest, roll one d20 and record the number rolled. You can replace any attack roll, saving throw, or ability check made by you, or by a creature you can see within 60 feet of you, with this number. Once you do, you lose that recorded die until you finish a rest.
 
-| Patron | How you may use the recorded die |
+Unless the table below says otherwise, you must choose to use a recorded die before the roll is made.
+
+| Patron | What it changes |
 | --- | --- |
-| It That Was | You may use the die after the roll is made and its result is known, replacing what happened |
-| It That Is | You must use the die before the roll is made, and you may use it on any roll made by a creature within 60 feet, even if you are incapacitated or surprised |
-| It That Will Be | You must use the die before the roll is made, and you record one additional die at each rest. Any die not used before your next rest is lost |
+| It That Was | You may use a recorded die after the roll is made and its result is known, replacing what happened |
+| It That Is | You may use a recorded die while incapacitated or surprised, and on a creature within 60 feet that you cannot see |
+| It That Will Be | You record one additional die at each rest. Any die you have not used by the end of your next rest is lost |
 
 ## Level 6 Consult the Record
 

@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 217
 summary: >-
   The elf kingdom at Lenetha, one half of what used to be Thalamas.
 ---

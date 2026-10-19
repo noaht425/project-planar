@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 110
 summary: >-
   Humans, made by Minem.
 ---

@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 310
 summary: >-
   Serving a god who is real, reachable, and knows your name.
 ---

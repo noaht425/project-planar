@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 900
 summary: >-
   The end of the path. What to send the DM.
 ---

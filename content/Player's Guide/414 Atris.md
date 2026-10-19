@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 414
 summary: >-
   Archfey of the Hunt, who gave a mortal the power to become a god.
 ---

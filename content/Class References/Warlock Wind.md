@@ -1,5 +1,6 @@
 ---
 type: class-reference
+audience: player
 tags: []
 class: Warlock
 subclass: Wind
@@ -39,6 +40,8 @@ As a bonus action, you can change which quarter you are in. You can do so a numb
 ## Level 1 Wind's Edge
 
 When you cast a warlock spell that deals damage, you can change that damage to the type listed for the quarter you are currently in.
+
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ## Level 6 Crosswind
 

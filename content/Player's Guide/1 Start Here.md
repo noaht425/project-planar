@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 1
 summary: >-
   The opening page of the Player's Guide. Explains how the guide works and sends you to the first choice.
 ---

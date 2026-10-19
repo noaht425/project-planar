@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 430
 summary: >-
   The six archangels, and why they are harder to reach than the archdevils.
 ---

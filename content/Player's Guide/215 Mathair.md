@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 215
 summary: >-
   Omphalos, supposedly the most central point in the world.
 ---

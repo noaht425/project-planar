@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 150
 summary: >-
   Omens, made by Thean out of the leftover pieces of the split Judgements.
 ---

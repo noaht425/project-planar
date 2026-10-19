@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 2
 summary: >-
   A short history of Agra for players, from the Planar Beings to the present day.
 ---

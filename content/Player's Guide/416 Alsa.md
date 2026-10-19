@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 416
 summary: >-
   Archfey of Bone, kept at arm's length by the others and holding the domain regardless.
 ---

@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 140
 summary: >-
   Orcs, made by Shram. What they are in this world and where they live.
 ---

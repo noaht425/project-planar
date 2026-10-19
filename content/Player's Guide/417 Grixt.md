@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 417
 summary: >-
   Archfey of Rot, who behaves like a kindly old man and is not one.
 ---

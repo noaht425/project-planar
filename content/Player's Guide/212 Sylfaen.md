@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 212
 summary: >-
   The beastfolk empire at Dawara. The strongest power in the world, and a sorting machine.
 ---

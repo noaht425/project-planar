@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 190
 summary: >-
   Feyborn, made by Sithi, who paid the Archfey with their own name.
 ---

@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 411
 summary: >-
   Archfey of the Seasons, who holds a court at the centre of his domain.
 ---

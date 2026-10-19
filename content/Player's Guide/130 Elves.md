@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 130
 summary: >-
   Elves, made by Sylvana Lorien, whose name is gone.
 ---

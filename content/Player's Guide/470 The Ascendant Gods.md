@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 470
 summary: >-
   Mortals who became gods. The newest powers in the world and the least predictable.
 ---

@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 455
 summary: >-
   The three sphinxes of Temporalis, who are also called It That Was, It That Is and It That Will Be.
 ---

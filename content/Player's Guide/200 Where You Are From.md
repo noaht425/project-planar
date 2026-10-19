@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 200
 summary: >-
   The ten kingdoms of Arenis, and the second choice in the guide.
 ---

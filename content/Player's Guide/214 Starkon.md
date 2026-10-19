@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 214
 summary: >-
   Hekatania, the Aravis Academy, and where the campaign begins.
 ---

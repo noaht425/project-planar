@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 350
 summary: >-
   Your tie is to a place, and places in this world have owners.
 ---

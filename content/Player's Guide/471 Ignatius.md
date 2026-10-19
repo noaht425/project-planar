@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 471
 summary: >-
   The ascendant god of Ambition. The patron of the Ambition warlock.
 ---

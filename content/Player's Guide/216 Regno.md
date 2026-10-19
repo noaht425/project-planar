@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 216
 summary: >-
   Caragna, and the third of the Trois Re.
 ---

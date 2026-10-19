@@ -1,5 +1,6 @@
 ---
 type: class-reference
+audience: player
 tags: []
 class: Warlock
 subclass: Dragon
@@ -29,6 +30,8 @@ You can also claim things on your patron's behalf. As a bonus action, you can ma
 
 While a creature or object is claimed, you know its location while it is on the same plane as you, and you have advantage on any ability check you make to find, track, or identify it.
 
+In addition, the first time on each of your turns that you deal damage to a claimed creature, that damage increases by an amount equal to your Charisma modifier.
+
 ## Level 6 Its Own Property
 
 Starting at 6th level, your patron takes an interest in damage done to its belongings.
@@ -39,9 +42,11 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 ## Level 10 Appraisal
 
-At 10th level, you can judge the worth of a thing the way your patron would.
+At 10th level, you can judge the worth of a thing the way your patron would, and nothing you have claimed can get away from you.
 
 You know whether an object you can see is magical, and whether it is of significance to any of the dragons.
+
+You can have two creatures or objects claimed at a time rather than one. A claimed creature gains no benefit from being invisible or hidden against you, and you have advantage on attack rolls against a claimed creature that is within 60 feet of you.
 
 In addition, you can spend 1 minute in contact with an object to ask your patron one question about its history. Your patron answers truthfully, though it answers only what it cares to. Once you use this feature, you cannot use it again until you finish a long rest.
 
@@ -49,8 +54,10 @@ In addition, you can spend 1 minute in contact with an object to ask your patron
 
 At 14th level, you can give your patron something directly.
 
-As an action, choose a creature you have claimed that you can see within 60 feet and that is at or below half its hit point maximum. It must succeed on a Charisma saving throw against your warlock spell save DC or be transported to your patron's hoard, where it is held, incapacitated, for 1 minute.
+As an action, choose a creature you have claimed that you can see within 60 feet. It must make a Charisma saving throw against your warlock spell save DC.
 
-At the end of that minute, the creature returns to the space it left, or the nearest unoccupied space. Your patron decides whether to return it at all, and has never yet refused.
+On a failed save, the creature is transported to your patron's hoard, where it is held, incapacitated and unable to be targeted or affected by anything outside the hoard, for 1 minute. At the end of that minute it returns to the space it left, or to the nearest unoccupied space.
+
+On a successful save, the creature takes 8d10 force damage as the hoard takes hold of it and loses its grip.
 
 Once you use this feature, you cannot use it again until you finish a long rest.

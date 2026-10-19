@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 412
 summary: >-
   Archfey of Lush, a woodland witch who sees petitioners in order of arrival.
 ---

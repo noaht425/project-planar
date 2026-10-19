@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 340
 summary: >-
   What a pact is in this world, and who grants them.
 ---

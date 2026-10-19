@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 180
 summary: >-
   Earthborn, made by Talav.
 ---

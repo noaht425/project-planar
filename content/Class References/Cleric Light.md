@@ -1,5 +1,6 @@
 ---
 type: class-reference
+audience: player
 tags: []
 class: Cleric
 subclass: Light

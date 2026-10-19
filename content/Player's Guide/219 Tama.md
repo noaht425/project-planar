@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 219
 summary: >-
   Liber, the kingdom of exiles, founded by a banished scientist in 202 AM.
 ---

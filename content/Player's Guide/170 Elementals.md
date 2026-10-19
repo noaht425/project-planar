@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 170
 summary: >-
   Genasi, made by Genasi the Progenitor with help from the dragons.
 ---

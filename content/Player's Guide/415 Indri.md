@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 415
 summary: >-
   Archfey of Trickery, who plays games with everyone who comes asking.
 ---

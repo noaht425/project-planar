@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 320
 summary: >-
   Oaths in this world are not metaphors.
 ---

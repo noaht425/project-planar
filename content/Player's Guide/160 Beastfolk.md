@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 160
 summary: >-
   Beastfolk, made by Numen with help from the dragons.
 ---

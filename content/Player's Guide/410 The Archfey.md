@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 410
 summary: >-
   The seven rulers of the fey realms, and the most common patrons in the world.
 ---

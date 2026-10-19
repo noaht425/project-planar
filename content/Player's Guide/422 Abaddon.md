@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 422
 summary: >-
   The Archdevil of Cruelty as a patron, and what taking his pact means for your character.
 ---

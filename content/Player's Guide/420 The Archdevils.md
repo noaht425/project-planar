@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 420
 summary: >-
   The six archdevils, what they are and what taking one as a patron means.
 ---

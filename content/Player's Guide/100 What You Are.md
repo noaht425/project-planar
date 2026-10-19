@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 100
 summary: >-
   The nine peoples made by the Progenitors, and the first choice in the guide.
 ---

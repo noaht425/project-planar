@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 210
 summary: >-
   The elemental kingdom, capital Geno. Founded 2 AM. Holding back a hole into Tarkis.
 ---

@@ -1,7 +1,8 @@
 ---
 tags: [players-guide]
 type: note
-draft: true
+audience: player
+section: 240
 summary: >-
   An origin reachable only from a patron page. Your character has been to Iudis
   and come back.
