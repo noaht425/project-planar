@@ -26,7 +26,7 @@ This makes Tenu the most generous landlord in [[Tarkis]] and the least willing t
 
 Tenu speaks rarely and in short sentences, and the pauses between them are long enough that most visitors talk over the second half of the answer.
 
-> *I asked for a sample of the stone to take with me and was refused, and then offered the use of as much of it as I liked for as long as I stayed. I stayed eleven days in a chamber the size of a cathedral that had been cut for me. When I left I understood that I had been given more than I asked for and that the refusal still stood.*
+> *I addressed my first question to a wall. Tenu answered it from the floor behind me, after a pause long enough that I had started asking the wall a second one.*
 
 ## Goals
 

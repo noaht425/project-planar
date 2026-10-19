@@ -26,7 +26,7 @@ The drowned are part of the arrangement. Vetur keeps them where they fell and in
 
 Of the five lords this is the one that will talk at length, and the subject is always what was lost and where it is now.
 
-> *I asked whether anything in the trench had ever been given back. I was taken a long way along the floor and shown an empty place in a row, with the two neighbours still in position, and told the name of the family that had asked and the year. Then we went back. Nothing else was said about it for the rest of the day.*
+> *On my last day Vetur took me a long way down the trench, unasked, and stopped at an empty place in a row. The two neighbours were still in position. I was given the name of the family that had asked for the thing back, and the year. Vetur had talked about nothing but where things were since I arrived, and said nothing else for the rest of the day.*
 
 ## Goals
 

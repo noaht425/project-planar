@@ -24,7 +24,7 @@ Mens will trade. This is the one dragon that deals in information rather than in
 
 Made with the original [[Indri]], which [[Amol]] brings up constantly, and which Mens has never once answered.
 
-> *I brought a question and was told to bring something instead. I brought what I had on the Syzygy, which I had been working on for four years, and I was given in return an account of the same century that made most of my four years unnecessary. I have been trying to decide ever since whether that was generosity.*
+> *My first description of Mens, written the same evening, has the dragon exactly as I had pictured it from the archives, down to a notch in the left horn that I had read about years before. Nobody else who has met Mens mentions the notch. I have struck the description through and kept it.*
 
 ## Goals
 

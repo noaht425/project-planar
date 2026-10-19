@@ -20,7 +20,7 @@ Two were made without assistance. [[Okzu]] made [[Amol]] alone and [[Zaros]] mad
 
 The unassisted line holds the collaborations to be lesser dragons and says so. It has never come to anything beyond that, because the collective business of the dragons has been more pressing than the quarrel for three thousand years.
 
-> *Three thousand years and it has never once come to blood. It comes up at every meeting. I sat in on one, about the storm and about Afthor, and it was raised twice before anyone got to the storm, and both times by the same dragon, and both times everyone waited politely for it to finish.*
+> *I sat in on one meeting, about the storm and about Afthor. Lineage was raised twice before anyone reached the storm, both times by the same dragon, and both times the rest waited politely for it to finish. Okzu was keeping the minutes and wrote down how long it took.*
 
 ## What They All Want
 

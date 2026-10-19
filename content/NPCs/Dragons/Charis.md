@@ -24,7 +24,7 @@ Charis is quiet, patient and entirely without malice about any of this. The dead
 
 Made in collaboration with [[Grixt]], the Lord of Rot, which makes Charis the one dragon with a standing relationship outside [[Tarkis]], and the one the unassisted line distrusts most.
 
-> *Everything in Rot breaks down and is used again, and nothing there is kept. Charis keeps everything and lets nothing break down. I put it to Charis that this is the opposite of the thing that made it. I was told, without any heat at all, that this is why Grixt comes to visit.*
+> *I was in Noxia when a furnace hall at the factory came down, and Charis arrived that night. Each body was lifted and turned over once before it was taken. Charis asked the survivors where each person had been standing, and when a man gave the wrong place for his brother, Charis corrected him.*
 
 ## Goals
 

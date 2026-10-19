@@ -24,7 +24,7 @@ Brilis is vain, generous and easily flattered, and is aware of all three. Of the
 
 Made in collaboration with the [[Archangels|archangels]], which [[Amol]] and the unassisted line hold against Brilis constantly. Brilis treats the insult as a compliment about parentage and this infuriates them.
 
-> *The stars are not decoration and they are not tame. I was told where to stand and I stood there, and one of them came close enough that I felt it on the side of my face, and the attendant apologised on the dragon's behalf and said that it happens with guests because the stars are curious. I have not decided whether that was a joke.*
+> *Before I was shown in, an attendant took the inkwell I had brought and polished it. Then I was made to practise handing it over. I held it too low the first time, and the second time I was told to say where I had bought it before I said what it was.*
 
 ## Goals
 

@@ -24,7 +24,7 @@ Vari and [[Zaros]] ruled the air realm together, which no other lord and second 
 
 Of the ten, Vari is the one the surviving dragons speak about with something like affection, and none of them will elaborate on it to an outsider.
 
-> *I asked eight dragons about Vari. [[Brilis]] changed the subject, [[Amol]] gave me a lecture about lineage, [[Mens]] gave me dates, and the other five said nothing at all. I have a great deal of material on the other nine and almost none on this one, and the gap is not in the sources. It is in the dragons.*
+> *A mason in the air realm who had worked under both of them told me one story about Vari, and then asked me to leave it out of the book. It is the only story about Vari that anyone has told me, and I have left it out.*
 
 ## Goals
 
