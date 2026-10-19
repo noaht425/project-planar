@@ -23,7 +23,7 @@ Temperance in Blythe's domain is not abstinence. The blessed there are given exa
 
 Blythe does not negotiate. The writing is slow, it is ornate in the way all archangel writing is, and a conversation of any substance takes days.
 
-> *Four hours for six words. I watched every one of them form in the air and harden, and I had time between letters to think about what I had asked for and to be less sure of it. By the time the answer finished I had stopped wanting the thing. I have no idea whether that was the answer.*
+> *Most of a day for six words. I left before the last one was finished, and an attendant caught me at the door with the slate, which I have never read.*
 
 ## Goals
 

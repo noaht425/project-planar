@@ -23,7 +23,7 @@ Sacrifice in his domain is voluntary and it is the only afterlife anyone can ent
 
 Gwenhael will grant almost any request made of him. The cost is taken from him rather than from the petitioner, and he does not mention what it was. Several of the things he no longer has were granted to mortals who did not know they were asking for them.
 
-> *He said yes before I had finished the sentence. Then he sat down, which I was told he does not do, and we talked about nothing for a while, and when I stood to go he could not look up. I have not used the thing he gave me. I am not sure I am allowed to be the one who decides that was worth it.*
+> *He said yes before I had finished the sentence. Then he sat down, which I was told he does not do, and we talked about nothing for a while, and when I stood to go he could not look up. The attendant who showed me out asked me, very quietly, not to come back.*
 
 ## Goals
 

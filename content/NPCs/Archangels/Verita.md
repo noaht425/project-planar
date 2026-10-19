@@ -24,7 +24,7 @@ The heaven of Truth works on that principle. Every question the blessed ask is a
 
 Verita does not know that the Indri in the fey realms is Tiyanak. Verita negotiated the peace with Tiyanak face to face, took ninety per cent of the realm, and has never asked what was in the other ten per cent, because Verita asked what Tiyanak wanted and was told the truth, and it was a shape of truth Verita had no equipment for.
 
-> *I asked a small question to begin with, to be polite. I was answered. I asked the real one, and I was answered, and then I asked why, and I was answered, and the fourth answer was about my mother. Nobody in that realm lays a hand on you. I walked out on my own and I have been careful with my questions ever since.*
+> *One of the blessed in Truth told me that she no longer asks anything aloud. A question kept in her head goes unanswered, and she spends most of her day there now, sorting the ones she has into those worth saying and those that are not. She had been sorting the same one for some years, she said, and she would not tell me what it was.*
 
 ## Goals
 

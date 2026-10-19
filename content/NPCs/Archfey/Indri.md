@@ -28,7 +28,7 @@ He does not know who he is. He knows that something was taken, he knows the shap
 
 Reports from the mortal realm since 700 AM describe a mad god killing people. The reports are accurate.
 
-> *I have one account from a survivor and it is four sentences long, because he only said four things. He said he did not know. He asked her whether she had been there. Then he apologised, and he was very clear about it, and then he killed everyone else in the room.*
+> *My account comes from a cook at a roadhouse, who was under a table at the time. He came in out of the rain and asked the room, quite politely, whether anyone knew his name. Nobody did. Then he asked whether anyone had heard of Indri, and the landlord, trying to be helpful, said that Indri was one of the archfey and lived in Iris. According to the cook he went quiet for a long while after that, and thanked the landlord before he began.*
 
 ## Goals
 
