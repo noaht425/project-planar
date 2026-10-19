@@ -14,7 +14,11 @@ The **sourcebook** is for the DM. It is written by the historian described below
 
 The **Player's Guide** is for players. It is written in the author's own voice, speaking directly to them, casual and funny. The historian appears in it only inside flavor boxes. Nothing in it may contain material the players should not have.
 
-Until the two are separated on the published site, every Player's Guide page carries `draft: true`, which keeps it out of the build.
+The two are separated by audience rather than by site folder. Every note is DM-only by default. A note reaches the player site only if its frontmatter contains `audience: player`, so forgetting to mark something hides it rather than exposing it.
+
+The Player's Guide pages and the class references carry that tag. Nothing else does yet.
+
+In the player build, a link pointing at a note that was not included is flattened to plain text, so the player site has no dangling links and no leaked note titles.
 
 ## The Narrator
 
