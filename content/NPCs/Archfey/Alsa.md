@@ -13,7 +13,7 @@ Member of the [[Archfey]].
 
 Alsa (AL-sa) appears as a werewolf eight feet tall, with broken bones protruding through the skin at the shoulders, forearms and ribs. The breaks do not heal and do not appear to cause difficulty.
 
-The seat is inside An Cionn Mór, the skull large enough to hold a city, which is either the grimmest joke in Iris or the largest available building. Alsa has never clarified.
+The seat is inside An Cionn Mór, the skull large enough to hold a city, which is either the grimmest joke in Iris or just the largest available building. Alsa has never clarified.
 
 ## Manner
 
