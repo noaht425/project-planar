@@ -12,7 +12,37 @@ Home Realm: [[Iudis]]
 
 Member of the [[Archdevils]].
 
+## Appearance
+
+Abaddon (AB-uh-don) has two boar heads. The right one is tied shut with nooses taken from prisoners he has captured, and it works constantly at them, roaring through the gag and gnashing its teeth. The left one is calm, and is covered in blood that leaks steadily down the throat and chest.
+
+The body is impaled with swords, spears and arrows. None of them have been removed and none of them are his.
+
+## Manner
+
 The best way to describe Abaddon is this: the right head is beating a man to death. Slowly breaking every bone in his body and relishing every scream. This is the head that everyone fears. The left head, on the other hand, is not feared as much. But you should fear it. For while his brother is torturing a man until he begs for death, the left head is tying the man's wife and children to a chair and forcing their eyes open so that they must watch what the right head does to the person they love the most and know that they can do nothing to stop it.
+
+[[Hesit]] meant to feel what another feels. Cruelty of the kind Abaddon practises requires knowing precisely where a thing will land, and that is the half he was left holding.
+
+> *I never met him, and I asked for a long time before I found someone who had and would talk about it. A woman in Krotaphos, eighty years old, taken into Cruelty in a raid as a girl and given back. She would not tell me what the right head did. She told me what the left head said to her while it happened, word for word, after seventy years, and then she asked me to leave her house.*
+
+## Goals
+
+Abaddon wants the [[Divine War]] started again. He has no interest in ruling anything and takes no part in the politics of the other five. He was the only archdevil who did not want the peace and he has never agreed that it holds.
+
+He does not plot toward this so much as he waits for an opening and makes the most of whatever he is given. [[Archon]]'s work among the kingdoms is useful to him for that reason, and he has let Archon know it.
+
+## Design Notes
+
+Abaddon is the fight. Everything else in Iudis negotiates.
+
+Keeping the two heads on separate functions is the point of the design: one does the violence and the other makes sure it is witnessed. A party that kills the right head has dealt with half the problem and will not have noticed which half mattered.
+
+His stat block below is built for a party that has already prepared for him, which is why the chains and the Unleashed clause assume the heroes forged them.
+
+## Open
+
+His goal is my invention. The Word document leaves Abaddon blank, and a DM who wants him pursuing something more specific should overwrite this freely.
 
 ## Stat Block
 

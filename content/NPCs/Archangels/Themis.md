@@ -7,11 +7,43 @@ Split from [[Themati]] by [[The King of Night]] during [[The Division]]. Archang
 
 Home Realm: [[Iudis]]
 
-Tricked by [[Chronos]] into putting a divine spark into an automaton, creating [[XLZL]]. In exchange, Themis got to raise XLZL.
-
 Member of the [[Archangels]].
 
-Appearance: Eyes carved out, holding scales in one hand and a large sword in the other
+Tricked by [[Chronos]] into putting a divine spark into an automaton, creating [[XLZL]]. In exchange, Themis got to raise XLZL.
+
+## Appearance
+
+Themis (THEH-miss) has had both eyes carved out. The sockets are open and were never dressed. One hand holds a set of scales and the other holds a greatsword, and neither has been set down in three thousand years.
+
+The eyes were Themis's own doing, immediately after the Division.
+
+## Manner
+
+[[Themati]] meant to rule. [[Archon]] kept the appetite for it and Themis kept the obligation, which is the half that has to do the work and has no appetite for any of it.
+
+Themis hears cases. All of them, personally, for every soul that arrives in the heavens and the hells, which is why the queue is measured in centuries and why Themis has the worst temper of the six. Rulings are correct and arrive late, and Themis is aware of what the lateness costs and hears cases anyway.
+
+Themis raised [[XLZL]] from the moment of their making and is the only one of the twelve to have raised anything. It is the subject Themis will drop a case to discuss.
+
+> *The scales are not a symbol, they are in use, and I was in the room when a ruling came down. The sword hand does not move during a judgement. The scales hand does, constantly, in very small amounts, the way a hand does when it is holding something that has not settled. It had been two hundred years on that case.*
+
+## Goals
+
+Themis wants the backlog cleared and will not delegate any part of it, which means Themis wants something that cannot happen.
+
+Themis supports the purification of the ill-leaning [[Omens]] on procedural grounds and is the only archangel to have put the reasoning in writing. The argument is that an Omen's disposition is established at creation and that judging each one individually is therefore a waste of the court's time. [[Neema]] has read it and the two have not spoken since.
+
+Themis wants [[XLZL]] kept out of all of it.
+
+## Design Notes
+
+Justice is the domain where the setting's cruelty is bureaucratic. Themis is not corrupt, is not biased and is not lazy, and the realm is a horror because one being insists on hearing everything.
+
+Self-blinding is the detail that explains the rest of the character. Themis chose it, immediately, to rule without being swayed by appearances, and the result is a judge who cannot see the queue.
+
+The written argument for the purification is the most useful object on this page. It is a document a party can obtain, it is signed, and it is the thing to put in front of [[Neema]] or in front of a ruler in [[Kingdom of Krotaphos|Krotaphos]].
+
+The sword is below.
 
 ### Themis' Sword
 
