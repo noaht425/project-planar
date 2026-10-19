@@ -16,4 +16,4 @@ Souls who ruled by force spend their time under the force of others. Advancement
 
 Particular tyrants are given particular places in the structure, chosen to answer what they did with the power they had.
 
-> *I was shown around by a soul who had worked its way up to the fourth gallery across nine hundred years, and which was enormously proud of its spot in the fourth gallery. I have seen better rooms in a prison. I did not say so, and I have been trying to figure out why ever since.*
+> *My guide in Tyranny had been made overseer of its tier not long before, and had been given everything it asked for, which so far was a chair. It showed me the chair before it showed me anything else. Then it asked me, quite seriously, whether I thought it looked like the chair of someone who had become comfortable.*

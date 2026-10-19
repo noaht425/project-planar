@@ -14,4 +14,4 @@ Souls in Kindness are treated by strangers exactly as they treated strangers, co
 
 What the souls here were best at is giving, and there is nobody to give to. Everyone is already looked after. A soul whose life was built on being needed arrives somewhere nobody needs anything.
 
-> *I tried to help a woman in Kindness carry a load up a hill. She thanked me and would not let me, because she did not need the help, and there nobody ever will.*
+> *I was the only person in Kindness who needed anything, and word got round. By evening my boots had been mended twice, by two people who had each missed the other, and a man I had never met had carried my letters to the border and come back to ask whether there were more.*

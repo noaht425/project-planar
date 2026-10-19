@@ -14,4 +14,4 @@ Cruelty is torture, administered thoroughly and without ornament. It is the most
 
 The cruel arrive and become the subjects of their own practice. Souls who were inventive in life are answered inventively.
 
-> *I was offered a look inside one of the rooms and I declined. I am a thorough scholar but I am not a stupid one, and that distinction has carried me through eight planes.*
+> *I was offered a look inside one of the rooms and declined. On the way out the guide mentioned, as a courtesy, that it had not been one of the occupied ones. It had been fitted out some time ago and was being kept ready, and he understood it was meant for a historian.*

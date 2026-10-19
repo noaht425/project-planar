@@ -62,7 +62,7 @@ Lobhru (LOV-ruh), Muiscu (MUSH-kuh), Dubhu (DUH-vuh), Fuithru (FUH-ruh), Cléamu
 
 Villages here are not rebuilt so much as regrown, and most of them have been in slightly different places every century. The names stay put even when the villages do not.
 
-> *Everything I owned was quietly going over the entire time I was in Muisceánea and nobody had thought to mention it. When I complained, a man took my notebook, looked at it, and told me it had another nine days in it, which he clearly considered generous.*
+> *Everything I owned was quietly going over the entire time I was in Muisceánea and nobody had thought to mention it. When I complained, a man took my notebook, looked at it, and told me it had another week in it, which he clearly considered generous.*
 
 ## Design Notes
 

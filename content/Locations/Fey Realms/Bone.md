@@ -60,7 +60,7 @@ Craimhu (KRA-vuh), Cnámhu (KNAH-vuh), Rélnu (RAYL-nuh), Ainbhu (AN-vuh), Cuimh
 
 Most sit on top of a layer they are working. A village in Bone moves when its layer is exhausted, and the abandoned ones are still standing, because nothing here falls down either.
 
-> *You can ask in Cuimhrea about anyone who died in this domain and they will find the bone and tell you what it says. I asked after a scholar who went missing two centuries ago. They found him in an afternoon. I have been unable to decide since whether that was a kindness.*
+> *The readers in Cuimhrea charge by depth. Mine warned me, before she began looking for a scholar who went missing here generations ago, that he would be expensive, because scholars in Bone always dig. He was. She found him in an afternoon, a long way down, with his trowel still in his hand.*
 
 ## Design Notes
 

@@ -16,4 +16,4 @@ The accounting runs in both directions. The wrongs the soul itself did are also 
 
 When the ledger is finally clear there is nothing further to set right, and a soul that was driven by grievance discovers what it had instead of a life.
 
-> *The galleries show both columns. Souls arrive to read the column they came for. A few of them stay and read the other one, which is the bravest thing I have seen anywhere in the afterlives.*
+> *The galleries show both columns. Souls arrive to read the column they came for. A few of them stay and read the other one, and the attendants bring those few a chair.*

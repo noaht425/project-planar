@@ -14,4 +14,4 @@ Deceit is built largely of glass, and most of what happens here is done to a sou
 
 A tenth of the original territory is held by [[Tiyanak]] alone and the rest went to [[Verita]] in the deal that ended the [[Divine War]]. [[Indri]] is caged in that tenth.
 
-> *I asked for directions four times in Deceit and was given four different routes, every one of which worked. I still do not know what that was meant to teach me.*
+> *I spent a morning in Deceit walking toward a lamp I could see clearly at the far end of a long gallery. At midday I put out a hand to steady myself and touched it. It had been at my elbow the whole time, and the gallery was a wall.*

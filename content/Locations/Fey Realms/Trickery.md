@@ -60,7 +60,7 @@ Gliceasu (GLIH-ka-suh), Bréigu (BRAY-guh), Gnúisu (GNOO-suh), Fólu (FOH-luh),
 
 Several of them have two names, an older one and a current one, and which is in use depends on who is asking. The maps carry both and do not explain.
 
-> *Everything they told me in Bréigelainis was true. I checked all of it afterwards, every clause, and it was all exactly as stated. I am still not certain what I agreed to, and the scribes were very kind about my not being certain.*
+> *I won a wager in Bréigelainis, fairly, against a scribe who seemed delighted for me, and was paid exactly what had been staked. The terms also covered how my winnings were to be recorded, and they were recorded by entering me in the city's books as that scribe's apprentice. A small wage has reached me every month since. Nobody there has been able to tell me how to stop it.*
 
 ## The Substitution
 
