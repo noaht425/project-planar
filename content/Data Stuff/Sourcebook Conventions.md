@@ -50,6 +50,8 @@ A box is grounded in the specific mechanic of its subject. A box that would work
 
 Boxes do not repeat what the body already said.
 
+For the narrator's voice in detail, the failure modes to avoid and the variety budget across a group of pages, see [[Flavor Box Brief]].
+
 ## Pronunciations
 
 A name is respelled the first time it appears on a page, in parentheses after it, with the stressed syllable capitalised.
