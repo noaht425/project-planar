@@ -12,7 +12,7 @@ Home Realm: [[Iudis]]
 
 Member of the [[Archdevils]].
 
-The best way to describe Abaddon is this: the right head is beating a man to death. Slowly breaking every bone in his body and relishing every scream. This is the head that everyone fears. The left head, on the other hand, is not feared as much. But you should fear it. For while his brother is torturing a man until he begs for death, the left head is tying the man's wife and children to a chair and forcing her eyes open so that they must watch what the right head does to the person they love the most and know that they can do nothing to stop it.
+The best way to describe Abaddon is this: the right head is beating a man to death. Slowly breaking every bone in his body and relishing every scream. This is the head that everyone fears. The left head, on the other hand, is not feared as much. But you should fear it. For while his brother is torturing a man until he begs for death, the left head is tying the man's wife and children to a chair and forcing their eyes open so that they must watch what the right head does to the person they love the most and know that they can do nothing to stop it.
 
 ## Stat Block
 

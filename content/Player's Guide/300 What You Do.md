@@ -12,14 +12,16 @@ Every class in the Player's Handbook is available, plus homebrew if you send it 
 
 Most classes are a job. A few of them are a relationship, because the power comes from somebody who is real, reachable and has opinions about you.
 
-- **Warlock.** You made a deal. The other party exists.
-- **Cleric.** You serve. They know.
-- **Paladin.** You swore. Oaths here are not metaphors.
-- **Sorcerer.** It is in your blood, which means somebody put it there.
-- **Druid** and **Ranger.** Your tie is to a place rather than a person, and places in this world also have owners.
+*[[340 Warlock|Warlock]].* You made a deal. The other party exists.
 
-Everything else, fighters and rogues and the rest, is yours alone. You can take a patron anyway. People do.
+*[[310 Cleric|Cleric]].* You serve. They know.
 
-*For warlocks,* go to [[340 Warlock|340 · Warlock]].
+*[[320 Paladin|Paladin]].* You swore. Oaths here are not metaphors.
 
-*The other callings are being written. Tell me which one you want next.*
+*[[330 Sorcerer|Sorcerer]].* It is in your blood, which means somebody put it there.
+
+*[[350 Druid and Ranger|Druid]] or [[350 Druid and Ranger|Ranger]].* Your tie is to a place, and places in this world also have owners.
+
+Everything else, fighters and rogues and the rest, is yours alone. You can take a patron anyway, and people do.
+
+*If none of these apply to your character,* go to [[900 Finish|900 · Finish]].
