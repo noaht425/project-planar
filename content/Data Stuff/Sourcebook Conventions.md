@@ -70,8 +70,20 @@ Pages are numbered in blocks with gaps, so inserting a page never renumbers anot
 | 100s | The nine peoples |
 | 200s | Homelands |
 | 300s | Callings |
-| 400s | Patrons |
+| 400s | Patrons, in two layers: a group page, then one page per being |
 | 900 | Finish, and what the DM needs |
+
+Patrons go through their group first. A calling page sends the reader to the group (the Archfey, the Archdevils, the Dragons and so on), and the group page sends them to the individual. No calling page links straight to a single patron.
+
+| Patrons | Group | Individuals |
+| --- | --- | --- |
+| Archfey | 410 | 411 to 417 |
+| Archdevils | 420 | 421 to 426 |
+| Archangels | 430 | 431 to 436 |
+| Dragons | 440 | 441 to 450 |
+| Scholarchs | 455 | 456 to 458 |
+| Wind Gods | 460 | 461 to 464 |
+| Ascendant Gods | 470 | 471 to 489 |
 
 The path is a graph rather than a tree. A later page may hand the reader something an earlier page did not offer, and when it does it says so under a heading of its own and links to it. A page reachable only that way says so at the top.
 
