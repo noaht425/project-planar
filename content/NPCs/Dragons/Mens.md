@@ -24,7 +24,7 @@ Mens will trade. This is the one dragon that deals in information rather than in
 
 Made with the original [[Indri]], which [[Amol]] brings up constantly, and which Mens has never once answered.
 
-> *My first description of Mens, written the same evening, has the dragon exactly as I had pictured it from the archives, down to a notch in the left horn that I had read about years before. Nobody else who has met Mens mentions the notch. I have struck the description through and kept it.*
+> *I wrote up Mens the same evening, and my description matched the archive drawing I had been studying for a month beforehand, down to a notch in the left horn. A colleague who went the following year came back with a dragon that had no horns at all. Hers matched the drawing she had been studying.*
 
 ## Goals
 

@@ -21,7 +21,7 @@ She is plain-spoken and difficult to flatter. She assigns a visitor a role on ar
 
 She gave [[Thalia]] the power that made her a god. The two were lovers and the gift was made freely, which makes it the most consequential thing any archfey has done for a mortal.
 
-> *I was quarry for two days. On the second afternoon I found the lake, Murlánuaimhre, and I understood from the way my pursuers stopped at the treeline that I had reached something. Nobody there would explain the rule to me. I asked Atris afterwards and she said that the rule was not mine to be told, and that I had still been inside it, and she was pleased about that in a way I did not expect.*
+> *I watched Atris call off a hunt before it began, because the quarry had turned an ankle on the way in. She sent for a healer, and the hunters sat down where they stood and waited in the rain for the ankle to mend.*
 
 ## Goals
 

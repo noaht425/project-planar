@@ -19,7 +19,7 @@ Ivan is the gentlest of Thera's children and the least effective. His quarter is
 
 He is well liked at court and carries no weight there. When the four quarters bring a quarrel to [[King Thera]], Ivan is usually the one who proposed the compromise that nobody accepted.
 
-> *Scoithrian grows cut flowers for the other three quarters, which means the whole of spring exists to supply an occasion happening somewhere else. I said something to that effect to a gardener there and she corrected me at length and with real feeling. They do not see it that way at all. I have thought about her answer more than about most of the things the archfey have said to me.*
+> *Ivan walked me round the hall he is building at Tiobrán. Every wall is begun and none is higher than my knee, and he showed me where the guests will sit.*
 
 ## Goals
 

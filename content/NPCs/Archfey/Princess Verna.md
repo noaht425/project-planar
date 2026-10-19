@@ -24,7 +24,7 @@ She is cold in manner as well as in domain, which everyone treats as the same fa
 
 Nobody in Fuairlanea will say out loud that she wants out of her betrothal, anywhere it might be repeated. In a fey realm, where a spoken thing has weight, a whole territory agreeing to silence is a considerable undertaking, and she did not ask them for it.
 
-> *I asked a road-keeper at Clúmhrach about the betrothal, in what I thought was a quiet corner, and the conversation ended. Not angrily. He finished his sentence about the toll schedule, and then he kept talking about the toll schedule, and he was still talking about it when I left.*
+> *The only thing Verna asked me in the whole of the audience was whether, in my time in Ventis, I had known the north wind to be late for anything. I said that I had not been there long enough to say. She thanked me and had the answer written down exactly as I gave it.*
 
 ## Goals
 

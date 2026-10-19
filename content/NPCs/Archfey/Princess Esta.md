@@ -24,7 +24,7 @@ Summer without relief is the quarter nobody visits twice. Esta does not seem to 
 
 She is openly contemptuous of her sister's situation and has said more than once that nobody could make her marry anybody, which is true and which she says in front of [[Princess Verna]].
 
-> *Murlanna is a lake town on the great lake, and it exists because the whole of summer needs somewhere to escape summer. The entire quarter goes there. Esta goes there. I asked her once what she did about the heat and she looked at me as though I had asked what she did about having hands.*
+> *I needed a yes or a no from Esta on copying the quarter's tax rolls. I raised it as the party began and again at dawn, while the musicians were changing over, and both times she said it was a marvellous question and called for more wine. I left without it. The permission reached my lodgings later in the week, signed, with a note in her own hand asking why I had gone home so early.*
 
 ## Goals
 
