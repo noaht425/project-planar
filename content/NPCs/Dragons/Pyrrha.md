@@ -26,7 +26,7 @@ Pyrrha is a curator. Her realm destroys almost everything in it, and what she do
 
 She is slow to speak and exact when she does. A conversation with her is mostly waiting. She does not repeat herself and she does not take a question twice.
 
-She is the only dragon who has had a child with something that was not a dragon. [[Iras]] is hers and [[Lux]]'s, and he is king of the [[Kingdom of Geno]]. She has never been to see him and has never explained that either.
+She is the only dragon who has had a child with something that was not a dragon. [[Iras]] is hers and [[Lux]]'s, and he was king of the [[Kingdom of Geno]] until he abdicated in 419 AM. She has never been to see him and has never explained that either.
 
 > *I was allowed in and shown a shelf. On it were eleven objects, all of them ugly, none of them worth anything to anyone outside that mountain. She named what each one had survived. The eleventh was a clay cup and she had been keeping it for nine thousand years because it had come through a thing that had taken a city.*
 

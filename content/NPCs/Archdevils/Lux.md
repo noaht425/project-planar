@@ -31,7 +31,7 @@ Had a child, [[Iras]], with [[Pyrrha]]. Iras became king of the [[Kingdom of Gen
 
 Lux wants his descendants in Pride and under his roof, and he has most of them. The ones still outside it are what he is working on.
 
-He wants [[Iras]] kept on the throne of [[Kingdom of Geno|Geno]] and kept alive. [[Genasi]] intends to kill Iras and is trying to bring [[Moto]] into it, and Lux knows about the first part.
+He wants [[Iras]] kept alive. [[Genasi]] intends to kill Iras and is trying to bring [[Moto]] into it, and Lux knows about the first part.
 
 He does not want the war restarted. [[Belphegor]]'s reunification plan would end the arrangement that currently has Lux ruling a realm of his own with an audience in it, and Lux has said nothing against it out loud.
 
