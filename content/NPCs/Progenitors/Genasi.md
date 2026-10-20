@@ -23,6 +23,8 @@ Genasi is very proud. He made the [[Elementals]] with help from the [[Dragons]],
 
 He was given Ancient Draconic at his creation and did not keep it. He built [[Genoan]] instead, to be admired, and he sorted its entire vocabulary himself.
 
+He gave up the throne in 62 AM, because he had grown bored of ruling and now had a son, [[Genasi II]], to rule in his place.
+
 In 405 AM he fought [[Lux]] and lost in four days. He intends to kill [[Iras]] and is trying to bring [[Moto]] into it.
 
 > *Genasi corrected my Genoan twice before I had finished my first sentence, and then asked me, politely, not to speak it in his presence again until I had it right. I have not spoken it in his presence since.*
@@ -37,7 +39,3 @@ In 405 AM he fought [[Lux]] and lost in four days. He intends to kill [[Iras]] a
 ## Design Notes
 
 Genasi wants things done properly and done his way, and he has a grudge with a timetable. The plan against Iras is the thread that brings him into a campaign.
-
-## Open
-
-Why he gave up the throne in 62 AM is unwritten.

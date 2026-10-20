@@ -23,7 +23,7 @@ Mathair does not restrict worship. The royal palace has statues of every group a
 
 ## La Grande Mascarade
 
-Mathair hosted the first [[La Grande Mascarade]] in 430 AM, and people still think of it as Mathair's. It commemorates the war between [[Kingdom of Krotaphos|Krotaphos]] and [[Kingdom of Sylfaen|Sylfaen]], which is a strange thing to commemorate, and nobody says so aloud. It is held every ten years, the host rotates between the kingdoms, and the kingdoms compete for the honour.
+Mathair hosted the first [[La Grande Mascarade]] in 428 AM, and people still think of it as Mathair's. It commemorates the war between [[Kingdom of Krotaphos|Krotaphos]] and [[Kingdom of Sylfaen|Sylfaen]], which is a strange thing to commemorate, and nobody says so aloud. It is held every ten years, the host rotates between the kingdoms, and the kingdoms compete for the honour.
 
 In Omphalos it is held in the royal palace at the centre of the city, which is marble worked with gold vines. Entry is by invitation, and the guest list runs to the wealthiest people of several planes.
 

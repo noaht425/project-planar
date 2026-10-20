@@ -14,6 +14,6 @@ structuredDate:
   minute: 0
 ---
 
-First hosted by [[Kingdom of Mathair]] on 99 Morcaela, 430 (1 years after the end of the war between [[Kingdom of Krotaphos]] and [[Kingdom of Sylfaen]]) in [[Omphalos]].
+First hosted by [[Kingdom of Mathair]] on 99 Morcaela, 428 (1 year after the end of the war between [[Kingdom of Krotaphos]] and [[Kingdom of Sylfaen]]) in [[Omphalos]].
 
 Hosted every 10 years, rotates who hosts. It is an honor to host and kingdoms fight for the right to host.

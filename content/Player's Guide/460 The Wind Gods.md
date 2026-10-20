@@ -16,7 +16,7 @@ Four of them, one for each quarter of Ventis. Their quarters bleed into each oth
 - **Notus**, south. Flippant and changeable.
 - **Zephyros**, west. Shy and hard to read.
 
-**They share one plan.** All four intend to kill Afthor and take the elemental realm of air from him. The four of them share a single plan, which is unusual for four beings this unalike.
+**They share one plan.** All four intend to kill Afthor and take the elemental realm of air from him, which is unusual for four beings this unalike.
 
 A pact with a wind puts you in that plan whether or not anyone tells you.
 
