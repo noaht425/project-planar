@@ -24,6 +24,49 @@ Member of the [[Ascendant Gods]].
 
 
 
+## Manner
+
+The Seventh calls himself Septimus (SEP-tih-mus), and the difference between the two names matters to him and to the archangels more than anything else about him.
+
+Rebellion is his domain and the whole of his temperament. He does not accept that anyone has authority over him, and he has been in chains for as long as he has been a god.
+
+He came closer than anyone has to taking the heavens, and the archangels could only stop him partway. The power he reached could not be taken back, so they bound it instead, and the [[Chains of Rebellion]] that [[Pavlas]] made to hold him have taken on his power rather than draining it.
+
+The archdevils do not pay attention to him, which he finds harder to bear than the chains.
+
+> *The archangels do not allow him to be called Septimus. I used the name once in Humility without thinking, and the attendant beside me corrected me so quietly that I did not notice until we had walked on. When I met him I called him Septimus anyway. He asked me to say it again.*
+
+## Ascension
+
+**Relic:** unwritten.
+
+**Source:** the heavens, in an attempt that was stopped partway.
+
+## Goals
+
+Septimus wants his name back.
+
+He still wants the heavens.
+
+## Relationships
+
+- Formerly a paladin of [[Archon]]
+- Chained by [[Pavlas]]
+
+## Design Notes
+
+The title is the insult. There are six archangels, and the archangels call him the seventh: the one who would have been, numbered and kept outside.
+
+His power being too great to remove and only possible to bind makes the chains the weak point of the arrangement. Anyone who takes them off him, or wears them, is dealing with what is left of an archangel.
+
+## Open
+
+When he made the attempt is unwritten.
+
+Whether Archon backed him, or has noticed him since, is unwritten.
+
+What the archangels did with his name, given that only the fey can take a name, is unwritten.
+
 ## Statblock
 
 *Medium humanoid (paladin), lawful evil*

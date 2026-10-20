@@ -30,6 +30,10 @@ Mortals have ascended to godhood, and the process is known. It is attempted far 
 | [[Afthor]] | [[Zaros]] and [[Vari]] | Killed both dragons and drank their blood |
 | [[Thalia]] | [[Atris]] | Given the power rather than taking it, so that she would not die |
 | [[Indri]] | [[Mendax]] | Used one object as both relic and source, while dying |
+| [[Ignatius]] | Powerful beings he killed, devils and dragons among them | Stored the power from each kill until he had enough for the ritual |
+| [[Cleome]] | [[Ignatius]]'s ascension | Held on to a friend as he ascended and went up with him. No other ascension has worked this way |
+| [[Nausicaä]] | [[Themis]] and [[Archon]] | Played the two halves of [[Themati]] against each other. Worked out the process from Ignatius's notes |
+| [[Chore]] | Deep powers of the sea | Followed the other three with help from [[Cleome]] |
 
 ## Failures
 

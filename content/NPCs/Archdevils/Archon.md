@@ -5,6 +5,8 @@ tags: []
 
 Split from [[Themati]] by [[The King of Night]] during [[The Division]]. Archdevil of Tyranny.
 
+Played against [[Themis]] by [[Nausicaä]], who took power from both of them to ascend.
+
 Home Realm: [[Iudis]]
 
 Member of the [[Archdevils]].

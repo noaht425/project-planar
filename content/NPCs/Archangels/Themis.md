@@ -11,6 +11,8 @@ Member of the [[Archangels]].
 
 Tricked by [[Chronos]] into putting a divine spark into an automaton, creating [[XLZL]]. In exchange, Themis got to raise XLZL.
 
+Played against [[Archon]] by [[Nausicaä]], who took power from both of them to ascend.
+
 ## Appearance
 
 Themis (THEH-miss) has had both eyes carved out. The sockets are open and were never dressed. One hand holds a set of scales and the other holds a greatsword, and neither has been set down in three thousand years.
@@ -26,6 +28,8 @@ She does not judge the dead. That was taken out of the hands of all twelve at th
 What she does instead is read their decisions. Every one of them, personally, after the fact, and she has no power to overturn a single one. When she disagrees she writes an objection and sends it to Bis.
 
 She raised [[XLZL]] from the moment of their making and is the only one of the twelve to have raised anything. It is the subject she will put a case file down for.
+
+She keeps a bargain exactly, and twice now she has found out afterwards what keeping it was for. [[Chronos]] got an automaton with a soul out of her. [[Nausicaä]] got godhood out of her and out of [[Archon]] together, by making each of them want to give more than the other.
 
 > *I was in the room while she worked. The sword hand does not move. The scales hand does, constantly, in very small amounts, the way a hand does when it is holding something that has not settled. The ruling she was weighing had been made by Bis before I was born, and the soul it concerned had long since gone where Bis sent it. She was still weighing it when I left.*
 
@@ -48,6 +52,8 @@ Self-blinding is the detail that explains the rest. She did it immediately, to r
 [[Bis]] getting stuck nitpicking the morality of tiny actions is, on my reading, partly her doing. Three thousand years of objections from the archangel of justice would do that to a judge. She did not intend it and she has not stopped.
 
 The written argument for the purification is the most useful object on this page. It exists, it is signed, and it was sent to the judge rather than to her colleagues, which is the thing to show a party. Putting it in front of [[Neema]] or a ruler in [[Kingdom of Krotaphos|Krotaphos]] is one use. Putting it in front of Bis, who already has it, is another.
+
+Being tricked twice is part of the character. Anyone who can make a request look fair can get a great deal out of her, and the archangel of justice has never learned to be suspicious of a fair request. A party that wants something from Themis should be shown both precedents and left to decide whether to try a third.
 
 The sword is below.
 
