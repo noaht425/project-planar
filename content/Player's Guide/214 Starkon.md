@@ -9,7 +9,7 @@ summary: >-
 
 # 214 · Starkon
 
-Founded in 3 AM. One of the three kingdoms of the Trois Re, which it calls the Drei Kunik.
+Founded in 3 AM. One of the three kingdoms of the Trois Re, which it calls the Drei Kunig.
 
 Capital: **Hekatania**. Other cities: **Avonis** and **Fernstadt**.
 

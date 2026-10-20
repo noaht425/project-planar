@@ -13,7 +13,7 @@ Each kingdom calls the alliance by its own name.
 | Kingdom | Name for the alliance |
 | --- | --- |
 | Mathair | Trois Re |
-| Starkon | Drei Kunik |
+| Starkon | Drei Kunig |
 | Regno | Tre Regis |
 
 ## The Alliance
@@ -24,10 +24,6 @@ The three are genuinely good allies and have been for a long time. Their interes
 
 ## Design Notes
 
-The Troi Re is a stable alliance on purpose. A setting with this many cold wars needs one bloc that works, and three kingdoms that agree with each other give a party a dependable patron and a large block of votes at the Panarex.
+The Trois Re is a stable alliance on purpose. A setting with this many cold wars needs one bloc that works, and three kingdoms that agree with each other give a party a dependable patron and a large block of votes at the Panarex.
 
 A DM who wants a scandal inside it is welcome to write one. The doorkeeper's suspicion is there to hang it on, and nothing on this page rules it out.
-
-## Open
-
-The alliance is spelled Troi Re on this page and Trois Re in the Player's Guide, and Starkon's name for it is Drei Kunik here and Drei Kunig in the session notes. One spelling of each should be settled.

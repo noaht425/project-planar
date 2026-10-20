@@ -25,6 +25,10 @@ The [[Valley of the Colossi]], with its statues of the titans, joins Oinarria to
 
 In 424 AM Oinarria agreed to help Sylfaen against [[Kingdom of Krotaphos|Krotaphos]]. Krotaphos lost three years later, and part of its land outside the new circular border went to Oinarria. Anyone in Oinarria over about eighty remembers the war, and the rest grew up among people who do.
 
+## Government
+
+The crown of Oinarria alternates between the two peoples. An orc succeeds a giantkin, and a giantkin succeeds an orc, and neither people has held it twice running since the kingdom was founded.
+
 ## Language
 
 Gias. Most Oinarrians also speak Common, and plenty of them would rather not.
@@ -49,7 +53,7 @@ Its part in the war is the useful history. Oinarria tipped a thirty-year war in 
 
 ## Open
 
-The ruler of Oinarria is unwritten.
+The present ruler, and which people they come from, is unwritten.
 
 The exact founding date is unwritten.
 

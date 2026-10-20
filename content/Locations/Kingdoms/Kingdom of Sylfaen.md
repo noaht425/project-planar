@@ -23,7 +23,7 @@ Sylfaen took in some of the dragonborn who were banished from Geno after the bre
 
 ## Government
 
-Sylfaen is ruled by a king.
+Sylfaen is ruled by King Dawir. His name comes from the same root as the capital's, d-w-r, to guard. He is a boarfolk, and the law files him as Snouted.
 
 ## Language
 
@@ -57,7 +57,5 @@ Sylfaen is the empire, and the mouth law is the detail that makes it one. It is 
 The Office of the Seal is where Sylfaen's imperial project and its language meet. Dzoa marking every foreign word as foreign is the same policy as the mouth law, applied to speech.
 
 ## Open
-
-The king's name is unwritten.
 
 Who built the Valley of the Colossi, and why Sylfaen honours the titans of a neighbouring people, is unwritten.

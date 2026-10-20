@@ -2,18 +2,20 @@
 type: location
 tags: [kingdom]
 locationType: kingdom
-summary: Part of the Troi Re (Drei Kunik), located in Arenis.
+summary: Part of the Trois Re (Drei Kunig), located in Arenis.
 ---
 
 Located in: [[Arenis]]
 
-Part of the [[Troi Re]] (Drei Kunik).
+Part of the [[Trois Re]] (Drei Kunig).
 
 Capital: [[Hekatania]]
 
+Ruler: Queen Ilse Vorhalt
+
 ## The Kingdom
 
-Starkon was founded on 8 Aucaela, 3 AM, the first of the three kingdoms of the [[Troi Re]].
+Starkon was founded on 8 Aucaela, 3 AM, the first of the three kingdoms of the [[Trois Re]].
 
 It is known everywhere for the [[Aravis Academy]] in Hekatania, the greatest school of magic on any of the planes. [[Hekate]] founded it in 154 AM as a school for local children and made it a university in 157 AM, two days after she ascended. It has about fifty thousand students at any given time, and most of what the mortal world knows about [[Arcanis]] was learned there.
 
@@ -21,7 +23,7 @@ Starkon hosted [[Eltarien's Extraplanar Extravaganza]] in 702 AM.
 
 ## Government
 
-The ruler of Starkon is unwritten.
+Starkon is ruled by Queen Ilse Vorhalt.
 
 ## Cities
 
@@ -29,7 +31,7 @@ The ruler of Starkon is unwritten.
 
 The other cities are **[[Avonis]]** and **[[Fernstadt]]**.
 
-> *Half the houses in Hekatania let rooms to students, and every landlady I met had a rule about magic indoors. Mine allowed cantrips in the daytime and nothing at all after dark, and there was a bucket of sand outside every door to show she meant it.*
+> *Half the houses in Hekatania let rooms to students, and every landlady I met had a rule about magic indoors. Mine allowed cantrips in the daytime and nothing at all after dark. There was a scorch mark on the ceiling of my room from the last tenant, and she showed it to me before she showed me the bed.*
 
 ## History
 - 8 Aucaela, 3 AM: Founded
@@ -39,7 +41,5 @@ The other cities are **[[Avonis]]** and **[[Fernstadt]]**.
 Starkon is where the campaign begins, and the page is written to be easy to start in. It is prosperous, it is allied, and it has the Academy, which gives every kind of character a reason to be in the capital.
 
 ## Open
-
-The ruler is unwritten.
 
 What Avonis and Fernstadt are like is unwritten.

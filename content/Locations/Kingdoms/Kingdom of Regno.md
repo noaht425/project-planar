@@ -5,7 +5,7 @@ locationType: kingdom
 summary: ''
 ---
 
-Part of the [[Troi Re]]
+Part of the [[Trois Re]]
 
 Located In: [[Arenis]]
 
@@ -15,7 +15,7 @@ Ruler: [[XLZL]]
 
 ## The Kingdom
 
-Regno was founded on 17 Aucaela, 3 AM, on the same day as [[Kingdom of Mathair|Mathair]], and it is the third kingdom of the [[Troi Re]].
+Regno was founded on 17 Aucaela, 3 AM, on the same day as [[Kingdom of Mathair|Mathair]], and it is the third kingdom of the [[Trois Re]].
 
 It is the home kingdom of the brothers [[Orcus]] and [[Loime]], both of whom ascended.
 

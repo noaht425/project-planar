@@ -2,12 +2,12 @@
 type: location
 tags: [kingdom]
 locationType: kingdom
-summary: Part of the Troi Re, located in Arenis.
+summary: Part of the Trois Re, located in Arenis.
 ---
 
 Located in: [[Arenis]]
 
-Part of the [[Troi Re]].
+Part of the [[Trois Re]].
 
 Capital: [[Omphalos]]
 
@@ -15,7 +15,7 @@ Ruler: Queen [[Palas Arakol]]
 
 ## The Kingdom
 
-Mathair was founded on 17 Aucaela, 3 AM, on the same day as [[Kingdom of Regno|Regno]], and it is one of the three kingdoms of the [[Troi Re]].
+Mathair was founded on 17 Aucaela, 3 AM, on the same day as [[Kingdom of Regno|Regno]], and it is one of the three kingdoms of the [[Trois Re]].
 
 Its capital, Omphalos, claims to be the most central point in the world. Nobody has successfully disputed the claim and nobody has entirely proved it.
 
