@@ -7,7 +7,7 @@ summary: >-
 locationType: plane
 ---
 
-One of the seven domains of [[Iris]], held by [[Grixt]]. For how names, bargains and debts work in the fey realms, see [[Iris]] and [[High Fae]].
+One of the seven domains of [[Iris]], held by [[Grixt]]. For how names and bargains work in the fey realms, and what is owed under them, see [[Iris]] and [[High Fae]].
 
 ## The Domain
 

@@ -40,8 +40,8 @@ She wants the court moved to her quarter, has proposed it four times, and will p
 
 ## Design Notes
 
-Esta is the archfey to use when the party needs an invitation rather than a bargain. She will bring them in because the room is more fun with them in it, and she will not protect them once they are there.
+Use Esta when the party needs an invitation instead of a bargain. She will bring them in because the room is more fun with them in it, and she will not protect them once they are there.
 
-The thing she does not know about Eurus is the hook. It is a secret held by a wind rather than by a fey, so it is obtainable from the wrong direction entirely, and a party that learns it in [[Ventis]] is carrying something an archfey will pay for.
+Esta does not know about the winds' plan. The secret is held by a wind, so it can be found out from the wrong direction entirely, and a party that learns it in [[Ventis]] is carrying something an archfey will pay for.
 
-Putting her contempt for Verna's betrothal in public is what makes her a sister rather than a personality. She is not cruel about it. She has simply never had to consider that her own freedom was luck.
+Her contempt for Verna's betrothal is public, and it is not cruel. She has simply never had to consider that her own freedom was luck.

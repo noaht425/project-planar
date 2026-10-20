@@ -16,7 +16,7 @@ Member of the [[Dragons]].
 
 ## Appearance
 
-Vari (VA-ree) was a thunder dragon, and the accounts are about sound rather than about the body. People in the air realm describe knowing Vari had arrived before anything was visible.
+Vari (VA-ree) was a thunder dragon, and the accounts describe the sound of Vari more than the body. People in the air realm describe knowing Vari had arrived before anything was visible.
 
 ## Manner
 
@@ -34,7 +34,7 @@ What Vari wanted is not recorded anywhere I could reach, and the dragons who wou
 
 ## Design Notes
 
-Vari is deliberately the thinnest page of the ten, and the thinness is the content. The surviving dragons will not talk about this one, which is the only subject on which all eight are consistent.
+Vari's page is the thinnest of the ten and should stay that way. The surviving dragons will not talk about Vari, and it is the only subject on which all eight agree.
 
 That gives a DM a reason for a party to be the ones who find out, and it means the resurrection has a second payoff beyond the return of a power: somebody will finally have to say what Vari was.
 

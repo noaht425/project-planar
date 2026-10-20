@@ -56,7 +56,7 @@ Friendship in the plain sense. A worshipper or warlock of Cleome is expected to 
 
 ## Design Notes
 
-Cleome is care without softness, and the staring is how a party should meet her first. She is kind, she is right, and she was in the room before anyone noticed.
+Cleome is care without softness, and the staring is how a party should meet her first. She is kind and usually right, and she is often in the room before anyone has noticed her.
 
 Her ascension is her domain in action. She did not seek godhood for herself. She went because a friend was going, and then she went back for the other two.
 

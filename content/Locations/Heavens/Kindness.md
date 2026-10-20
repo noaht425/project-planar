@@ -6,7 +6,7 @@ summary: >-
 locationType: plane
 ---
 
-One of the six heavens of [[Iudis]], ruled by [[Neema]]. For how reward, cost and travel work across the afterlives, see [[Iudis]].
+One of the six heavens of [[Iudis]], ruled by [[Neema]]. For how reward and its cost work across the afterlives, and how to travel between them, see [[Iudis]].
 
 A warm, well lit country of small towns with the doors standing open. People come out onto the road to meet anyone arriving.
 

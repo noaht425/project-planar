@@ -6,7 +6,7 @@ summary: >-
 locationType: plane
 ---
 
-One of the six hells of [[Iudis]], ruled by [[Archon]]. For how punishment, standing and travel work across the afterlives, see [[Iudis]].
+One of the six hells of [[Iudis]], ruled by [[Archon]]. For how punishment and standing work across the afterlives, and how to travel between them, see [[Iudis]].
 
 The hell is cut down into the rock in tiers. The galleries near the surface are dry and lit and reasonably comfortable, and they belong to souls who have climbed. Each tier below is hotter, wetter and lower than the one above it. Arrivals start at the bottom.
 

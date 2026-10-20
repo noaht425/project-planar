@@ -32,9 +32,9 @@ Of the five lords this is the one that will talk at length, and the subject is a
 
 Vetur wants the arrangement complete, which means everything that has sunk accounted for and in position, and the realm keeps producing more.
 
-Vetur wants [[Charis]] back in the water. Charis travels, collects the dead from everywhere, and keeps them somewhere other than the trench, and Vetur regards this as a hoard being built out of material that belongs in the arrangement. The two have not resolved it in three thousand years.
+Vetur wants [[Charis]] back in the water. Charis travels, collects the dead from everywhere, and keeps them somewhere other than the trench, and Vetur regards this as a hoard being built out of material that belongs in the arrangement. The two have never resolved it.
 
-Vetur wants [[Afthor]] dead with the rest of them, and is the least urgent about it.
+Of the eight, Vetur is the least urgent about [[Afthor]].
 
 ## What It Asks
 
@@ -42,11 +42,11 @@ Vetur asks for the recovery of things that went down and were not accounted for,
 
 ## Design Notes
 
-Vetur is the dragon to go to when something is lost, and the answer will be yes, it is here, and no, you cannot have it.
+When something is lost, a party goes to Vetur, and the answer will be yes, it is here, and no, you cannot have it.
 
 The empty place in the row is the image that explains the character. One thing has been given back in nine thousand years and the gap was never closed.
 
-The quarrel with Charis is the only dispute between a lord and its own second, and it is about collection policy rather than about loyalty, which keeps it in character for both.
+The quarrel with Charis is the only dispute between a lord and its own second, and it is about collection policy, which keeps it in character for both.
 
 ## Stat Block
 

@@ -6,7 +6,7 @@ summary: >-
 locationType: plane
 ---
 
-One of the six heavens of [[Iudis]], ruled by [[Verita]]. For how reward, cost and travel work across the afterlives, see [[Iudis]].
+One of the six heavens of [[Iudis]], ruled by [[Verita]]. For how reward and its cost work across the afterlives, and how to travel between them, see [[Iudis]].
 
 There are no walls in Truth and nothing casts a shadow. The air is clear to the horizon in all directions and a soul can see the whole of the place from wherever it happens to be standing.
 

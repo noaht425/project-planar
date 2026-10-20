@@ -19,7 +19,7 @@ The seat is inside An Cionn Mór, the skull large enough to hold a city, which i
 
 Alsa is quiet, exact and uninterested in being liked. The other archfey keep Alsa at arm's length for not being pleasant to look at, along with [[Grixt]], and this has not cost Alsa an inch of territory.
 
-Nothing decays in Bone. What a creature was in life stays legible in what is left of it, long after the creature is gone, which makes the domain the best archive in the fey realms. Alsa reads it. That is the work, and Alsa has been doing it without interruption for three thousand years.
+Nothing decays in Bone. What a creature was in life stays legible in what is left of it, long after the creature is gone, which makes the domain the best archive in the fey realms. Alsa reads it, and has done so without interruption for as long as Alsa has held the domain.
 
 Conversation with Alsa consists of being asked precise questions and receiving no reaction to the answers.
 
@@ -27,7 +27,7 @@ Conversation with Alsa consists of being asked precise questions and receiving n
 
 ## Goals
 
-Alsa wants a seat at court, and intends to be given it rather than to ask.
+Alsa wants a seat at court, and intends to be given it without asking.
 
 Bone holds everything that has died in the fey realms, and that includes things the other six would prefer were not legible. Alsa knows what is in the deeper layers, has known for some time, and has said nothing to anyone.
 
@@ -35,14 +35,14 @@ What is in there has not been settled in full. One of them is the body that An C
 
 ## Design Notes
 
-Alsa is the blackmail that has not been used yet, and the restraint is the character. Three thousand years of holding evidence and waiting to be invited.
+Alsa has held the evidence for millennia without using it, and is still waiting to be invited.
 
-The archive is the mechanic worth having at a table. Anything that died in Iris can be read in Bone, which gives a party a way to answer a question nobody living will answer, and the price of asking is that Alsa learns they wanted to know.
+Anything that died in Iris can be read in Bone, which gives a party a way to answer a question nobody living will answer. The price of asking is that Alsa learns they wanted to know.
 
-Being excluded for appearance, alongside Grixt, is the one thing the other five archfey do that is simply petty, and it should stay petty rather than being given a deeper reason.
+Being excluded for appearance, alongside Grixt, is simply petty on the part of the other five archfey, and nobody should find a deeper reason for it.
 
 ## Open
 
-What the deeper layers hold is deliberately unwritten and should be filled with whatever the campaign needs buried.
+What the deeper layers hold is unwritten, and should be filled with whatever the campaign needs buried.
 
 No stat block yet.

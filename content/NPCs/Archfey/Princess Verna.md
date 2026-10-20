@@ -20,7 +20,7 @@ Verna (VER-na) is a winter eladrin. The snow in her quarter has never stopped fa
 
 Verna is the most capable of Thera's children and the one who speaks least at court. Her quarter runs on logistics: the roads through the drifts are kept open out of Clúmhrach and the tolls for them are the quarter's income, and she personally sets the rates.
 
-She is cold in manner as well as in domain, which everyone treats as the same fact and which is not. She is patient, she is exact, and she keeps her word to the letter in a family where that is not standard.
+She is cold in manner as well as in domain, and people assume the one explains the other. She is patient and exact, and she keeps her word to the letter in a family where that is not standard.
 
 Nobody in Fuairlanea will say out loud that she wants out of her betrothal, anywhere it might be repeated. In a fey realm, where a spoken thing has weight, a whole territory agreeing to silence is a considerable undertaking, and she did not ask them for it.
 
@@ -42,6 +42,6 @@ She knows that [[Princess Esta]]'s courtship of [[Eurus]] is the same arrangemen
 
 Verna is the best hire in Iris for a party that needs something done properly, and her price is always the same thing.
 
-The constraint is what makes her usable. She cannot cheat her way out, so the only solutions are ones where Boreas is the one who fails the terms, and the winds have a plan running that might do exactly that on its own.
+She cannot cheat her way out, so the only solutions are ones where Boreas is the one who fails the terms, and the winds have a plan running that might do exactly that on its own.
 
 A party that gets her out of this has an archfey who owes them and who pays debts, which is rare enough in the setting to be worth a campaign arc.

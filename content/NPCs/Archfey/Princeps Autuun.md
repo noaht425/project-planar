@@ -18,7 +18,7 @@ Autuun (OW-toon) is an autumn eladrin, caught in the middle of turning the way t
 
 ## Manner
 
-Autuun says very little and is the only one of Thera's children whose quarter has no romance, no feud and no public business attached to it. This is deliberate.
+Autuun says very little, and has made sure that the autumn quarter has no romance or feud attached to it.
 
 Buainlis holds the domain's harvest stores. Everything the other three quarters eat through their own permanent season comes out of those stores, because spring never fruits, summer burns what it grows and winter grows nothing at all. Autuun sets what leaves the warehouses and when.
 
@@ -30,7 +30,7 @@ They are scrupulously fair about it, which is why nobody has ever moved against 
 
 Autuun intends to succeed [[King Thera]], and is the only one of the four pursuing it on purpose.
 
-Their reasoning is that the centre goes to whoever the domain cannot do without, and they have spent three thousand years making that true. Autumn is the quarter that is already in the middle of turning, which they consider the closest any of the four can come to the thing their father is.
+Their reasoning is that the centre goes to whoever the domain cannot do without, and they have spent a very long time making that true. Autumn is the quarter that is already in the middle of turning, which they consider the closest any of the four can come to the thing their father is.
 
 They have not said this to anyone. The harvest allocations are the campaign.
 
@@ -39,11 +39,11 @@ They have not said this to anyone. The harvest allocations are the campaign.
 
 ## Design Notes
 
-Autuun is the quiet one who is winning, and the fact that the other three siblings each have a loud personal problem is what the design is for. Three of Thera's children are busy and one is buying the domain.
+Autuun is quietly winning. The other three siblings each have a loud personal problem, and while they are busy with it, Autuun is buying the domain.
 
-Being genuinely fair with the stores is the important part. There is nothing to expose. A party that wants to stop this has to argue that fairness over three thousand years is itself a strategy, in front of a court that has eaten well the whole time.
+Autuun is genuinely fair with the stores, so there is nothing to expose. A party that wants to stop this has to argue that centuries of fairness are themselves a strategy, in front of a court that has eaten well the whole time.
 
-Autuun is the patron for a warlock whose bargain is about patience and supply, and the terms will be exactly as stated and never improved.
+A warlock of Autuun makes a bargain about patience and supply, and the terms will be exactly as stated and never improved.
 
 ## Open
 

@@ -39,11 +39,11 @@ None of the four is working for Grixt as far as they know.
 
 ## Design Notes
 
-Grixt is the conspiracy at the centre of the setting, and the point is that Grixt is a pleasant old man in a mushroom forest whom nobody at court will sit next to.
+Grixt is behind the conspiracy at the centre of the setting, and appears as a pleasant old man in a mushroom forest whom nobody at court will sit next to.
 
-The Orcus gift is the model for how Grixt operates. Grixt does not act. Grixt gives someone else exactly the thing they need for their own reasons, and three thousand years later death has changed hands and no part of it points back to Rot.
+The Orcus gift is the model for how Grixt operates. Grixt does not act. Grixt gives someone else exactly the thing they need for their own reasons, and death has changed hands without any part of it pointing back to Rot.
 
-Keeping the exclusion unmentioned by Grixt is the restraint that makes it work. The other archfey have been rude to the one being who is dismantling the cosmos, for three thousand years, and Grixt has let them.
+Grixt never mentions the exclusion. The other archfey have been rude for millennia to the one being who is dismantling the cosmos, and Grixt has let them.
 
 ## Open
 

@@ -16,7 +16,7 @@ Member of the [[Ascendant Gods]] and the [[Archfey]].
 
 ## Appearance
 
-Indri (IN-dree) has a pale face, pure black eyes and silver freckles. [[Tiyanak]] has worn that face in the fey realms for three thousand years and the domain has no memory of any other.
+Indri (IN-dree) has a pale face, pure black eyes and silver freckles. [[Tiyanak]] has worn that face in the fey realms for nearly four thousand years and the domain has no memory of any other.
 
 As the Mad God he keeps the same face, under a dark cloak, with razor teeth.
 
@@ -52,7 +52,7 @@ Campaign start is 702 AM.
 
 Indri is two years out of a dark cave at the point the campaign begins, which is the reason the timeline puts the escape where it does. Everything about him is recent and nothing about him is settled.
 
-The thing that makes him usable rather than simply a monster is that he is right. He has been robbed, the thief is wearing his face, and nobody who could do anything about it knows.
+He is more than a monster because he is right. He has been robbed, the thief is wearing his face, and nobody who could do anything about it knows.
 
 He is the one being of this rank whose goals a party can satisfy cheaply. Telling him the truth costs nothing and does an enormous amount of damage, which is the decision to put in front of them.
 

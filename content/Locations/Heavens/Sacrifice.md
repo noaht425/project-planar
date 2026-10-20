@@ -6,7 +6,7 @@ summary: >-
 locationType: plane
 ---
 
-One of the six heavens of [[Iudis]], ruled by [[Gwenhael]]. For how reward, cost and travel work across the afterlives, see [[Iudis]].
+One of the six heavens of [[Iudis]], ruled by [[Gwenhael]]. For how reward and its cost work across the afterlives, and how to travel between them, see [[Iudis]].
 
 Long bright halls lined with storehouses, with tables set out in front of them. What a soul gave up is brought out and laid where that soul can come and collect it.
 

@@ -18,13 +18,13 @@ Three of the seconds were made with outside help. [[Brilis]] was made by [[Pyrrh
 
 Two were made without assistance. [[Okzu]] made [[Amol]] alone and [[Zaros]] made [[Vari]] alone.
 
-The unassisted line holds the collaborations to be lesser dragons and says so. It has never come to anything beyond that, because the collective business of the dragons has been more pressing than the quarrel for three thousand years.
+The unassisted line holds the collaborations to be lesser dragons and says so. It has never come to anything beyond that, because the collective business of the dragons has always been more pressing.
 
 > *I sat in on one meeting, about the storm and about Afthor. Lineage was raised twice before anyone reached the storm, both times by the same dragon, and both times the rest waited politely for it to finish. Okzu was keeping the minutes and wrote down how long it took.*
 
 ## What They All Want
 
-[[Afthor]] killed [[Zaros]] and [[Vari]], drank their blood and took the realm of air, and he does not keep it. All eight surviving dragons intend to kill him and take the realm back. This is one plan rather than eight.
+[[Afthor]] killed [[Zaros]] and [[Vari]], drank their blood and took the realm of air, and he does not keep it. All eight surviving dragons intend to kill him and take the realm back. They are working on it together.
 
 They also intend to bring Zaros and Vari back. The two are dead and they are not gone for good. [[Okzu]] is running that effort.
 
@@ -47,7 +47,7 @@ Each dragon collects a different thing, and helping a patron add to its hoard is
 
 ## Design Notes
 
-The hoard being the seat of power is what separates the dragons from the [[Wind Gods|winds]] and the [[Archfey|archfey]], who hold courts. A dragon does not want to be obeyed. It wants to be added to, which gives any party dealing with one a task rather than an oath.
+The hoard being the seat of power is what separates the dragons from the [[Wind Gods|winds]] and the [[Archfey|archfey]], who hold courts. A dragon wants to be added to, so a party that deals with one is given a task to carry out.
 
 The collaboration prejudice is the dragons' internal politics and it should stay petty. It has produced no violence in three thousand years and it comes up constantly.
 

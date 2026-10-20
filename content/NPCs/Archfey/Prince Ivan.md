@@ -35,8 +35,8 @@ He has begun to suspect that his father's succession problem and his own marriag
 
 ## Design Notes
 
-Ivan and Hakea are the setting's one straightforwardly sympathetic obstacle. Two people who want to marry, both of whom are archfey, and the thing in the way is the metaphysics of a territory rather than anybody's objection.
+Ivan and Hakea are the setting's one straightforwardly sympathetic obstacle. Two people who want to marry, both of whom are archfey, and what stands in the way is the metaphysics of a territory. Nobody objects.
 
-A party can actually solve this, which is why it is here. It requires something that makes a thing in spring finish, and Lush has exactly one such place in Caoirlain.
+A party can actually solve this. It requires something that makes a thing in spring finish, and Lush has exactly one such place in Caoirlain.
 
 He is the right patron for a warlock whose bargain is about starting rather than finishing, and the price of his patronage is that it never quite pays off on its own.

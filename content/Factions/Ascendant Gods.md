@@ -29,7 +29,7 @@ Every one of them was a person with a family, a history and a reason. Most of th
 | [[Loime]] | Plague|
 | [[Indri]] | Vengeance |
 
-> *Most of the ascendants I met told me how they had done it before I had a chance to ask. The titans were the exception, and told me, separately and at length, that they had always been gods.*
+> *Most of the ascendants I met were happy to tell me that they had done it, and very few would tell me how. The titans were the exception, and told me, separately and at length, that they had always been gods.*
 
 ## The Titans
 
@@ -54,4 +54,4 @@ Afthor alone has added to what he was given. He killed [[Zaros]] and [[Vari]] an
 
 Their lives in Agra rhyme with their lives in Titan rather than matching them. Nothing from that campaign is automatically canon here, and details from it should not be imported into Agra without deciding to. Their mortal families are gone.
 
-The ascendants are the one group of powers a party could realistically join. The process is written down, it is not forbidden, and the only thing stopping anyone is that most attempts kill the person making them.
+The ascendants are the one group of powers a party could realistically join. The method can be pieced together from the notes of those who have done it and nobody forbids it. Finding the notes is the first obstacle, and the second is that most attempts kill the person making them.

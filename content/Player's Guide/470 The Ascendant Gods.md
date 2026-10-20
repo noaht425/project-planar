@@ -11,7 +11,7 @@ summary: >-
 
 Mortals who performed the ascension and became gods. They are the newest powers in the world, the least bound by old arrangements, and the most likely to say yes to somebody like you.
 
-The process is not secret. Find a source of power, obtain a relic, and channel one through the other while consuming part of the source. Many have tried. Most died.
+The process is not widely known. A few of the people who managed it kept notes, and if you can find enough of them and piece them together it can be done, though most of the gods got there some other way. What the notes describe is finding a source of power, obtaining a relic, and channelling one through the other while consuming part of the source. Many have tried. Most died.
 
 Every one of them was a person first. They have been gods long enough now that the people who knew them that way are gone, which is worth remembering if you are thinking of asking one about their family.
 

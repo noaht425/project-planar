@@ -7,7 +7,7 @@ summary: >-
 locationType: plane
 ---
 
-One of the seven domains of [[Iris]], held by [[King Thera]]. For how names, bargains and debts work in the fey realms, and what that means for a mortal standing in one, see [[Iris]] and [[High Fae]].
+One of the seven domains of [[Iris]], held by [[King Thera]]. For how names and bargains work in the fey realms, and what is owed under them, and what that means for a mortal standing in one, see [[Iris]] and [[High Fae]].
 
 Seasons is four territories with a fifth at the centre. Each of the four is ruled by one of Thera's children and is permanently and perfectly its own season. The centre is the only ground in the domain where a season changes into another one.
 

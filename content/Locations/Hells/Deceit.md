@@ -6,7 +6,7 @@ summary: >-
 locationType: plane
 ---
 
-One of the six hells of [[Iudis]], ruled by [[Tiyanak]]. For how punishment, standing and travel work across the afterlives, see [[Iudis]].
+One of the six hells of [[Iudis]], ruled by [[Tiyanak]]. For how punishment and standing work across the afterlives, and how to travel between them, see [[Iudis]].
 
 The caverns are glass, lit in colours, and the walls hand a soul back its own reflection from angles it did not expect. Distance cannot be judged by eye anywhere in it. The whole place is dressed like a fairground.
 

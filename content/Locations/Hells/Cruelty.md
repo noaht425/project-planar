@@ -6,7 +6,7 @@ summary: >-
 locationType: plane
 ---
 
-One of the six hells of [[Iudis]], ruled by [[Abaddon]]. For how punishment, standing and travel work across the afterlives, see [[Iudis]].
+One of the six hells of [[Iudis]], ruled by [[Abaddon]]. For how punishment and standing work across the afterlives, and how to travel between them, see [[Iudis]].
 
 The hell is a great many small rooms, each fitted out for its purpose, opening off tunnels that run further than anyone has troubled to map.
 

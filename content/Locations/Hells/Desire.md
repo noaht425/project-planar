@@ -6,7 +6,7 @@ summary: >-
 locationType: plane
 ---
 
-One of the six hells of [[Iudis]], ruled by [[Lilien]]. For how punishment, standing and travel work across the afterlives, see [[Iudis]].
+One of the six hells of [[Iudis]], ruled by [[Lilien]]. For how punishment and standing work across the afterlives, and how to travel between them, see [[Iudis]].
 
 The hell is one enormous cavern with galleries cut into its walls, facing each other across an open gulf. Every soul can see into every other soul's quarters from its own. The lighting across the gulf is always better than the lighting at home.
 

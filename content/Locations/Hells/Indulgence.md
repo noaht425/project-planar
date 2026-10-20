@@ -6,7 +6,7 @@ summary: >-
 locationType: plane
 ---
 
-One of the six hells of [[Iudis]], ruled by [[Belphegor]]. For how punishment, standing and travel work across the afterlives, see [[Iudis]].
+One of the six hells of [[Iudis]], ruled by [[Belphegor]]. For how punishment and standing work across the afterlives, and how to travel between them, see [[Iudis]].
 
 The caverns are warm and close and the air in them is thick. Feast halls run one into the next, and there is no clean floor anywhere between them.
 

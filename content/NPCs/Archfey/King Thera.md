@@ -22,7 +22,7 @@ He is the only being in his own domain that still turns.
 
 Thera is a king in the old sense: he hears quarrels and he rules on them, and he does not govern much else. The four quarters run themselves because none of the four rulers can alter what their own quarter is, so every dispute they bring him is about something other than the thing that is actually wrong.
 
-He is patient with this. He has been hearing variations of the same four complaints for three thousand years and he treats each one as new, which his children read as wisdom and which is closer to resignation.
+He is patient with this. He has been hearing variations of the same four complaints for millennia and he treats each one as new, which his children read as wisdom and which is closer to resignation.
 
 He is courteous to mortals and genuinely curious about them. Of the seven archfey he is the one most likely to grant an audience and least likely to want anything in exchange, which the other six consider a weakness and which is a fair assessment.
 
@@ -48,6 +48,6 @@ He does not know about [[Ius Primum]]. [[Atris]] and [[Hakea]] signed it without
 
 The whole of Seasons is one idea: four territories that cannot change, around a centre that is nothing except changing. Thera is the centre, so Thera is the only one of the eleven archfey with a structural problem rather than a personal one.
 
-Making him the approachable archfey is deliberate. A party needs one door into Iris that is not a trap, and his court is it, and the cost of using it is getting pulled into a succession dispute that none of the parties will name.
+He is the approachable archfey because a party needs one door into Iris that is not a trap. His court is that door, and the cost of using it is getting pulled into a succession dispute that none of the parties will name.
 
-Keeping him ignorant of Ius Primum is what makes the deal dangerous. The two archfey who signed it did so behind the one archfey who would have had to rule on it.
+His ignorance of Ius Primum makes the deal dangerous. The two archfey who signed it did so behind the one archfey who would have had to rule on it.

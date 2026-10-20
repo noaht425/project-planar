@@ -6,7 +6,7 @@ summary: >-
 locationType: plane
 ---
 
-One of the six hells of [[Iudis]], ruled by [[Lux]]. For how punishment, standing and travel work across the afterlives, see [[Iudis]].
+One of the six hells of [[Iudis]], ruled by [[Lux]]. For how punishment and standing work across the afterlives, and how to travel between them, see [[Iudis]].
 
 The halls begin at a great height and come down as they go in. A soul walking the length of one will be stooping by the middle of it and lower than that by the end. Doorways are cut to fit the soul expected to use them.
 

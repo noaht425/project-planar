@@ -34,19 +34,17 @@ Tenu wants the vault finished, which means the whole of the earth realm hollowed
 
 Tenu made [[Mens]] with the original [[Indri]], and the original Indri was murdered in 3,096 AF by something now wearing his face. Tenu has never been given an account of it that holds together, has said so once, and has not raised it since. What Tenu wants is the account.
 
-Tenu wants [[Afthor]] dead with the rest of them.
-
 ## What It Asks
 
 Tenu asks for the earth realm mapped. A warlock of Tenu surveys: what is under a place, how deep, and what is in it. Nothing is to be removed.
 
 ## Design Notes
 
-Tenu is the dragon who will give a party everything except the one thing they came for, and the refusal is never personal and never negotiable.
+Tenu will give a party everything except the thing they came for. The refusal is never personal and never negotiable.
 
-The hoard being the realm itself makes Tenu the only dragon whose hoard cannot be added to, which is why the brief is surveying. Counting is the only contribution available.
+Tenu's hoard is the realm itself, so nobody can add to it. Counting is the only contribution available, which is why the brief is surveying.
 
-Tenu's open question about the original Indri is the dragons' doorway into the [[Tiyanak]] plot, and it is the only thread the dragons have into it. Tenu asked once, got a bad answer, and stopped, which is in character and which means nobody has followed it up for three thousand years.
+Tenu's question about the original Indri is the dragons' only way into the [[Tiyanak]] plot. Tenu asked once, got a bad answer and stopped, so nobody has followed it up since.
 
 ## Stat Block
 

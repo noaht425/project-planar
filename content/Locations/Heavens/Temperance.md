@@ -6,7 +6,7 @@ summary: >-
 locationType: plane
 ---
 
-One of the six heavens of [[Iudis]], ruled by [[Blythe]]. For how reward, cost and travel work across the afterlives, see [[Iudis]].
+One of the six heavens of [[Iudis]], ruled by [[Blythe]]. For how reward and its cost work across the afterlives, and how to travel between them, see [[Iudis]].
 
 Terraces in open daylight, planted and kept, with the land stepping down in even stages. Everything served on them is portioned and nothing is heaped.
 

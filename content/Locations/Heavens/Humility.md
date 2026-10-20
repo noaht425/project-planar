@@ -6,7 +6,7 @@ summary: >-
 locationType: plane
 ---
 
-One of the six heavens of [[Iudis]], ruled by [[Pavlas]]. For how reward, cost and travel work across the afterlives, see [[Iudis]].
+One of the six heavens of [[Iudis]], ruled by [[Pavlas]]. For how reward and its cost work across the afterlives, and how to travel between them, see [[Iudis]].
 
 Low buildings of modest make standing in good light. The walls of every public space are given over to records of what the people living there actually did.
 

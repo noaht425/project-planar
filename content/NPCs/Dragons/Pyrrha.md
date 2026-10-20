@@ -34,8 +34,6 @@ She is the only dragon who has had a child with something that was not a dragon.
 
 Pyrrha wants everything fireproof in her realm inside her mountain, and she is close. What is left outside it is what she is working on, and most of what remains is in the seams where Fire meets the other four realms.
 
-She wants [[Afthor]] dead with the rest of them.
-
 She wants to know what [[Lux]] did with their son's siblings. Lux took every one of his other descendants into Pride and left Iras on the throne, and Pyrrha has never been given a reason.
 
 ## What She Asks
@@ -44,9 +42,9 @@ A warlock or an ally of Pyrrha brings her things that came through fire. Not val
 
 ## Design Notes
 
-Pyrrha is the patron for a player who wants a collection quest rather than a war, and the brief is unusually easy to hand out: anything that survived a fire, from anywhere, with its story.
+Pyrrha suits a player who wants a collection quest instead of a war, and the brief is easy to hand out: anything that survived a fire, from anywhere, with its story.
 
-Making her hoard worthless by any outside measure is the point. She is the dragon whose hoard cannot be stolen for profit and can be devastated by a single careless fire.
+Her hoard is worthless by any outside measure. Nobody can steal it for profit, and a single careless fire could devastate it.
 
 Her distance from Iras is the thread into the Geno plot. She is not estranged and she is not interested, and she has one question about his family that she would trade for.
 

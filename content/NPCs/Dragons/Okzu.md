@@ -20,7 +20,7 @@ Okzu (OK-zoo) is built heavy and low, scaled in the colours industrial runoff go
 
 ## Manner
 
-Okzu runs Noxia the way a crime baron runs a city, and he is good at it. The factory has never stopped. Nearly everyone in the realm owes him something, the debts are written down, they are inherited, and they are called in, which is how he holds a realm without ever sitting on a throne in it.
+Okzu runs Noxia the way a crime baron runs a city, and he is good at it. The factory has never stopped. Nearly everyone in the realm owes him something. The debts pass down through families and he calls them in, which is how he holds a realm without ever sitting on a throne in it.
 
 He is affable, he is fair by the terms he sets out, and he never alters a figure after the fact. He does not need to.
 
@@ -32,7 +32,7 @@ He made [[Amol]] alone and will mention it. Of the ten, he is the loudest on the
 
 Okzu is running the effort to bring [[Zaros]] and [[Vari]] back. The two are dead and are not gone for good, all eight surviving dragons want them returned, and Okzu is the one doing the work and keeping the account of who has contributed what.
 
-He wants [[Afthor]] dead with the rest of them, and he wants it done after the resurrection rather than before, so that Zaros can be there for it.
+He wants [[Afthor]] killed after the resurrection, so that Zaros can be there for it.
 
 He wants the debts collected, all of them, which is not a goal he expects to finish.
 
@@ -42,9 +42,9 @@ Okzu lends. A warlock of Okzu has taken on a debt rather than made a bargain, th
 
 ## Design Notes
 
-Okzu is the dragon a party will end up owing, and the design intent is that his terms are always honest and always worse than they looked.
+A party will end up owing Okzu. His terms are always honest and always worse than they looked.
 
-Making the ledger the literal hoard is what keeps him from being a generic crime boss. Forgiving a debt would reduce the hoard, so he cannot do it, and that is a constraint rather than a cruelty.
+The ledger is the literal hoard, so forgiving a debt would reduce it, and he cannot forgive one. That keeps him from being a generic crime boss.
 
 Putting him in charge of the resurrection gives the dragons' one collective project a manager, and it means every other dragon owes him for it, which is exactly where he wants them.
 

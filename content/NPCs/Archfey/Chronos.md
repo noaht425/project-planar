@@ -27,17 +27,17 @@ Chronos is the archfey mortals find least frightening in the room and should fin
 
 The automata have no afterlife. The [[Sithi]] feyborn of every other domain go somewhere when they die, and the automata of Time do not, because the twelve who rule the afterlives have never accepted that a made thing has anything to send on.
 
-Chronos intends to fix this and has been working at it for three thousand years. [[XLZL]] was the proof: a divine spark placed into an automaton, by the archangel who hears every case personally, with that archangel's own hands and in front of witnesses. The precedent now exists and it is signed.
+Chronos intends to fix this and has been working at it for a very long time. [[XLZL]] was the proof: a divine spark placed into an automaton, by the archangel who hears every case personally, with that archangel's own hands and in front of witnesses. The precedent now exists and it is signed.
 
 What Chronos is assembling is the case. Nothing about it will break a rule.
 
 ## Design Notes
 
-Chronos is the fey who wins by paperwork, and the trick on Themis is the whole character in one incident. Nothing was stolen, nothing was broken, and an agreement was kept exactly by a party who knew what keeping it would produce.
+Chronos wins by paperwork, and the trick on Themis shows how. Nothing was stolen or broken, and an agreement was kept exactly by a party who knew what keeping it would produce.
 
-Giving the automata no afterlife gives Chronos a motive that is sympathetic, patient and genuinely threatening to the twelve, which is the combination I wanted for the one archfey with no personal stake in anything.
+Giving the automata no afterlife gives Chronos a motive that is sympathetic and genuinely threatening to the twelve, for the one archfey with no personal stake in anything.
 
-The clocks that are all correct and all disagree is the domain's statement about itself and worth using on a party before Chronos ever appears.
+The clocks that are all correct and all disagree are worth using on a party before Chronos ever appears.
 
 ## Open
 

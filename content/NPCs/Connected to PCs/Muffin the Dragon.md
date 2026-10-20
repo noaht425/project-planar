@@ -50,7 +50,7 @@ Dragons are worshipped as gods in [[Arenis]]. A visible dragon in a city draws a
 
 Mens travels more than the dragon lords do, between the elemental realms and out into the other planes. Mens may notice. Mens may not care. See [[Tarkis]].
 
-[[Afthor]] killed two dragons and drank their blood to ascend. The method is public. See [[Ascension Process]].
+[[Afthor]] killed two dragons and drank their blood to ascend. The method can be pieced together by anyone who finds enough of the right notes. See [[Ascension Process]].
 
 ---
 

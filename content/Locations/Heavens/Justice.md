@@ -6,7 +6,7 @@ summary: >-
 locationType: plane
 ---
 
-One of the six heavens of [[Iudis]], ruled by [[Themis]]. For how reward, cost and travel work across the afterlives, see [[Iudis]].
+One of the six heavens of [[Iudis]], ruled by [[Themis]]. For how reward and its cost work across the afterlives, and how to travel between them, see [[Iudis]].
 
 Open plazas under a bright sky, with galleries running around them where the accounting is set out where anyone can walk up and read it.
 

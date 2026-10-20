@@ -38,7 +38,7 @@ The other cities are **[[Avonis]]** and **[[Fernstadt]]**.
 
 ## Design Notes
 
-Starkon is where the campaign begins, and the page is written to be easy to start in. It is prosperous, it is allied, and it has the Academy, which gives every kind of character a reason to be in the capital.
+Starkon is where the campaign begins, and the page is written to be easy to start in. It is prosperous and well allied, and the Academy gives every kind of character a reason to be in the capital.
 
 ## Open
 

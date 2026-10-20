@@ -18,9 +18,9 @@ Mens (MENS) is a psychic dragon and the hardest of the ten to describe, because 
 
 ## Manner
 
-Mens hoards knowledge and is the most methodical collector of the ten. Everything learned is kept, ordered and cross-referenced, and Mens does not distinguish between a great secret and a trivial fact, because a hoard is counted rather than valued.
+Mens hoards knowledge and is the most methodical collector of the ten. Everything learned is kept and cross-referenced, and Mens does not distinguish between a great secret and a trivial fact, because a hoard is counted rather than valued.
 
-Mens will trade. This is the one dragon that deals in information rather than in objects, and the rate is one thing for one thing, and the thing Mens gives back is always worth more than what was brought. Mens is aware of this and considers a bad rate the cost of the trade happening at all.
+Mens will trade. Mens is the only dragon that deals in information, and the rate is one thing for one thing, and the thing Mens gives back is always worth more than what was brought. Mens is aware of this and considers a bad rate the cost of the trade happening at all.
 
 Made with the original [[Indri]], which [[Amol]] brings up constantly, and which Mens has never once answered.
 
@@ -28,11 +28,11 @@ Made with the original [[Indri]], which [[Amol]] brings up constantly, and which
 
 ## Goals
 
-Mens wants all magical knowledge, and the wording is deliberate. Not most. The collection is the goal and it has no stopping point.
+Mens wants all magical knowledge. The collection is the goal and it has no stopping point.
 
 Mens wants to know what happened to the original [[Indri]]. Mens was made with him, the collection has a gap where he should be, and a gap is intolerable in a hoard that is counted. [[Tenu]] wants the account for a parent's reasons and Mens wants it to complete an entry, and the two have never worked on it together.
 
-Mens wants [[Afthor]] dead with the rest of them, and has been collecting on Afthor for fifty years.
+Mens has been collecting on [[Afthor]] for fifty years.
 
 ## What It Asks
 
@@ -40,9 +40,9 @@ Mens asks for knowledge, and will take anything: a secret, a map, a language, a 
 
 ## Design Notes
 
-Mens is the dragon for the party's researcher, and the terms make it the most playable patron of the ten: bring back what you learn, get back more than you gave. The cost is that Mens now has it.
+A party's researcher will get on with Mens, and the terms are the most playable of any dragon's: bring back what you learn, get back more than you gave. The cost is that Mens now has it.
 
-Making the exchange rate generous is deliberate. Mens is not hoarding to deny anyone. The copy Mens keeps is what matters, so giving the original away freely costs nothing.
+The exchange rate is generous because Mens is not hoarding to deny anyone. The copy Mens keeps is what matters, so giving the original away freely costs nothing.
 
 Mens and [[Tenu]] both want the truth about the original Indri, for unrelated reasons, and have never pooled it. A party that notices has a way to put a lord and a second to work on the same problem, which no other pair of dragons will do.
 

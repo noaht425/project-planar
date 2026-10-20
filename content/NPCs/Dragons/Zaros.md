@@ -18,13 +18,13 @@ Member of the [[Dragons]].
 
 ## Appearance
 
-Zaros (ZA-ros) is recorded as a blue dragon of enormous size who was almost never on the ground. The accounts agree that he was seen from below and at a distance, above the cities, and that this was deliberate.
+Zaros (ZA-ros) is recorded as a blue dragon of enormous size who was almost never on the ground. The accounts agree that he was seen from below and at a distance, above the cities, and that he meant to be seen that way.
 
 ## Manner
 
-Zaros collected cities. The realm of air was built up and busy under him for exactly that reason, and the building was encouraged, funded and protected, because a city was an addition to the hoard.
+Zaros collected cities. The realm of air was built up and busy under him for exactly that reason, and the building was funded and protected, because a city was an addition to the hoard.
 
-This made him the only dragon whose hoard required its contents to prosper. He is described as attentive, demanding and present, and the people of the air realm under him were the best off in [[Tarkis]].
+This made him the only dragon whose hoard required its contents to prosper. He is described as attentive and demanding, and the people of the air realm under him were the best off in [[Tarkis]].
 
 He made [[Vari]] alone and the two ruled together, which no other lord and second did.
 
@@ -38,9 +38,9 @@ The eight surviving dragons intend to return him and [[Vari]] both, and [[Okzu]]
 
 ## Design Notes
 
-Zaros is the setting's statement about what the dragons are capable of being. His realm was the richest and best governed in Tarkis, and the reason was a hoard that only grew if its contents thrived.
+Zaros shows what a dragon can be at its best. His realm was the richest and best governed in Tarkis, and the reason was a hoard that only grew if its contents thrived.
 
-Keeping him recoverable is the point. The resurrection is a live project with a manager and a cost, and a campaign that completes it has put a major power back on the board owing the party a debt.
+He can be brought back. The resurrection is a live project with a manager and a cost, and a campaign that completes it has put a major power back on the board owing the party a debt.
 
 What is waiting for him is the harder material. Fifty years of storm, the cities gone, the people poor, and the dragon who comes back is the one who collected cities.
 
