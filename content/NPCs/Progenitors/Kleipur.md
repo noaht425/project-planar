@@ -17,7 +17,7 @@ Member of the [[Progenitors]].
 
 ## Appearance
 
-Kleipur (KLY-pur) is a giant, the largest of the nine, and he was made first and out of more material than any of the others.
+Kleipur (KLAY-pur) is a giant, the largest of the nine, and he was made first and out of more material than any of the others.
 
 ## Manner
 

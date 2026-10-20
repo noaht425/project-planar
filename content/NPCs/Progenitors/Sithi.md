@@ -13,7 +13,7 @@ Member of the [[Progenitors]].
 
 ## Manner
 
-Sithi Yumboe (SITH-ee YUM-boh) made the [[Fae]] with the help of the [[Archfey]], and paid them with her name. Nobody has seen her since.
+Sithi Yumboe (SITH-ee YUM-boh-eh) made the [[Fae]] with the help of the [[Archfey]], and paid them with her name. Nobody has seen her since.
 
 Nobody knows where she is, or whether she is still alive.
 

@@ -16,7 +16,7 @@ Present at the [[Council of Creation]]
 
 ## Appearance
 
-Thean (THEE-an) is the most beautiful of the nine. Two horns curl back from her head until they almost close into a halo, and her eyes are pure gold speckled with black stars.
+Thean (THEY-an) is the most beautiful of the nine. Two horns curl back from her head until they almost close into a halo, and her eyes are pure gold speckled with black stars.
 
 ## Manner
 
