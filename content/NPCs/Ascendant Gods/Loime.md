@@ -15,7 +15,7 @@ Home Realm: [[Arenis]], from [[Kingdom of Regno]]
 
 ## Appearance
 
-Loime (LOY-mee) wears a black cloak and a plague doctor's mask and is not seen without either. A green spider a few inches across sits embedded in his chest, and it is alive.
+Loime (LOY-muh) wears a black cloak and a plague doctor's mask and is not seen without either. A green spider a few inches across sits embedded in his chest, and it is alive.
 
 ## Manner
 

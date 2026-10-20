@@ -33,7 +33,7 @@ His mother [[Pyrrha]] has never visited him. His father [[Lux]] took all of his 
 
 ## Ascension
 
-**Relic:** unwritten.
+**Relic:** the [[Hell's Fire Staff]].
 
 **Source:** unwritten.
 
@@ -58,6 +58,6 @@ The abdication is the hole worth leaving. Whatever made him give up Geno is the 
 
 Why he abdicated is unwritten.
 
-His relic and source are unwritten. As the child of two great powers, it may be that his ascension used his own blood.
+His source is unwritten. As the child of two great powers, it may be that his ascension used his own blood.
 
 What he has wanted since 419 AM is unwritten.

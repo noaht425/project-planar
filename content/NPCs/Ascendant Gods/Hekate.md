@@ -41,7 +41,7 @@ She is generous with everything she knows except the one thing everyone wants. S
 
 ## Ascension
 
-**Relic:** unwritten.
+**Relic:** [[Hekate's Spellbook]], which she made herself.
 
 **Source:** [[Arcanis]], siphoned. She forced a foothold into a realm that offers none, and the hole she left is still closing.
 
@@ -62,8 +62,6 @@ Hekate is the god a party can actually visit, in a building with a front door an
 Reading the silence as protective is my interpretation. It could as easily be pride, or a method she does not fully understand herself, and a DM should feel free to choose.
 
 ## Open
-
-Her relic is unwritten.
 
 Why she will not explain the route is open to the reading above.
 

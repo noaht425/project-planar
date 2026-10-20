@@ -32,13 +32,13 @@ Rebellion is his domain and the whole of his temperament. He does not accept tha
 
 He came closer than anyone has to taking the heavens, and the archangels could only stop him partway. The power he reached could not be taken back, so they bound it instead, and the [[Chains of Rebellion]] that [[Pavlas]] made to hold him have taken on his power rather than draining it.
 
-The archdevils do not pay attention to him, which he finds harder to bear than the chains.
+The archangels treat him as a nuisance, a devil not quite good enough to be counted among the archdevils. The archdevils do not pay attention to him at all, which he finds harder to bear than the chains.
 
 > *The archangels do not allow him to be called Septimus. I used the name once in Humility without thinking, and the attendant beside me corrected me so quietly that I did not notice until we had walked on. When I met him I called him Septimus anyway. He asked me to say it again.*
 
 ## Ascension
 
-**Relic:** unwritten.
+**Relic:** the [[Chains of Rebellion]]. [[Pavlas]] made them to hold him, and his power went into them instead, so the binding meant to stop him became the channel for what he is now.
 
 **Source:** the heavens, in an attempt that was stopped partway.
 
@@ -55,7 +55,7 @@ He still wants the heavens.
 
 ## Design Notes
 
-The title is the insult. There are six archangels, and the archangels call him the seventh: the one who would have been, numbered and kept outside.
+The title is the insult, and it works two ways. The archangels mean it as almost the seventh archdevil: one more evil little nuisance making trouble, and not even good enough at it to make the count. Underneath that is the count they do not mention. There are six archangels, and he very nearly made a seventh, and the name keeps him numbered and outside. They will not admit that he frightens them.
 
 His power being too great to remove and only possible to bind makes the chains the weak point of the arrangement. Anyone who takes them off him, or wears them, is dealing with what is left of an archangel.
 

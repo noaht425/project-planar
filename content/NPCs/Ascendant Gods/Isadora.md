@@ -17,7 +17,7 @@ Member of the [[Ascendant Gods]].
 
 ## Manner
 
-Isadora (iz-uh-DOR-uh) is the goddess of luck, fortune and misfortune both, and she plays with fate the way a cat plays with a ball of yarn.
+Isadora (ees-uh-DOR-uh) is the goddess of luck, fortune and misfortune both, and she plays with fate the way a cat plays with a ball of yarn.
 
 She is goofy, and most of what she does is play. She bats at outcomes to see where they will roll, and she will play any game with anyone. She is very good at all of them.
 

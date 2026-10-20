@@ -18,6 +18,48 @@ Race: Giantkin
 
 Member of the [[Ascendant Gods]].
 
+## Appearance
+
+Afthor (AF-thor) is a storm giant and the largest of the titans. Since he drank the blood of two dragons, lightning runs over him whenever he moves.
+
+## Manner
+
+Afthor is the cruellest of the titans. He has a sense of humour, and it is at its best when somebody is getting hurt.
+
+He is also lazy. He took the realm of air by killing [[Zaros]] and [[Vari]] and has never troubled to run it. He has not claimed the seat, he collects nothing, and he leaves the cities to manage as they can.
+
+He is overconfident, and so far he has got away with it. Every dragon in [[Tarkis]] and all four [[Wind Gods|winds]] want him dead, and he has not taken any of them seriously.
+
+[[Vato]] does what he says.
+
+> *Afthor let me put my questions to him while he lay on his back on a cloud bank with his eyes shut, and he answered most of them. When I asked why he had never taken Zaros's seat, he said it was a long way to walk. Then he dropped a bolt of lightning into the street below to show me how far it was. He laughed at where it landed, and told me I could put that in my book.*
+
+## Ascension
+
+**Relic:** the [[Storm Lord's Gauntlets]], infused with the blood of Zaros and Vari.
+
+**Source:** [[Kleipur]], given, and later the blood of Zaros and Vari, taken. He is the only titan to have added to what he was given, and it has made him the most powerful of the six.
+
+## Goals
+
+Afthor wants to be left alone to enjoy what he took, and he would quite enjoy anyone who tried to take it back.
+
+## Relationships
+
+- Killed [[Zaros]] and [[Vari]]
+- Hunted by the [[Dragons]] and the [[Wind Gods]]
+- Followed by [[Vato]]
+
+## Design Notes
+
+Afthor is the reason the realm of air is broken, and his laziness is why it stays that way. He took the most valuable hoard in Tarkis and could not be bothered to keep it.
+
+The overconfidence is the opening. Two separate groups of great powers are planning against him and he has not noticed, and a party can be the ones to make him notice at the worst possible moment.
+
+## Open
+
+Whether he knows the dragons are working to bring Zaros and Vari back is unwritten.
+
 ## Stat Block
 
 Huge Giant

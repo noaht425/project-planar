@@ -13,7 +13,7 @@ Member of the [[Ascendant Gods]].
 
 ## Appearance
 
-Thalia (THAY-lee-uh) is earthborn and carries the lyre [[Atris]] gave her.
+Thalia (THAH-lee-uh) is earthborn and carries the lyre [[Atris]] gave her.
 
 ## Manner
 

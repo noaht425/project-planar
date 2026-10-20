@@ -33,7 +33,7 @@ His younger brother [[Loime]] hates him for the help Grixt gave him. Orcus knows
 
 ## Ascension
 
-**Relic:** unwritten.
+**Relic:** the [[Throne of Death]]. He built it as the channel for his ascension and has ruled the dead from it since.
 
 **Source:** [[The King of Night]], stolen from with means supplied by [[Grixt]]. He is the only mortal to have stolen successfully from either King.
 
@@ -57,4 +57,4 @@ The [[Throne of Death]] is the object on this page a party is most likely to wan
 
 ## Open
 
-His relic, and when he ascended, are unwritten. What the next stage of the plan requires is open on [[Grixt]]'s page.
+When he ascended is unwritten. What the next stage of the plan requires is open on [[Grixt]]'s page.

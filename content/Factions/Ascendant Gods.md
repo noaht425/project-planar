@@ -26,8 +26,27 @@ Every one of them was a person with a family, a history and a reason. Most of th
 | [[Nausicaä]] | Unwanted children |
 | [[Isadora]] | Luck and games |
 | [[Iras]] | Formerly king of [[Kingdom of Geno|Geno]] |
+| [[Loime]] | Plague, taken from [[Grixt]] |
+| [[Indri]] | Vengeance |
 
-> *The oldest powers in this world were born into what they rule. The ascendants went and got it, and every one of them left a method behind that somebody else could follow. That is the part the Judgements find distasteful and it is the part I find interesting.*
+> *Most of the ascendants I met told me how they had done it before I had a chance to ask. The titans were the exception, and told me, separately and at length, that they had always been gods.*
+
+## The Titans
+
+The titans are the six elder giants, the first of the [[Giantkin]]. [[Kleipur]] gave them their power on 98 Aucaela, 1 AM, which makes them the oldest of the ascendants by a long way.
+
+All six are proud. They regard themselves as the original gods, which in a sense they are, and they do not like to be reminded that they were handed their ascension and did none of the work themselves. Each one fits the element of their kind.
+
+| Titan | Kind | Relic |
+| --- | --- | --- |
+| [[Afthor]] | Storm | [[Storm Lord's Gauntlets]] |
+| [[Gallum]] | Cloud | [[Gallum's Boots]] |
+| [[Kodren]] | Hill | [[Plate of the Rolling Hills]] |
+| [[Moto]] | Fire | [[Cloak of the Phoenix]] |
+| [[Sarma]] | Frost | [[Cloak of Frost]] |
+| [[Vato]] | Stone | [[Stone Helm]] |
+
+Afthor alone has added to what he was given. He killed [[Zaros]] and [[Vari]] and drank their blood, and it has made him the most powerful of the six.
 
 ## Design Notes
 
