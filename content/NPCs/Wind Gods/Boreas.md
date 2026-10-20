@@ -15,7 +15,7 @@ Boreas (BOR-ee-as) is the largest of the four and the only one who holds a singl
 
 ## Manner
 
-Cold, durable and harsh, and the three are a description of how he conducts himself rather than of how he feels. He is reliable. He says what he will do and then does it, at length, past the point where anyone wanted him to stop.
+Cold and harsh, which describes how he conducts himself more than how he feels. He is reliable. He says what he will do and then does it, at length, past the point where anyone wanted him to stop.
 
 He is the senior wind by temperament rather than by any rule, and the other three defer to him on the plan and on nothing else.
 
@@ -25,7 +25,7 @@ He is aware that [[Princess Verna]] wants out of their betrothal. He has not rel
 
 ## Goals
 
-Boreas intends to kill [[Afthor]] and take the elemental plane of air, along with the other three. It is one plan shared between them rather than four rival ones, and Boreas is the one holding it together.
+Boreas intends to kill [[Afthor]] and take the elemental plane of air, along with the other three. The four share one plan, and Boreas holds it together.
 
 He wants Afthor punished specifically, which is a separate thing from wanting the plane. [[Orcus]] has worked that out and is recruiting him on that basis, for the move against [[The King of Night]], and Boreas has not committed.
 
@@ -38,7 +38,7 @@ He has not decided what to do about Verna and gives every appearance of intendin
 
 Boreas is the one wind who would keep a bargain with a party, and the one least likely to offer a good one.
 
-The betrothal is the useful hook and the shape of it is the point: he is not holding her out of cruelty or affection. He has not got round to it, and three thousand years of not getting round to it is the same as holding her.
+The betrothal is the hook. He has not got round to releasing Verna, and centuries of not getting round to it amount to holding her.
 
 That he is wanted by two conspiracies at once, the winds' plan and Orcus's, makes him the pressure point in both. He is also the only one of the four with enough standing that his refusal would end the winds' plan outright.
 

@@ -19,7 +19,7 @@ A hundred arms come off the body. Most are occupied at any moment, carrying dish
 
 [[Baator]] meant to host, and Belphegor kept that half of it whole. He is the most pleasant of the archdevils to meet. He seats you and feeds you, and he asks after your family and remembers the answers.
 
-He does not permit a guest to leave. Indulgence as he rules it works by removing every reason to stop. The souls in his domain are not restrained and not guarded. They are never given a moment in which stopping would occur to them.
+He does not permit a guest to leave. Indulgence as he rules it works by removing every reason to stop. Nobody restrains or guards the souls in his domain. They are simply never given a moment in which stopping would occur to them.
 
 He takes no interest in combat and has never fought in one personally.
 
@@ -37,6 +37,6 @@ He is willing to wait several thousand more years.
 
 Belphegor is the archdevil a party is most likely to survive meeting and least likely to get away from. Nothing in his domain threatens anyone. The exit does.
 
-Taking "to host" from Baator and leaving it undamaged on the devil side was deliberate. His half is the original verb with nothing left to limit it.
+Belphegor took "to host" from Baator undamaged. His half is the original verb with nothing left to limit it.
 
 The reunification plan gives the archdevils a stated endgame, which the archangels have no answer to, and it gives a DM a reason for any archdevil to turn up somewhere it has no business being.

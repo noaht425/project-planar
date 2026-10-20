@@ -56,11 +56,11 @@ Friendship in the plain sense. A worshipper or warlock of Cleome is expected to 
 
 ## Design Notes
 
-Cleome is care without softness, and the staring is how a party should meet her first. She is kind and usually right, and she is often in the room before anyone has noticed her.
+Cleome cares without being soft, and a party should meet the staring first. She is kind and usually right, and she is often in the room before anyone has noticed her.
 
 Her ascension is her domain in action. She did not seek godhood for herself. She went because a friend was going, and then she went back for the other two.
 
-The orchid is the tension worth keeping. The god of friendship is bound to something that needs blood every day, and how she keeps it fed is a question a party can be asked to help with or can stumble on.
+The god of friendship is bound to something that needs blood every day, and how she keeps it fed is a question a party can be asked to help with or can stumble on.
 
 ## Open
 

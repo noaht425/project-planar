@@ -15,7 +15,7 @@ Trickery runs on rules. The rules are genuine, they can be worked out, and they 
 
 What the rules are for is the part that is never what it looks like. A visitor who plays well and wins on the terms offered has usually agreed to something else along the way, and the domain will hold them to that as scrupulously as it held itself to the game.
 
-Nothing here cheats. That is the first thing a mortal gets wrong about the place.
+Nothing here cheats, which mortals tend not to expect.
 
 **Gliceaslúbhar** (GLIH-kash-loo-var), the cunning ground, is the open country, and the paths across it are laid out so that every route is shorter than the one a traveller chose.
 
@@ -29,7 +29,7 @@ Nothing here cheats. That is the first thing a mortal gets wrong about the place
 
 The seat is a hall where petitions are heard and games are played, and the two are the same thing. A petitioner states a case and is offered a wager on it, and declining the wager is itself an answer.
 
-Indri appears with a pale face, pure black eyes and silver freckles. Whoever is currently appearing that way has held the domain for three thousand years.
+Indri appears with a pale face, pure black eyes and silver freckles. Whoever is currently appearing that way has held the domain since 3,096 AF.
 
 ## The Cities
 
@@ -72,7 +72,7 @@ The real Indri escaped the underworld in 700 AM and is loose in [[Arenis]] as a 
 
 ## Design Notes
 
-The domain never cheats, and that is what makes it dangerous. A party expecting to be lied to will defend against the wrong thing.
+The domain never cheats. A party expecting to be lied to will defend against the wrong thing.
 
 The mask being a use-name in law is the sharpest trap here, since it looks like shopping.
 

@@ -8,7 +8,7 @@ locationType: plane
 
 One of the six hells of [[Iudis]], ruled by [[Archon]]. For how punishment and standing work across the afterlives, and how to travel between them, see [[Iudis]].
 
-The hell is cut down into the rock in tiers. The galleries near the surface are dry and lit and reasonably comfortable, and they belong to souls who have climbed. Each tier below is hotter, wetter and lower than the one above it. Arrivals start at the bottom.
+The hell is cut down into the rock in tiers. The galleries near the surface are dry and lit and reasonably comfortable, and they belong to souls who have climbed. Each tier below is hotter and wetter than the one above it. Arrivals start at the bottom.
 
 Tyranny is a working society with a hard hierarchy, and every soul that arrives is placed at the bottom of it. The bottom is where the labour is and where the orders land.
 

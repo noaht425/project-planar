@@ -19,9 +19,9 @@ Blythe cannot hand anything to anyone and cannot eat, drink or speak aloud. All 
 
 [[Baator]] meant to welcome a guest. [[Belphegor]] took the serving of the guest and Blythe took the deciding, which left Blythe able to determine what anyone may have and unable to pass it to them.
 
-Temperance in Blythe's domain is not abstinence. The blessed there are given exactly what is sufficient and no more, measured individually, and the measuring is never wrong. People who arrive after hard lives find this unbearable for about a decade and then stop noticing.
+In Blythe's domain, temperance means being given exactly what is sufficient and no more, measured individually, and the measuring is never wrong. People who arrive after hard lives find this unbearable for about a decade and then stop noticing.
 
-Blythe does not negotiate. The writing is slow, it is ornate in the way all archangel writing is, and a conversation of any substance takes days.
+Blythe does not negotiate. The writing is slow and ornate, as all archangel writing is, and a conversation of any substance takes days.
 
 > *My question to Blythe was whether I could stay in Temperance longer than I had been granted, and I watched the answer begin to form in the air. Each letter took long enough that between them I had time to think about what I had asked for and to grow less sure that I wanted it. The answer ran to six words and took most of a day. I left before the last one hardened. An attendant caught me at the door with the finished slate, and I have never read it.*
 
@@ -33,11 +33,11 @@ Blythe is also the archangel most insistent that the [[Divine War]] ended too ea
 
 ## Design Notes
 
-The physical design is the domain: all the judgement and none of the means. Blythe sees everything, decides everything, and cannot lift a finger.
+Blythe's body is the domain: all the judgement and none of the means. Blythe sees and decides everything and cannot lift a finger.
 
-The pace is the usable part at the table. A party that needs something from Temperance has to budget days for it, and the delay does the work on them that an argument would not.
+A party that needs something from Temperance has to budget days for it, and the delay does the work on them that an argument would not.
 
-Blythe holding the hardest line on the Omens, while being the one who physically cannot act, is the tension to keep. Blythe needs someone else's hands and the other five know it.
+Blythe holds the hardest line on the Omens and is the one archangel who physically cannot act on it. Blythe needs someone else's hands and the other five know it.
 
 ## Open
 

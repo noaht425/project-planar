@@ -51,7 +51,7 @@ A game. Anyone who wants her favour has to play her for it, and she picks the ga
 
 ## Design Notes
 
-Isadora is fun to run, and the solemn face is the tool. A DM should play the sincerity completely straight until the party has agreed to the wager.
+Isadora is fun to run. A DM should play the sincerity completely straight until the party has agreed to the wager.
 
 Her quarrel with the Scholarchs gives her a real stake in the setting. She is the one god who wants the future uncertain, against three beings who exist to keep it in order.
 

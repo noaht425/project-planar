@@ -46,9 +46,9 @@ Kumas is ruled by Kelvari, addressed in Low Fae as A Chelvari.
 
 ## Design Notes
 
-Kumas is the other side of Thalanea's grievance, and it should be likeable. The fae of Kumas did not sign Ius Primum and do not know its terms either, and they have spent six centuries being blamed for it by their former neighbours.
+Kumas should be likeable. The fae of Kumas did not sign Ius Primum and do not know its terms either, and they have spent six centuries being blamed for it by their former neighbours.
 
-The missing word for thanks is the most useful thing on the page at a table. Any party that is polite in Kumas is running up debts.
+Any party that is polite in Kumas is running up debts, because the language has no word for thanks.
 
 ## Open
 

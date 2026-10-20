@@ -17,7 +17,7 @@ He is not in [[Nullis]] either, and unlike [[Eos]] he has not been seen anywhere
 
 ## Manner
 
-There is nothing to report and I want to be clear that this is the finding rather than a gap in my work. I have looked for him in eight planes and three thousand years of records. He stops in 3,096 AF.
+There is nothing to report, and that is the finding. I have looked for him in eight planes and in every record since the Syzygy. He stops in 3,096 AF.
 
 The texts from before that describe a quiet child who was close to his sister.
 
@@ -35,11 +35,11 @@ He and [[Eos]] want opposite things. She is trying to put their parents back tog
 
 ## Design Notes
 
-Cado is the absence. Three of the four Beings of the Eternal Void can be found, described and dealt with, and the fourth went quiet at the divorce and has not been seen since, and that should stay a real question rather than a tease.
+Three of the four Beings of the Eternal Void can be found and dealt with. Cado went quiet at the divorce and has not been seen since, and his absence should stay a real question.
 
-Putting him on his father's side of the separation gives a reason for the silence that does not require him to be a victim. The simplest explanation for a being who vanished in 3,096 AF and wants what the King of Day wants is that he is in the light half, and nobody has been admitted to the light half in three thousand years.
+Putting him on his father's side of the separation gives a reason for the silence that does not require him to be a victim. The simplest explanation for a being who vanished in 3,096 AF and wants what the King of Day wants is that he is in the light half, and nobody has been admitted to the light half since the Syzygy.
 
-Setting him against his sister is the part that matters at a table. A party working for Eos is working against him, and they will not find that out from her, because she does not know where he stands either.
+He is set against his sister. A party working for Eos is working against him, and they will not find that out from her, because she does not know where he stands either.
 
 ## Open
 

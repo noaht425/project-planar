@@ -36,9 +36,9 @@ Verita supports the purification of the [[Omens]] on the grounds that the archde
 
 ## Design Notes
 
-Truth is the heaven that is a horror without anybody in it being cruel, which is the version of the idea I wanted. [[Belphegor]]'s hell works the same way and the two are a matched pair across the split.
+Truth is a horror without anybody in it being cruel. [[Belphegor]]'s hell works the same way and the two are a matched pair across the split.
 
-The blind spot is the good part. Verita cannot lie and cannot refuse a question, which means the only way to deceive Verita is to tell the truth in a shape Verita cannot parse, and Tiyanak did exactly that once and has not needed to again.
+Verita cannot lie and cannot refuse a question, so the only way to deceive Verita is to tell the truth in a shape Verita cannot parse, and Tiyanak did exactly that once and has not needed to again.
 
 A party that works out Tiyanak's double identity has, in Verita, someone with the power to act on it and a standing obligation to answer when asked.
 

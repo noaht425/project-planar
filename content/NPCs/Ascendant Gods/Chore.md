@@ -50,7 +50,7 @@ A pirate of Chore keeps faith with the crew and keeps moving. She asks for loyal
 
 ## Design Notes
 
-Chore is the captain who is sure in the moment and unsure afterwards. A party sailing with her gets a confident leader in a crisis and a worried one in the quiet hours, and both are useful to play.
+Chore is sure in the moment and unsure afterwards. A party sailing with her gets a confident leader in a crisis and a worried one in the quiet hours, and both are useful to play.
 
 Kalinekra cuts against the freedom. A banished fey lord who raises drowned soldiers is a difficult partner for a god who will not be held, and the relationship is a place a DM can press.
 

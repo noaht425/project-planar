@@ -17,7 +17,7 @@ Notus (NOH-tus) does not hold a shape. Over the course of one conversation he wi
 
 Flippant and changeable. He agrees to things and means it at the time. He will give a visitor an answer, a different answer an hour later, and be untroubled by being shown both, because both were true when he said them.
 
-This makes him the most dangerous of the four to make an arrangement with, and he is not deceiving anyone. The other three work around him rather than relying on him.
+This makes him the most dangerous of the four to make an arrangement with, and he is not deceiving anyone. The other three work around him.
 
 He is funny, and he is the only one of the four who is.
 
@@ -27,13 +27,13 @@ He is funny, and he is the only one of the four who is.
 
 Notus is in on the plan to kill [[Afthor]] and take the elemental plane of air, and his commitment to it varies by the day. [[Boreas]] does not include him in the planning and includes him in the count.
 
-What he wants from one day to the next is a real question and he does not consider it a problem. He has held the south for three thousand years without a single stated ambition.
+What he wants from one day to the next is a real question and he does not consider it a problem. He has held the south for as long as anyone remembers without a single stated ambition.
 
 ## Design Notes
 
-Notus is the wind to use when the party needs something and can accept it arriving in the wrong form, late, or twice.
+Use Notus when the party needs something and does not mind it arriving late or twice.
 
-He is deliberately the one with no agenda, which makes him the only one of the four who cannot be leveraged. A party that wants to break the winds' plan can work on Boreas's grievance or Eurus's engagement, and there is nothing to work on here.
+He has no agenda, so he is the only one of the four who cannot be leveraged. A party that wants to break the winds' plan can work on Boreas's grievance or Eurus's engagement, and there is nothing to work on here.
 
 The changeability should never be malice. He is not testing anyone and he does not remember having done it.
 

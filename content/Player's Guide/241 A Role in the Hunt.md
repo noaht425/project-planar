@@ -18,7 +18,7 @@ Everything alive in Hunt is assigned a role on arrival. You are hunting or you a
 
 **Which you were.** If you were the quarry, you were given a real chance, because that rule has never been waived. You may have needed it.
 
-**Whether it finished.** Hunts in that domain are registered, witnessed and settled, and the records are the domain's law. An unfinished one is still on the books.
+**Whether it finished.** Hunts in that domain are registered and settled, and the records are the domain's law. An unfinished one is still on the books.
 
 **Whether you changed sides.** There is a town in Hunt that exists to house those who did. People who have been both are regarded differently, and not always worse.
 

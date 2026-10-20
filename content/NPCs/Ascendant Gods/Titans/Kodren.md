@@ -33,7 +33,7 @@ Kodren wants to be left in peace, and wants the same for whoever lives near him.
 
 ## Design Notes
 
-Kodren is the titan a party can simply like. Nothing moves him against his will, which makes him the safest place to be in a crisis and the hardest ally to get anywhere.
+A party can simply like Kodren. Nothing moves him against his will, which makes him the safest place to be in a crisis and the hardest ally to get anywhere.
 
 ## Open
 

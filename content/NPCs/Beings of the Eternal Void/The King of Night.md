@@ -25,7 +25,7 @@ Dalla (DAL-la). Known to no one but himself. The name survives hidden in the wor
 
 I have not met him. What follows is from records and from the four beings who have dealt with him.
 
-He is the god of secrets and he is described, consistently, as a good listener. He asks, he remembers, and he does not repeat. Every account of a petition to him agrees that he gave the petitioner his full attention and that nothing of what was said went anywhere afterwards.
+He is the god of secrets and he is described, consistently, as a good listener. He asks and remembers, and he does not repeat. Every account of a petition to him agrees that he gave the petitioner his full attention and that nothing of what was said went anywhere afterwards.
 
 > *There are nine surviving petitions to the dark throne and I have read all nine. Not one of them was refused. Not one of them was granted either. Each answer is a question put back, and each question is better than the one that was brought to him, and all nine petitioners went away and did something other than what they came to ask for.*
 
@@ -43,14 +43,14 @@ Lost the domain of death to [[Orcus]], a mortal, who stole from him and built th
 
 He wants to know who talked him into it.
 
-He has established that he was worked on, that the reasoning he acted upon was supplied rather than his own, and that at least one of the conversations was with something wearing his husband's face. He has not established by whom, and he has been looking for three thousand years. The god of secrets has exactly one he cannot get at.
+He has established that he was worked on, that the reasoning he acted upon was supplied rather than his own, and that at least one of the conversations was with something wearing his husband's face. He has not established by whom, and he has been looking since the Division. The god of secrets has exactly one he cannot get at.
 
 He has made no attempt to reconcile with [[The King of Day]] and has never said why.
 
 ## Design Notes
 
-Night is the author of the setting's central injury and he was a mark. Everything downstream of the Division, the twelve, the war, the afterlives as they stand, comes from one god being persuaded by a fey with a grudge about a name.
+Night caused the setting's central injury, and he was a mark. Everything downstream of the Division comes from one god being persuaded by a fey with a grudge about a name.
 
-Making him the god of secrets who cannot find out this one thing is the irony the character runs on, and it gives a party the single most valuable thing they could ever carry into Nullis. [[Indri]] is alive, out of his cage since 700 AM, and has no idea he is being hunted by anyone.
+He is the god of secrets and cannot find out this one thing, which gives a party the single most valuable thing they could ever carry into Nullis. [[Indri]] is alive, out of his cage since 700 AM, and has no idea he is being hunted by anyone.
 
-The nine petitions are the usable object. They exist, they can be found, and they establish how he deals with anyone who comes to him: he does not say no, and nobody gets what they asked for.
+The nine petitions can be found, and they establish how he deals with anyone who comes to him: he does not say no, and nobody gets what they asked for.

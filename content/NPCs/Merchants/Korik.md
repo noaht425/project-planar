@@ -38,7 +38,7 @@ Horseshoes of Speed: mount's walking speed +30 ft | 6,500 gp
 
 ## Exclusive Wares: ##
 
-- Horseshoes of a Zephyr: hover 4 in. off the ground, cross water/lava, ignore difficult terrain, no exhaustion from travel for 12 hrs — 16,000 gp
+- Horseshoes of a Zephyr: hover 4 in. off the ground, cross water/lava, ignore difficult terrain, no exhaustion from travel for 12 hrs | 16,000 gp
 - Barding of the Storm Steed: fuses to mount over 1 hr, AC 18 with no stealth penalty; bonus action: +30 ft speed and hoof/melee attacks deal +1d8 lightning until start of next turn | 18,000 gp
 - Summoning Whistle, Greater: bonded to up to 4 named creatures; summons any of them from the same plane | 20,000 gp
 - Winged Saddle (mount attunes): command word grants the mount a 90 ft fly speed for 1 hour; 1d12 hr recharge | 22,000 gp
@@ -52,34 +52,34 @@ Requires a d20 luck check for each one to see if it's in stock
 
 **Low tier (DC 5)**
 
-- Cockatrice egg (CR 1/2) — 1,500 gp
-- Giant Eagle egg (CR 1) — 2,200 gp
-- Hippogriff egg (CR 1) — 2,000 gp
-- Ankheg egg (CR 2) — 2,800 gp
-- Griffon egg (CR 2) — 3,000 gp
-- Peryton egg (CR 2) — 3,200 gp
+- Cockatrice egg (CR 1/2) | 1,500 gp
+- Giant Eagle egg (CR 1) | 2,200 gp
+- Hippogriff egg (CR 1) | 2,000 gp
+- Ankheg egg (CR 2) | 2,800 gp
+- Griffon egg (CR 2) | 3,000 gp
+- Peryton egg (CR 2) | 3,200 gp
 
 **Mid tier (DC 10)**
 
-- Owlbear egg (CR 3) — 3,800 gp
-- Basilisk egg (CR 3) — 4,000 gp
-- Manticore egg (CR 3) — 4,000 gp
-- Pseudodragon egg (CR 1/4, but prized as a sapient, telepathic familiar) — 5,000 gp
-- Chimera egg (CR 6) — 6,000 gp
-- Wyvern egg (CR 6) — 7,000 gp
+- Owlbear egg (CR 3) | 3,800 gp
+- Basilisk egg (CR 3) | 4,000 gp
+- Manticore egg (CR 3) | 4,000 gp
+- Pseudodragon egg (CR 1/4, but prized as a sapient, telepathic familiar) | 5,000 gp
+- Chimera egg (CR 6) | 6,000 gp
+- Wyvern egg (CR 6) | 7,000 gp
 
 **High tier (DC 15)**
 
-- Hydra egg (CR 8) — 9,000 gp
-- Behir egg (CR 11) — 13,000 gp
-- Remorhaz egg (CR 11) — 13,000 gp 
-- Roc egg (CR 11) — 14,000 gp 
-- Couatl egg (CR 4, celestial-plane origin surcharge) — 20,000 gp 
+- Hydra egg (CR 8) | 9,000 gp
+- Behir egg (CR 11) | 13,000 gp
+- Remorhaz egg (CR 11) | 13,000 gp 
+- Roc egg (CR 11) | 14,000 gp 
+- Couatl egg (CR 4, celestial-plane origin surcharge) | 20,000 gp 
 
 **Hard to Procure (DC 17)**
 
-- Phoenix egg (CR ~15, cyclical-immortality surcharge — arguably the single rarest thing in the shop) — 40,000 gp
-- Salamander egg (CR 5, elemental-plane extraction surcharge) — 50,000 gp
+- Phoenix egg (CR ~15, cyclical-immortality surcharge, arguably the rarest thing in the shop) | 40,000 gp
+- Salamander egg (CR 5, elemental-plane extraction surcharge) | 50,000 gp
 
 **Dragons (DC 18)**
 

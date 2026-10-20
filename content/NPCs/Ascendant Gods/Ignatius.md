@@ -58,9 +58,9 @@ Ignatius is the only patron of Ambition, and the pact is set out in [[Warlock Am
 
 ## Design Notes
 
-The certainty is the character. Ignatius is never short of a plan and never in doubt that it would work if people stopped interfering, and a party that works with him will find their part in the plan has been decided for them.
+Ignatius is never short of a plan and never in doubt that it would work if people stopped interfering, and a party that works with him will find their part in the plan has been decided for them.
 
-The rivalry with Nausicaä is about competence rather than dislike. He believes he could run her domain better than she does, which is exactly the kind of thing he would believe.
+The rivalry with Nausicaä is about competence. He believes he could run her domain better than she does, which is exactly the kind of thing he would believe.
 
 The pact in [[Warlock Ambition]] is the best expression of him at a table. He lets a warlock keep going well past the point where they should stop, and the bill arrives afterwards.
 

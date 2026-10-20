@@ -392,7 +392,7 @@ POS: Verb
 
 ## Grammar: Word Order
 
-VSO — Verb-Subject-Object. The verb leads the sentence, followed by the subject, then the object.
+VSO: Verb-Subject-Object. The verb leads the sentence, followed by the subject, then the object.
 
 ## Grammar: Adjectives
 

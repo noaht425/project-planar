@@ -35,11 +35,11 @@ What he is working toward is a petitioner who will refuse him. Nobody has.
 
 ## Design Notes
 
-Gwenhael is the generous NPC who is genuinely generous, which makes him the most dangerous one on this page for a party to deal with repeatedly. There is no catch and no bargain. There is a cost, it is real, and it is his.
+Gwenhael really is generous, which makes him dangerous for a party to deal with more than once. There is no catch. The cost is real, and he pays it.
 
-Making the only entry-by-choice afterlife the one where sacrifice actually reaches its object is the reward I wanted for that domain. Everywhere else in the setting, giving something up is wasted.
+Sacrifice is the only afterlife a soul can choose to enter, and it is the one place where giving something up reaches the person it was for. Everywhere else in the setting, giving something up is wasted.
 
-The goal of being refused is the thread for a party that has worked out what dealing with him does to him. It is the one thing they can give him and it requires them to walk away from something they need.
+A party that has worked out what dealing with him does to him can give him the thing he wants by refusing him, which means walking away from something they need.
 
 ## Open
 

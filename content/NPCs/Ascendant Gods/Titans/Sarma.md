@@ -33,7 +33,7 @@ Sarma wants things done correctly and the record kept straight, and the record t
 
 ## Design Notes
 
-Sarma is the titan to bring a question to when a party wants an honest answer and can stand to hear it. They will be right, and they will not be kind about it.
+A party that wants an honest answer and can stand to hear it should ask Sarma. They will be right, and they will not be kind about it.
 
 ## Open
 

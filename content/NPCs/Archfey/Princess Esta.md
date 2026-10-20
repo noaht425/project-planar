@@ -28,7 +28,7 @@ She is openly contemptuous of her sister's situation and has said more than once
 
 ## Goals
 
-Esta wants to marry [[Eurus]]. The courtship is public, encouraged, and regarded in the other three quarters as showing off.
+Esta wants to marry [[Eurus]]. The courtship is public and regarded in the other three quarters as showing off.
 
 She does not know that the four [[Wind Gods|winds]] intend to kill [[Afthor]] and take the elemental plane of air for themselves. Eurus has not told her. If that goes ahead, Eurus is either dead or a ruling power in another plane, and neither outcome leaves him in Teasanea.
 

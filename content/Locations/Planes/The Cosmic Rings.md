@@ -40,7 +40,7 @@ This is how the seams of [[Tarkis]] work. Its five elements each touch all four 
 
 ## Design Notes
 
-The nesting rule is the backbone of the cosmology, and it is what makes the ring order non-arbitrary. A realm's place is fixed by how many portions it has.
+The nesting rule holds the cosmology together and decides the order of the rings. A realm's place is fixed by how many portions it has.
 
 Arcanis breaking the rule and then falling into line is the one place the structure corrects itself. It is also a dating tool, since anything describing Arcanis as countable is after the Coalescence.
 

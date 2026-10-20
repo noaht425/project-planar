@@ -33,7 +33,7 @@ Gallum wants to enjoy himself, and mostly does.
 
 ## Design Notes
 
-Gallum is the titan a party is most likely to meet by accident and least likely to get a straight answer from. He is harmless until he is bored.
+A party is most likely to meet Gallum by accident, and least likely to get a straight answer from him. He is harmless until he is bored.
 
 The boots are worth knowing about. He made them, and he could be talked into making another pair by someone who kept him laughing long enough.
 

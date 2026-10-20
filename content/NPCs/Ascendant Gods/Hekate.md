@@ -57,7 +57,7 @@ She wants nobody else to attempt her route. Her silence is the only means she ha
 
 ## Design Notes
 
-Hekate is the god a party can actually visit, in a building with a front door and office hours, and the one thing they want from her is the one thing she will not give.
+A party can actually visit Hekate, in a building with a front door and office hours, and the one thing they want from her is the one thing she will not give.
 
 Reading the silence as protective is my interpretation. It could as easily be pride, or a method she does not fully understand herself, and a DM should feel free to choose.
 

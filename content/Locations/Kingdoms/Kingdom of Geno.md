@@ -67,9 +67,9 @@ Geno has declared neutrality in the present trouble between [[Kingdom of Krotaph
 
 ## Design Notes
 
-Geno is a kingdom built around a single problem. Everything it does politically is downstream of the wall, which gives a party an easy way to matter there: anything that threatens the wall, or helps it, has the crown's attention at once.
+Everything Geno does politically is downstream of the wall, which gives a party an easy way to matter there: anything that threatens the wall, or helps it, has the crown's attention at once.
 
-The century without a ruler is the richest material on the page. Every family in Geno did something during the Great Unrest, and very few of them want it discussed.
+Every family in Geno did something during the Great Unrest, and very few of them want it discussed.
 
 ## Open
 

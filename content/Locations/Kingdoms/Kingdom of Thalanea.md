@@ -46,7 +46,7 @@ The other cities are **[[Darasil]]** and **[[Terpisthla]]**.
 
 Thalanea is a people who are right to be afraid and wrong about why. They blame the fey in general for what two archfey and one contract did, and they have built their language around not sounding like the people they blame.
 
-The rumours are the hook. Every elf a party meets has an opinion about them, and the truth is written down in a contract the elves have never seen.
+Every elf a party meets has an opinion about them, and the truth is written down in a contract the elves have never seen.
 
 ## Open
 

@@ -278,9 +278,9 @@ It can take 2 legendary actions, choosing from the options below, one at a time 
 
 The lineage traits come down the line reduced rather than removed. [[Mens]] has Impeccable Awareness at 1,000 feet and this dragon reaches 500 at adult, which keeps the signature and the hierarchy at once.
 
-It caps at adult on purpose, below [[Mens' Spawn]] at CR 11. A direct spawn should outrank a thinned bloodline. That cap is also a hook, since the only routes past it are a hoard, Mens taking an interest, or an ascension.
+It caps at adult, below [[Mens' Spawn]] at CR 11. A direct spawn should outrank a thinned bloodline. That cap is also a hook, since the only routes past it are a hoard, Mens taking an interest, or an ascension.
 
-The requirement that it be raised around thinking people is the piece that makes it a party dragon rather than a pet. It grows because of how the party lives, and a party that stows it in a crate will find out much later that they stopped it growing.
+The requirement that it be raised around thinking people is what makes it a party dragon instead of a pet. It grows because of how the party lives, and a party that stows it in a crate will find out much later that they stopped it growing.
 
 Bonded Mind preventing lies between the dragon and its bonded creature is not disclosed to either of them. That is for a DM to spring.
 

@@ -57,7 +57,7 @@ The current year. People follow current events in the ordinary way and know roug
 
 ## Design Notes
 
-Arenis is written to be the most ordinary of the nine, and that is the point of it. The other eight are strange in ways a party cannot settle into. This is the realm of people with houses and jobs, and a campaign needs somewhere like that to push off from.
+Arenis is the most ordinary of the nine. The other eight are strange in ways a party cannot settle into. This is the realm of people with houses and jobs, and a campaign needs somewhere like that to push off from.
 
 The smoothing done by the progenitors is what keeps the seams out of the landscape. The world was assembled from the other realms and reads as a world rather than as wreckage.
 

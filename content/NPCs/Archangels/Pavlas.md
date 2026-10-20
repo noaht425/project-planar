@@ -27,17 +27,17 @@ Humility in Pavlas's domain is administered by removing the blessed from their o
 
 ## Goals
 
-Pavlas wants the credit for the peace moved off [[Verita]]. Not onto Pavlas. Onto the [[Archangels|archangels]] as a body, so that the thing the other four treat as Verita's surrender becomes a collective act they are bound by.
+Pavlas wants the credit for the peace moved off [[Verita]] and onto the [[Archangels|archangels]] as a body, so that the thing the other four treat as Verita's surrender becomes a collective act they are bound by. Pavlas wants none of it personally.
 
 Pavlas supports the purification and has never said so directly, which is consistent with everything else about Pavlas.
 
 ## Design Notes
 
-Pavlas is the court politician of the heavens and the one whose agenda a party will find hardest to state out loud, because every individual action is modest and deferential and the sum of them is not.
+Pavlas plays court politics in the heavens, and a party will find the agenda hard to state out loud, because every individual action is modest and deferential and the sum of them is not.
 
 The bowing is permanent for the same reason [[Archon]]'s gauntlets are fused on. Each of the twelve got stuck in the posture of their half at the moment of the split.
 
-The flavor box is the mechanic: deference transfers the weight to you, and the narrator notices too late.
+The flavor box shows how Pavlas works. Deference hands the weight to whoever is being deferred to, and the narrator notices too late.
 
 ## Open
 

@@ -26,9 +26,9 @@ A soul meets Bis first. Seisear's decision is quick. Bis's is not.
 
 ## Design Notes
 
-Taking judgement off the twelve is what keeps the afterlives from being a straightforward tyranny. The archangels and archdevils rule their realms and run them as they please, and not one of them chooses who arrives.
+Because the twelve do not judge, the afterlives stop short of being a straightforward tyranny. The archangels and archdevils rule their realms and run them as they please, and not one of them chooses who arrives.
 
-Splitting the decision in two, side and then domain, is what makes the system legible at a table. A party arguing about a dead friend knows which of the two to go to and what that one can actually change.
+The decision is split in two, side and then domain, so a party arguing about a dead friend knows which of the two to go to and what that one can actually change.
 
 Both numbers are an insult. The twelve avoid the number two at all costs, out of hatred for what they used to be, and the being that decides the side has two heads. The being that decides the domain has six, which is the number of Judgements there were.
 

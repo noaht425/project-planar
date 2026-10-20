@@ -50,7 +50,7 @@ Iras wants to stay alive. [[Genasi]] intends to kill him and is trying to bring 
 
 ## Design Notes
 
-Iras is the god with the most enemies and the least explanation. He took a throne on a principle, gave it up without one, and has a progenitor and a titan coming for him and an archdevil standing in the way.
+Iras has more enemies than explanations. He took a throne on a principle, gave it up without one, and has a progenitor and a titan coming for him and an archdevil standing in the way.
 
 The abdication is the hole worth leaving. Whatever made him give up Geno is the thing a party would have to find out to understand him.
 

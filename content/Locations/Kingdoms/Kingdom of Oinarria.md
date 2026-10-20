@@ -15,7 +15,7 @@ Located in: [[Arenis]]
 
 ## The Kingdom
 
-Oinarria was founded in 3 AM and is one of the older kingdoms. Orcs and giantkin live in it together, and the sharing is the point of the place rather than a complication in it.
+Oinarria was founded in 3 AM and is one of the older kingdoms. Orcs and giantkin live in it together, and the kingdom is built on the sharing.
 
 The giantkin have long memories. [[Kleipur]], the Progenitor who made them, gave the six titans their power in 1 AM, and giantkin in Oinarria still speak of it as recent. The orcs arrived to a kingdom that had already decided it was not going to be a small one.
 
@@ -47,9 +47,9 @@ Gias. Most Oinarrians also speak Common, and plenty of them would rather not.
 
 ## Design Notes
 
-Oinarria is the kingdom of two peoples who chose each other, and it should feel like it. The doors are the image: everything is built at two scales and nobody treats the second scale as an afterthought.
+Two peoples chose each other here, and the kingdom should feel like it. Everything is built at two scales and nobody treats the second scale as an afterthought.
 
-Its part in the war is the useful history. Oinarria tipped a thirty-year war in its last three years and was paid in land, and Krotaphos has not forgotten which neighbour came in late to finish it.
+Oinarria tipped a thirty-year war in its last three years and was paid in land, and Krotaphos has not forgotten which neighbour came in late to finish it.
 
 ## Open
 

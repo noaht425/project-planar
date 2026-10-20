@@ -49,7 +49,7 @@ Each lord rules from a seat shaped like a hoard, suited to the realm and to what
 
 **[[Pyrrha]]** rules Fire out of an enormous volcano, and what she keeps inside it is everything in the realm that fire cannot destroy. In a place where almost nothing lasts, the surviving remainder is worth piling up, and she has been piling it up since the realm began.
 
-**[[Okzu]]** rules Noxia the way a crime baron does, out of a factory that has never stopped running. What he collects is what he is owed. Nearly everyone in the realm owes him something, and the debts are recorded, inherited and called in, which is how a dragon holds a realm without ever sitting on a throne in it.
+**[[Okzu]]** rules Noxia the way a crime baron does, out of a factory that has never stopped running. What he collects is what he is owed. Nearly everyone in the realm owes him something, and the debts are inherited and called in, which is how a dragon holds a realm without ever sitting on a throne in it.
 
 **[[Tenu]]** rules Earth from inside a mountain that has been hollowed out chamber by chamber until the whole of it is one vault. The stone is the hoard. Anyone living in the earth realm is living in something Tenu considers already counted.
 

@@ -37,7 +37,7 @@ Nothing may be raised from the floor without permission, and permission is rare.
 
 **Perilaxos** (peh-ree-LAH-ksos), the watching place, sits on the shelf edge where the light stops. It keeps watch on the deep and on everything that comes up out of it, and it is where the realm's warnings start.
 
-**Numosvaril** (noo-mos-VAH-ril) handles salvage. What Vetur allows to be lifted comes here to be cleaned, valued and sold, and the city has grown wealthy on a trade it is not allowed to expand.
+**Numosvaril** (noo-mos-VAH-ril) handles salvage. What Vetur allows to be lifted comes here to be valued and sold, and the city has grown wealthy on a trade it is not allowed to expand.
 
 **Vethrakis** (veth-RAH-kis) stands against the cold current and makes its living from it, cutting and shipping ice into the other four realms.
 

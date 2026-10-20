@@ -15,7 +15,7 @@ Played against [[Archon]] by [[Nausicaä]], who took power from both of them to 
 
 ## Appearance
 
-Themis (THEH-miss) has had both eyes carved out. The sockets are open and were never dressed. One hand holds a set of scales and the other holds a greatsword, and neither has been set down in three thousand years.
+Themis (THEH-miss) has had both eyes carved out. The sockets are open and were never dressed. One hand holds a set of scales and the other holds a greatsword, and neither has been set down since the Division.
 
 The eyes were Themis's own doing, immediately after the Division.
 
@@ -35,7 +35,7 @@ She keeps a bargain exactly, and twice now she has found out afterwards what kee
 
 ## Goals
 
-Themis wants the right to hear cases herself. Not for the twelve. For her, on the grounds that she is the archangel of justice and is the only party to the arrangement with no say in it.
+Themis wants the right to hear cases herself, on the grounds that she is the archangel of justice and the only party to the arrangement with no say in it. She is not asking on behalf of the twelve.
 
 She has been pressing [[Bis]] toward a standard rather than toward individual verdicts, on the reasoning that if she cannot overturn a decision she can at least shape the rule it was made under. The objections go out constantly. Bis reads all of them.
 
@@ -45,15 +45,15 @@ She wants [[XLZL]] kept out of all of it.
 
 ## Design Notes
 
-Themis is the archangel of justice who does not get to judge, and that is the whole character. The war she helped fight ended in the judging being given to two beings made for the purpose, and she has spent three thousand years reviewing work she cannot touch.
+Themis is the archangel of justice and does not get to judge. The war she helped fight ended with the judging given to two beings made for the purpose, and she has spent seven centuries reviewing work she cannot touch.
 
 Self-blinding is the detail that explains the rest. She did it immediately, to rule without being swayed by appearances, and then the ruling was taken off her.
 
-[[Bis]] getting stuck nitpicking the morality of tiny actions is, on my reading, partly her doing. Three thousand years of objections from the archangel of justice would do that to a judge. She did not intend it and she has not stopped.
+[[Bis]] getting stuck nitpicking the morality of tiny actions is, on my reading, partly her doing. Seven centuries of objections from the archangel of justice would do that to a judge. She did not intend it and she has not stopped.
 
-The written argument for the purification is the most useful object on this page. It exists, it is signed, and it was sent to the judge rather than to her colleagues, which is the thing to show a party. Putting it in front of [[Neema]] or a ruler in [[Kingdom of Krotaphos|Krotaphos]] is one use. Putting it in front of Bis, who already has it, is another.
+The written argument for the purification is the object to show a party. It is signed, and it was sent to the judge instead of to her colleagues. Putting it in front of [[Neema]] or a ruler in [[Kingdom of Krotaphos|Krotaphos]] is one use. Putting it in front of Bis, who already has it, is another.
 
-Being tricked twice is part of the character. Anyone who can make a request look fair can get a great deal out of her, and the archangel of justice has never learned to be suspicious of a fair request. A party that wants something from Themis should be shown both precedents and left to decide whether to try a third.
+She has been tricked twice. Anyone who can make a request look fair can get a great deal out of her, and the archangel of justice has never learned to be suspicious of a fair request. A party that wants something from Themis should be shown both precedents and left to decide whether to try a third.
 
 The sword is below.
 

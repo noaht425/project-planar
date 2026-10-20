@@ -33,7 +33,7 @@ He does his half of the work, he is good at it, and he has never been late. The 
 
 Seisear is the counterweight to [[Bis]]. One half of the judgement is endlessly arguable and the other half is instant and final, and a party that wants a soul moved between domains rather than between sides has no route at all.
 
-Making him pleasant is deliberate. The friendliest thing in [[Iudis]] is the one with no give in it.
+The friendliest thing in [[Iudis]] is the one with no give in it.
 
 Six heads for six portions is my reading of what he is for, and it fits the pairing of each heaven with the hell most like it. A single head picks the portion and Bis has already picked the side.
 

@@ -64,8 +64,8 @@ Most sit on top of a layer they are working. A village in Bone moves when its la
 
 ## Design Notes
 
-Bone is an archive, and that is the hook. A domain where nothing decays is a domain where evidence survives, and a party that needs to know what happened to someone has exactly one place to go.
+Bone is an archive. A domain where nothing decays is a domain where evidence survives, and a party that needs to know what happened to someone has exactly one place to go.
 
-Alsa losing no territory over being shunned is the point of the social arrangement. The other archfey can exclude Alsa from their company and not from their realm.
+Alsa has lost no territory over being shunned. The other archfey can exclude Alsa from their company and not from their realm.
 
 The great skull has no explanation and the domain has no record of what left it. That is for a DM.

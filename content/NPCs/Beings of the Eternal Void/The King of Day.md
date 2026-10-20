@@ -25,7 +25,7 @@ Suri (SOO-ree). Known to no one but himself, surviving hidden in the words for d
 
 I have not met him either. The accounts are more plentiful than his husband's and they are harder to reconcile with each other.
 
-He holds the domains of life, healing and knowledge, and before the Syzygy he was reachable. Petitions were heard, and granted, in numbers. After it he stopped, and the light half of Nullis has admitted no one in three thousand years.
+He holds the domains of life, healing and knowledge, and before the Syzygy he was reachable. Petitions were heard, and granted, in numbers. After it he stopped, and the light half of Nullis has admitted no one since.
 
 Where the two Kings are described together, in the old texts, he is the one who talked.
 
@@ -53,11 +53,11 @@ This puts him on the same side as [[Cado]] and against [[Eos]], and both childre
 
 ## Design Notes
 
-The two Kings want the same thing, are hunting the same fey, and have not spoken in three thousand years, which is the engine of the whole Void plot. A party able to carry one sentence from one half of Nullis to the other is holding the reconciliation their daughter has been working toward for three millennia.
+The two Kings want the same thing and are hunting the same fey, and they have not spoken since the Syzygy. That drives the whole Void plot. A party able to carry one sentence from one half of Nullis to the other is holding the reconciliation their daughter has been working toward for nearly four thousand years.
 
 Giving Day the deeper grievance and the better information makes him the harder of the two to move, and it keeps the split from being a simple matter of apology.
 
-Withholding the impersonation from Night is the cruelty of the character, and it is the kind that reads as self-protection rather than spite.
+He withholds the impersonation from Night, and the cruelty of it reads as self-protection more than spite.
 
 ## Open
 

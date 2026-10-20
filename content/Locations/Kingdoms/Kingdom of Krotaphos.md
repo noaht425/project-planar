@@ -57,7 +57,7 @@ At [[La Grande Mascarade]] in 702 AM, Theophilius Fanatis attacked the ruler of 
 
 ## Design Notes
 
-Krotaphos is the kingdom with authority and no power, and the terms of the defeat are written so that a visitor sees that everywhere. The circular border puts the humiliation on every map.
+The terms of the defeat left Krotaphos with authority and no power, and a visitor sees it everywhere. The circular border puts the humiliation on every map.
 
 Reclaiming the number two is the Omens' answer to the beings they worship. It is a small piece of defiance built into the constitution, and it is a reason for an archangel or archdevil to be quietly irritated by the kingdom that serves them.
 

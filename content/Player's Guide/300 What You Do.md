@@ -11,7 +11,7 @@ summary: >-
 
 Every class in the Player's Handbook is available, plus homebrew if you send it to me and it is not absurd.
 
-Most classes are a job. A few of them are a relationship, because the power comes from somebody who is real, reachable and has opinions about you.
+Most classes are a job. A few of them are a relationship, because the power comes from somebody who is real and has opinions about you.
 
 *[[340 Warlock|Warlock]].* You made a deal. The other party exists.
 

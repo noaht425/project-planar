@@ -23,7 +23,7 @@ Anyone who says the name aloud in Tiyanak's hearing has Tiyanak's full attention
 
 ## Manner
 
-[[Sylas]] meant to compose verse and to sing. Tiyanak's lies are built rather than improvised. They are long, they are internally consistent, and they are generally beautiful. A Tiyanak deception usually has a shape that is satisfying to follow, which is most of why people follow it.
+[[Sylas]] meant to compose verse and to sing. Tiyanak's lies are built rather than improvised. They are long and internally consistent. A Tiyanak deception usually has a shape that is beautiful to follow, which is most of why people follow it.
 
 They do not lie about small things and find it tedious when others do.
 
@@ -35,7 +35,7 @@ Tiyanak wants chaos generally and keeps several projects running toward it at on
 
 The current one is [[Ius Primum]]. Tiyanak intends to get an archfey and an elf to break it, which requires a fey willing to renounce the claim and an elf willing to refuse it, and the collapse of the deal would put [[Kingdom of Thalanea|Thalanea]] and [[Kingdom of Kumas|Kumas]] into open war rather than the cold one they have now. Tiyanak was supposed to witness the signing and did, standing in for the Indri they had already killed, so they know the terms better than any living party to it.
 
-Tiyanak does not know that [[Indri]] has escaped the underworld. This is the single most important fact about them.
+Tiyanak does not know that [[Indri]] has escaped the underworld.
 
 ## History
 
@@ -49,11 +49,11 @@ Gave [[Verita]] ninety per cent of the realm of Truth in exchange for peace at t
 
 ## Design Notes
 
-Tiyanak is two characters that the players will meet separately and should have no reason to connect for a long time. The shadow rule is the tell, and it is deliberately available to anyone who thinks to look at the floor.
+Tiyanak is two characters that the players will meet separately and should have no reason to connect for a long time. The shadow rule gives Tiyanak away to anyone who thinks to look at the floor.
 
 Giving away ninety per cent of a realm to keep ten per cent of it is the clearest statement of what Tiyanak values. The cage was worth more than the territory.
 
-Not knowing about Indri's escape is the crack in them. Every other being of this rank in the setting has better information than the party does. Tiyanak, on this one subject, has worse, and a party that works out what they are holding has something to sell to the only person who wants it.
+Tiyanak does not know about Indri's escape. Every other being of this rank in the setting has better information than the party does. Tiyanak, on this one subject, has worse, and a party that works out what they are holding has something to sell to the only person who wants it.
 
 ## Open
 

@@ -12,6 +12,6 @@ The halls begin at a great height and come down as they go in. A soul walking th
 
 Pride is built to humble. The arrangements are specific to the soul: whatever a soul was proud of, it will find itself surrounded by those who are better at it, and it will be given every chance to compete with them.
 
-The treatment is tailored rather than general, which makes Pride the most individually designed of the hells.
+The treatment is tailored to each soul, which makes Pride the most individually designed of the hells.
 
 > *[[Lux]] is said to walk these halls at full height regardless. I was not able to confirm this, as I was on my knees at the time.*

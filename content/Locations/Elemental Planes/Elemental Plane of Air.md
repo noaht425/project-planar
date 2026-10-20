@@ -60,7 +60,7 @@ The city under the empty seat is still the capital by every formal measure. It h
 
 Flasu (FLAH-soo), Zaru (ZAH-roo), Varith (VAH-rith), Eurasa (eh-oo-RAH-sah), Iasvi (ee-AS-vee), Notira (noh-TEE-rah), Zephu (ZEP-hoo), Laxiv (LAH-ksiv), Thruso (THROO-soh), Boralu (boh-RAH-loo), Agrathu (ag-RAH-thoo) and Rasiva (rah-SEE-vah).
 
-Four of these no longer have anyone in them and nobody has taken the names off the maps. The rest are small, poor, and in the business of getting through the next storm.
+Four of these no longer have anyone in them and nobody has taken the names off the maps. The rest are small and poor, and in the business of getting through the next storm.
 
 > *There is a tavern in Thrasivar that holds a party every night without exception. I asked the owner what they were celebrating. He said they had got through the day, and that this was not a small thing, and then he asked whether I was going to drink or just stand there asking questions.*
 
@@ -72,8 +72,8 @@ The four [[Wind Gods]] intend to kill him and take the realm for themselves. Eve
 
 ## Design Notes
 
-Air is the realm that has been broken on purpose, and it exists so that Tarkis is not five variations on the same idea. The other four are run. This one has an owner who is not a ruler.
+Air has been broken so that Tarkis is not five variations on the same idea. The other four are run. This one has an owner who is not a ruler.
 
-Zaros collecting cities is what makes the decline legible. The realm was built up because its dragon hoarded settlements, and it has fallen apart because the one holding it now hoards nothing.
+Because Zaros collected cities, the decline is easy to read. The realm was built up because its dragon hoarded settlements, and it has fallen apart because the one holding it now hoards nothing.
 
 The towns table carries condition rather than trade, since in Air what matters first is whether a place still has people in it.

@@ -11,7 +11,7 @@ One of the seven domains of [[Iris]], held by [[Hakea]]. For how names and barga
 
 ## The Domain
 
-Everything in Lush is growing, at every moment, fast enough to watch. Nothing here dies back and nothing sheds, which is the whole of its quarrel with Rot across the realm.
+Everything in Lush is growing, at every moment, fast enough to watch. Nothing here dies back and nothing sheds, and that is its quarrel with Rot across the realm.
 
 A road walked in the morning is closed by the afternoon. A traveller who sits down to rest for long enough will be grown over where they sit, and the domain does not consider this an attack.
 

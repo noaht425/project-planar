@@ -36,11 +36,11 @@ What Neema wants is the [[Omens]] left alone. The ill-leaning Omens are the stat
 
 ## Design Notes
 
-Neema is the setting's reminder that the heavens are not the good guys as a group. The one archangel who behaves the way players expect an angel to behave is in a minority of one and is breaking ranks to do it.
+The heavens are not the good guys as a group, and Neema shows it. The one archangel who behaves the way players expect an angel to behave is in a minority of one and is breaking ranks to do it.
 
-Making the appearance a mirror of the viewer's better self rather than generic beauty is what keeps Neema uncomfortable rather than pleasant. The flavor box works because the narrator is a historian with an unfinished project, so the question lands on the specific thing that person is avoiding.
+Neema looks like the viewer's better self, and that keeps Neema uncomfortable to be around. The flavor box works because the narrator is a historian with an unfinished project, so the question lands on the specific thing that person is avoiding.
 
-Neema is the right patron or contact for a party that needs an ally inside the heavens, and the price of that is that Neema's position there is weak.
+A party that needs an ally inside the heavens should go to Neema, and the price of that is that Neema's position there is weak.
 
 ## Open
 

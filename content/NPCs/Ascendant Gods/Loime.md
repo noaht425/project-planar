@@ -59,4 +59,4 @@ When he ascended is unwritten.
 
 What Grixt thinks of having been robbed is unwritten.
 
-Whether the gem came from Okzu is deliberately unresolved.
+Whether the gem came from Okzu is unresolved, and should stay that way.

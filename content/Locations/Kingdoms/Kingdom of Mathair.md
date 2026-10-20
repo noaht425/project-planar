@@ -46,7 +46,7 @@ Mathair is ruled by a queen, at present [[Palas Arakol]], an earthborn halfling.
 
 Mathair is the host. Its open worship and its Masquerade make it the one kingdom where every power in the setting can plausibly turn up in the same room, which is why the 702 AM attack happened there.
 
-The claim to be the centre of the world is the kingdom's personality in one line. It is proud, a little absurd, and quietly correct.
+The claim to be the centre of the world is proud and a little absurd, and it is probably correct.
 
 ## Open
 

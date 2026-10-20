@@ -25,7 +25,7 @@ Inside it stands [[Festivus]], a theme park that Chronos built and still operate
 
 ## The Cities
 
-**Tráthlain** (TRAH-lan) makes the clocks. Every mechanism in the domain is cut, set and regulated here, and the city's authority comes from the fact that the schedule the whole realm runs on is the schedule Tráthlain keeps.
+**Tráthlain** (TRAH-lan) makes the clocks. Every mechanism in the domain is cut and regulated here, and the city's authority comes from the fact that the schedule the whole realm runs on is the schedule Tráthlain keeps.
 
 **Gealánea** (GA-lah-nya), the day seat, holds the daylight to its timetable. Dawn and dusk in this domain arrive at an appointed moment, and Gealánea is the office that appoints it.
 

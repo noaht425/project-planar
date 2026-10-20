@@ -15,7 +15,7 @@ Fire is a hellscape and makes no apology for it. The ground is burning stone, th
 
 Most of the realm is wilderness. Settlement is confined to the places where the ground has stayed put long enough to build on.
 
-**Pyrrhade Eteros** (pir-RAH-deh eh-TEH-ros), Pyrrha's place, is the caldera and the slopes under it. It is the most stable ground in the realm, which is a statement about the rest of the realm rather than about the caldera.
+**Pyrrhade Eteros** (pir-RAH-deh eh-TEH-ros), Pyrrha's place, is the caldera and the slopes under it. It is the most stable ground in the realm, which says more about the rest of the realm than about the caldera.
 
 **Theinufyr** (thay-NOO-fir), hot dirt, is the ash plain that covers the realm's eastern half. It is deep enough in places to swallow a caravan and it moves with the wind.
 

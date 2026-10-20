@@ -3,7 +3,7 @@ type: npc
 tags: []
 ---
 
-Goddess of Song. Given power by [[Atris]] (former lovers) — Atris gave her power so she wouldn't die.
+Goddess of Song. Given power by [[Atris]] (former lovers). Atris gave her power so she wouldn't die.
 
 Home Realm: [[Arenis]]
 
@@ -39,7 +39,7 @@ What Thalia wants is mostly unwritten. She has not asked Atris for anything sinc
 
 ## Design Notes
 
-Thalia is the one ascendant whose power was a gift, and that makes her the gentlest way into the Hunt and into Atris. A party that befriends Thalia has a reason to be welcome at the lodge, and a reason to be careful there.
+Thalia's power was a gift, which makes her the gentlest way into the Hunt and to Atris. A party that befriends Thalia has a reason to be welcome at the lodge, and a reason to be careful there.
 
 Atris is trying to get out of [[Ius Primum]], and Thalia is the person she is most likely to have told.
 

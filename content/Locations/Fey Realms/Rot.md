@@ -11,7 +11,7 @@ One of the seven domains of [[Iris]], held by [[Grixt]]. For how names and barga
 
 ## The Domain
 
-Everything in Rot breaks down and everything that breaks down is used again. Nothing is wasted here and nothing is kept, which is the whole of its quarrel with Lush across the realm and the reason it has no patience with Bone either.
+Everything in Rot breaks down and everything that breaks down is used again. Nothing is wasted here and nothing is kept. That is its quarrel with Lush across the realm, and the reason it has no patience with Bone either.
 
 Much of what lives here is several things at once wearing a single shape. This is true of the wildlife, true of a good deal of the population, and true of Grixt.
 

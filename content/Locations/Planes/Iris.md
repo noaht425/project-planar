@@ -21,7 +21,7 @@ There is no capital and no central court. Each archfey holds their own ground an
 
 **Time**, held by [[Chronos]], is mechanical throughout. Everything in it runs exactly as it was designed to run, exactly when it is meant to, and the precision of the place is the unsettling part. [[Pratta]] is here, and inside Pratta is [[Festivus]], a theme park staffed by automata.
 
-**Lush**, held by [[Hakea]], grows without stopping. Everything in it is putting out new growth at every moment, fast enough to watch. A path walked in the morning is gone by the afternoon, and a traveller who sits down for long enough will be grown over where they sit. Nothing in Lush dies back, which is the whole of the quarrel it has with Rot.
+**Lush**, held by [[Hakea]], grows without stopping. Everything in it is putting out new growth at every moment, fast enough to watch. A path walked in the morning is gone by the afternoon, and a traveller who sits down for long enough will be grown over where they sit. Nothing in Lush dies back, and that is its quarrel with Rot.
 
 **Hunt**, held by [[Atris]], assigns every living thing in it a role the moment it arrives. A visitor is hunting or being hunted and will know which within the hour. The quarry is always given a real chance and the chase is always resumed, so the domain never runs out of either part.
 
@@ -69,6 +69,6 @@ The domains are each written as one idea taken to its limit. A season that never
 
 The facing pairs are written as arguments. Lush grows and never sheds while Rot sheds and never keeps. Bone holds on to every death while Hunt keeps producing them. Time runs exactly as designed while Trickery keeps its rules exactly and means something else by them.
 
-The Tiyanak substitution is protected by the domain it happened in. Trickery is the one seat where constant lying raises no alarm, which is why a fraud has held it for three thousand years.
+The Tiyanak substitution is protected by the domain it happened in. Trickery is the one seat where constant lying raises no alarm, which is why a fraud has held it since 3,096 AF.
 
 Alsa and Grixt being pushed to the edges is a social fact rather than a political one. They lost no territory over it.

@@ -52,7 +52,7 @@ After [[Theophilius Fanatis]] attacked him at [[La Grande Mascarade]] in 702 AM,
 
 ## Design Notes
 
-Sylfaen is the empire, and the mouth law is the detail that makes it one. It is administrative rather than violent on its face, and it reaches into every part of a person's life, which is how a party should meet it: at a desk.
+The mouth law is what makes Sylfaen an empire. It looks administrative and it reaches into every part of a person's life, and a party should first meet it at a desk.
 
 The Office of the Seal is where Sylfaen's imperial project and its language meet. Dzoa marking every foreign word as foreign is the same policy as the mouth law, applied to speech.
 

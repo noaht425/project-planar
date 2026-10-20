@@ -37,7 +37,7 @@ Towns: **Brathlán** (BRAH-lahn), which works metal because it is the only quart
 
 Villages: Meilgeog (MEL-gog), Beachóg (BA-khohg) and Fionnrach (FONN-rakh).
 
-Esta is seeing [[Eurus]] of [[Ventis]], which is public, encouraged, and regarded in the other quarters as showing off.
+Esta is seeing [[Eurus]] of [[Ventis]], which is public and regarded in the other quarters as showing off.
 
 ## Buainnea (BUN-nya), the Autumn Quarter
 
@@ -71,6 +71,6 @@ Crossing a front is the ordinary way to move around the domain, and it is the re
 
 The four quarters cannot change, which takes the one thing a season does away from them. Everything the rulers compete over is therefore political rather than natural.
 
-Thera's court at the centre is the only turning ground in the domain, and it is also the only neutral ground. Those are the same fact.
+Thera's court at the centre is the only turning ground in the domain, and for that reason the only neutral ground.
 
 The fronts make travel inside the domain a decision rather than a given, and they give a DM four reliable obstacles that are nobody's fault.

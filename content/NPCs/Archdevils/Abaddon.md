@@ -36,7 +36,7 @@ He does not plot toward this so much as he waits for an opening and makes the mo
 
 Abaddon is the fight. Everything else in Iudis negotiates.
 
-Keeping the two heads on separate functions is the point of the design: one does the violence and the other makes sure it is witnessed. A party that kills the right head has dealt with half the problem and will not have noticed which half mattered.
+The two heads do separate jobs. One does the violence and the other makes sure it is witnessed. A party that kills the right head has dealt with half the problem and will not have noticed which half mattered.
 
 His stat block below is built for a party that has already prepared for him, which is why the chains and the Unleashed clause assume the heroes forged them.
 

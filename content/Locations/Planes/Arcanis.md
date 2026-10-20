@@ -75,4 +75,4 @@ Arcanis inverts how the other planes treat a visitor. Elsewhere a party arrives 
 
 The thousands of minor schools are useful for anything set before 10 AF, since a spellcaster of that era would have trained in one narrow portion rather than in a school.
 
-Hekate's route is deliberately a dead end. She is the only one who has gone and returned, she has never explained it, and the hole she left is the only evidence of the method. A party that wants in has to solve it from scratch.
+Hekate's route is a dead end. She is the only one who has gone and returned, she has never explained it, and the hole she left is the only evidence of the method. A party that wants in has to solve it from scratch.

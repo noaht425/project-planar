@@ -50,7 +50,7 @@ What she retained: the Kings and their children, that the book gives other names
 
 What she does not have, and the notebook does not mention: the nesting of the realms and the rule behind it; every roster leaf, which is the sphinxes, the winds, the dragons, the Judgements, the fae and the portions of magic; which pseudonyms the book gives; what the domains actually are; the ten seam realms; the nine progenitors by name; and leaves XIII, XVI, XVIII, XXVII and XXX entire.
 
-That last group is the point. Indri whispering to Night, Tiyanak and Indri, the bargain, and the Council of Creation with Ius Primum in it are all dark, and nothing in her notebook points at them. The gaps carry no pattern, because the reason for them is that she read it once and did not hold everything. A player comparing what she has against the book learns only that she needs another potion.
+The last group matters most. Indri whispering to Night, Tiyanak and Indri, the bargain, and the Council of Creation with Ius Primum in it are all dark, and nothing in her notebook points at them. The gaps carry no pattern, because the reason for them is that she read it once and did not hold everything. A player comparing what she has against the book learns only that she needs another potion.
 
 Her dates are hers, not the book's. Theis has no numbers and places everything in sequence, so "about four thousand years ago" and "ends in 50 AF" came from her own schooling in Geno, matched to the order the book gives. The notebook sets her hand apart from the book's sense for exactly this reason.
 

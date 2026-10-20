@@ -9,7 +9,7 @@ summary: >-
 
 # 213 · Oinarria
 
-Founded in the third year of the Age of the Many, which makes it one of the older kingdoms. Orcs and giantkin together, and the sharing is the point of the place rather than a complication in it.
+Founded in the third year of the Age of the Many, which makes it one of the older kingdoms. Orcs and giantkin together, and the kingdom is built on the sharing.
 
 The capital is **Goro**. The other cities you are likely to have heard of are **Tagra** and **Bacta**.
 

@@ -29,7 +29,7 @@ It broke apart in a civil war in 105 AM. Elves had been going missing, and the r
 
 ## Design Notes
 
-Thalamas is history, and it is here so that Thalanea and Kumas have something to have broken. Every quarrel between them is about which of them betrayed the other in 105 AM.
+Thalamas gives Thalanea and Kumas something to have broken. Every quarrel between them is about which of them betrayed the other in 105 AM.
 
 The rumour that split the kingdom was true. [[Ius Primum]] exists, and neither half has ever seen it.
 

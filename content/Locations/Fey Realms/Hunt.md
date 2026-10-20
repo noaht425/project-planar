@@ -33,7 +33,7 @@ Atris appears as a young woman in a chiton, barefoot, carrying a bow. She was th
 
 ## The Cities
 
-**Fiadhlainis** (FEE-agh-la-nish), the hunt city, is where hunts are registered, witnessed and settled. Every formal hunt in the domain is recorded here and the records are the domain's law.
+**Fiadhlainis** (FEE-agh-la-nish), the hunt city, is where hunts are registered and settled. Every formal hunt in the domain is recorded here and the records are the domain's law.
 
 **Neachlain** (NAKH-lan) is where the dead are dealt with, on both sides of the arrangement. It is a quiet place and holds more ceremony than anywhere else in Hunt.
 
@@ -64,8 +64,8 @@ Every one of them is downwind of something. Villages in Hunt are sited for cover
 
 ## Design Notes
 
-The guaranteed chance is what makes Hunt a place rather than an execution. It is also the hook, since a party that understands the rule can use it, and a party that does not will assume the whole domain is hostile.
+Without the guaranteed chance, Hunt would be an execution. It is also the hook, since a party that understands the rule can use it, and a party that does not will assume the whole domain is hostile.
 
 Roles changing in both directions means the domain can turn on a party mid-session without the DM having to invent a reason.
 
-The lake has a rule everyone keeps and nobody explains. That is deliberate and it is for a DM to fill.
+The lake has a rule everyone keeps and nobody explains. It is for a DM to fill.

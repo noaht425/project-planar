@@ -41,8 +41,8 @@ This is the hardest plane in which to set a scene. It is close to open space, wi
 
 ## Design Notes
 
-The plane was built to be exactly what its name says, and the sparseness is the point. It is the one plane where the setting offers a party nothing to stand on.
+The plane is exactly what its name says. It is the one plane where the setting offers a party nothing to stand on.
 
-The split halves are the visible record of the Syzygy. The bleed between them is deliberate, since a clean division would suggest the fight is settled.
+The split halves are the visible record of the Syzygy. The halves still bleed into each other, since a clean division would suggest the fight is settled.
 
-Cado and Eos are left unplaced on purpose. The author's own reading is that they are somewhere out in the other planes, which keeps them available to appear wherever a campaign needs them.
+Cado and Eos are left unplaced. The author's own reading is that they are somewhere out in the other planes, which keeps them available to appear wherever a campaign needs them.

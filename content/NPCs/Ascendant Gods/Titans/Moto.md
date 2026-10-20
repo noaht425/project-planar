@@ -40,7 +40,7 @@ Moto wants the title back. He wants Iras humbled or dead and is not particular a
 
 ## Design Notes
 
-Moto is the titan with a live grievance, and the grievance is a title. A party can set him off by accident, the way the narrator did, and can use the same title on purpose.
+Moto's grievance is a title, and it is still live. A party can set him off by accident, the way the narrator did, and can use the same title on purpose.
 
 ## Open
 

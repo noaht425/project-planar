@@ -90,6 +90,6 @@ The Great Separation is written so that the gods had to do the work themselves, 
 
 The heavens are written with an edge for the same reason the archangels are not simply good. A reward that costs nothing gives a campaign nothing to do with it.
 
-The afterlives are built to be livable. A damned soul has somewhere to work, someone to answer to and some way to get ahead, which makes a hell a place a campaign can be set in rather than a tableau to walk past.
+The afterlives are built to be livable. A damned soul has somewhere to work and some way to get ahead, which makes a hell a place a campaign can be set in.
 
 Tiyanak taking the smaller share is the Division's quietest move. Every other pair fought for as much as they could get, so a deal that looks like surrender drew no attention at all.

@@ -24,6 +24,6 @@ The three are genuinely good allies and have been for a long time. Their interes
 
 ## Design Notes
 
-The Trois Re is a stable alliance on purpose. A setting with this many cold wars needs one bloc that works, and three kingdoms that agree with each other give a party a dependable patron and a large block of votes at the Panarex.
+The Trois Re is a stable alliance. A setting with this many cold wars needs one bloc that works, and three kingdoms that agree with each other give a party a dependable patron and a large block of votes at the Panarex.
 
 A DM who wants a scandal inside it is welcome to write one. The doorkeeper's suspicion is there to hang it on, and nothing on this page rules it out.

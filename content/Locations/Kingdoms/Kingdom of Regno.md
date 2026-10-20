@@ -34,7 +34,7 @@ Regno elects its ruler. The present one is [[XLZL]], an automaton of the fey wit
 
 ## Design Notes
 
-Regno is the kingdom that elected a fifteen-year-old automaton, and the page should make that read as sensible rather than strange. XLZL was raised by the archangel of justice and is very good at the job.
+Regno elected a fifteen-year-old automaton, and it was a sensible choice. XLZL was raised by the archangel of justice and is very good at the job.
 
 XLZL is also the precedent [[Chronos]] has been building a case on. Whatever the twelve decide about whether a made thing has a soul, the decision lands on the head of a mortal kingdom, which gives Regno a stake in an argument it has no seat at.
 

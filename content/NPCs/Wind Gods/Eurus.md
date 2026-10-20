@@ -15,7 +15,7 @@ Eurus (YOOR-us) is warm and bright, and keeps a form that is pleasant to be near
 
 ## Manner
 
-Of the four he is the one who likes mortals, enjoys company and will sit through a conversation that is going nowhere. His court is the one visitors are sent to when somebody in Ventis wants them looked after rather than dealt with.
+Of the four he is the one who likes mortals and will sit through a conversation that is going nowhere. His court is the one visitors are sent to when somebody in Ventis wants them looked after rather than dealt with.
 
 He is courting [[Princess Esta]] of [[Seasons]] publicly, with his court's approval and her domain's encouragement, and he is serious about it.
 
@@ -25,7 +25,7 @@ He has not told her about the plan.
 
 ## Goals
 
-Eurus intends to kill [[Afthor]] and take the elemental plane of air with the other three. He wants the plane rather than the revenge, which puts him and [[Boreas]] on different reasons for the same act.
+Eurus intends to kill [[Afthor]] and take the elemental plane of air with the other three. He wants the plane and [[Boreas]] wants the revenge, so the two of them have different reasons for the same act.
 
 He wants to marry [[Princess Esta]]. The two goals do not fit together: if the plan goes ahead he is either dead or ruling a plane, and neither of those leaves him in Teasanea. He has known this for some time and has not raised it with anyone.
 
@@ -34,8 +34,8 @@ He wants to marry [[Princess Esta]]. The two goals do not fit together: if the p
 
 ## Design Notes
 
-Eurus is the sympathetic one, and the secret he is keeping from Esta is the most tradeable piece of information in either realm. A party that learns it in Ventis is carrying something an archfey will pay for, and selling it ends an engagement that two domains are happy about.
+Eurus is sympathetic, and the secret he is keeping from Esta is the most tradeable piece of information in either realm. A party that learns it in Ventis is carrying something an archfey will pay for, and selling it ends an engagement that two domains are happy about.
 
-Giving him the plane as his motive and Boreas the revenge is what keeps the winds' plan from being a single bloc. It can be broken by giving one of them what he actually wants.
+Because he and Boreas want different things, the winds' plan is not a single bloc. It can be broken by giving one of them what he actually wants.
 
-He is the patron for a warlock who wants a decent patron, with the understanding that he is going to have to choose between two things eventually and has been avoiding it for centuries.
+He suits a warlock who wants a decent patron, with the understanding that he is going to have to choose between two things eventually and has been avoiding it for centuries.
