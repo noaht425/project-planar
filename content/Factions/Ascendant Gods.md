@@ -26,7 +26,7 @@ Every one of them was a person with a family, a history and a reason. Most of th
 | [[Nausicaä]] | Unwanted children |
 | [[Isadora]] | Luck and games |
 | [[Iras]] | Formerly king of [[Kingdom of Geno|Geno]] |
-| [[Loime]] | Plague, taken from [[Grixt]] |
+| [[Loime]] | Plague|
 | [[Indri]] | Vengeance |
 
 > *Most of the ascendants I met told me how they had done it before I had a chance to ask. The titans were the exception, and told me, separately and at length, that they had always been gods.*
