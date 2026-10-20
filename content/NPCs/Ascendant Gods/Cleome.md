@@ -33,7 +33,11 @@ She loves flowers and spiders, and the orchid most of all. She talks to it.
 
 **Relic:** the [[Spider Orchid]]. It is bound to her in body and in feeling. It feeds on what she feels, and it has to be watered every day with blood that is not hers.
 
-**Source:** unwritten.
+**Source:** [[Ignatius]]'s ascension.
+
+Cleome became a god because she would not let Ignatius go through it alone. When he performed the ritual she held on, and their friendship was strong enough that she went up with him. No other ascension has worked that way.
+
+She then made sure nobody else was left behind. She put Ignatius's notes where [[Nausicaä]] would find them, and she helped [[Chore]] through her own.
 
 ## Goals
 
@@ -47,11 +51,14 @@ Friendship in the plain sense. A worshipper or warlock of Cleome is expected to 
 
 ## Relationships
 
-- Friend of [[Chore]], [[Ignatius]] and [[Nausicaä]]
+- Ascended with [[Ignatius]]
+- Helped [[Nausicaä]] and [[Chore]] to ascend, and is friends with both
 
 ## Design Notes
 
 Cleome is care without softness, and the staring is how a party should meet her first. She is kind, she is right, and she was in the room before anyone noticed.
+
+Her ascension is her domain in action. She did not seek godhood for herself. She went because a friend was going, and then she went back for the other two.
 
 The orchid is the tension worth keeping. The god of friendship is bound to something that needs blood every day, and how she keeps it fed is a question a party can be asked to help with or can stumble on.
 

@@ -29,7 +29,11 @@ She and [[Ignatius]] have quarrelled for as long as both have been gods, and nei
 
 **Relic:** the [[Kubo Family Pendant]], an heirloom of the family that gave her away.
 
-**Source:** unwritten.
+**Source:** [[Themis]] and [[Archon]], set against each other.
+
+Nausicaä would not let Ignatius get one over on her. She worked out the ascension process out of spite, largely from his notes, which happened to have been left where she would come across them. [[Cleome]] had left them there.
+
+For a source she went to Themis and Archon, the two halves of [[Themati]], and played them against each other until between them they had given her what she needed.
 
 ## Goals
 
@@ -44,6 +48,7 @@ That the children come first. Her worshippers take in children who have been lef
 ## Relationships
 
 - Rival of [[Ignatius]]
+- Took her power from [[Themis]] and [[Archon]]
 - Friend of [[Cleome]] and [[Chore]]
 
 ## Design Notes
@@ -55,5 +60,9 @@ Her relic being her family's heirloom is the piece of the past she kept. She wil
 ## Open
 
 When she ascended is unwritten.
+
+What she consumed from Themis and Archon, which the ritual requires, is unwritten, as is whether either of them has worked out what she did.
+
+Whether she knows Cleome left the notes for her is unwritten.
 
 No stat block yet.

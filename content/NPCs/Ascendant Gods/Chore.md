@@ -29,7 +29,9 @@ She tries to hide how much she cares for her friends and does it badly. She will
 
 **Relic:** [[The Siren Blade]], which sings to her allies and shrieks at her enemies.
 
-**Source:** unwritten.
+**Source:** deep powers of the sea.
+
+Chore would not be left behind by the other three. She went looking for power at sea and kept company with some of the deep powers there for a while, and with help from [[Cleome]] she went up after them.
 
 ## Goals
 
@@ -55,5 +57,7 @@ Kalinekra cuts against the freedom. A banished fey lord who raises drowned soldi
 ## Open
 
 When she ascended is unwritten.
+
+Which powers of the sea she dealt with, and what they were given in return, is unwritten.
 
 No stat block yet.

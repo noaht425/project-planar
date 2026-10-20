@@ -34,7 +34,11 @@ He and [[Nausicaä]] have quarrelled for as long as both have been gods. He has 
 
 **Relic:** the [[Fireproof Spellbook]], a crimson leather tome stitched in gold. He was a wizard before he was a god and the book was his working spellbook.
 
-**Source:** unwritten.
+**Source:** power taken from beings he killed, stored up and spent together.
+
+Ignatius decided one day that most of his problems would go away if nobody could get in his way, and he spent a long time researching how to ascend. For a source he hunted. He killed a number of very powerful beings, devils and at least one dragon among them, choosing ones he considered evil or at any rate in his way, and he stored what he took from each until he had enough for the ritual.
+
+He was the first of the four. [[Cleome]] went up with him, and [[Nausicaä]] and [[Chore]] followed.
 
 ## Goals
 
@@ -49,7 +53,7 @@ Ignatius is the only patron of Ambition, and the pact is set out in [[Warlock Am
 ## Relationships
 
 - Rival of [[Nausicaä]]
-- Friend of [[Cleome]] and [[Chore]]
+- Friend of [[Cleome]], who ascended with him, and of [[Chore]]
 - Listed among the famous alumni of [[Aravis Academy]]
 
 ## Design Notes
@@ -63,6 +67,8 @@ The pact in [[Warlock Ambition]] is the best expression of him at a table. He le
 ## Open
 
 When he ascended is unwritten.
+
+Which devils and which dragons he killed is unwritten. None of the ten dragons of [[Tarkis]] can have been among them.
 
 Whether he finished his studies at Aravis is unwritten. The academy lists him either way.
 
