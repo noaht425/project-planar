@@ -9,5 +9,37 @@ Located in: [[Arenis]]
 
 Part of the [[Troi Re]] (Drei Kunik).
 
+Capital: [[Hekatania]]
+
+## The Kingdom
+
+Starkon was founded on 8 Aucaela, 3 AM, the first of the three kingdoms of the [[Troi Re]].
+
+It is known everywhere for the [[Aravis Academy]] in Hekatania, the greatest school of magic on any of the planes. [[Hekate]] founded it in 154 AM as a school for local children and made it a university in 157 AM, two days after she ascended. It has about fifty thousand students at any given time, and most of what the mortal world knows about [[Arcanis]] was learned there.
+
+Starkon hosted [[Eltarien's Extraplanar Extravaganza]] in 702 AM.
+
+## Government
+
+The ruler of Starkon is unwritten.
+
+## Cities
+
+**[[Hekatania]]** is the capital, and the Academy is its largest institution by a long way.
+
+The other cities are **[[Avonis]]** and **[[Fernstadt]]**.
+
+> *Half the houses in Hekatania let rooms to students, and every landlady I met had a rule about magic indoors. Mine allowed cantrips in the daytime and nothing at all after dark, and there was a bucket of sand outside every door to show she meant it.*
+
 ## History
 - 8 Aucaela, 3 AM: Founded
+
+## Design Notes
+
+Starkon is where the campaign begins, and the page is written to be easy to start in. It is prosperous, it is allied, and it has the Academy, which gives every kind of character a reason to be in the capital.
+
+## Open
+
+The ruler is unwritten.
+
+What Avonis and Fernstadt are like is unwritten.

@@ -23,7 +23,7 @@ Dragonborn have been banned from the capital since the breach.
 
 ## Government
 
-Geno is a monarchy, and the throne has had a difficult history. Seven kings named Genasi ruled in succession, the first of them the Progenitor himself. [[Iras]] killed [[Genasi VII]] in 405 AM, took the throne on the principle that Geno should be ruled by a descendant of dragons, and abdicated in 419 AM. [[Gaius Flaminius]] ruled after him for a hundred and twenty-seven years.
+Geno is a monarchy, and the throne has had a difficult history. Seven kings named Genasi ruled in succession, the first of them the Progenitor himself. [[Iras]] killed [[Genasi VII]] in 405 AM, took the throne on the principle that Geno should be ruled by a descendant of dragons, and abdicated in 419 AM. [[Gaius Flaminius]] was chosen to succeed him by representatives of the capital, with [[Lux]] leading the decision, and ruled for a hundred and twenty-seven years.
 
 When Gaius Flaminius died in 546 AM no successor was chosen, and the kingdom went without a ruler for a hundred and eleven years. That period is [[The Great Unrest]]. It ended in 657 AM when [[Nara Veril]] became queen, and she has held the throne since.
 
@@ -72,7 +72,5 @@ Geno is a kingdom built around a single problem. Everything it does politically 
 The century without a ruler is the richest material on the page. Every family in Geno did something during the Great Unrest, and very few of them want it discussed.
 
 ## Open
-
-The Player's Guide calls Gaius Flaminius an elected king, and his own page says [[Lux]] named him to replace Iras. Both can be true if Lux named him and the court ratified it, but it should be settled.
 
 What the three cities outside the capital are like is unwritten.
