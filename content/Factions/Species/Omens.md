@@ -11,3 +11,15 @@ The Omens worship the [[Archangels]] and the [[Archdevils]].
 They speak [[Iudimian]], which they rebuilt from what was left of [[Old Iudimian]] in speech and in surviving temple texts, filling the gaps from [[Celestial]] and [[Infernal]]. Since [[Kingdom of Sylfaen|Sylfaen]] conquered Krotaphos, Iudimian has been allowed in public only in religious settings. Omens still speak it at home.
 
 The angels and devils avoid the number two out of hatred for what they once were, but the Omens have reclaimed it. Krotaphos always has two kings, and Iudimian has sayings built on two, such as "Two kings are sitting" for a fair deal.
+
+Made by [[Thean]] at the [[Council of Creation]] in 1 AM, from the small pieces left over when the Judgements were split, mixed with everything else that went into the mortal realm. Neither leaning says anything about the person.
+
+> *In Krotaphos it is good luck to be born a twin, and it is the only kingdom where that is so. A midwife in Panthea told me she had delivered more twins than anyone alive, and that she suspected some of the parents of trying.*
+
+## Design Notes
+
+The Omens are made of what the twelve threw away, and they have taken back the number the twelve hate. Both facts give an archangel or archdevil a reason to have feelings about any Omen in the room.
+
+## Open
+
+How the archangels and archdevils treat Omens who do not worship them is unwritten.

@@ -4,7 +4,7 @@ tags: [tribe]
 summary: ''
 ---
 
-Made by [[Sylvana Lorien]] at the [[Council of Creation]] in 1 AM. Sylvana Lorien no longer has a name of her own. It was given to the Archfey, and the Archfey still have it.
+Made by [[Sylvana Lorien]] at the [[Council of Creation]] in 1 AM. She thinks very highly of the elves and will not hear a word against them.
 
 [[Atris]] and [[Hakea]] secretly helped make the elves. Their price was [[Ius Primum]], which lets any archfey claim any elf. A claimed elf serves the archfey that claimed them, and the archfey decides where their soul goes at death. An elf who refuses is erased from existence. No archfey may claim more than five elves in a year, and no more than twenty may be claimed in a year altogether. The elves do not know the terms.
 
@@ -24,4 +24,4 @@ The elves are right that something is taking them and wrong about who. A party t
 
 ## Open
 
-Whether Sylvana Lorien gave up her name as part of Ius Primum, or separately, is unwritten.
+What would happen if the elves learned that Sylvana signed Ius Primum is unwritten.

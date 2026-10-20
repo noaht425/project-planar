@@ -17,7 +17,7 @@ That is where mortals come from. Every one of the nine is playable and none of t
 
 *[[120 Giantkin|Giantkin]], made by Kleipur,* who was made first and out of the most material.
 
-*[[130 Elves|Elves]], made by Sylvana Lorien,* whose name is gone.
+*[[130 Elves|Elves]], made by Sylvana Lorien,* who will not hear a word against them.
 
 *[[140 Orcs|Orcs]], made by Shram.*
 
