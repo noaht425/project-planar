@@ -3,7 +3,7 @@ type: event
 tags:
   - festival
 date: '99 Morcaela, 428'
-summary: 'A masquerade festival hosted every year, rotating host kingdom.'
+summary: 'A masquerade festival hosted every other year, rotating host kingdom.'
 structuredDate:
   calendarNoteTitle: Age of the Many
   eraId: am
@@ -16,4 +16,4 @@ structuredDate:
 
 First hosted by [[Kingdom of Mathair]] on 99 Morcaela, 428 (1 year after the end of the war between [[Kingdom of Krotaphos]] and [[Kingdom of Sylfaen]]) in [[Omphalos]].
 
-Hosted every 10 years, rotates who hosts. It is an honor to host and kingdoms fight for the right to host.
+Hosted every other year, rotates who hosts. It is an honor to host and kingdoms fight for the right to host.

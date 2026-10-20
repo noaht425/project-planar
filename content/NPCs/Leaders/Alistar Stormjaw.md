@@ -14,7 +14,7 @@ Home Realm: [[Arenis]]
 - 36 Auctera, 180: born
 - 1 Aucaela, 199 AM: starts attending [[Aravis Academy]]
 - 37 Mortera, 201 AM: drops out of Aravis Academy
-- 56 Morcaela, 202 AM: Tried to open a portal to [[Tarkis]] in his lab in [[Geno]] (City)
+- 56 Morcaela, 202 AM: Tried to open a portal to [[Tarkis]] in his lab in [[Geno (City)]]
 - Banished by [[Genasi III]], the king of the [[Kingdom of Geno]] at the time
 - 96 Morcaela 202 AM: Forms [[Kingdom of Tama]] with exiles from other kingdoms
 - 96 Morcaela 202 AM: named as first king of Tama
