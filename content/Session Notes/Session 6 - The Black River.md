@@ -8,3 +8,5 @@ summary: ''
 REMEMBER TO USE WE/US FOR GRIXT
 
 Orcus is currently trying to persuade Belphegor to help
+
+Possibly have Aura gain a level of Devil Sorcerer
