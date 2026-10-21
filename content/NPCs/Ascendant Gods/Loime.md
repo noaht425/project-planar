@@ -76,6 +76,8 @@ Armor Class 20
 
 **Damage Resistances.** 
 
+**Damage Immunities.** Poison
+
 **Condition Immunities.** 
 
 **Senses.** passive Perception 
@@ -90,33 +92,24 @@ Armor Class 20
 
 **Toxin of Life.** When you would be dealt poison damage, you instead heal that much instead.
 
-**Aura of Conquest.** A creature frightened of Septimus has its speed reduced to 0 while within 30 feet of him, and takes 10 psychic damage if it starts its turn there.
+**Venomous Strikes** All weapon attacks and unarmed attacks you make deal an extra 3d8 of poison damage. This damage ignores resistances.
 
-**Scornful Rebuke.** When a creature that Septimus can see hits him with an attack and he isn't incapacitated, that creature takes 8 psychic damage.
-
-**Mental Fortitude.** Septimus has advantage on Intelligence and Charisma saving throws.
-
-**Improved Divine Smite.** Septimus's melee weapon hits deal an extra 1d8 radiant damage. This is already included in the Spiked Chain's damage below.
-
-**Divine Smite.** When Septimus hits with a melee weapon attack, he can expend a spell slot to deal extra radiant damage: 2d8 for a 1st-level slot, plus 1d8 for each slot level above 1st, to a maximum of 5d8. The damage increases by 1d8 (to a maximum of 6d8) if the target is a fiend or an undead.
-
-**Spellcasting.** Septimus is a 20th-level paladin. His spellcasting ability is Charisma (spell save DC 22, +14 to hit with spell attacks). He has the following spell slots: 1st level (4), 2nd level (3), 3rd level (3), 4th level (3), 5th level (2).
-
-**Bound by the Heavens.** Septimus has advantage on attack rolls against celestials, and celestials have advantage on attack rolls against him.
-
-**Great Weapon Fighting.** When Septimus rolls a 1 or 2 on a damage die for an attack he makes with a melee weapon, he can reroll the die and must use the new roll.
+**Miasma.** All creatures within 10 feet of Loime cannot regain hitpoints and take 2d6 poison damage at the start of each of their turns. Any creature that takes this damage 3 turns in a row must succeed on a DC 19 Constitution saving throw or receive a level of exhaustion (use 2024)
 
 Actions
 
-**Multiattack.** Septimus makes three Spiked Chain attacks. While Invincible Conqueror is active, he makes four Spiked Chain attacks instead.
+**Multiattack.** Loime makes 3 Poisoned Blade attacks.
 
-**Spiked Chain.** Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 10 (1d4+8) piercing damage plus 20 (8d4) psychic damage. If the target is frightened, it takes an extra 23 (5d8) radiant damage.
+**Poisoned Blade.** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 8 (1d6+4) slashing damage plus 14 (3d8) poison damage
 
-**Hold Them Down (Artifact).** Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: The target must succeed on a DC 22 Dexterity saving throw or be restrained by chains. While restrained this way, the target takes 9 (2d8) radiant damage at the start of each of its turns, and Septimus takes half as much damage. Each time the target fails its saving throw, the damage increases by 1d8, to a maximum of 27 (6d8). The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+**Poisonous Presence.** As an action, you begin to radiate an aura that has a radius of 20 ft. This aura lasts for 1 minute. If the effect requires a saving throw, the difficulty is equal to 16. When you do, select one of the following options:
 
-**Conquering Presence (Channel Divinity, 3/Day).** Each creature of Septimus's choice within 30 feet of him must succeed on a DC 22 Wisdom saving throw or become frightened of him for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+- All hostile creatures within the aura can make either an action or a bonus action on their turn but not both. Additionally, hostile creatures within the aura can make a maximum of two attacks on their turn.
+- When a hostile creature enters the aura for the first time on its turn or starts its turn in the aura, it must make a Constitution saving throw. On a failure it take 4d8 poison damage and cannot regain hitpoints until the start of its next turn. On a success it takes half as much damage and can heal as normal.
+- All creatures within the aura treat resistances as vulnerabilities and all vulnerabilities as resistances.
+- When a creature starts its turn within the aura, roll 1d6 (1:STR, 2:DEX, 3:CON, 4:INT, 5:WIS, 6:CHA). That creature must make a saving throw of that stat. If it succeeds, until the start of your next turn it receives advantage on all saving throws of that type but disadvantage on all others. If it fails, the opposite happens.
 
-**Invincible Conqueror (1/Day).** Septimus takes on an aspect of invincibility for 1 minute. During this time he has resistance to all damage, can make one additional attack when he takes the Attack action, and scores a critical hit on a roll of 19 or 20 on melee weapon attacks.
+Once you use this feature, you may not do so again until you take a long rest. Alternatively you may choose to reduce your maximum hitpoints by an amount equal to 8 times your constitution modifier (minimum of 8); when you do so you regain a use of this feature. This reduction lasts for 1d4 days.
 
 ### Reactions
 
@@ -126,7 +119,7 @@ None.
 
 Septimus can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time, and only at the end of another creature's turn. Septimus regains spent legendary actions at the start of his turn.
 
-**Lash (Costs 1 Action).** Septimus makes one Spiked Chain attack.
+**Slash (Costs 1 Action).** Loime makes one Poisoned Blade attack.
 
 **Rebuke the Unworthy (Costs 1 Action).** One frightened creature within 30 feet of Septimus takes 14 (4d6) psychic damage.
 
