@@ -18,7 +18,7 @@ The living can reach Iudis. The living have come back out. Getting out is much h
 
 **How long.** An afternoon and a long stay are different characters. Souls there keep their names and their memories, and both wear down with time. The living are not souls, and nobody is certain the wearing down skips them.
 
-**Which one.** There are six hells and six heavens and they branch outward from Liminia, where the dead are sorted. You were in one of them, and it was almost certainly Cruelty.
+**Which one.** There are six hells and six heavens and they branch outward from Liminia, where the dead are sorted. You were in one of them, and it was almost certainly the one your patron rules.
 
 **What it cost.** You did not walk out on your own. Something let you, and letting you was a decision somebody made.
 

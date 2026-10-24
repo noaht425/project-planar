@@ -26,6 +26,14 @@ Both sides avoid the number two, out of hatred for what they used to be. Do not 
 
 Devils have mortal children, and not only the six. If your character descends from one rather than bargaining with one, the subclass is [[Sorcerer Devil|Sorcerer, the Devil bloodline]], and which devil you came from decides your damage type.
 
+*For Belphegor,* go to [[421 Belphegor|421 · Belphegor]].
+
 *For Abaddon,* go to [[422 Abaddon|422 · Abaddon]].
 
-*Tell me which of the others you want and I will write them next.*
+*For Tiyanak,* go to [[423 Tiyanak|423 · Tiyanak]].
+
+*For Lux,* go to [[424 Lux|424 · Lux]].
+
+*For Archon,* go to [[425 Archon|425 · Archon]].
+
+*For Lilien,* go to [[426 Lilien|426 · Lilien]].
