@@ -94,3 +94,7 @@ Patrons go through their group first. A calling page sends the reader to the gro
 The path is a graph rather than a tree. A later page may hand the reader something an earlier page did not offer, and when it does it says so under a heading of its own and links to it. A page reachable only that way says so at the top.
 
 Branches that have not been written yet say so on the page and invite the reader to ask for them, rather than linking nowhere.
+
+Every individual patron page ends with **Decide one of these.** More if you like, followed by three questions for the player. They are questions only. The guide never supplies the answers.
+
+A patron whose pact plausibly takes a character somewhere has a What This Opens section pointing at a detour page in the 240s: 240 the hells, 241 the Hunt, 242 the heavens, 243 Tarkis, 244 Ventis, 245 Temporalis. Every other patron page ends at 900.
