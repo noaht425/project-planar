@@ -24,4 +24,14 @@ They are harder to reach than the archdevils. An archangel is less likely to ans
 
 They write by tracing letters in the air, slowly and ornately, and their texts are beautiful and almost unreadable.
 
-*Tell me which one you want and I will write their page next.*
+*For Blythe,* go to [[431 Blythe|431 · Blythe]].
+
+*For Neema,* go to [[432 Neema|432 · Neema]].
+
+*For Verita,* go to [[433 Verita|433 · Verita]].
+
+*For Pavlas,* go to [[434 Pavlas|434 · Pavlas]].
+
+*For Themis,* go to [[435 Themis|435 · Themis]].
+
+*For Gwenhael,* go to [[436 Gwenhael|436 · Gwenhael]].

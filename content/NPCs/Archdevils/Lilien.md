@@ -30,7 +30,7 @@ Desire covers lust, envy and greed, and Lilien regards the three as one thing ba
 
 ## Goals
 
-Lilien wants to be one thing: the two halves of the archdevil made into a single being. That is neither [[Belphegor]]'s reunification with [[Verita]] and [[Gwenhael]] nor a return to Aaranea, and Lilien has been trying for it since the Division.
+Lilien wants to be one thing: the two halves of the archdevil made into a single being. That is neither [[Belphegor]]'s reunification with [[Gwenhael]] nor a return to Aaranea, and Lilien has been trying for it since the Division.
 
 Everything else Lilien does is funding for that. The bargains in Desire are priced in whatever the petitioner can supply toward it, which is why they are so varied and why so many of them look like bad deals for Lilien.
 

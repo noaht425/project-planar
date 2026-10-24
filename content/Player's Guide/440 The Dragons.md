@@ -27,4 +27,24 @@ The second dragons travel far more than the lords do, which makes them easier to
 
 A dragon's warlock works to add to the hoard and to see the dragon's aims through, and is entered into the collection in return. The subclass is [[Warlock Dragon|Warlock, the Dragon patron]].
 
-*Tell me which dragon you want and I will write their page next.*
+A dead dragon can still take a warlock, though it works differently. Their pages explain how.
+
+*For Pyrrha,* go to [[441 Pyrrha|441 · Pyrrha]].
+
+*For Brilis,* go to [[442 Brilis|442 · Brilis]].
+
+*For Vetur,* go to [[443 Vetur|443 · Vetur]].
+
+*For Charis,* go to [[444 Charis|444 · Charis]].
+
+*For Tenu,* go to [[445 Tenu|445 · Tenu]].
+
+*For Mens,* go to [[446 Mens|446 · Mens]].
+
+*For Okzu,* go to [[447 Okzu|447 · Okzu]].
+
+*For Amol,* go to [[448 Amol|448 · Amol]].
+
+*For Zaros, who is dead,* go to [[449 Zaros|449 · Zaros]].
+
+*For Vari, who is dead,* go to [[450 Vari|450 · Vari]].
