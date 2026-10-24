@@ -19,7 +19,11 @@ Okzu is the dragon lord of Noxia. He is built heavy and low, scaled in the colou
 
 **What people assume about you.** That you are in debt, which you are, and that you collect for him. In Noxia, everyone knows somebody who owes him.
 
-**Decide one thing.** What you borrowed, and whether it was for you.
+**Decide one of these.** More if you like.
+
+- What you borrowed, and whether it was for you.
+- Who else in your family owes him.
+- What he has asked for in repayment so far.
 
 ## What This Opens
 

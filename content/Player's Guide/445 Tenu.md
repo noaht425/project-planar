@@ -19,7 +19,11 @@ Tenu is the dragon lord of Earth. Tenu is stone and has been in the same mountai
 
 **What people assume about you.** That you are patient. Miners and builders will want your opinion on what they are standing on.
 
-**Decide one thing.** A place you mapped and have not told anyone about.
+**Decide one of these.** More if you like.
+
+- A place you mapped and have not told anyone about.
+- Something you were refused permission to take out.
+- How long you waited for the end of Tenu's first answer to you.
 
 ## What This Opens
 

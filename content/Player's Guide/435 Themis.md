@@ -19,7 +19,11 @@ Themis is the Archangel of Justice, and the other half of Archon, the Archdevil 
 
 **What people assume about you.** That you are there to judge them.
 
-**Decide one thing.** A case you think was decided wrongly. She will want to hear it.
+**Decide one of these.** More if you like.
+
+- A case you think was decided wrongly. She will want to hear it.
+- A decided matter she sent you to look into.
+- Whether you have ever been judged, and by whom.
 
 ## What This Opens
 

@@ -23,7 +23,11 @@ Zaros was the dragon lord of Air until the ascendant god Afthor killed him, dran
 
 **What people assume about you.** In the air realm, that you are either a fool or the best news in fifty years. Afthor will take you personally.
 
-**Decide one thing.** Why you believe. Most of his warlocks never met him.
+**Decide one of these.** More if you like.
+
+- Why you believe. Most of his warlocks never met him.
+- Something you have done to leave a place better off.
+- Whether you want him back, and what you think he will be like if he comes.
 
 ## What This Opens
 

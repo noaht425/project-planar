@@ -19,6 +19,10 @@ Chronos rules Time, where everything is mechanical and everything runs exactly a
 
 **What people assume about you.** That you are reliable, and that you will turn up whether or not you are wanted.
 
-**Decide one thing.** The appointment you have already agreed to and have not yet kept.
+**Decide one of these.** More if you like.
+
+- The appointment you have already agreed to and have not yet kept.
+- The one time you were late, and what it cost.
+- An agreement of yours that worked exactly as written and did something you had not foreseen.
 
 *Go to* [[900 Finish|900 · Finish]].

@@ -21,6 +21,12 @@ She keeps a lodge rather than a court, and the lodge moves. Where it is standing
 
 **What people assume about you.** That you are dangerous outdoors, and that you will finish what you start.
 
+**Decide one of these.** More if you like.
+
+- Which side of a hunt she met you on.
+- A hunt of yours that is still on the books.
+- An ending she sent you to find out.
+
 ## What This Opens
 
 A warlock of Atris has been in her domain, which means they were assigned a role there like everything else alive. No homeland page offers that.

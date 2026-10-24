@@ -19,7 +19,11 @@ Neema is the Archangel of Kindness, and the other half of Abaddon, the Archdevil
 
 **What people assume about you.** That you are kind, and that you are a soft touch. Servants of the other archangels may treat you as being on the wrong side of an argument you did not know you were in.
 
-**Decide one thing.** What your better self looked like when you met Neema, and how far you are from it now.
+**Decide one of these.** More if you like.
+
+- What your better self looked like when you met Neema, and how far you are from it now.
+- Something you confessed to Neema without being asked.
+- Who Neema sent you to help, and why it had to be quiet.
 
 ## What This Opens
 

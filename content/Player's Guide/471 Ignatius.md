@@ -21,7 +21,11 @@ He is a newer god than almost anything else you could bind yourself to, and it s
 
 **What people assume about you.** Not much, yet. He is new enough that most people have not heard of him, and the ones who have tend to assume you are in a hurry.
 
-**Decide one thing.** What your character wants badly enough that a god noticed. Ignatius did not pick you at random, he picked you because you were already reaching for something.
+**Decide one of these.** More if you like.
+
+- What your character wants badly enough that a god noticed. Ignatius did not pick you at random, he picked you because you were already reaching for something.
+- A time you hesitated, and what he did about it.
+- Something you have already given up to get closer.
 
 The subclass is [[Warlock Ambition|Warlock, the Ambition patron]].
 

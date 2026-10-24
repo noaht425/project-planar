@@ -21,7 +21,11 @@ People in the air realm describe the sound of Vari more than the body. You knew 
 
 **What people assume about you.** Very few people have heard of a warlock of Vari. The dragons who hear of you will want to know what you know.
 
-**Decide one thing.** What you believe Vari was. You may turn out to be wrong.
+**Decide one of these.** More if you like.
+
+- What you believe Vari was. You may turn out to be wrong.
+- Where you first heard Vari's name.
+- A dragon you asked about Vari, and what they said.
 
 ## What This Opens
 

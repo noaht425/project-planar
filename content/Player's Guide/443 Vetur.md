@@ -19,7 +19,11 @@ Vetur is the dragon lord of Water, a pale sea dragon of the old kind, so cold th
 
 **What people assume about you.** That you know where things are. People will come to you about lost ships and lost relatives, and you may know more than you are allowed to tell them.
 
-**Decide one thing.** Something your character lost to the water. Vetur knows exactly where it is, and it is staying there.
+**Decide one of these.** More if you like.
+
+- Something your character lost to the water. Vetur knows exactly where it is, and it is staying there.
+- A wreck Vetur asked you to find.
+- Someone who came to you looking for something lost, and what you told them.
 
 ## What This Opens
 

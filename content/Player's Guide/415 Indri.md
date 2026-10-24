@@ -19,6 +19,10 @@ Indri rules Trickery. Pale face, pure black eyes, silver freckles.
 
 **What people assume about you.** That nothing you say is reliable. Among fae, that is closer to a compliment than you would think.
 
-**Decide one thing.** What you won from him, and what you agreed to along the way without noticing.
+**Decide one of these.** More if you like.
+
+- What you won from him, and what you agreed to along the way without noticing.
+- A wager you declined, and what declining told him.
+- A rule of Trickery you worked out, and what it turned out to be for.
 
 *Go to* [[900 Finish|900 · Finish]].

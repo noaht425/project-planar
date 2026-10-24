@@ -17,7 +17,11 @@ Pavlas is the Archangel of Humility, and the other half of Lux, the Archdevil of
 
 **What people assume about you.** That you are modest. Some will take you for a servant, which can be useful.
 
-**Decide one thing.** Something your character did that nobody remembers them doing. In Humility the blessed slowly forget their own achievements, and Pavlas may have taken you on because you had already started.
+**Decide one of these.** More if you like.
+
+- Something your character did that nobody remembers them doing. In Humility the blessed slowly forget their own achievements, and Pavlas may have taken you on because you had already started.
+- Something you carried for Pavlas that turned out to matter.
+- When you noticed how much you had been talking.
 
 ## What This Opens
 

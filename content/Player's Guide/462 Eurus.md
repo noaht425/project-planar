@@ -21,7 +21,11 @@ Eurus is the east wind, warm and bright, and the only one of the four who keeps 
 
 **What people assume about you.** That you are easy to talk to. The fey of Esta's court will be glad to see you.
 
-**Decide one thing.** A question you asked him that he did not answer. You may not have noticed at the time.
+**Decide one of these.** More if you like.
+
+- A question you asked him that he did not answer. You may not have noticed at the time.
+- Someone he sent you to look after.
+- Something you have carried to Esta's court.
 
 ## What This Opens
 

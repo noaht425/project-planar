@@ -19,7 +19,11 @@ He has no court and no interest in running one. He finds the actual work of gove
 
 **What people assume about you.** That you are somebody's adviser, or about to be. Anyone in power who recognises the mark will want to know whose ear you are after.
 
-**Decide one thing.** Who you know. Archon picked you because of them, and they may not have found out yet.
+**Decide one of these.** More if you like.
+
+- Who you know. Archon picked you because of them, and they may not have found out yet.
+- Advice he gave you that turned out to be right.
+- Who in power has already noticed your mark.
 
 ## What This Opens
 

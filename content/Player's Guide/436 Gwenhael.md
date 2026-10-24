@@ -17,7 +17,11 @@ Gwenhael is the Archangel of Sacrifice, and the other half of Lilien, the Archde
 
 **What people assume about you.** That you are generous. Servants of the other archangels may assume you are taking advantage of him.
 
-**Decide one thing.** What you asked him for. You got it. Decide whether you know what it cost him.
+**Decide one of these.** More if you like.
+
+- What you asked him for. You got it, so decide whether you know what it cost him.
+- Who thinks you are taking advantage of him.
+- Whether he has ever asked anything of you.
 
 ## What This Opens
 

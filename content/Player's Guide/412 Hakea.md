@@ -19,6 +19,10 @@ She is the most straightforward of the seven to deal with and the most uncomfort
 
 **What people assume about you.** That you are harmless. This is useful and it is wrong.
 
-**Decide one thing.** What she told you that you did not want to hear.
+**Decide one of these.** More if you like.
+
+- What she told you that you did not want to hear.
+- How long you waited in her queue, and who was ahead of you.
+- What you are keeping growing for her, or cutting back.
 
 *Go to* [[900 Finish|900 · Finish]].

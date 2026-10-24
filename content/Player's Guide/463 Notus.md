@@ -21,7 +21,11 @@ Notus is the south wind. He does not hold a shape, and over a single conversatio
 
 **What people assume about you.** That you are unreliable. If you take after him, that is fair.
 
-**Decide one thing.** The best thing he ever promised you. It may still turn up.
+**Decide one of these.** More if you like.
+
+- The best thing he ever promised you. It may still turn up.
+- An instruction he changed after you had already followed it.
+- A joke of his you still repeat.
 
 ## What This Opens
 

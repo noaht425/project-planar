@@ -19,7 +19,11 @@ Both halves are awake and both of them talk.
 
 **What people assume about you.** That you want something you cannot have, and that the right offer would get you to do almost anything for it.
 
-**Decide one thing.** Which half made the pact with you. They do not always agree about what you owe.
+**Decide one of these.** More if you like.
+
+- Which half made the pact with you. They do not always agree about what you owe.
+- Whether you have ever spoken only to the right half, and what happened.
+- What you were offered for only a little more.
 
 ## What This Opens
 

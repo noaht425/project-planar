@@ -17,7 +17,11 @@ Verita is the Archangel of Truth, and the other half of Tiyanak, the Archdevil o
 
 **What people assume about you.** That you cannot lie, or will not. Some people will test this, and some will tell you things on the assumption that you will repeat them exactly.
 
-**Decide one thing.** The question you asked Verita that you wish you had not.
+**Decide one of these.** More if you like.
+
+- The question you asked Verita that you wish you had not.
+- A question you have decided never to ask.
+- How you feel about the peace you are now on the side of.
 
 ## What This Opens
 

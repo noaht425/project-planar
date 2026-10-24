@@ -19,7 +19,11 @@ He has two heads and he is the one that people are frightened of without needing
 
 **What it does not mean.** The archdevils are not evil by nature and the archangels are not good by nature. Each of the twelve is a domain rather than a moral position. Cruelty is a real thing in the world, it has a ruler, and the ruler took you on. What you do with that is the actual question, and it is the one your character will keep answering.
 
-**A thing worth deciding now.** Why you. Abaddon said yes to you specifically, and you are allowed to not know the reason yet.
+**Decide one of these.** More if you like.
+
+- Why you. Abaddon said yes to you specifically, and you are allowed to not know the reason yet.
+- Whether anyone you love knows whose mark you carry.
+- What you will not do, even for him.
 
 ## What This Opens
 

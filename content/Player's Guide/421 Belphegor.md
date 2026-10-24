@@ -19,7 +19,11 @@ His face is nothing but mouths and he has a hundred arms, and he is the most ple
 
 **What people assume about you.** That you are good company and do not know when to stop.
 
-**Decide one thing.** What your character has never managed to put down. Belphegor noticed it before you did.
+**Decide one of these.** More if you like.
+
+- What your character has never managed to put down. Belphegor noticed it before you did.
+- Who he has asked you to bring to dinner.
+- How you got up from his table, if you have sat at it.
 
 ## What This Opens
 

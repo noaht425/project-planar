@@ -19,7 +19,11 @@ Boreas is the north wind. He is the largest of the four and the only one who kee
 
 **What people assume about you.** That you are stubborn, and that once you have started something you will not be talked out of it.
 
-**Decide one thing.** What Boreas told you he would do for you. He will do it. Decide how long you have been waiting.
+**Decide one of these.** More if you like.
+
+- What Boreas told you he would do for you. He will do it. Decide how long you have been waiting.
+- What you think of his engagement.
+- What he has asked you to do about Afthor.
 
 ## What This Opens
 

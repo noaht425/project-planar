@@ -19,7 +19,11 @@ Mens is the second dragon of Earth, made by Tenu with the help of the archfey In
 
 **What people assume about you.** That whatever they tell you will end up with a dragon, which is correct. Scholars will be glad to see you. People with secrets will not.
 
-**Decide one thing.** Something you handed over that you wish you had kept to yourself.
+**Decide one of these.** More if you like.
+
+- Something you handed over that you wish you had kept to yourself.
+- The best trade you have made with Mens.
+- Who you know in Mensosde Talthu.
 
 ## What This Opens
 

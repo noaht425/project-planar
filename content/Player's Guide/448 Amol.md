@@ -19,7 +19,11 @@ Amol is the second dragon of Noxia, made by Okzu alone, and Amol will tell you s
 
 **What people assume about you.** That you are loud about who you work for. Warlocks of the other three seconds will be cold to you before you have said anything.
 
-**Decide one thing.** What you think Amol ought to collect. Amol may ask.
+**Decide one of these.** More if you like.
+
+- What you think Amol ought to collect. Amol may ask.
+- Something Amol brought you into, and who noticed.
+- How many times Amol has explained lineage to you.
 
 ## What This Opens
 

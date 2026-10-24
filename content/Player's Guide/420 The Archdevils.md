@@ -17,9 +17,9 @@ They are also more approachable than the archangels, which surprises people. An 
 
 Both sides avoid the number two, out of hatred for what they used to be. Do not count to two in front of one.
 
-- **Belphegor**, Indulgence. The lightest of the six by severity, which has never made him pleasant.
+- **Belphegor**, Indulgence. The lightest of the six by severity, which doesn't necessarily make him pleasant.
 - **Abaddon**, Cruelty. The one people are frightened of without needing it explained.
-- **Tiyanak**, Deceit. Nobody knows their true name.
+- **Tiyanak**, Deceit. Nobody master of manipulation.
 - **Lux**, Pride. Had a child with a dragon, which went about as well as you would expect.
 - **Archon**, Tyranny. Iron gauntlets fused to his hands and a thorn crown grown into his head.
 - **Lilien**, Desire. Split down the middle, one half beautiful and one half ruined.

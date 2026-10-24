@@ -21,6 +21,10 @@ Much of what lives in his domain is several things at once in a single shape. He
 
 **What people assume about you.** That you are harmless and a bit sad. Grixt has been benefiting from that assumption for considerably longer than you have been alive.
 
-**Decide one thing.** What he has asked you to let rot.
+**Decide one of these.** More if you like.
+
+- What he has asked you to let rot.
+- When you first realised what he actually is.
+- Something of yours that has already gone over, and whether you minded.
 
 *Go to* [[900 Finish|900 · Finish]].

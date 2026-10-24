@@ -19,7 +19,11 @@ They have no form anyone has recorded. In Iudis they appear as the shadow of who
 
 **What people assume about you.** That nothing you say can be relied on. This is unfair and very hard to argue your way out of.
 
-**Decide one thing.** What you were told the pact was for. It was true, as far as it went.
+**Decide one of these.** More if you like.
+
+- What you were told the pact was for. It was true, as far as it went.
+- A lie you told them, and how quickly they caught it.
+- Which part of their plans you think you are in.
 
 ## What This Opens
 

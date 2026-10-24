@@ -19,7 +19,11 @@ Charis is the second dragon of Water, made by Vetur with the help of Grixt, the 
 
 **What people assume about you.** That death follows you around. You arrive after it, and most people will not see the difference.
 
-**Decide one thing.** The first body you accounted for, and whose it was.
+**Decide one of these.** More if you like.
+
+- The first body you accounted for, and whose it was.
+- Where you were the first time you saw Charis arrive.
+- Whether you have any idea where the collection is kept.
 
 ## What This Opens
 

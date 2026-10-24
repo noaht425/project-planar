@@ -19,7 +19,11 @@ Brilis is the second dragon of Fire, made by Pyrrha with the help of the archang
 
 **What people assume about you.** That you have expensive taste. Amol's warlocks, and a few others, will treat you as the servant of a lesser dragon, because Brilis was made with outside help.
 
-**Decide one thing.** What you gave Brilis, and how you handed it over.
+**Decide one of these.** More if you like.
+
+- What you gave Brilis, and how you handed it over.
+- Where you have met Brilis's followers, and what they made of you.
+- What Amol's warlocks have said to you.
 
 ## What This Opens
 

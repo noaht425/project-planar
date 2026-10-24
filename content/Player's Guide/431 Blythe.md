@@ -19,7 +19,11 @@ Blythe has no arms and no mouth, and the whole body is covered in eyes that do n
 
 **What people assume about you.** That you will measure out what other people get, and that you will not be generous about it.
 
-**Decide one thing.** What Blythe decided you should have. It was exactly enough, and you may not have liked that.
+**Decide one of these.** More if you like.
+
+- What Blythe decided you should have. It was exactly enough, and you may not have liked that.
+- How many days your first conversation with Blythe took.
+- Who you hand things to on Blythe's behalf.
 
 ## What This Opens
 

@@ -19,7 +19,11 @@ Zephyros is the west wind. Very few people have described him and their descript
 
 **What people assume about you.** That a quiet patron has secrets, and that you are keeping them.
 
-**Decide one thing.** Whether you have ever seen him. If you have, what did he look like?
+**Decide one of these.** More if you like.
+
+- Whether you have ever seen him. If you have, what did he look like?
+- What his steward asked of you first.
+- What you think he wants.
 
 ## What This Opens
 

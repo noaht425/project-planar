@@ -19,6 +19,10 @@ He is made of leaves that are always turning colour, dying and growing back. He 
 
 **What people assume about you.** That you are well connected and have manners. Fae who dislike the court will dislike you on sight.
 
-**Decide one thing.** Which of the four you have dealt with most, and whether that went well.
+**Decide one of these.** More if you like.
+
+- Which of the four you have dealt with most, and whether that went well.
+- How you learned the right way to ask him for things, and who taught you.
+- Something you carried for him, and whether it arrived.
 
 *Go to* [[900 Finish|900 · Finish]].

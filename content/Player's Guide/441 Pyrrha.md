@@ -19,7 +19,11 @@ Pyrrha is the dragon lord of Fire. She rules from inside an enormous volcano. Sh
 
 **What people assume about you.** That anything you are carrying is worth more than it looks. In a fire, people will watch what you go back for.
 
-**Decide one thing.** What you brought her first, and what it had survived.
+**Decide one of these.** More if you like.
+
+- What you brought her first, and what it had survived.
+- A fire you lived through.
+- Something she refused to take, and why.
 
 ## What This Opens
 

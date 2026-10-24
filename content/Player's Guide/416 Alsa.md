@@ -19,6 +19,10 @@ The other archfey keep Alsa at a distance on the grounds of not being pleasant t
 
 **What people assume about you.** That you are grim, and that you have seen the inside of somewhere they would rather not think about. Both are usually true.
 
-**Decide one thing.** Whose remains you went there to ask about.
+**Decide one of these.** More if you like.
+
+- Whose remains you went there to ask about.
+- Something you found in Bone that you were not looking for.
+- Who will not be in the same room as you since the pact.
 
 *Go to* [[900 Finish|900 · Finish]].
