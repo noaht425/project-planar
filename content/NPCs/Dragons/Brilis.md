@@ -18,7 +18,7 @@ Brilis (BRIH-liss) is a dragon of light, and fourteen stars hold an orbit around
 
 ## Manner
 
-Brilis is the most sociable of the ten and the most widely travelled. The seconds keep to their realms loosely and Brilis barely keeps to one at all, and there are worshippers of Brilis in the mortal realm, which no other dragon has.
+Brilis is the most sociable of the ten and the most widely travelled. The seconds keep to their realms loosely and Brilis barely keeps to one at all, and Brilis has a following in the mortal realm that came about without any of the others' encouragement.
 
 Brilis is vain and generous, and knows it. Of the ten, this is the dragon that will simply help, and the price is that Brilis is then owed admiration and will collect.
 

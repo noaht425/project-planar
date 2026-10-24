@@ -22,4 +22,10 @@ A pact with a wind puts you in that plan whether or not anyone tells you.
 
 The subclass is [[Warlock Wind|Warlock, the Wind patron]]. Because the four quarters bleed together, it gives you all four rather than only the one that took you.
 
-*Tell me which one you want and I will write their page next.*
+*For Boreas,* go to [[461 Boreas|461 · Boreas]].
+
+*For Eurus,* go to [[462 Eurus|462 · Eurus]].
+
+*For Notus,* go to [[463 Notus|463 · Notus]].
+
+*For Zephyros,* go to [[464 Zephyros|464 · Zephyros]].

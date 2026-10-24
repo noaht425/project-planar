@@ -15,6 +15,8 @@ Zaros was the dragon lord of Air until the ascendant god Afthor killed him, dran
 
 **That cuts both ways.** If your faith goes, I would not count on the power staying.
 
+**Talk to me about the subclass.** The Dragon patron assumes a hoard to come back to, and his is wrecked. We can work it out together, and the Undead or Undying patron might suit the flavor better.
+
 **He is not entirely gone.** The other dragons want him back and Okzu is running the effort. Nobody tries to raise something that is not there.
 
 **What you are working for.** Zaros cannot tell you what he wants, so you work from what he wanted when he was alive. His hoard was cities that prospered, and a warlock of Zaros usually ends up trying to leave a place better off.
