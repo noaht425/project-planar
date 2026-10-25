@@ -3,6 +3,7 @@ type: npc
 tags: []
 ac: 21
 hp: 475
+cr: '23'
 ---
 
 Domain: Death
