@@ -20,7 +20,7 @@ Deceit is built largely of glass, and most of what happens in it is done to a so
 
 ## The Long Lie
 
-The hell does not rely on single tricks. Each soul is the subject of a lie built over years and told by many voices, usually that a way out has been arranged. The lie is consistent in its details and pays out small confirmations on schedule. A soul that follows it to the end finds that the end has moved, and another lie is already running alongside the first. Small and clumsy lies are looked down on in Deceit, and devils lose standing for telling them. It is not uncommon for a soul in Deceit to be approached by a mysterious stranger who says they have a way out. After years or maybe even decades of putting themself through all sorts of torment to enact this supposed plan, it will eventually be revealed that the plan was a ruse put on by a devil.
+The hell does not rely on single tricks. Each soul is the subject of a lie built over years and told by many voices, usually that a way out has been arranged. The lie is consistent in its details and pays out small confirmations on schedule. A soul that follows it to the end finds that the end has moved, and another lie is already running alongside the first. Small and clumsy lies are looked down on in Deceit, and devils lose standing for telling them. It is not uncommon for a soul in Deceit to be approached by a mysterious stranger who says they have a way out. After years or maybe even decades of putting themself through all sorts of torment to enact this supposed plan, the soul will be made to believe that the plan just didn't work and they may continue to be approached in this manner several times.
 
 ## Standing
 
@@ -28,7 +28,7 @@ A soul rises by becoming a good liar. Skilled souls are given booths and then de
 
 ## Shadows
 
-A shadow in [[Iudis]] belongs to [[Tiyanak]], because none of the other eleven casts one. Deceit is lit from many sides and has more shadows than any other part of the realm. Visitors who try to count them lose track, and the devils decline to say how many are watching.
+A devil's shadow in [[Iudis]] belongs to [[Tiyanak]], because none of the other eleven casts one. Deceit is lit from many sides and has more shadows than any other part of the realm. Visitors who try to count them lose track, and the devils decline to say how many are watching.
 
 ## The Tenth
 

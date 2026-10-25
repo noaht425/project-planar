@@ -35,7 +35,7 @@ Tiyanak wants chaos generally and keeps several projects running toward it at on
 
 The current one is [[Ius Primum]]. Tiyanak intends to get an archfey and an elf to break it, which requires a fey willing to renounce the claim and an elf willing to refuse it, and the collapse of the deal would put [[Kingdom of Thalanea|Thalanea]] and [[Kingdom of Kumas|Kumas]] into open war rather than the cold one they have now. Tiyanak was supposed to witness the signing and did, standing in for the Indri they had already killed, so they know the terms better than any living party to it.
 
-Tiyanak does not know that [[Indri]] has escaped the underworld.
+Tiyanak knows that [[Indri]] has escaped the underworld and has sealed the cage. Tiyanak is sending warlocks to hunt Indri and tells each of them whichever lie will get them to kill him. Some are told that Indri is causing chaos, which is Tiyanak's own work, and that he must be stopped. Others are told that he is an imposter.
 
 ## History
 
@@ -53,8 +53,10 @@ Tiyanak is two characters that the players will meet separately and should have 
 
 Giving away ninety per cent of a realm to keep ten per cent of it is the clearest statement of what Tiyanak values. The cage was worth more than the territory.
 
-Tiyanak does not know about Indri's escape. Every other being of this rank in the setting has better information than the party does. Tiyanak, on this one subject, has worse, and a party that works out what they are holding has something to sell to the only person who wants it.
+Tiyanak knows about Indri's escape and is acting on it through intermediaries, so a party may meet one of the hunting warlocks before it meets either Tiyanak or Indri. Each hunter has a different story about Indri, and the stories do not agree with one another.
 
 ## Open
 
 Whether Tiyanak can be killed while Indri is alive, and what happens to the Indri identity if Tiyanak dies first, is not settled.
+
+What a party can hold over Tiyanak now that Tiyanak knows about the escape is not settled.

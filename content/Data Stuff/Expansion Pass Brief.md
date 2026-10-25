@@ -169,7 +169,7 @@ Starkon, Mathair and Regno are the [[Trois Re]], genuine allies.
 
 None of these may appear in the Player's Guide.
 
-- Tiyanak killed the original Indri in 3,096 AF and has worn his face since. The real Indri escaped the underworld in 700 AM as the god of vengeance, and Tiyanak does not know.
+- Tiyanak killed the original Indri in 3,096 AF and has worn his face since. The real Indri escaped the underworld in 700 AM as the god of vengeance. Tiyanak knows, has sealed the cage, and is sending warlocks to hunt Indri under various lies: that Indri is causing chaos and must be stopped, that he is an imposter.
 - Tiyanak wants [[Ius Primum]] broken. Atris wants out of it.
 - Grixt is the author of Orcus's plan against the King of Night. Orcus thinks it is his own. He is recruiting Charis, Boreas and Belphegor by their grievances.
 - Belphegor wants the Judgements remade by each archdevil eating its archangel.

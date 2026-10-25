@@ -12,7 +12,7 @@ The halls begin at a great height and come down as they go in. A soul walking th
 
 ## The Halls
 
-The first halls are tall enough for a giant to walk through upright. The innermost chambers are low enough that most adults crawl. The walls of every hall are hung with plaques and portraits recording achievements, and none of the achievements belong to the visitor.
+The first halls are tall enough for a giant to walk through upright. The innermost chambers are low enough that even children must crawl. The walls of every hall are hung with plaques and portraits recording achievements, and none of the achievements belong to the visitor.
 
 ## Contests
 

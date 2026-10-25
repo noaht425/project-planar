@@ -36,7 +36,7 @@ Indri wants to remember who he is.
 
 He wants [[Tiyanak]] dead, as violently and as publicly as possible, and the public part is not incidental. He has worked out that something took his name, and he has worked out that whatever took it is being obeyed somewhere as him.
 
-Tiyanak does not know he is out. This is the single largest piece of leverage available to anyone in the setting.
+Tiyanak knows he is out and is sending warlocks to kill him, each under a different lie.
 
 ## History
 

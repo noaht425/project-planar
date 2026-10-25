@@ -68,7 +68,7 @@ Several of them have two names, an older one and a current one, and which is in 
 
 The domain is the reason it has held. A seat where constant lying is expected is the one seat where a liar raises no alarm. Those who have worked it out have tended not to last.
 
-The real Indri escaped the underworld in 700 AM and is loose in [[Arenis]] as a god of vengeance. He wants to remember who he was and he wants Tiyanak killed as publicly as possible. Tiyanak does not know he is out.
+The real Indri escaped the underworld in 700 AM and is loose in [[Arenis]] as a god of vengeance. He wants to remember who he was and he wants Tiyanak killed as publicly as possible. Tiyanak knows he is out and is sending warlocks to hunt him.
 
 ## Design Notes
 
