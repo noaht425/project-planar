@@ -72,7 +72,7 @@ Armor Class 20
 
 **Speed.** 25 ft.
 
-**Saving Throws.** WIS +5, CHA +14
+**Saving Throws.** WIS +11, CHA +10
 
 **Damage Resistances.** 
 
@@ -90,9 +90,9 @@ Armor Class 20
 
 ### Traits
 
-**Toxin of Life.** When you would be dealt poison damage, you instead heal that much instead.
+**Toxin of Life.** When you would be dealt poison damage, you heal that much instead.
 
-**Venomous Strikes** All weapon attacks and unarmed attacks you make deal an extra 3d8 of poison damage. This damage ignores resistances.
+**Venomous Strikes.** All weapon attacks and unarmed attacks you make deal an extra 3d8 of poison damage. This damage ignores resistances.
 
 **Miasma.** All creatures within 10 feet of Loime cannot regain hitpoints and take 2d6 poison damage at the start of each of their turns. Any creature that takes this damage 3 turns in a row must succeed on a DC 19 Constitution saving throw or receive a level of exhaustion (use 2024)
 
@@ -117,13 +117,13 @@ None.
 
 ### Legendary Actions
 
-Septimus can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time, and only at the end of another creature's turn. Septimus regains spent legendary actions at the start of his turn.
+Loime can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time, and only at the end of another creature's turn. Loime regains spent legendary actions at the start of his turn.
 
 **Slash (Costs 1 Action).** Loime makes one Poisoned Blade attack.
 
-**Rebuke the Unworthy (Costs 1 Action).** One frightened creature within 30 feet of Septimus takes 14 (4d6) psychic damage.
+**Spread (Costs 1 Action).** One creature within 30 feet of Loime must succeed on a DC 19 Constitution saving throw or take 14 (4d6) poison damage and be unable to regain hit points until the end of its next turn.
 
-**Conqueror's Advance (Costs 2 Actions).** Septimus moves up to his speed without provoking opportunity attacks, then makes one Spiked Chain attack.
+**Advance (Costs 2 Actions).** Loime moves up to his speed without provoking opportunity attacks, then makes one Poisoned Blade attack.
 
 Lair Actions
 
