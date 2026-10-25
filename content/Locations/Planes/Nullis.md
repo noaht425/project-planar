@@ -3,7 +3,7 @@ tags: []
 type: location
 summary: >-
   The innermost plane, holding the two divisions of light and darkness. Home of
-  the King of Day, the King of Night and their children.
+  the King of Day, the King of Night, and their children.
 locationType: location
 ---
 

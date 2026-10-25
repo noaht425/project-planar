@@ -30,6 +30,10 @@ Questions also run out. A soul that has asked everything it ever wanted to ask i
 
 [[Verita]] is almost entirely transparent, and a visitor sees the outline first and the inside second. Verita has never been recorded declining to answer a question. The peace that ended the [[Divine War]] gave Truth nine tenths of the realm that had been [[Sylas]]'s.
 
+## Middling Souls
+
+A soul that arrived without much it wanted to know runs out of questions within a season. The heaven then has nothing further to give it, centuries earlier than it runs out for anyone else. Those souls take up asking on behalf of others, and some will ask a visitor for a question to carry, since a question from outside is the only kind they have not used up.
+
 ## The Neighbours
 
 Truth and [[Deceit]] were one place under Sylas. [[Pride]] is the hell nearest Truth in spirit.

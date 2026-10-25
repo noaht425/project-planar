@@ -11,7 +11,7 @@ Member of the [[Archdevils]].
 
 ## Appearance
 
-Belphegor (BEL-fuh-gor) has no eyes, no ears, no nose and no hair. The whole of the face is mouths, set at different sizes and different angles, and they do not work in unison. Some chew while others are speaking. Some have been shut for centuries.
+Belphegor (BEL-fuh-gor) has no eyes, no ears, no nose, and no hair. The whole of the face is mouths, set at different sizes and different angles, and they do not work in unison. Some chew while others are speaking. Some have been shut for centuries.
 
 A hundred arms come off the body. Most are occupied at any moment, carrying dishes, refilling cups, holding a guest's hand, taking a plate away before the guest has finished with it.
 

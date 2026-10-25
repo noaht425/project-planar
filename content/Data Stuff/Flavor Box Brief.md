@@ -12,7 +12,7 @@ Read [[Sourcebook Conventions]] first. This note is the long form of its Flavor 
 
 Audit every flavor box in the vault, rewrite the ones that are not working, and leave the ones that are.
 
-As of this writing there are 45 boxes across the archdevils, archangels, archfey, wind gods, Beings of the Eternal Void, dragons and Nekerukes, plus the Dragons and Nekerux faction notes. They were written in one long session and they have one writer's tic repeated through them. The problem is the sameness rather than the individual boxes, so this is a pass over the whole set rather than a hunt for bad ones.
+As of this writing there are 45 boxes across the archdevils, archangels, archfey, wind gods, Beings of the Eternal Void, dragons, and Nekerukes, plus the Dragons and Nekerux faction notes. They were written in one long session and they have one writer's tic repeated through them. The problem is the sameness rather than the individual boxes, so this is a pass over the whole set rather than a hunt for bad ones.
 
 ## Where Things Are
 
@@ -69,7 +69,7 @@ The number words alone: "four" nine times, "nine" six times, "eleven" six times.
 
 Every box is between 45 and 79 words and most are between 53 and 70. There is no short sharp one anywhere in the set and no long one.
 
-The dominant shape is: the narrator asks a question, gets a refusal or a reversal, and closes by reporting that they have not worked out how they feel about it. Boxes ending that way include Blythe, Brilis, Gwenhael, Lilien, Mens, Notus, Pavlas, Bis and Nekerux. Any one of them is fine. Nine of them is a signature.
+The dominant shape is: the narrator asks a question, gets a refusal or a reversal, and closes by reporting that they have not worked out how they feel about it. Boxes ending that way include Blythe, Brilis, Gwenhael, Lilien, Mens, Notus, Pavlas, Bis, and Nekerux. Any one of them is fine. Nine of them is a signature.
 
 Specific weak ones to deal with first:
 
@@ -123,7 +123,7 @@ Other shapes that are available and barely used in the current set:
 
 Go group by group. After each group, re-read all of that group's boxes in sequence and check them against the variety budget. The failure happens when boxes are written one page at a time and never read side by side.
 
-Change only the blockquote line. Do not touch the body, the design notes, the frontmatter or the stat blocks.
+Change only the blockquote line. Do not touch the body, the design notes, the frontmatter, or the stat blocks.
 
 Some boxes have already been edited by the author by hand. Treat anything that reads well as deliberate and leave it. If a box seems weak but may be the author's own writing, raise it rather than overwriting it.
 

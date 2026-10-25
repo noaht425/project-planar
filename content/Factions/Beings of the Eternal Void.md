@@ -9,7 +9,7 @@ The four beings of [[Nullis]]: the two Kings and their two children.
 | Being | What they are |
 | --- | --- |
 | [[The King of Day]] | Day, life, sun, healing and knowledge |
-| [[The King of Night]] | Night, the moon, the constellations and secrets. Death until [[Orcus]] took it |
+| [[The King of Night]] | Night, the moon, the constellations, and secrets. Death until [[Orcus]] took it |
 | [[Eos]] | Dawn, their daughter |
 | [[Cado]] | Dusk, their son |
 

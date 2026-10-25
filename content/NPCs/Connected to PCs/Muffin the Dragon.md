@@ -110,7 +110,7 @@ Armor Class 15 (natural armor)
 
 ### Traits
 
-**Sense Minds (60 ft.).** It knows the location of every creature within 60 feet with an Intelligence of 4 or higher, and nothing else about them. Mind blank, nondetection or similar magic blocks this.
+**Sense Minds (60 ft.).** It knows the location of every creature within 60 feet with an Intelligence of 4 or higher, and nothing else about them. Mind blank, nondetection, or similar magic blocks this.
 
 **Borrowed Words.** As a bonus action it can repeat up to six words it has heard, projected into the mind of one creature it can see, in the voice of whoever originally said them. It does not understand them. This conveys no meaning it chose.
 
@@ -150,7 +150,7 @@ Armor Class 16 (natural armor)
 
 ### Traits
 
-**Impeccable Awareness (120 ft.).** It knows the location and Intelligence score of every creature within 120 feet with an Intelligence of 4 or higher. Mind blank, nondetection or similar magic blocks this.
+**Impeccable Awareness (120 ft.).** It knows the location and Intelligence score of every creature within 120 feet with an Intelligence of 4 or higher. Mind blank, nondetection, or similar magic blocks this.
 
 **Bonded Mind.** It and its bonded creature can speak telepathically at up to a mile on the same plane. Neither can lie to the other through this link, which neither of them was told.
 

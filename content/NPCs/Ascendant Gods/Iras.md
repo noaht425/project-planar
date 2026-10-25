@@ -27,7 +27,7 @@ He took the throne of Geno in 405 AM by killing [[Genasi VII]], on the principle
 
 Everyone he kills with the [[Hell's Fire Staff]] goes to his father in [[Pride]].
 
-His mother [[Pyrrha]] has never visited him. His father [[Lux]] took all of his other descendants into Pride and left Iras where he was.
+His mother [[Pyrrha]] has never visited him.
 
 > *The statue at the main gate of Geno that is meant to be Iras was a statue of Genasi until Gaius Flaminius had it altered, and he did not have much altered. The face is new. The hands are still Genasi's, and somebody keeps them polished. When I mentioned the statue to Iras, he said he had never been back to see it.*
 

@@ -12,7 +12,7 @@ The leaves are the Void's own history of the world, from the Kings alone in the 
 
 ## What The Book Covers
 
-- Leaves I to IV are the Kings: the Void, the names others call them by, their domains, their marriage and their children.
+- Leaves I to IV are the Kings: the Void, the names others call them by, their domains, their marriage, and their children.
 - The book never writes either King's name. It calls them dagur and takur, the crowned one of the light and the crowned one of the dark, which are titles. Suri and Dalla appear nowhere in it, and leaf II says so outright: the true name of the King of Day is not in these marks, and the same for the King of Night.
 - That is also why those titles can be mistaken for the weather. Dagur sits one letter from dab, the day, and dagurtakur one letter from dabtap, time. A translator who slips there reads a sentence about the Kings as a sentence about the sky.
 - Leaf II was added later, by the second hand, and is the only leaf out of place that way. The names on it are the ones mortals and the other outsiders use, so it could not have been written when the leaves around it were, since mortals did not yet exist. Someone went back and put it in with the rest of the King material.
@@ -48,7 +48,7 @@ She read it once, fast, with a potion that was running out, and wrote down what 
 
 What she retained: the Kings and their children, that the book gives other names for each King and refers to a true name for each without writing it, Cado as the sunset and Eos as the sunrise, the Division and the Syzygy and the Divine War and the Great Separation in that order, the two ages, that no one has heard from the children, that both Kings are permanently injured, that the domains are listed and that something has been lifted out of the King of Night's, what became of each plane in the last chapter, and the eight proper names of the planes.
 
-What she does not have, and the notebook does not mention: the nesting of the realms and the rule behind it; every roster leaf, which is the sphinxes, the winds, the dragons, the Judgements, the fae and the portions of magic; which pseudonyms the book gives; what the domains actually are; the ten seam realms; the nine progenitors by name; and leaves XIII, XVI, XVIII, XXVII and XXX entire.
+What she does not have, and the notebook does not mention: the nesting of the realms and the rule behind it; every roster leaf, which is the sphinxes, the winds, the dragons, the Judgements, the fae, and the portions of magic; which pseudonyms the book gives; what the domains actually are; the ten seam realms; the nine progenitors by name; and leaves XIII, XVI, XVIII, XXVII, and XXX entire.
 
 The last group matters most. Indri whispering to Night, Tiyanak and Indri, the bargain, and the Council of Creation with Ius Primum in it are all dark, and nothing in her notebook points at them. The gaps carry no pattern, because the reason for them is that she read it once and did not hold everything. A player comparing what she has against the book learns only that she needs another potion.
 
@@ -487,7 +487,7 @@ bar Arkanis pare ne niʾal duril.
 
 > In Arcanis the portions mended into one another.
 > From that turning the portions are few. They are named.
-> These are the names of the portions: the Holding Away, the Calling, the Seeing, the Laying On, the Power, the Likeness, the Life and Its End, the Changing.
+> These are the names of the portions: the Holding Away, the Calling, the Seeing, the Laying On, the Power, the Likeness, the Life, and Its End, the Changing.
 > One portion holds the power of many.
 > Arcanis keeps the law.
 
@@ -596,7 +596,7 @@ Gankan nugižil.
 - Those ten names are paired words like any other. The day form is the realm, the night form is the stuff in it, so šutal is steam and žudal is the place steam comes from. It is the only part of the language that works that way.
 - Ten lines of the same shape, five known words recombining, each one answered by a new word after a mark. It is the most legible block in the book, and a translator who gets nothing else will still come away knowing which word means and.
 - Leaf XXI adds only that the pieces of Ventis and of the hells fell into Tarkis and went to the seams. What they did there is not recorded.
-- Leaf XXIV is the Coalescence. The Void writes it with the verb kap, which is the night form of the verb for breaking and means to mend, so the portions of magic are described as having healed into one another. The eight portions are named there in Theis: Baram, Dimam, Gankan, Zulam, Balpal, Zalsal, Guzkus and Nuwaram.
+- Leaf XXIV is the Coalescence. The Void writes it with the verb kap, which is the night form of the verb for breaking and means to mend, so the portions of magic are described as having healed into one another. The eight portions are named there in Theis: Baram, Dimam, Gankan, Zulam, Balpal, Zalsal, Guzkus, and Nuwaram.
 - Nothing in the leaves is dated by number, since Theis has no numbers past one, a pair and all. Everything is placed by what happened before it.
 
 ## The Rings

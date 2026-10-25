@@ -34,8 +34,6 @@ She is the only dragon who has had a child with something that was not a dragon.
 
 Pyrrha wants everything fireproof in her realm inside her mountain, and she is close. What is left outside it is what she is working on, and most of what remains is in the seams where Fire meets the other four realms.
 
-She wants to know what [[Lux]] did with their son's siblings. Lux took every one of his other descendants into Pride and left Iras on the throne, and Pyrrha has never been given a reason.
-
 ## What She Asks
 
 A warlock or an ally of Pyrrha brings her things that came through fire. Not valuable things. Things that should have burned and did not, with an account of what they survived, and the account matters as much as the object.

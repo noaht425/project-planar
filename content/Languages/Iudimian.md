@@ -291,7 +291,7 @@ Meaning: Not (in statements of fact)
 POS: Adverb
 
 ## Word: Mie
-Meaning: Not (in wishes, commands, conditions and purposes)
+Meaning: Not (in wishes, commands, conditions, and purposes)
 POS: Adverb
 
 ## Word: Ferit
@@ -1757,7 +1757,7 @@ From the Infernal insult for an angel's wings.
 Words that stayed in everyday speech changed in these ways:
 - Judgement accents, vowel length marks and nasal vowels were lost. A nasal vowel became a vowel followed by n.
 - y became i. ph became f, ch became k, and chth became th.
-- At the start of a word, ps, pt, pn, gn, mn and kt lost their first sound, and x became s.
+- At the start of a word, ps, pt, pn, gn, mn, and kt lost their first sound, and x became s.
 - Long vowels shifted: aa became e, ee became i, ii became ai, oo became u, uu became au.
 - At the end of a word, -on became -en, and -a and -o became -e.
 - The infinitive ending -ine became -in.
@@ -1902,7 +1902,7 @@ Past Tense:
 
 ## Grammar: Numbers
 - The Omens reclaimed two. Dix is an ordinary number again, and Dixast means second.
-- Everyday counting is in base 10. Zero to six are native: Outhir, Hin, Dix, Tirse, Tesor, Penke, Iudel. Seven to ten and the larger units were borrowed from [[Dzoa]] during the long years under Sylfaen: Bado (7), Tinu (8), Lakwe (9), Zeke (10), Bute (100), Haz (1000), from Dzoa Bhado, Ṭiṇu, Llaqwe, Dzeka, Mbuṭa and Ḥaz.
+- Everyday counting is in base 10. Zero to six are native: Outhir, Hin, Dix, Tirse, Tesor, Penke, Iudel. Seven to ten and the larger units were borrowed from [[Dzoa]] during the long years under Sylfaen: Bado (7), Tinu (8), Lakwe (9), Zeke (10), Bute (100), Haz (1000), from Dzoa Bhado, Ṭiṇu, Llaqwe, Dzeka, Mbuṭa, and Ḥaz.
 - The temples still count in sixes, using Orme (36) and Mirre (216).
 
 ## Grammar: Idioms

@@ -6,7 +6,7 @@ summary: >-
   Beings to the present year, 702 AM.
 ---
 
-Dates use the [[Age of the Many]] calendar. The Age of the Few (AF) counts down to the Age of the Many (AM), which counts up, and there is no year zero. A year has four months of a hundred days each, in the order Aucaela, Auctera, Morcaela and Mortera.
+Dates use the [[Age of the Many]] calendar. The Age of the Few (AF) counts down to the Age of the Many (AM), which counts up, and there is no year zero. A year has four months of a hundred days each, in the order Aucaela, Auctera, Morcaela, and Mortera.
 
 ## The Age of the Few
 

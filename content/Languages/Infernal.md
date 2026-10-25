@@ -343,7 +343,7 @@ Meaning: Not (in statements of fact)
 POS: Adverb
 
 ## Word: Mīe
-Meaning: Not (in wishes, commands, conditions and purposes)
+Meaning: Not (in wishes, commands, conditions, and purposes)
 POS: Adverb
 
 ## Word: Vèrit
@@ -1973,7 +1973,7 @@ After the changes shared with Celestial, Infernal speech grew hasty and clipped:
 - The Angelic endings survive only as an insult. Put on any noun, they make it soft, pious and ridiculous: Kēfa (head), Kēfon (a pious little head).
 
 ## Grammar: Nouns
-- Infernal has three cases: nominative, object and genitive. The object case covers everything the other Old Iudimian cases did, with a preposition when the meaning needs one (see Case Prepositions).
+- Infernal has three cases: nominative, object, and genitive. The object case covers everything the other Old Iudimian cases did, with a preposition when the meaning needs one (see Case Prepositions).
 - There is no vocative. A person is addressed with the bare nominative
 - In the genitive plural, -iix shortened to -ix and fell together with the singular. Context tells them apart.
 

@@ -19,7 +19,7 @@ Mathair was founded on 17 Aucaela, 3 AM, on the same day as [[Kingdom of Regno|R
 
 Its capital, Omphalos, claims to be the most central point in the world. Nobody has successfully disputed the claim and nobody has entirely proved it.
 
-Mathair does not restrict worship. The royal palace has statues of every group a person might call on for a favour, and the city has a temple district to match, with the archangels and archdevils, the dragons, the archfey, the scholarchs and the ascendant gods all represented.
+Mathair does not restrict worship. The royal palace has statues of every group a person might call on for a favour, and the city has a temple district to match, with the archangels and archdevils, the dragons, the archfey, the scholarchs, and the ascendant gods all represented.
 
 ## La Grande Mascarade
 

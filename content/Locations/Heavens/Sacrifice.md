@@ -20,7 +20,7 @@ What a soul gave up is returned to it in Sacrifice, including the things it neve
 
 ## Giving Again
 
-Once a soul has taken back what it gave, it may give something up again, for someone else, and the gift reaches them. This is the one place in the afterlives where a sacrifice is not wasted. [[Gwenhael]] arranged it that way, and it is the reason a soul in any of the other five heavens may choose to come and live here. Souls in the hells cannot. See [[Iudis]] for the pact that keeps them out.
+Once a soul has taken back what it gave, it may give something up again, for someone else, and the gift reaches them. This is the one place in the afterlives where a sacrifice is not wasted. [[Gwenhael]] arranged it that way. A soul from any of the other five heavens may come here to give something up and does so as a visitor, since a soul lives in the heaven it was assigned. Souls in the hells cannot come at all. See [[Iudis]].
 
 ## The Cost
 
@@ -29,6 +29,10 @@ Getting a thing back can undo what giving it up meant. Some souls find the retur
 ## Gwenhael
 
 Gwenhael is thin and keeps both arms across himself, and he is thinner each time he is seen. The stewards take care to bring him nothing he did not ask for.
+
+## Middling Souls
+
+A soul that gave up little has little to collect, and it clears its table within a few years of arriving. What is left is the question the heaven puts to everyone, which is whether to give something up for another soul now. A soul that spent a life giving nothing finds that harder than the collecting was. The steward keeps asking, once a year, in the same words.
 
 ## The Neighbours
 

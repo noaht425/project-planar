@@ -6,7 +6,7 @@ summary: ''
 
 Language of the [[Elves]], spoken in the [[Kingdom of Thalanea]]. Descended from the [[High Fae]] taught to the elves at their creation in 1 AM. Elves and fae spoke it together in [[Kingdom of Thalamas|Thalamas]] until the civil war of 105 AM, after which the elves purged much of its everyday vocabulary.
 
-> *After the war the elves threw out the everyday words that made them sound like Kumas and kept every word touching names, oaths, debts and bargains, because their old agreements are worded in them. The result is a language in which I can negotiate a binding contract and cannot reliably ask for bread.*
+> *After the war the elves threw out the everyday words that made them sound like Kumas and kept every word touching names, oaths, debts, and bargains, because their old agreements are worded in them. The result is a language in which I can negotiate a binding contract and cannot reliably ask for bread.*
 
 ## Word: Felin
 Meaning: Fae, one of the fae folk
@@ -45,7 +45,7 @@ Meaning: Giant, one of the giantkin
 POS: Noun
 
 ## Word: Talvach
-Meaning: Earthborn: a gnome, dwarf or halfling
+Meaning: Earthborn: a gnome, dwarf, or halfling
 POS: Noun
 
 ## Word: Gineasach
@@ -65,7 +65,7 @@ Meaning: Dragon
 POS: Noun
 
 ## Word: Tarvis
-Meaning: Ruler, king or queen
+Meaning: Ruler, king, or queen
 POS: Noun
 
 ## Word: Pela
@@ -1180,8 +1180,8 @@ Sylvan descends from the [[High Fae]] of 1 AM through these changes.
 
 ## Grammar: The Purge
 - After the civil war of 105 AM, the elves of [[Kingdom of Thalanea|Thalanea]] replaced much of their everyday vocabulary so that ordinary Sylvan would no longer sound like the speech of [[Kingdom of Kumas|Kumas]].
-- They left every word touching the fae untouched: names, deals, debts, oaths, magic, the archfey and the fey realms. The terms of [[Ius Primum]] and every bargain made by their ancestors are worded in these words, and changing them was seen as too dangerous.
-- The new words were made by scholars in Lenetha and spread through the schools within a generation. Some everyday words escaped the purge, including silva, darawe, terpis and cleama.
+- They left every word touching the fae untouched: names, deals, debts, oaths, magic, the archfey, and the fey realms. The terms of [[Ius Primum]] and every bargain made by their ancestors are worded in these words, and changing them was seen as too dangerous.
+- The new words were made by scholars in Lenetha and spread through the schools within a generation. Some everyday words escaped the purge, including silva, darawe, terpis, and cleama.
 - Lene survived by changing meaning. When doma replaced it as the word for house, lene took over the meaning city from the old word lanis, which dropped out of use.
 - [[Low Fae]] kept most of the old everyday words.
 

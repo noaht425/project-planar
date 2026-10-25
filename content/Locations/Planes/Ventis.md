@@ -21,7 +21,7 @@ Most of Ventis is open air. What ground there is comes in floating pieces, glass
 
 ## The Courts
 
-Each of the four Wind Gods keeps a court, built around that wind's own domain. They are populated places, with air genasi, pegasi and wind elementals among their people.
+Each of the four Wind Gods keeps a court, built around that wind's own domain. They are populated places, with air genasi, pegasi, and wind elementals among their people.
 
 | Wind | Quarter | Temperament |
 | --- | --- | --- |

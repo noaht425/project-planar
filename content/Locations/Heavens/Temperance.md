@@ -26,6 +26,10 @@ Everything in Temperance arrives in the right measure. A soul here is given what
 
 The appetite goes with it. A soul that has stopped wanting more has also stopped reaching, and much of what it used to be was built out of that reaching. A soul that built something in life, a business or a collection or a household, sees no reason to start another. The terraces are quiet in the evenings. Conversation is pleasant and short, because nobody has anything to bargain over.
 
+## Middling Souls
+
+A soul that was never greedy loses nothing to the measure. It is given enough, and enough is close to what it would have asked for, so the heaven takes nothing away and leaves it with less to do than anyone else there. Those souls keep to the lower terraces and take up small work in the gardens. What they compare is portions, and an argument over whose measure runs more generous can last a season.
+
 ## The Neighbours
 
 Temperance and [[Indulgence]] were one place under [[Baator]]. A door joins them and both sides keep it shut. [[Tyranny]] is the hell nearest Temperance in spirit.

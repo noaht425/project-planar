@@ -16,7 +16,7 @@ Home Realm: [[Arenis]]
 [[Kingdom of Mathair|Mathair]] does not restrict worship, and Odile stocks for every power a person might call on.
 
 Wares:
-- Holy Symbol (any archangel, archdevil, dragon, archfey, scholarch or ascendant): usable as a spellcasting focus
+- Holy Symbol (any archangel, archdevil, dragon, archfey, scholarch, or ascendant): usable as a spellcasting focus
 	- 25 GP
 - Votive Candle: burn it for an hour before a long rest, and the next day you may reroll one d20 on a check that falls within that power's domain
 	- 15 GP

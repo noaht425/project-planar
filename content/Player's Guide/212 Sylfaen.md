@@ -11,7 +11,7 @@ summary: >-
 
 Founded in 2 AM. Beastfolk, and the strongest kingdom in the world since beating Krotaphos in 427 AM.
 
-Capital: **Dawara**. Other cities: **Chrasil**, **Oinsyl** and **Plowo**.
+Capital: **Dawara**. Other cities: **Chrasil**, **Oinsyl**, and **Plowo**.
 
 The language is **Dzoa**, and the **Office of the Seal** polices it. Street Dzoa is full of Iudimian loanwords and the Office considers that a problem rather than a dialect. Every borrowed word is filed into the outsider class, so a foreign word announces itself to everyone in earshot.
 

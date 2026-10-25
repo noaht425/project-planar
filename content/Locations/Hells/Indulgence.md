@@ -34,6 +34,10 @@ Indulgence has a working economy. The kitchens, breweries, gold works, and cella
 
 [[Belphegor]] attends every hall in turn. He seats guests, asks after their families, remembers the answers, and sends dishes to their places. A soul that refuses is not stopped. It is asked again by a different mouth in slightly different words, until it accepts.
 
+## Middling Souls
+
+A soul that was never much given to excess has the least in it that objects, and those souls last longest before they understand where they are. Some of them go decades. Nothing in the hell is adjusted for them and the party does not treat them differently, so what reaches them is the same understanding everyone reaches, arriving late.
+
 ## The Door
 
 Where Indulgence meets [[Temperance]] the join is a single door, and both sides keep it shut. A place is laid at a table in front of it on the Indulgence side. See [[Baator]], whose place this was before the Division.

@@ -13,7 +13,7 @@ Peoples:
 - Insectoid: Kekrik, Yuan-Ti
 - Mammalian: Bellu, Minotaur, Tabaxi, Harengon, Satyr, Loxodon
 
-Sylfaen law sorts beastfolk by mouth type: Lipped, Snouted, Beaked and Long-jawed. Each type has an accepted way of pronouncing Dzoa. Tortles, Locathah, Grung, Kekrik and Yuan-Ti fit none of the four types, and officials record their speech as unclean. See [[Dzoa]] for the details.
+Sylfaen law sorts beastfolk by mouth type: Lipped, Snouted, Beaked, and Long-jawed. Each type has an accepted way of pronouncing Dzoa. Tortles, Locathah, Grung, Kekrik and Yuan-Ti fit none of the four types, and officials record their speech as unclean. See [[Dzoa]] for the details.
 
 Made by [[Numen]] at the [[Council of Creation]] in 1 AM, with help from the [[Dragons]], which is why there are so many kinds.
 

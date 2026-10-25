@@ -11,7 +11,7 @@ summary: >-
 
 The Progenitor named Genasi made the elementals with help from the dragons, and took the five elemental realms of Tarkis as the model.
 
-Five base kinds: **fire, water, air, earth and noxious**. Then ten more from the places where those realms touch: **steam, ash, magma, smoke, ice, marsh, acid, dust, plague and metal**. All fifteen are playable.
+Five base kinds: **fire, water, air, earth, and noxious**. Then ten more from the places where those realms touch: **steam, ash, magma, smoke, ice, marsh, acid, dust, plague, and metal**. All fifteen are playable.
 
 **They have a kingdom**, Geno, and it has a problem. In 202 AM a scientist tried to open a portal to Tarkis in a laboratory in the capital, and Tarkis has been bleeding into the city ever since. What holds it back is a magical wall over the breach, maintained at constant expense. Everything else Geno does comes second to that.
 

@@ -62,7 +62,7 @@ Gender: Masculine
 From [[Kleipur]].
 
 ## Word: Talbhach
-Meaning: Earthborn: a gnome, dwarf or halfling
+Meaning: Earthborn: a gnome, dwarf, or halfling
 POS: Noun
 Gender: Masculine
 From [[Talav]].
@@ -90,7 +90,7 @@ POS: Noun
 Gender: Feminine
 
 ## Word: Mórdhach
-Meaning: Ruler, king or queen
+Meaning: Ruler, king, or queen
 POS: Noun
 Gender: Masculine
 From móra (great).
@@ -137,7 +137,7 @@ From cluth (steal).
 Meaning: Name
 POS: Noun
 Gender: Masculine
-A name is property. It can be held, lent, owed or stolen like any other thing.
+A name is property. It can be held, lent, owed, or stolen like any other thing.
 
 ## Word: Diúránamh
 Meaning: True name
@@ -1381,8 +1381,8 @@ POS: Adjective
 | l, n, r | — | — |
 | a vowel | — (a name takes h-) | n- |
 
-- Softening is caused by: the article an before a feminine noun; a feminine noun on the adjective after it; the past tense; Neo (not); Á (used to address someone); the possessives Mi, Tu and Fól; and every spoken use-name.
-- Eclipsis is caused by: the article na before a noun in the genitive plural; Ce (question); Ad (bound mood); and the possessives Sne, Sib and Éi.
+- Softening is caused by: the article an before a feminine noun; a feminine noun on the adjective after it; the past tense; Neo (not); Á (used to address someone); the possessives Mi, Tu, and Fól; and every spoken use-name.
+- Eclipsis is caused by: the article na before a noun in the genitive plural; Ce (question); Ad (bound mood); and the possessives Sne, Sib, and Éi.
 
 ## Grammar: Nouns
 - Nouns fall into three declensions according to how they end. There is no word for "a".

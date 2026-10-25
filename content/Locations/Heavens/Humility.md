@@ -30,6 +30,10 @@ Most souls arrive remembering what they did. After a few centuries most of them 
 
 Pavlas bows to every visitor, insists that the visitor enter first, and will not accept precedence in a doorway.
 
+## Middling Souls
+
+A soul that did little worth recording still gets an entry. The researchers go out and ask the same questions they would ask about anyone, then post what they find, which is often two lines on a wall beside a neighbour's forty. Nobody who belongs in Humility remarks on the difference. The souls with thin entries remark on it constantly among themselves, and they are the only souls there who can tell a visitor the length of every entry in the town.
+
 ## The Neighbours
 
 Humility and [[Pride]] were one place under [[Charios]]. [[Deceit]] is the hell nearest Humility in spirit.

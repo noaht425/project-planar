@@ -29,7 +29,7 @@ Thalanea is ruled by Caleth, addressed in Sylvan as A Chaleth.
 
 ## Language
 
-[[Sylvan]]. After the war the elves threw out the everyday words that made their speech sound like the fae language, and kept every word that touched names, oaths, debts and bargains, because their old agreements are written in them. The result is a language that can negotiate a binding contract and struggles to ask for bread.
+[[Sylvan]]. After the war the elves threw out the everyday words that made their speech sound like the fae language, and kept every word that touched names, oaths, debts, and bargains, because their old agreements are written in them. The result is a language that can negotiate a binding contract and struggles to ask for bread.
 
 ## Cities
 

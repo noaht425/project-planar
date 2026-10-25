@@ -8,7 +8,7 @@ The ten dragons of [[Tarkis]]. Five lords, one over each elemental realm, and fi
 
 Born around 10,000 AF. The seconds were created around 9,900 AF.
 
-For the realms, the seats and what each lord piles up, see [[Tarkis]]. A dragon's seat of power is its hoard, and the hoard is the claim.
+For the realms, the seats, and what each lord piles up, see [[Tarkis]]. A dragon's seat of power is its hoard, and the hoard is the claim.
 
 The dragons speak [[Ancient Draconic]]. Names are stressed on the penultimate syllable.
 
@@ -55,6 +55,6 @@ Keeping Zaros and Vari recoverable gives the setting two powers in reserve that 
 
 ## Open
 
-The Word document lists the dragons who hold the collaborations to be lesser as Amol, Tenu, Zaros and Vari. Tenu made Mens with Indri, so I have written the division along the unassisted and collaborated line instead and left Tenu out of it. Worth settling.
+The Word document lists the dragons who hold the collaborations to be lesser as Amol, Tenu, Zaros, and Vari. Tenu made Mens with Indri, so I have written the division along the unassisted and collaborated line instead and left Tenu out of it. Worth settling.
 
 Amol's and Vari's hoards are not written.

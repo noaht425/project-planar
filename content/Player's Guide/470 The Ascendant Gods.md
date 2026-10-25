@@ -28,7 +28,7 @@ Some you may have heard of:
 - **Loime**, plague. Orcus's younger brother, who did it alone and will tell you so.
 - **Iras**, the Phoenix King. Son of a dragon and an archdevil, and king of Geno for fourteen years.
 
-**The titans** are six of the first giantkin, given their power by the Progenitor Kleipur at the very beginning. They will all tell you they have always been gods. Afthor is one of them. The others are **Gallum**, **Kodren**, **Moto**, **Sarma** and **Vato**.
+**The titans** are six of the first giantkin, given their power by the Progenitor Kleipur at the very beginning. They will all tell you they have always been gods. Afthor is one of them. The others are **Gallum**, **Kodren**, **Moto**, **Sarma**, and **Vato**.
 
 Only Ignatius has a subclass written so far. For any of the others, we will pick a warlock patron from the books that fits, or build one together.
 

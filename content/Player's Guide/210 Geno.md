@@ -11,7 +11,7 @@ summary: >-
 
 Founded in the second year of the Age of the Many, the first kingdom there was. Elementals, and the Progenitor who made them was its first king.
 
-Capital: **Geno**, which shares its name with the kingdom. Other cities: **Mensosde Talthu**, **Thraside Vethryfu** and **Varastra**.
+Capital: **Geno**, which shares its name with the kingdom. Other cities: **Mensosde Talthu**, **Thraside Vethryfu**, and **Varastra**.
 
 The language is **Genoan**, which came down from Draconic and makes every word declare what it is made of.
 

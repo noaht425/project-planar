@@ -36,6 +36,10 @@ A tyrant who ruled through informers is surrounded by them. A tyrant who taxed a
 
 Archon is seldom seen in the hell. His attention is on the rulers of [[Arenis]], and the hell runs on its own appetite for rank.
 
+## Middling Souls
+
+A soul with no particular crime has nothing specific to answer for, so nothing in the structure is built to hold it down. Those souls climb fastest. Several overseers have come up that way, and they tend to last longer in the post than a tyrant does, because they are slower to become comfortable. The tyrants working beneath them know exactly who is giving the orders.
+
 ## The Neighbours
 
 Tyranny and [[Justice]] were one place under [[Themati]], and they share walls. [[Temperance]] is the heaven nearest Tyranny in spirit.

@@ -24,11 +24,15 @@ Standing in Pride is measured in height. A soul of high standing is allowed to s
 
 ## Lux and His Line
 
-The souls [[Lux]] brought into Pride from [[Kingdom of Geno|Geno]] are kept here and given no special standing. They are treated as any other soul in the hell, which is the punishment, since the family is known for its pride. See [[Lux]].
+The kings of the Genasi line are here. [[Iras]] killed [[Genasi VII]] for the throne of [[Kingdom of Geno|Geno]], and [[Lux]] took the line's dead into Pride. The progenitor [[Genasi]] fought him for them in 405 AM and lost, and Lux has kept them since. They are given no standing and are treated as any other soul in the hell, which is the punishment for a family known for its pride.
 
 ## Arrivals
 
 Souls killed by the bearer of the [[Hell's Fire Staff]] are sent here at once.
+
+## Middling Souls
+
+A soul with nothing much to its name cannot be humbled through its own achievements, having none to lose. Those souls are entered in other souls' contests as opponents, to be beaten, and their results are posted with everyone else's. A soul can spend a century losing on another soul's behalf. The arrangement is the one thing in Pride that souls at the top of a ranking and souls at the bottom both complain about.
 
 ## The Neighbours
 
@@ -46,5 +50,4 @@ The page keeps the existing claim that Pride is the most individually designed o
 
 ## Open
 
-- Whose line Lux took into Pride is unsettled. The page on [[Lux]] names them as [[Genasi II]] through [[Genasi VII]] and also calls them his own descendants, and the page on [[Pyrrha]] calls them [[Iras]]'s siblings. Those are two different families.
 - Whether souls sent by the Hell's Fire Staff skip [[Liminia]] is unsettled. The staff says only that they are sent at once.

@@ -3,7 +3,7 @@ tags: []
 type: note
 summary: >-
   How the sourcebook is written: the narrator, the two layers on every page, and
-  the conventions for flavor boxes, pronunciations and design notes.
+  the conventions for flavor boxes, pronunciations, and design notes.
 ---
 
 Shared guidance for both books. Anything that applies to more than one page belongs here rather than being repeated on each page.

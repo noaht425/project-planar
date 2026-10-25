@@ -11,7 +11,7 @@ summary: >-
 
 Founded in 3 AM, the same day as Mathair. The third kingdom of the Trois Re, which it calls the Tre Regis.
 
-Capital: **Caragna**. Other cities: **Campara**, **Lontaci**, **Marenos** and **Toscal**.
+Capital: **Caragna**. Other cities: **Campara**, **Lontaci**, **Marenos**, and **Toscal**.
 
 **Worth deciding.** What your character thinks of the other two.
 

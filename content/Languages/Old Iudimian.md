@@ -338,7 +338,7 @@ Meaning: Not (in statements of fact)
 POS: Adverb
 
 ## Word: Mīe
-Meaning: Not (in wishes, commands, conditions and purposes)
+Meaning: Not (in wishes, commands, conditions, and purposes)
 POS: Adverb
 
 ## Word: Vérit
@@ -2022,7 +2022,7 @@ Syllables:
 - Prayers, oaths and statements of faith use the witnessed evidential.
 
 Restrictions:
-- Only the indicative marks tense. The subjunctive, optative and imperative mark aspect only.
+- Only the indicative marks tense. The subjunctive, optative, and imperative mark aspect only.
 - Evidentiality appears only in the indicative.
 - The indicative has seven tense and aspect pairings: present imperfective, present perfect, past imperfective, past aorist, past perfect, future, and future perfect.
 - The imperative has 2nd and 3rd person forms only.
@@ -2097,7 +2097,7 @@ Xāl takes the vowel of each Angelic ending and the consonants of the matching D
 - The dictionary form is the active infinitive, ending in -ine. The middle infinitive ends in -inei and the passive infinitive in -ineur.
 - Primary endings (present and future): -ax, -she, -tor, -kal, -aito, -ont.
 - Secondary endings (past): the primary endings with their last letter removed: -a, -sh, -to, -ka, -ait, -on.
-- Tense and aspect markers stand between the stem and the ending. Present perfect -ka-, past aorist -sa-, past perfect -ke-, future -se-, future perfect -xe-. In the subjunctive, optative and imperative, the aorist takes -sa- and the perfect takes -ka-.
+- Tense and aspect markers stand between the stem and the ending. Present perfect -ka-, past aorist -sa-, past perfect -ke-, future -se-, future perfect -xe-. In the subjunctive, optative, and imperative, the aorist takes -sa- and the perfect takes -ka-.
 - Subjunctive: the primary endings with their first vowel doubled.
 - Optative: -eu- followed by the secondary endings.
 - Imperative: -o (2nd singular), -oth (3rd singular), -othe (2nd plural), -onth (3rd plural).
@@ -2106,7 +2106,7 @@ Xāl takes the vowel of each Angelic ending and the consonants of the matching D
 - The tables below list every complete ending.
 
 ## Grammar: Reduplication
-- Every perfect form reduplicates the stem. This covers the present perfect, past perfect and future perfect, and the perfect aspect of the subjunctive, optative and imperative.
+- Every perfect form reduplicates the stem. This covers the present perfect, past perfect, and future perfect, and the perfect aspect of the subjunctive, optative and imperative.
 - Copy the stem's first consonant and first vowel onto the front of the stem.
 - If the stem begins with a stop followed by r or l, copy only the stop and the first vowel.
 - If the stem begins with any other cluster or with a vowel, double the stem's first vowel instead.
@@ -2963,7 +2963,7 @@ Each Original Judgement gives a verb for the act it was known for and a pair of 
 
 ## Grammar: Prepositions
 - A preposition comes directly before the noun or pronoun it governs.
-- Many relations are carried by case alone: the locative for in, at and on, the ablative for from, the dative for to, the instrumental for by means of, and the permutative for in exchange for. Prepositions add relations the cases do not cover.
+- Many relations are carried by case alone: the locative for in, at, and on, the ablative for from, the dative for to, the instrumental for by means of, and the permutative for in exchange for. Prepositions add relations the cases do not cover.
 - A preposition that takes two cases changes meaning with the case. In general, the locative marks a position and the accusative marks motion: Ēpher with the locative is "above", and with the accusative it is "across".
 - Prepositions carry no judgement and take the macron.
 

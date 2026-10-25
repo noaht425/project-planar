@@ -6,7 +6,7 @@ summary: ''
 
 Made by [[Genasi]] at the [[Council of Creation]] in 1 AM, with help from the [[Dragons]]. Genasi took the five elemental realms of [[Tarkis]] as the model.
 
-There are five base kinds, one for each realm: fire, water, air, earth and noxious. There are ten more, one for each seam where two realms meet: steam, ash, magma, smoke, ice, marsh, acid, dust, plague and metal. All fifteen are genasi.
+There are five base kinds, one for each realm: fire, water, air, earth, and noxious. There are ten more, one for each seam where two realms meet: steam, ash, magma, smoke, ice, marsh, acid, dust, plague, and metal. All fifteen are genasi.
 
 Their kingdom is [[Kingdom of Geno|Geno]], which Genasi founded in 2 AM and ruled as its first king. Worship of the dragons runs higher there than anywhere else.
 

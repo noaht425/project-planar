@@ -11,7 +11,7 @@ summary: >-
 
 Reachable only from a patron page. If you got here another way, tell me.
 
-Tarkis is five elemental realms, each touching all four of the others, and the ten seams where they meet are realms of their own: steam, ash, magma, smoke, ice, marsh, acid, dust, plague and metal. All fifteen are lived in.
+Tarkis is five elemental realms, each touching all four of the others, and the ten seams where they meet are realms of their own: steam, ash, magma, smoke, ice, marsh, acid, dust, plague, and metal. All fifteen are lived in.
 
 Nobody checks your papers. The dragons do keep track of anything a visitor does that is large enough to be noticed.
 

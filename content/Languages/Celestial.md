@@ -313,7 +313,7 @@ Meaning: Not (in statements of fact)
 POS: Adverb
 
 ## Word: Mīe
-Meaning: Not (in wishes, commands, conditions and purposes)
+Meaning: Not (in wishes, commands, conditions, and purposes)
 POS: Adverb
 
 ## Word: Vérit
@@ -1840,7 +1840,7 @@ After the changes shared with Infernal, Celestial went further:
 | Mòrix | foolish | Móriss | wise |
 
 ## Grammar: Synonyms
-- Between inherited words, inverted words and new derivations, Celestial has many ways to name what is good and only two plain words for evil, Xamoùssa (noun) and Xàgat (adjective).
+- Between inherited words, inverted words, and new derivations, Celestial has many ways to name what is good and only two plain words for evil, Xamoùssa (noun) and Xàgat (adjective).
 - Honor and reverence: Tsíboine (to bow in reverence), Aíschra (honor), Laúdaine (to praise), Tímun (honor), Adímia (esteem, honor), Íbressa (praise, respect), Chleússa (reverence), Tímeine (to honor), Chleússine (to revere), Chaīrel (hail! (a greeting of honor)).
 - Help and care: Iévaine (to help), Thíraine (to heal), Blásstine (to heal), Préssine (to aid), Fíloine (to protect), Tténssine (to save a life), Íuza (remedy, medicine), Thárseine (to encourage), Tsédoine (to care for, to tend), Íussine (to cure), Leíssine (to stand by, to support), Kólissine (to assist, to help along).
 - Good and upright: Niémun (kindness), Ábala (kindness), Vérit (true), Tíak (true), Niémil (kind), Ábask (kind), Peúcha (a good deed), Moússa (goodness), Peússine (to do good), Árssit (blessed), Gunréa (virtue), Káchia (virtue), Kàllit (fair, beautiful), Dóliss (honest), Deílass (happy), Rúba (purity), Ágat (good), Kázis (good, upright), Aíschit (beautiful), Kátharit (pure), Múzar (pure, clean), Thársit (brave), Deílik (brave), Dórith (generous), Árpass (generous), Sófit (wise), Móriss (wise), Ágadia (goodness).
@@ -1960,7 +1960,7 @@ After the changes shared with Infernal, Celestial went further:
 | Permutative | Ōnum | Ōnumi |
 
 ## Grammar: Verbs
-- Celestial keeps the full Old Iudimian verb system: every tense, aspect, voice, mood and evidential, with the same restrictions.
+- Celestial keeps the full Old Iudimian verb system: every tense, aspect, voice, mood, and evidential, with the same restrictions.
 - The endings below have gone through the sound changes, including the Celestial ones. Where a long vowel shortened, some subjunctive endings fell together with the indicative ones, and context tells them apart.
 - Reduplication works as in Old Iudimian.
 

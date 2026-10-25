@@ -24,7 +24,7 @@ Wares:
 	- 1,200 GP
 - Seam Map: one of the ten seams of [[Tarkis]], advantage on Survival checks to navigate it
 	- 300 GP each, 2,500 GP for all ten
-- Ashwalker Boots: ignore difficult terrain made of ash, mud, ice or slag
+- Ashwalker Boots: ignore difficult terrain made of ash, mud, ice, or slag
 	- 900 GP
 
 Exclusive Offerings:

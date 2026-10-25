@@ -54,7 +54,7 @@ POS: Noun
 Gender: Masculine
 
 ## Word: Talvach
-Meaning: Earthborn: a gnome, dwarf or halfling
+Meaning: Earthborn: a gnome, dwarf, or halfling
 POS: Noun
 Gender: Masculine
 
@@ -1345,7 +1345,7 @@ Gender: Feminine
 From Middle High Fae teaghlann.
 
 ## Word: Flaitin
-Meaning: Heir, prince or princess
+Meaning: Heir, prince, or princess
 POS: Noun
 Gender: Masculine
 From Middle High Fae flaithín.
@@ -1571,7 +1571,7 @@ Fid (see)
 - Low Fae has no word for thanks. The nearest phrase is Fotlim dutut (I owe you), and it is meant literally.
 
 ## Grammar: Words About the Elves
-- The fae of Kumas mock the words the elves made in their purge. Several Sylvan words have come into Low Fae with insulting meanings: ondra, doma, pteri, esla, troga and nelis.
+- The fae of Kumas mock the words the elves made in their purge. Several Sylvan words have come into Low Fae with insulting meanings: ondra, doma, pteri, esla, troga, and nelis.
 - Pteri is the usual word for a pretentious elf.
 
 ## Grammar: Place Names

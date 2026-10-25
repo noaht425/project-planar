@@ -29,7 +29,7 @@ The poison is ordinary here. Natives are fine in it. Everyone else needs a filte
 
 The capital is a factory that has never once stopped running, and the city has grown around and through it.
 
-What [[Okzu]] hoards is what he is owed. Debts here are written down, enforced, inherited and traded, and nearly everyone in the realm owes something into the works. A person's standing is their position in that ledger. Okzu holds the realm without ever having sat on a throne in it, and most of the people under him have never seen him.
+What [[Okzu]] hoards is what he is owed. Debts here are written down, enforced, inherited, and traded, and nearly everyone in the realm owes something into the works. A person's standing is their position in that ledger. Okzu holds the realm without ever having sat on a throne in it, and most of the people under him have never seen him.
 
 ## The Cities
 

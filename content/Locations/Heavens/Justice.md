@@ -34,7 +34,9 @@ Where the answering happens depends on the soul that did the wrong. A wrongdoer 
 
 ## Middling Souls
 
-Souls whose two columns run to about the same length have nothing much to watch. They spend their time on each other instead, reading their neighbours' columns and arguing the entries, and the argument is always the same argument: which of them lived the most just life. The clerks do not rule on it. Feuds of this kind have run for centuries and are the main reason a plaza gets loud.
+Most souls in Justice came here on a mixed ledger. The two columns run close and the good weighs only slightly more, which leaves them little of their own to watch.
+
+What they do instead is read their neighbours' columns and argue the entries, and the argument is always over which of them lived the most just life. The clerks will not rule on it. Feuds of that kind have run for centuries and are the main reason a plaza gets loud.
 
 ## The Neighbours
 

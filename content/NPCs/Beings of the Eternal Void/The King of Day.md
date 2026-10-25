@@ -13,7 +13,7 @@ Member of the [[Beings of the Eternal Void]].
 
 ## Appearance
 
-Dark skin, a robe of red, orange and yellow, and hair that moves like a solar corona. The eyes are pure white.
+Dark skin, a robe of red, orange, and yellow, and hair that moves like a solar corona. The eyes are pure white.
 
 A necrotic scar runs down the right side of the face, through the eye and the corner of the mouth, from the fight at the Syzygy. It is still open. The mark can be read in the light half of [[Nullis]] as well as on him.
 

@@ -32,6 +32,10 @@ A soul can rise in Cruelty by earning its way into the work. Souls with standing
 
 Abaddon holds the hell and does not administer it. His seat is at the deepest point, at the end of the tunnel that every other tunnel eventually joins, and he is seldom seen outside it. The attendants run the rooms on routine and refer nothing to him that the routine can answer.
 
+## Middling Souls
+
+A soul whose cruelty was ordinary has no room waiting for it. The briefing on it is thin, and the devils fit a room out of what little they were given, which takes time. The soul waits in the tunnels while the work goes on, in the quiet, and the waiting is the first part of its punishment. Attendants pass it without comment and will not say how long the fitting has left to run.
+
 ## The Neighbours
 
 Cruelty and [[Kindness]] were one place under [[Hesit]], and where they touch the wall between them is thin. The heaven nearest Cruelty in spirit is [[Sacrifice]], and the dead there are nearer to the souls of Cruelty than to anyone else.

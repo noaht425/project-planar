@@ -9,7 +9,7 @@ summary: >-
 
 # 180 · Earthborn
 
-Talav made the earthborn. Gnomes, dwarves and halflings, all three playable.
+Talav made the earthborn. Gnomes, dwarves, and halflings, all three playable.
 
 They have no kingdom of their own and are spread across most of the others, with the heaviest concentrations wherever there is something worth digging into.
 

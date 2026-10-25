@@ -17,7 +17,7 @@ Sylfaen discourages [[Iudimian]]. Since defeating [[Kingdom of Krotaphos|Krotaph
 
 Sylfaen was founded on 87 Mortera, 2 AM, and it is the kingdom of the beastfolk. Most beastfolk in the world live here. Since it defeated [[Kingdom of Krotaphos|Krotaphos]] in 427 AM it has been the strongest kingdom in Arenis.
 
-It is openly imperial. The beastfolk are a great many peoples, and Sylfaen is working to bring all of them into one system that was not designed with all of them in mind. The law sorts beastfolk by mouth into four types, Lipped, Snouted, Beaked and Long-jawed, and records the peoples who fit none of them as unclean. The category a person is filed under decides a great deal about their life.
+It is openly imperial. The beastfolk are a great many peoples, and Sylfaen is working to bring all of them into one system that was not designed with all of them in mind. The law sorts beastfolk by mouth into four types, Lipped, Snouted, Beaked, and Long-jawed, and records the peoples who fit none of them as unclean. The category a person is filed under decides a great deal about their life.
 
 Sylfaen took in some of the dragonborn who were banished from Geno after the breach in 202 AM.
 

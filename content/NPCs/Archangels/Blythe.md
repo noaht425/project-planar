@@ -11,7 +11,7 @@ Member of the [[Archangels]].
 
 ## Appearance
 
-Blythe (BLYTH) has no arms and no mouth. The body is covered in eyes, on the face, the throat, the chest, the back and the legs, and they do not blink in sequence.
+Blythe (BLYTH) has no arms and no mouth. The body is covered in eyes, on the face, the throat, the chest, the back, and the legs, and they do not blink in sequence.
 
 Blythe cannot hand anything to anyone and cannot eat, drink or speak aloud. All six write by tracing letters in the air, and Blythe is the only one for whom that is the sole available method.
 

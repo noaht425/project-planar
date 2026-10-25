@@ -30,6 +30,10 @@ Things can be obtained. Gangways and rope walks cross the gulf, and a determined
 
 Desire is the heaviest of the six hells and carries almost no physical punishment. The severity comes from the length of time a soul spends at the point just before having.
 
+## Middling Souls
+
+A soul that wanted little gives the hell very little to work with. The galleries facing it are refurnished until something in them catches, and the devils are briefed to keep trying, so a soul of this kind may watch the rooms across the gulf change many times over. Most of them find something eventually. The ones who do not are left in quarters nobody has bothered to light.
+
 ## The Neighbours
 
 Desire and [[Sacrifice]] were one place under [[Aaranea]]. Where they touch, the souls on each side can see one another. [[Kindness]] is the heaven nearest Desire in spirit.

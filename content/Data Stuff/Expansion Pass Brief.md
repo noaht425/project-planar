@@ -12,7 +12,7 @@ The vault is the source of truth. It lives at `/Users/Noah/Vaults/Project Planar
 
 ## The Next Task
 
-Noah wants more text basically everywhere. Each sourcebook page should be the equivalent of a printed page in a real sourcebook, which is at least 350 to 400 words of body text, not counting stat blocks, design notes or Open sections. Many pages are currently 150 to 250.
+Noah wants more text basically everywhere. Each sourcebook page should be the equivalent of a printed page in a real sourcebook, which is at least 350 to 400 words of body text, not counting stat blocks, design notes, or Open sections. Many pages are currently 150 to 250.
 
 How to work:
 
@@ -24,7 +24,7 @@ How to work:
 
 ### Noah's direction on the Hell of Indulgence
 
-Recorded here in his terms so it is not lost. Indulgence ([[Belphegor]]'s hell) is a constant, suffocating, nauseating party. Every sense is flooded with sound, sight, smell and taste. People arriving think at first that they are having a good time, and slowly or quickly realise it is a hell in its own right. There is nowhere to go where you cannot see, hear and smell people vomiting, drinking and having sex, all of it at once, all the time. The current page reads as too gentle beside this and should be rewritten toward it. This also sets the bar for the other eleven afterlives: each should be concrete enough that a reader can feel what a year there would do to them.
+Recorded here in his terms so it is not lost. Indulgence ([[Belphegor]]'s hell) is a constant, suffocating, nauseating party. Every sense is flooded with sound, sight, smell, and taste. People arriving think at first that they are having a good time, and slowly or quickly realise it is a hell in its own right. There is nowhere to go where you cannot see, hear and smell people vomiting, drinking and having sex, all of it at once, all the time. The current page reads as too gentle beside this and should be rewritten toward it. This also sets the bar for the other eleven afterlives: each should be concrete enough that a reader can feel what a year there would do to them.
 
 ## Working With Noah
 
@@ -32,7 +32,7 @@ Recorded here in his terms so it is not lost. Indulgence ([[Belphegor]]'s hell) 
 
 - No em dashes.
 - No "not X, but Y" or "rather than" pivots used as rhetoric.
-- No three-item rhythms. Use two items or four. This includes three adjectives, three clauses and three parallel sentences.
+- No three-item rhythms. Use two items or four. This includes three adjectives, three clauses, and three parallel sentences.
 - No portentous one-line closers at the end of a paragraph or section.
 - No editorialising about how clever, elegant or interesting something is, and no telling the reader how to feel.
 - No repeated sentence shapes or boilerplate across sibling pages. Shared guidance lives on one parent page and is linked.
@@ -51,7 +51,7 @@ Recorded here in his terms so it is not lost. Indulgence ([[Belphegor]]'s hell) 
 **Things that were got wrong before and should not be repeated.**
 
 - Mortals did not exist before the Syzygy. Arenis was made in 10 AF.
-- A flavor box must never fix the narrator's own date. No "this year", "last spring" or "before the arrests". The historian is undated.
+- A flavor box must never fix the narrator's own date. No "this year", "last spring", or "before the arrests". The historian is undated.
 - Player's Guide pages must never contain DM secrets. Hint that something is there instead.
 - Do not present a choice to players as a list of answers. A Player's Guide page gives the player questions to decide, never the answers.
 - Check who is who before writing. Sylvana Lorien kept her name; Sithi is the Progenitor who gave hers away. Hekate is not a Titan-campaign PC.
@@ -77,7 +77,7 @@ Hieronymous has no Player's Guide page yet on purpose.
 
 An unnamed, ungendered, first-person travelling historian who meets people as well as reading records, and finds the two do not always agree. They were made to learn the languages and resent it visibly. Thorough, truthful, dry, with jokes in it. They do not explain how clever anything is.
 
-**Reach.** They have met the archfey, the dragons, people in all five elemental realms, some archangels and archdevils, the winds, the Scholarchs and many of the ascendant gods. They have never met the Kings, since Nullis is the least reachable realm and nobody can get a letter into its dark half. They have not met Thean, who is in hiding, or Sithi, who has not been seen since the Council of Creation. The reachability ladder on [[Arenis]] decides what anyone plausibly knows. They cannot have witnessed anything before their own lifetime, and they have no fixed date.
+**Reach.** They have met the archfey, the dragons, people in all five elemental realms, some archangels and archdevils, the winds, the Scholarchs, and many of the ascendant gods. They have never met the Kings, since Nullis is the least reachable realm and nobody can get a letter into its dark half. They have not met Thean, who is in hiding, or Sithi, who has not been seen since the Council of Creation. The reachability ladder on [[Arenis]] decides what anyone plausibly knows. They cannot have witnessed anything before their own lifetime, and they have no fixed date.
 
 **Box style.** A box is a small scene the narrator was present for, grounded in the specific rule of its subject, usually with the narrator slightly worse off at the end. Good models: Tarkis (the woman with the slate, disappointed in the narrator's short list), Lux (the narrator praises him in public and he writes it on the wall), Lilien (the upsold map), Moto (reading the gods' list aloud and setting the rafters alight).
 
@@ -90,13 +90,13 @@ The planes are concentric rings around a hole. Each realm has one more portion t
 | 2 | [[Nullis]] | Night and Day, the realm of the Kings |
 | 3 | [[Temporalis]] | It That Was (a lake ringed by unreachable waterfalls), It That Is (a busy city), It That Will Be (an endless starlit field with unreachable trees) |
 | 4 | [[Ventis]] | Four wind quarters that bleed together, floating glass islands, a storm at the centre |
-| 5 | [[Tarkis]] | Five elemental realms, Fire, Water, Earth, Noxia and Air, each touching the other four, with ten inhabited seams between them |
+| 5 | [[Tarkis]] | Five elemental realms, Fire, Water, Earth, Noxia, and Air, each touching the other four, with ten inhabited seams between them |
 | 6 | [[Iudis]] | Six heavens and six hells branching from [[Liminia]] |
 | 7 | [[Iris]] | Seven fey domains: Seasons, Lush, Time, Hunt, Rot, Trickery, Bone |
 | 8 | [[Arcanis]] | Eight schools of magic, once thousands until the Coalescence |
 | 9 | [[Arenis]] | The mortal world, made from pieces of every other realm |
 
-The ten Tarkis seams are steam, ash, magma, smoke, ice, marsh, acid, dust, plague and metal. The genasi are modelled on them.
+The ten Tarkis seams are steam, ash, magma, smoke, ice, marsh, acid, dust, plague, and metal. The genasi are modelled on them.
 
 ## Calendar and Timeline
 
@@ -142,7 +142,7 @@ The dead are judged by the Nekerukes, [[Bis]] (good or bad on balance) and [[Sei
 
 **The winds.** [[Boreas]] north (betrothed to Verna, who wants out), [[Eurus]] east (courting Esta), [[Notus]] south, [[Zephyros]] west. All four plan to kill Afthor and take the realm of air.
 
-**The Scholarchs.** The three sphinxes of Temporalis, called "it". Lofty and mysterious. It That Was is quietly paranoid about past choices and hides it. It That Is is laid back. It That Will Be is the strictest, and made divination harder. They take few warlocks, use them as eyes in the world, like trinkets, novelty, information and riddles, and hate [[Isadora]].
+**The Scholarchs.** The three sphinxes of Temporalis, called "it". Lofty and mysterious. It That Was is quietly paranoid about past choices and hides it. It That Is is laid back. It That Will Be is the strictest, and made divination harder. They take few warlocks, use them as eyes in the world, like trinkets, novelty, information, and riddles, and hate [[Isadora]].
 
 **The Progenitors.** Each made one of the nine peoples at the Council of Creation: Kleipur (he, giantkin), Minem (he, humans), Sylvana Lorien (she, elves), Shram (he, orcs), Thean (she, Omens), Numen (he, beastfolk), Genasi (he, elementals), Talav (she, earthborn), Sithi (she, fae, and gave her name to the archfey for their help). Thean is in hiding, in despair over Krotaphos. Nobody has seen Sithi since the Council. Genasi gave up Geno's throne in 62 AM because he was bored and had a son to rule.
 
@@ -153,14 +153,14 @@ The dead are judged by the Nekerukes, [[Bis]] (good or bad on balance) and [[Sei
 | Kingdom | Ruler | Look and feel |
 | --- | --- | --- |
 | [[Kingdom of Geno|Geno]] | Queen [[Nara Veril]] | The breach to Tarkis in the capital; rivers of the elements run through the sky |
-| [[Kingdom of Krotaphos|Krotaphos]] | Always two kings | Mediterranean, Greek and southern Italian; marble and stone. The Omens' kingdom |
+| [[Kingdom of Krotaphos|Krotaphos]] | Always two kings | Mediterranean, Greek, and southern Italian; marble and stone. The Omens' kingdom |
 | [[Kingdom of Sylfaen|Sylfaen]] | King Dawir, a boarfolk | Varies by region and people: cities cut into mountainsides, slender high castles, treetop cities for the Beaked |
 | [[Kingdom of Oinarria|Oinarria]] | Crown alternates between orc and giantkin; current ruler unwritten | Desert and mountain settlements of every kind |
 | [[Kingdom of Starkon|Starkon]] | Queen Ilse Vorhalt | German, from Drei Kunig |
 | [[Kingdom of Mathair|Mathair]] | Queen [[Palas Arakol]] | French, from Trois Re; hosts the first Mascarade |
 | [[Kingdom of Regno|Regno]] | [[XLZL]], elected | Northern Italian, from Tre Regis |
 | [[Kingdom of Thalanea|Thalanea]] | Caleth (title unwritten) | Elves; the Sylvan word-purge |
-| [[Kingdom of Kumas|Kumas]] | Kelvari | Welsh, Irish and Scottish; slender high castles; the kingdom of the fae |
+| [[Kingdom of Kumas|Kumas]] | Kelvari | Welsh, Irish, and Scottish; slender high castles; the kingdom of the fae |
 | [[Kingdom of Tama|Tama]] | Elected, current ruler unwritten | Exiles; look undecided |
 
 Starkon, Mathair and Regno are the [[Trois Re]], genuine allies.
@@ -197,4 +197,4 @@ None of these may appear in the Player's Guide.
 
 ## Tooling
 
-Work happens on Noah's Mac through the device shell, where the vault is at `$HOME/mnt/Project Planar`. Deleting is off by default; `mv` works. Previous sessions kept scripts in `~/fbwork/` on the device: `check.py` for broken links, stray notes, doubled parentheses and shared respellings, and `tell.py` to flag em dashes, "not X but Y" and triads. They may need recreating. Make edits by exact-string replacement that asserts a single match, keep backups before bulk changes, and run the link check after every group.
+Work happens on Noah's Mac through the device shell, where the vault is at `$HOME/mnt/Project Planar`. Deleting is off by default; `mv` works. Previous sessions kept scripts in `~/fbwork/` on the device: `check.py` for broken links, stray notes, doubled parentheses, and shared respellings, and `tell.py` to flag em dashes, "not X but Y", and triads. They may need recreating. Make edits by exact-string replacement that asserts a single match, keep backups before bulk changes, and run the link check after every group.

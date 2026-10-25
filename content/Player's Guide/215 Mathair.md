@@ -17,7 +17,7 @@ Capital: **Omphalos**, which claims to be the most central point in the world. N
 
 It is held in the royal palace at the centre of the city, which is marble with gold vine work, and getting in requires an invitation. The guest list runs to the wealthiest people from several planes.
 
-**Mathair does not restrict worship.** The palace has statues of every group a person might call on for a favour, and the city has a temple district to match, with the archangels and archdevils, the dragons, the archfey, the scholarchs and the ascendant gods all represented.
+**Mathair does not restrict worship.** The palace has statues of every group a person might call on for a favour, and the city has a temple district to match, with the archangels and archdevils, the dragons, the archfey, the scholarchs, and the ascendant gods all represented.
 
 The kingdom is ruled by a queen.
 

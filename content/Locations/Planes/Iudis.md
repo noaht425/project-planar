@@ -30,7 +30,7 @@ Spiritual nearness runs the other way. Each heaven sits closest in spirit to the
 | 5 | Sacrifice, [[Gwenhael]], from [[Aaranea]] | Cruelty, [[Abaddon]], from [[Hesit]] |
 | 6 | Humility, [[Pavlas]], from [[Charios]] | Deceit, [[Tiyanak]], from [[Sylas]] |
 
-The hells run in order of severity, from Indulgence at the lightest to Desire at the heaviest, by way of Cruelty, Deceit, Pride and Tyranny.
+The hells run in order of severity, from Indulgence at the lightest to Desire at the heaviest, by way of Cruelty, Deceit, Pride, and Tyranny.
 
 ## The Division and the Tenth
 
@@ -47,6 +47,8 @@ The souls in them were not moved by it. The archangels and archdevils had to go 
 ## Middling Souls
 
 There is no neutral afterlife. [[Bis]] hates neutrality and will not return a balanced verdict, so a soul that was unremarkable in either direction is still sent to one side and still placed in one of the twelve. Every afterlife therefore holds a body of souls it was not designed for, and each of the twelve has arrived at its own way of dealing with them.
+
+In the heavens the middling souls are the ones who argue. They were less good people than their neighbours, and wherever a heaven gives them grounds for comparison they will compare, and then dispute the result. The blessed who belong there have nothing to settle.
 
 ## The Dead
 
@@ -72,15 +74,15 @@ The [[Kingdom of Krotaphos]] enforces the will of both in the mortal world, thou
 
 Each of the twelve afterlives is built around its own domain and handles the souls in it accordingly. A hell is made to punish the kind of person sent to it. A heaven is made to reward the kind of person sent to it.
 
-Underneath the specifics, a heaven is a pleasant place and a hell is not. The hells are cut into rock, and a soul in one spends its time in caverns, tunnels and worked-out stone under a low ceiling. The heavens are open and bright and stand in daylight. The heavens have endless good food and good weather and are full of cheerful lesser angels and other divine company. The hells are too hot, or too cold for anyone who would have preferred the heat, and are crawling with imps and lesser devils.
+Underneath the specifics, a heaven is a pleasant place and a hell is not. The hells are cut into rock, and a soul in one spends its time in caverns, tunnels, and worked-out stone under a low ceiling. The heavens are open and bright and stand in daylight. The heavens have endless good food and good weather and are full of cheerful lesser angels and other divine company. The hells are too hot, or too cold for anyone who would have preferred the heat, and are crawling with imps and lesser devils.
 
 Most souls get the general treatment of the place they are in. A few get something made for them. A hell will run its ordinary punishment across everyone who arrives and single out particular souls for something specific, built to answer what that soul in particular did.
 
 The angels of all six heavens are briefed on every soul before it arrives. Among the hells, only three are run that way. In Cruelty, Desire, and Tyranny the devils are briefed on what a soul did and how best to torment it. In Indulgence, Deceit, and Pride the devils are left to do as they see fit.
 
-None of this makes the archangels good or the archdevils evil. The hells are administered places with institutions, work, standing and economies of their own. A soul can learn a trade there, build a reputation and rise. Rising is genuinely possible, and the punishment does not stop while it happens.
+None of this makes the archangels good or the archdevils evil. The hells are administered places with institutions, work, standing, and economies of their own. A soul can learn a trade there, build a reputation and rise. Rising is genuinely possible, and the punishment does not stop while it happens.
 
-A soul can travel between the heavens and visit any of them, and a great many do. Reward only reaches a soul in the heaven it was assigned to, so visiting is sightseeing.
+A soul can travel between the heavens and visit any of them, and a great many do. A soul lives in the heaven it was assigned and cannot take up residence in another. Reward only reaches a soul where it lives, so visiting is sightseeing.
 
 No soul in a hell may enter a heaven at all. The archangels made a pact to that effect and have kept it, and it is the one position all six of them hold together.
 
@@ -99,5 +101,7 @@ The Great Separation is written so that the gods had to do the work themselves, 
 The heavens are written with an edge for the same reason the archangels are not simply good. A reward that costs nothing gives a campaign nothing to do with it.
 
 The afterlives are built to be livable. A damned soul has somewhere to work and some way to get ahead, which makes a hell a place a campaign can be set in.
+
+The middling souls are the ones a party will actually talk to. The twelve are hard to reach and the worst of the damned are busy, while a soul the place was not designed for has time and a grievance.
 
 Tiyanak taking the smaller share is the Division's quietest move. Every other pair fought for as much as they could get, so a deal that looks like surrender drew no attention at all.

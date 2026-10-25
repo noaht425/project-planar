@@ -2108,7 +2108,7 @@ Form: Ending
 - Where two of the realms within [[Tarkis]] meet, a lesser realm stands at the seam. Theis names ten of them, one for every pair the five realms can make.
 - Each name is a paired word like any other. The day form is the realm itself. The night form is the stuff that fills it.
 - Žudal is the realm where fire and water meet, and šutal is steam. Zilag is the realm where water and wind meet, and silak is ice.
-- The ten are Žudal, Baḫir, Girzum, Dežum, Zilag, Mabud, Gazir, Behum, Duḫar and Galim.
+- The ten are Žudal, Baḫir, Girzum, Dežum, Zilag, Mabud, Gazir, Behum, Duḫar, and Galim.
 - This is the only place in the language where a realm and its substance are the two halves of one word.
 
 ## Grammar: Counting

@@ -26,6 +26,10 @@ The hell does not rely on single tricks. Each soul is the subject of a lie built
 
 A soul rises by becoming a good liar. Skilled souls are given booths and then deceptions of their own to run on new arrivals, and rank is judged on the quality of the work. A soul that is running a lie on others still has one running on it.
 
+## Middling Souls
+
+A soul of no particular interest does not get a long lie built for it. It gets the cheap ones instead, run again by whatever devil is passing, usually the stranger with a way out. Souls on that rotation work out the shape of it within a century and go along with it anyway, since the alternative is the galleries. The devils who run the cheap lies have the least standing in the hell.
+
 ## Shadows
 
 A devil's shadow in [[Iudis]] belongs to [[Tiyanak]], because none of the other eleven casts one. Deceit is lit from many sides and has more shadows than any other part of the realm. Visitors who try to count them lose track, and the devils decline to say how many are watching.

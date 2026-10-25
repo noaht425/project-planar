@@ -2,7 +2,7 @@
 tags: []
 type: location
 summary: >-
-  The realm of time, ring 3. Divided into the past, the present and the future,
+  The realm of time, ring 3. Divided into the past, the present, and the future,
   and home of the three Scholarchs.
 locationType: location
 ---

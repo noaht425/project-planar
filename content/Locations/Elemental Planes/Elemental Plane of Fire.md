@@ -3,7 +3,7 @@ tags: []
 type: location
 summary: >-
   The elemental realm of fire, ruled by Pyrrha from the caldera at Pyrrhade
-  Talthu. Burning stone, ash plains and obsidian, about the size of a kingdom.
+  Talthu. Burning stone, ash plains, and obsidian, about the size of a kingdom.
 locationType: plane
 ---
 

@@ -1017,7 +1017,7 @@ Register: Formal
 Common: glory
 
 ## Grammar: Sounds
-- Vowels: a, e, i, o, u, y and æ, each short or long. A long vowel is written with a bar: ā, ē, ī, ō, ū, ȳ.
+- Vowels: a, e, i, o, u, y, and æ, each short or long. A long vowel is written with a bar: ā, ē, ī, ō, ū, ȳ.
 - Consonants: p, b, t, d, k, g, f, v, s, z, h, m, n, l, r, w, j, the pairs sh and ch, þ for the sound in thing, and ƕ for the sound written wh in Common.
 - Torren has none of the sliding vowels that make early writing hard to read. Minem allowed one vowel to a syllable and held to it.
 - Stress falls on the first syllable in the plain register. In the formal register it falls on the syllable before the ending, which is why the two registers wore down so differently.
@@ -1025,8 +1025,8 @@ Common: glory
 
 ## Grammar: The Two Registers
 - The plain register is what people spoke. Short words, one or two syllables, stress at the front.
-- The formal register is what Minem built for law, oaths, records and counting. Longer words, stress late, and a set of endings for turning a word into the name of a thing or a quality.
-- The formal endings are the ancestors of Common's -ce, -ance, -ence, -tion, -sion, -ty, -al, -ar, -ile, -ous, -ive, -ure, -ment and -y.
+- The formal register is what Minem built for law, oaths, records, and counting. Longer words, stress late, and a set of endings for turning a word into the name of a thing or a quality.
+- The formal endings are the ancestors of Common's -ce, -ance, -ence, -tion, -sion, -ty, -al, -ar, -ile, -ous, -ive, -ure, -ment, and -y.
 
 | Torren ending | Does | Common ending | Example |
 | --- | --- | --- | --- |
@@ -1113,7 +1113,7 @@ Common: glory
 | Nigona | nine |
 | Tēna | ten |
 
-- The formal register counted differently, and its numbers are the ancestors of Common's *primary*, *secondary*, *unity*, *duplicate* and *century*.
+- The formal register counted differently, and its numbers are the ancestors of Common's *primary*, *secondary*, *unity*, *duplicate*, and *century*.
 
 ## Grammar: How Torren Became Common
 - The changes below are in order, and each one happened everywhere. Together they turn any plain Torren word into its Common descendant, and every entry in this note has been checked against them.

@@ -3,7 +3,7 @@ tags: []
 type: location
 summary: >-
   The elemental realm of earth, ruled by Tenu from the hollowed mountain at
-  Tenude Talthu. Mountains, cliffs and cave systems, about the size of a kingdom.
+  Tenude Talthu. Mountains, cliffs, and cave systems, about the size of a kingdom.
 locationType: plane
 ---
 

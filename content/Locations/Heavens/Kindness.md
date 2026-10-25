@@ -30,6 +30,10 @@ What the souls here were best at is giving, and there is nobody to give to. Ever
 
 [[Neema]] looks to each visitor like the best version of that visitor, and two people who have seen the archangel at the same time disagree about it afterward. Of the six archangels, Neema is the one who will help a mortal and ask least in return.
 
+## Middling Souls
+
+Souls who were kind when it cost them nothing are given companions only slightly better than they were. A soul whose companion is far beyond it can admire the thing and let the matter rest. A soul whose companion is a small improvement sees the exact distance it failed to cover and has to live beside it. Those souls compare companions with one another, and they are the ones who will stop a visitor and ask which of two companions is further along.
+
 ## The Neighbours
 
 Kindness and [[Cruelty]] were one place under [[Hesit]], and where they touch the wall between them is thin. [[Desire]] is the hell nearest Kindness in spirit.

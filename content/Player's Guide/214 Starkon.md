@@ -17,6 +17,6 @@ Capital: **Hekatania**. Other cities: **Avonis** and **Fernstadt**.
 
 **This is where the campaign starts.** If your character is from Starkon, they are from the place the story opens, which is worth knowing when you decide how much of it they should already understand.
 
-**Worth deciding.** Whether your character has any connection to the Academy, as a student, a reject, a servant or a relative of someone inside.
+**Worth deciding.** Whether your character has any connection to the Academy, as a student, a reject, a servant, or a relative of someone inside.
 
 *Now pick what you do.* Go to [[300 What You Do|300 · What You Do]].

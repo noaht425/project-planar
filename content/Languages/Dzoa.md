@@ -940,7 +940,7 @@ Consonants:
 | Lipped | Tabaxi, Harengon, Satyr, Bellu, Triton | Every letter as written. |
 | Snouted | Minotaur, Loxodon | b and d next to a nasal sound become m and n. Vowels carry a nasal ring. |
 | Beaked | Aarakocra, Kenku, Owlin, Alez | No lip sounds: p, b, m become k', g, ng, and w becomes gw. |
-| Long-jawed | Dragonborn, Lizardfolk, Saurus | No lip rounding: o, u and vowel w become a, y, y, and kw, qw become k, q. The clicks c, x, ǃ become the ejectives t', tl', q'. |
+| Long-jawed | Dragonborn, Lizardfolk, Saurus | No lip rounding: o, u, and vowel w become a, y, y, and kw, qw become k, q. The clicks c, x, ǃ become the ejectives t', tl', q'. |
 
 - Beastfolk whose mouths fit none of the four types are not recognized. Officials record their pronunciation as unclean, whatever they say.
 
@@ -959,7 +959,7 @@ Consonants:
 | Class | Meaning | Singular | Plural | Mutation it sets off |
 | --- | --- | --- | --- | --- |
 | 1 | People (beastfolk) | Mo- | Ba- | Soft |
-| 2 | Outsiders (Omens, humans, elves and other non-beastfolk) | ǃa- | ǃi- | Aspirate |
+| 2 | Outsiders (Omens, humans, elves, and other non-beastfolk) | ǃa- | ǃi- | Aspirate |
 | 3 | Animals | Qa- | Qi- | Hard |
 | 4 | Plants, growing things and body parts | Lli- | Llu- | None |
 | 5 | Tools and made things | K'i- | Ti- | Click |
@@ -999,7 +999,7 @@ Consonants:
 
 ## Grammar: Word Order
 - Subject, then verb, then object.
-- Adjectives, numbers and possessors follow the noun: Ḥaʿumbe Mot'adza (the emperor's house).
+- Adjectives, numbers, and possessors follow the noun: Ḥaʿumbe Mot'adza (the emperor's house).
 - A question ends with Ṭḥa.
 
 ## Grammar: Adjectives

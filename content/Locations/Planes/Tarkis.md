@@ -29,7 +29,7 @@ Before [[The Planar Collision]] the five realms sat inside Tarkis under more con
 
 Each of the five realms touches all four others, and the ten places where they meet are their own realms. All ten are habitable, and all ten are inhabited.
 
-They are steam, ash, magma, smoke, ice, marsh, acid, dust, plague and metal.
+They are steam, ash, magma, smoke, ice, marsh, acid, dust, plague, and metal.
 
 The ten genasi types are named for the seams but did not come out of them. Every genasi was made by [[Genasi]] the progenitor, who took the seams as the model.
 
