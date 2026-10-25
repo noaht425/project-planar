@@ -6,7 +6,7 @@ summary: 'Wondrous item, artifact (requires attunement)'
 
 *Wondrous item, artifact (requires attunement)*
 
-Belongs to [[Wisp]]]]. A gold ring with a brilliant diamong set into it.
+Belongs to [[Wisp]]. A gold ring with a brilliant diamong set into it.
 
 When a creature deals damage to you, that creature takes an amount of radiant damage equal to half your profiency bonus rounded down.
 
