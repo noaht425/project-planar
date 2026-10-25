@@ -7778,3 +7778,108 @@ Filtered out 0 files in 219μs
 Emitting files
 Emitted 1041 files to `public` in 27s
 Done processing 416 files in 32s
+dm site pushed
+player site built, no changes to publish
+=== 2026-10-25 17:21:23
+vault unchanged, nothing to do
+=== 2026-10-25 17:31:23
+vault unchanged, nothing to do
+=== 2026-10-25 17:41:23
+vault unchanged, nothing to do
+=== 2026-10-25 17:51:23
+vault unchanged, nothing to do
+=== 2026-10-25 18:01:23
+vault unchanged, nothing to do
+=== 2026-10-25 18:11:23
+vault unchanged, nothing to do
+=== 2026-10-25 18:21:24
+copied 105 notes, skipped 317 notes, 0.19 MB, flattened links in 5 files
+
+ Quartz v5.0.0  
+
+Cleaned output directory `public-players` in 45ms
+Found 106 input files from `content` in 18ms
+Parsing input files using 1 threads
+Parsed 106 Markdown files in 1s
+Filtered out 0 files in 62μs
+Emitting files
+Emitted 254 files to `public-players` in 6s
+Done processing 106 files in 8s
+copied 415 notes, skipped 7 notes, 1.34 MB
+
+ Quartz v5.0.0  
+
+Cleaned output directory `public` in 61ms
+Found 416 input files from `content` in 26ms
+Parsing input files using 3 threads
+
+Warning: found invalid date "1 Aucaela, 1 AM – 1 Auctera, 1 AM" in `Events/Council of Creation.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "1 Aucaela, 1 AM – 1 Auctera, 1 AM" in `Events/Council of Creation.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "1 Aucaela, 1 AM – 1 Auctera, 1 AM" in `Events/Council of Creation.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "2,987 AF – 50 AF" in `Events/Divine War.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "2,987 AF – 50 AF" in `Events/Divine War.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "2,987 AF – 50 AF" in `Events/Divine War.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "50 AF" in `Events/Great Separation.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "50 AF" in `Events/Great Separation.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "50 AF" in `Events/Great Separation.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "99 Morcaela, 428" in `Events/La Grande Mascarade.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "99 Morcaela, 428" in `Events/La Grande Mascarade.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "99 Morcaela, 428" in `Events/La Grande Mascarade.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "3,096 AF" in `Events/Syzygy.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "3,096 AF" in `Events/Syzygy.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "3,096 AF" in `Events/Syzygy.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "39-10 AF" in `Events/The Coalescence.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "39-10 AF" in `Events/The Coalescence.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "39-10 AF" in `Events/The Coalescence.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "3,097 AF" in `Events/The Division.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "3,097 AF" in `Events/The Division.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "3,097 AF" in `Events/The Division.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "36 Morcaela, 546 AM – 16 Auctera, 657 AM" in `Events/The Great Unrest.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "36 Morcaela, 546 AM – 16 Auctera, 657 AM" in `Events/The Great Unrest.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "36 Morcaela, 546 AM – 16 Auctera, 657 AM" in `Events/The Great Unrest.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "50 AF" in `Events/The Planar Collision.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "50 AF" in `Events/The Planar Collision.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "50 AF" in `Events/The Planar Collision.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "36 Aucaela, 405 AM" in `Events/War Between Genasi and Lux.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "36 Aucaela, 405 AM" in `Events/War Between Genasi and Lux.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "36 Aucaela, 405 AM" in `Events/War Between Genasi and Lux.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "86 Auctera, 397 AM – 3 Mortera, 427" in `Events/War Between Kingdom of Krotaphos and Kingdom of Sylfaen.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "86 Auctera, 397 AM – 3 Mortera, 427" in `Events/War Between Kingdom of Krotaphos and Kingdom of Sylfaen.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "86 Auctera, 397 AM – 3 Mortera, 427" in `Events/War Between Kingdom of Krotaphos and Kingdom of Sylfaen.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+Parsed 416 Markdown files in 5s
+Filtered out 0 files in 192μs
+Emitting files
+Emitted 1041 files to `public` in 29s
+Done processing 416 files in 34s
