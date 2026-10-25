@@ -69,3 +69,9 @@ Most are single households strung along the shelf or tucked into the walls of th
 The hoard is the city here, so the capital is the one place in the realm where a party is walking through the dragon's treasure the entire time. Everything in Water is about what may be lifted and what must stay where it fell.
 
 Charis sitting on the far rim gives the realm its quarantine. A realm that catalogues its drowned has an obvious problem with a necrotic dragon living among them, and nobody in the capital will discuss it.
+
+## Open
+
+- What the arrangement between [[Vetur]] and [[Charis]] actually is, and who enforces the quarantine, is unwritten.
+- What is hidden in the Dallosiasi is unwritten.
+- How an outsider gets permission to raise anything from the trench floor is unwritten.

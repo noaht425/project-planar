@@ -77,3 +77,10 @@ Air has been broken so that Tarkis is not five variations on the same idea. The 
 Because Zaros collected cities, the decline is easy to read. The realm was built up because its dragon hoarded settlements, and it has fallen apart because the one holding it now hoards nothing.
 
 The towns table carries condition rather than trade, since in Air what matters first is whether a place still has people in it.
+
+## Open
+
+- Who governs Air in practice is unsettled. Vrillaxos is the nearest thing to a government and Zarosde Talthu holds the title.
+- Whether the storm ends if [[Zaros]] and [[Vari]] are brought back is unwritten. See [[Okzu]].
+- Which four of the villages are empty is unwritten.
+- Where [[Afthor]] lives in the realm is unwritten.

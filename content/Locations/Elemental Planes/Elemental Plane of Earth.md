@@ -66,4 +66,11 @@ Most sit at the mouth of one tunnel or at one end of one seam, and the grant tha
 
 Earth runs on paperwork. Tenu's hoard being the stone itself turns the whole realm into tenancy, and the registry at Panisde Eteros is where a campaign can get leverage that no amount of fighting would give it.
 
-Teleteros is unresolved. There is a floor below the mapped caves that nobody agrees about, and that is a hole left for a DM to fill.
+Teleteros is a floor under the mapped caves that nobody agrees about, left open on purpose.
+
+## Open
+
+- What is below the mapped caves in Teleteros is unwritten, and is left for a DM.
+- The people living in the uncharted parts of Xarkiquari are unwritten.
+- Whether [[Mens]] keeps anywhere in the realm besides Mensira is unwritten.
+- How a holding is revoked in practice, and who carries that out, is unwritten.

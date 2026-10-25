@@ -68,4 +68,10 @@ Noxia is the realm where the dragon rules through an institution instead of thro
 
 Debt is the realm's main hook. Everything a party might want in Noxia is owned by someone who owes, and anything they do will land in a ledger somewhere.
 
-The sealed district has no explanation. Something went wrong, it was closed, the works built over it, and whatever is in there is left for a DM.
+The sealed district has no explanation on purpose. Something went wrong, it was closed, and the works built over the top of it.
+
+## Open
+
+- What is inside Panisde Quari is unwritten, and is left for a DM.
+- [[Amol]]'s hoard is unwritten. See [[Amol]].
+- Whether a debt at Varilpithru can be discharged by anything other than payment is unwritten.

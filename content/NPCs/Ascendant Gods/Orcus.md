@@ -120,7 +120,7 @@ Orcus can take 3 legendary actions, choosing from the options below. Only one le
 
 **Call the Claim (Costs 2 Actions).** One creature within 60 feet whose soul Orcus has claimed takes 17 (5d6) necrotic damage, and its speed is 0 until the end of its next turn.
 
-Lair Actions
+### Lair Actions
 
 These apply only where the [[Throne of Death]] stands. Without the throne, use the block above as it is. On initiative count 20 (losing initiative ties), Orcus takes one lair action.
 

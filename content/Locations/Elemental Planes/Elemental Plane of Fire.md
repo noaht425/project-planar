@@ -69,3 +69,9 @@ The realm is played close to the standard elemental plane of fire, and what make
 Vrilloseteros exists to give a party somewhere to stand. A realm with no habitable ground for outsiders is a realm a campaign cannot be set in, and Brilis's light is the reason one city is different.
 
 The flows being called roads is how the locals are written throughout. They are not impressed by any of this and never have been.
+
+## Open
+
+- Where [[Brilis]] keeps is unwritten, and so is whether the Vrillosiasi moves when Brilis does.
+- What the caldera vaults hold is unwritten beyond the rule that fire could not destroy it. See [[Pyrrha]].
+- How the vault wardens are chosen is unwritten.

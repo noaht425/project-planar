@@ -16,7 +16,7 @@ Each realm is divided into portions, and each holds one portion more than the re
 | 2 | [[Nullis]] | 2 | Night, Day |
 | 3 | [[Temporalis]] | 3 | It That Was, It That Is, It That Will Be |
 | 4 | [[Ventis]] | 4 | North, East, South, West |
-| 5 | [[Tarkis]] | 5 | Earth, Fire, Lightning, Noxious, Cold |
+| 5 | [[Tarkis]] | 5 | Fire, Water, Earth, Noxia, and Air |
 | 6 | [[Iudis]] | 6 | The paired heavens and hells |
 | 7 | [[Iris]] | 7 | Seasons, Lush, Time, Hunt, Rot, Trickery, Bone |
 | 8 | [[Arcanis]] | 8 | The eight schools of magic |
