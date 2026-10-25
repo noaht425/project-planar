@@ -9,7 +9,7 @@ Belongs to [[Loime]]. Green, gemlike spider (a few inches in diameter).
 **Creation:** Fed a venomous spider a gem from the heart of the [[Elemental Plane of Noxia]] and used this as ascension relic. Only known use of a living creature as ascension relic.
 
 ## Caustic Attunement
-When you attune to this artifact, the spider embeds itself somewhere in your body. When it does, make a Constitution saving throw DC 20. On a failure you take 12d12 poison damage and gain 2 levels of exhaustion. On a success you take half as much damage and receive no levels of exhaustion. This damage ignores resistances. If this damage would reduce you to 0 hit points, no spell of a level lower than 6 can heal you. Any death saving throws rolled for the next hour are rolled with disadvantage
+When you attune to this artifact, the spider embeds itself somewhere in your body. When it does, make a Constitution saving throw DC 20. On a failure you take 12d12 poison damage and gain 2 levels of exhaustion. On a success you take half as much damage and receive no levels of exhaustion. This damage ignores resistances. If this damage would reduce you to 0 hit points, no spell of a level lower than 6 can heal you. Any death saving throws rolled for the next hour are rolled with disadvantage.
 
 ## Toxin of Life
 When you would be dealt poison damage, you instead heal that much instead.
