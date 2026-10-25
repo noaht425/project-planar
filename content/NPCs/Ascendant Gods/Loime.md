@@ -74,13 +74,13 @@ Armor Class 20
 
 **Saving Throws.** WIS +11, CHA +10
 
-**Damage Resistances.** 
+**Damage Resistances.** Necrotic
 
 **Damage Immunities.** Poison
 
-**Condition Immunities.** 
+**Condition Immunities.** Exhaustion, Poisoned
 
-**Senses.** passive Perception 
+**Senses.** passive Perception 21
 
 **Languages.** Common
 
