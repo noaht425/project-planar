@@ -16,7 +16,7 @@ Each soul is given quarters in a gallery. The front of every room is open to the
 
 ## Envy
 
-Desire runs on envy. A soul here can see what every other soul has, in detail, and what it has is always better. A soul that wanted a person in life sees that person, or someone very like them, in a facing gallery, and a soul that wanted wealth sees a hoard. The hell covers lust and greed alongside envy, and all three are handled the same way.
+Desire runs on envy. A soul here can see what every other soul has, in detail, and what it has is always better. The devils are briefed on each soul, and the briefing decides which gallery the soul is placed in and who is placed across from it. A soul that wanted a person in life sees that person, or someone very like them, in a facing gallery, and a soul that wanted wealth sees a hoard. The hell covers lust and greed alongside envy, and all three are handled the same way.
 
 ## Getting
 

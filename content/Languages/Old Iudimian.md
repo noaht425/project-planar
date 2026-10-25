@@ -8,7 +8,7 @@ summary: ''
 
 No longer spoken by anyone, ancestor to [[Iudimian]], [[Celestial]], and [[Infernal]]
 
-Spoken by the [[Original Judgements]] from their creation around 10,000 AF until [[The Division]] in 3,097 AF, when [[Celestial]] and [[Infernal]] began to split from it. [[Iudimian]] was later rebuilt by the [[Omens]] from what was still spoken and from surviving texts, with gaps filled from Celestial and Infernal. Religious words and the most basic everyday words survive best. Much of the rest is reconstructed or unknown.
+Spoken by the [[The Judgements|Original Judgements]] from their creation around 10,000 AF until [[The Division]] in 3,097 AF, when [[Celestial]] and [[Infernal]] began to split from it. [[Iudimian]] was later rebuilt by the [[Omens]] from what was still spoken and from surviving texts, with gaps filled from Celestial and Infernal. Religious words and the most basic everyday words survive best. Much of the rest is reconstructed or unknown.
 
 > *Three marks, and the whole of my first term went into them. The acute approves, the grave condemns, the macron does neither, and they sit on a syllable whose position depends on the gender of the noun. I once wrote a line of praise for a tutor and handed in a formal denunciation of him, correctly spelled.*
 

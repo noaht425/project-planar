@@ -108,7 +108,7 @@ Meaning: Dissolve
 POS: Verb
 Class: Ferra
 Stratum: Draconic
-Note: Ancient Draconic Amolis, to dissolve. Compare [[Amolis]].
+Note: Ancient Draconic Amolis, to dissolve. Compare [[Ancient Draconic|Amolis]].
 
 ## Word: Lameh
 Meaning: Flame, a single tongue of fire

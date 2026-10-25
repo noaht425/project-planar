@@ -20,7 +20,7 @@ The tunnels are narrow and low, lit by oil lamps hung at long intervals, and the
 
 ## The Rooms
 
-Each room is fitted for one soul. The tools and the layout are chosen from what the soul did to other people, and most rooms are ready before their occupant arrives. The devils keep records of how the living practise cruelty and fit a room over years, so a soul that arrives is shown to a door with its name already on it. The work in a room is continuous. Attendants change it as the soul adapts to it.
+Each room is fitted for one soul. The tools and the layout are chosen from what the soul did to other people, and most rooms are ready before their occupant arrives. The devils are briefed on each soul before it comes, on what it did and how it is best answered, and they fit a room from the briefing. A soul that arrives is shown to a door with its name already on it. The work in a room is continuous. Attendants change it as the soul adapts to it.
 
 ## The Attendants
 
@@ -48,5 +48,4 @@ The attendants' own rooms apply the rule on [[Iudis]] that rising does not end p
 
 ## Open
 
-- How the devils learn the practices of the living is unsettled. The prepared rooms assume that they do.
 - Whether sound passes through the thin wall into Kindness is unsettled. The sixty-foot rule suggests that it does not.

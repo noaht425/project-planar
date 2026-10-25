@@ -22,7 +22,7 @@ The lowest tier is hot and wet. Water collects there, and the first work of ever
 
 ## Orders
 
-Orders move down through the tiers, and each tier has an overseer. [[Archon]] appoints the overseers. Each one gets everything it asks for until it becomes comfortable, and then it is replaced. A replaced overseer goes back down. Between the overseer and the bottom are layers of lesser supervisors who have appointed themselves, and the damned keep the hell's records and settle its disputes among themselves.
+Orders move down through the tiers, and each tier has an overseer. The overseers are briefed on each arrival, on what the soul did and where it should be put to work. [[Archon]] appoints the overseers. Each one gets everything it asks for until it becomes comfortable, and then it is replaced. A replaced overseer goes back down. Between the overseer and the bottom are layers of lesser supervisors who have appointed themselves, and the damned keep the hell's records and settle its disputes among themselves.
 
 ## Climbing
 
@@ -40,7 +40,7 @@ Archon is seldom seen in the hell. His attention is on the rulers of [[Arenis]],
 
 Tyranny and [[Justice]] were one place under [[Themati]], and they share walls. [[Temperance]] is the heaven nearest Tyranny in spirit.
 
-> *My guide in Tyranny had been made overseer of its tier not long before, and had been given everything it asked for, which so far was a chair. It showed me the chair before it showed me anything else. I remarked that it looked comfortable. Then it asked me, quite aggresively, whether I thought it looked like the chair of someone who had become comfortable.*
+> *My guide in Tyranny had been made overseer of its tier not long before, and had been given everything it asked for, which so far was a chair. It showed me the chair before it showed me anything else. I remarked that it looked comfortable. Then it asked me, quite aggressively, whether I thought it looked like the chair of someone who had become comfortable.*
 
 ## Design Notes
 
@@ -54,4 +54,3 @@ The hell's administration belongs to the damned, in line with Archon having no c
 
 - The number of tiers is unsettled.
 - Where a replaced overseer goes is written here as back down. That is a working assumption.
-- The flavor box contains the word "aggresively", which looks like a typo in the author's own text. It has been left alone.

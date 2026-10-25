@@ -24,7 +24,7 @@ Standing in Pride is measured in height. A soul of high standing is allowed to s
 
 ## Lux and His Line
 
-[[Lux]] keeps the descendants of his line in Pride, and he has most of them. See his page for the family.
+[[Lux]] keeps the descendants of his line in Pride, and he has most of them. They are treated as any other soul there. Their placement is the hell's punishment for a family known for its pride.
 
 ## Arrivals
 
@@ -46,5 +46,4 @@ The page keeps the existing claim that Pride is the most individually designed o
 
 ## Open
 
-- How [[Genasi II]] to [[Genasi VII]] are housed in Pride is unsettled.
 - Whether souls sent by the Hell's Fire Staff skip [[Liminia]] is unsettled. The staff says only that they are sent at once.

@@ -7,7 +7,7 @@ summary: ''
 
 89-90 Morcaela, 702
 
-[[Theophilius]] gets mind controlled by [[Indri]] to take vengeance upon the king of Sylfaen, Theo is restrained after Aura calls out that a spell has been cast on him.
+[[Theophilius Fanatis|Theophilius]] gets mind controlled by [[Indri]] to take vengeance upon the king of Sylfaen, Theo is restrained after Aura calls out that a spell has been cast on him.
 
 King of Sylfaen has given orders to arrest or kill every citizen of Krotaphos
 

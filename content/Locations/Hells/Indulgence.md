@@ -18,7 +18,7 @@ A soul entering Indulgence is met in the first cavern by music and a full cup. T
 
 ## The Party
 
-No sense is left unoccupied. Bands play in every hall, each in a different key from the next, and singing and shouting run over all of them. The light is amber and unsteady, thrown by lamps and by the molten gold that runs in channels along the walls. The air tastes of sugar, spirits, smoke and sweat. Everything offered to a soul is rich and everything poured for it is strong, and the next cup is in its hand before it has finished the last.
+No sense is left unoccupied. Bands play in every hall, each in a different key from the next, and singing and shouting run over all of them. The light is amber and unsteady, thrown by lamps and by the molten gold that runs in channels along the walls. [[Belphegor]] and [[Lilien]] consulted each other when they laid out their hells, and both work molten gold into their halls. The air tastes of sugar, spirits, smoke and sweat. Everything offered to a soul is rich and everything poured for it is strong, and the next cup is in its hand before it has finished the last.
 
 Wherever a soul stands, the others are in sight and in earshot, and the smell reaches it even where they are not. The halls are full of people eating, drinking, vomiting and having sex, all at once and in plain view, and no soul has ever been offered a quiet room or a door that closes. Souls vomit where they stand and keep drinking. Lesser devils move through the crowd with trays and mops. The floors are mopped continuously and are sticky again within the hour.
 
@@ -52,4 +52,3 @@ The severity ranking from Iudis is kept. The hell is lightest because nothing is
 
 - Who lays the place at the door is unsettled.
 - Whether a drowned soul remembers drowning is unsettled.
-- This hell and [[Desire]] both use molten gold. Whether they draw on one source is unsettled.

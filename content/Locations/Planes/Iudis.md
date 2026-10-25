@@ -17,7 +17,7 @@ It was once the realm of the six [[The Judgements|Original Judgements]], and eac
 
 [[Bis]] decides whether a soul was good or bad on balance, and hates neutrality. [[Seisear]] decides which heaven or hell it goes to.
 
-A heaven and the hell it was split from are still attached to one another, and they are completely divided. They were one place once and the join is still there. Of everything in the realm, each heaven sits literally nearest the hell it was torn from.
+A heaven and the hell it was split from are still attached to one another, and they are completely divided. They were one place once and the join is still there. Of everything in the realm, each heaven sits literally nearest the hell it was torn from. On the ring of portions the two sit opposite each other, which shows their metaphysical distance. See [[The Cosmic Rings]].
 
 Spiritual nearness runs the other way. Each heaven sits closest in spirit to the hell most like it, and the dead in one are nearer in spirit to the dead in its counterpart than to anyone else.
 
@@ -71,6 +71,8 @@ Each of the twelve afterlives is built around its own domain and handles the sou
 Underneath the specifics, a heaven is a pleasant place and a hell is not. The hells are cut into rock, and a soul in one spends its time in caverns, tunnels and worked-out stone under a low ceiling. The heavens are open and bright and stand in daylight. The heavens have endless good food and good weather and are full of cheerful lesser angels and other divine company. The hells are too hot, or too cold for anyone who would have preferred the heat, and are crawling with imps and lesser devils.
 
 Most souls get the general treatment of the place they are in. A few get something made for them. A hell will run its ordinary punishment across everyone who arrives and single out particular souls for something specific, built to answer what that soul in particular did.
+
+Three of the hells are run to a plan. In Cruelty, Desire and Tyranny the devils are briefed on each soul, on what it did and how best to torment it. In Indulgence, Deceit and Pride the devils are free to do as they see fit.
 
 None of this makes the archangels good or the archdevils evil. The hells are administered places with institutions, work, standing and economies of their own. A soul can learn a trade there, build a reputation and rise. Rising is genuinely possible, and the punishment does not stop while it happens.
 

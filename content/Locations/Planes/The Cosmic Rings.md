@@ -28,7 +28,7 @@ Each realm is divided into portions, and each holds one portion more than the re
 
 Within a ring, portions sit across from one another, and what faces what carries meaning.
 
-On the [[Iudis]] ring each portion holds one heaven and the hell most like it. Temperance sits with Tyranny, Kindness with Desire, Truth with Pride, Justice with Indulgence, Sacrifice with Cruelty, and Humility with Deceit. This is not how the Judgements split. [[The Judgements|Each Judgement]] divided into one heaven and one hell, and those two halves land diametrically opposite each other on the ring. [[Baator]] became Temperance and Indulgence, and they sit facing each other across the realm. The same is true of all six.
+On the [[Iudis]] ring each portion holds one heaven and the hell most like it. Temperance sits with Tyranny, Kindness with Desire, Truth with Pride, Justice with Indulgence, Sacrifice with Cruelty, and Humility with Deceit. This is not how the Judgements split. [[The Judgements|Each Judgement]] divided into one heaven and one hell, and those two halves land diametrically opposite each other on the ring. [[Baator]] became Temperance and Indulgence, and they sit facing each other across the realm. The same is true of all six. In physical space the two halves of each pair touch along the seam where they were joined. The ring shows their metaphysical distance and the seam shows their physical one.
 
 On the [[Iris]] ring, Lush faces Rot, Bone faces Hunt, and Trickery faces Time. Seasons sits at the top with nothing facing it.
 

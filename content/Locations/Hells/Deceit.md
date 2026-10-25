@@ -20,7 +20,7 @@ Deceit is built largely of glass, and most of what happens in it is done to a so
 
 ## The Long Lie
 
-The hell does not rely on single tricks. Each soul is the subject of a lie built over years and told by many voices, usually that a way out has been arranged. The lie is consistent in its details and pays out small confirmations on schedule. A soul that follows it to the end finds that the end has moved, and another lie is already running alongside the first. Small and clumsy lies are looked down on in Deceit, and devils lose standing for telling them.
+The hell does not rely on single tricks. Each soul is the subject of a lie built over years and told by many voices, usually that a way out has been arranged. The lie is consistent in its details and pays out small confirmations on schedule. A soul that follows it to the end finds that the end has moved, and another lie is already running alongside the first. Small and clumsy lies are looked down on in Deceit, and devils lose standing for telling them. It is not uncommon for a soul in Deceit to be approached by a mysterious stranger who says they have a way out. After years or maybe even decades of putting themself through all sorts of torment to enact this supposed plan, it will eventually be revealed that the plan was a ruse put on by a devil.
 
 ## Standing
 
@@ -32,7 +32,7 @@ A shadow in [[Iudis]] belongs to [[Tiyanak]], because none of the other eleven c
 
 ## The Tenth
 
-Most of the territory of [[Sylas]] went to [[Verita]] in the deal that ended the [[Divine War]]. Tiyanak kept a tenth of it, and [[Indri]] is caged there. Lesser devils are not stationed in that part of the hell.
+The realm of [[Sylas]] was not split evenly. In the deal that ended the [[Divine War]], [[Tiyanak]] gave [[Verita]] ninety per cent of it and kept a tenth, so as to be sure of holding the part where [[Indri]]'s cage lies underground. Deceit is the smallest of the six hells by area, and the glass hides how small it is. Nothing else in the hell was built near it. Since Indri escaped, Tiyanak has had the cage sealed off, and lesser devils are not stationed in that part of the hell.
 
 > *I spent a morning in Deceit walking toward a lamp I could see clearly at the far end of a long gallery. At midday I put out a hand to steady myself and touched it. It had been at my elbow the whole time, and the gallery was a wall.*
 
@@ -42,9 +42,6 @@ The hell's deceptions are built, which follows Tiyanak's manner. The Long Lie ca
 
 The penalty for small lies follows Tiyanak's dislike of petty falsehood.
 
+The other five Judgements were split about evenly. Deceit is a tenth of its original domain because Tiyanak gave up the rest to keep the cage.
+
 The shadow section ties the hell to the rule on Tiyanak's page. A party that thinks to look at the floor learns something.
-
-## Open
-
-- The page places [[Indri]]'s cage in Tiyanak's tenth, and the Expansion Pass Brief records that Indri escaped the underworld in 700 AM. Where the cage is and when it opened are unsettled.
-- Whether the hell is the tenth or a larger part of the old realm of Sylas is unsettled.
