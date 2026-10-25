@@ -12,7 +12,7 @@ Terraces in open daylight, planted and kept, with the land stepping down in even
 
 ## Arrival
 
-A soul reaching Temperance is walked to a terrace by a lesser angel and given a first meal. The meal is the right size. Occasionally a soul will ask for more and are told, politely, that more would not improve it. Souls who came from hard lives, from hunger or from years of going without, find the measure insulting for about a decade and then stop noticing it.
+A soul reaching Temperance is walked to a terrace by a lesser angel and given a first meal. The meal is the right size. Occasionally a soul will ask for more and are told, politely, that more would not improve it. Souls who came from hard lives, from hunger, or from years of going without, find the measure insulting for about a decade and then stop noticing it.
 
 ## The Measure
 

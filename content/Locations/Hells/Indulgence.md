@@ -28,11 +28,11 @@ Over-sweetened water and liquor run through the lower caverns in channels wide e
 
 ## Standing
 
-Indulgence has a working economy. The kitchens, breweries, gold works and cellars all need labour, and a soul that takes work is fed and watered on the same terms as every other soul and is expected to go on enjoying itself between shifts. Standing is measured in halls. A soul that proves reliable is given a hall to keep, which makes it a host, and a host answers for the comfort of everyone in that hall for as long as the hall stands. A host does not sit down while a guest in the hall is still on its feet.
+Indulgence has a working economy. The kitchens, breweries, gold works, and cellars all need labour, and a soul that takes work is fed and watered on the same terms as every other soul and is expected to go on enjoying itself between shifts. Standing is measured in halls. A soul that proves reliable is given a hall to keep, which makes it a host, and a host answers for the comfort of everyone in that hall for as long as the hall stands. A host does not sit down while a guest in the hall is still on its feet.
 
 ## The Host
 
-[[Belphegor]] attends every hall in turn. He seats guests, asks after their families, remembers the answers and sends dishes to their places. A soul that refuses is not stopped. It is asked again by a different mouth in slightly different words, until it accepts.
+[[Belphegor]] attends every hall in turn. He seats guests, asks after their families, remembers the answers, and sends dishes to their places. A soul that refuses is not stopped. It is asked again by a different mouth in slightly different words, until it accepts.
 
 ## The Door
 

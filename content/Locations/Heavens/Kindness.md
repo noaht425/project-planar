@@ -20,7 +20,7 @@ Souls in Kindness are treated by strangers exactly as they treated strangers, co
 
 ## Better Selves
 
-Each soul is kept company by a being that looks and speaks like a better version of itself. The companion listens and does not interrupt, and it knows the soul's history. For most souls the company is a comfort. For some it is a sentence, because the companion has no fault that the soul can find.
+Each soul is kept company by a being that looks and speaks like a better version of itself. The companions are separate beings and [[Neema]] makes them. The companion listens and does not interrupt, and it knows the soul's history. For most souls the company is a comfort. For some it is a sentence, because the companion has no fault that the soul can find.
 
 ## The Cost
 
@@ -41,7 +41,3 @@ Kindness and [[Cruelty]] were one place under [[Hesit]], and where they touch th
 Kindness is the heaven a party is most likely to enjoy visiting and the one where a long stay is easiest to regret. The cost is quiet and takes a long time to show.
 
 The companions come from the page on Neema. Giving them a flaw-free history is the page's own addition, and it is what turns a comfort into a sentence for some souls.
-
-## Open
-
-- Whether the companions are separate beings or are produced by Neema is unsettled.

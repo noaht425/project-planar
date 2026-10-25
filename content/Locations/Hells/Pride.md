@@ -24,7 +24,7 @@ Standing in Pride is measured in height. A soul of high standing is allowed to s
 
 ## Lux and His Line
 
-[[Lux]] keeps the descendants of his line in Pride, and he has most of them. They are treated as any other soul there. Their placement is the hell's punishment for a family known for its pride.
+The souls [[Lux]] brought into Pride from [[Kingdom of Geno|Geno]] are kept here and given no special standing. They are treated as any other soul in the hell, which is the punishment, since the family is known for its pride. See [[Lux]].
 
 ## Arrivals
 
@@ -46,4 +46,5 @@ The page keeps the existing claim that Pride is the most individually designed o
 
 ## Open
 
+- Whose line Lux took into Pride is unsettled. The page on [[Lux]] names them as [[Genasi II]] through [[Genasi VII]] and also calls them his own descendants, and the page on [[Pyrrha]] calls them [[Iras]]'s siblings. Those are two different families.
 - Whether souls sent by the Hell's Fire Staff skip [[Liminia]] is unsettled. The staff says only that they are sent at once.

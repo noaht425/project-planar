@@ -28,6 +28,14 @@ Souls in Justice spend their days at the galleries, and the plazas fill and empt
 
 [[Themis]] does not hear cases. She reads the rulings of [[Bis]] and sends him objections whenever she disagrees. The clerks copy each objection and post it in the galleries beside the ruling it concerns, so a soul can read both what was decided and what the archangel of justice thought of it.
 
+## The Answering
+
+Where the answering happens depends on the soul that did the wrong. A wrongdoer still alive in [[Arenis]] who is punished there is shown to the wronged soul as the punishment lands, and the soul may call the images up again afterward as often as it likes. A wrongdoer in one of the hells is shown suffering there, and the galleries carry that indefinitely. A wrongdoer in one of the heavens cannot be shown suffering, so the two souls are brought together and left to talk it out.
+
+## Middling Souls
+
+Souls whose two columns run to about the same length have nothing much to watch. They spend their time on each other instead, reading their neighbours' columns and arguing the entries, and the argument is always the same argument: which of them lived the most just life. The clerks do not rule on it. Feuds of this kind have run for centuries and are the main reason a plaza gets loud.
+
 ## The Neighbours
 
 Justice and [[Tyranny]] were one place under [[Themati]], and they share walls. [[Indulgence]] is the hell nearest Justice in spirit.
@@ -40,6 +48,5 @@ The galleries show a ledger of two columns because that is how the heaven works,
 
 Posting Themis's objections beside the rulings is an addition. It gives a visiting party a way to see the dispute between Themis and Bis without meeting either.
 
-## Open
+The feuds give Justice something for a party to walk into. A soul with a grievance against another soul, and no verdict coming, is a job that can be taken up.
 
-- Where the answering takes place is unsettled. The galleries show it as it happens, and the page does not say which afterlife holds the souls who did the wrong.

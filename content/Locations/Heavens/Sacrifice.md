@@ -16,11 +16,11 @@ The halls run for a long way and are very clean. Each storehouse is kept by a st
 
 ## Return
 
-What a soul gave up is returned to it in Sacrifice, including the things it never told anyone about. Items, time, years of a career and the names of people never spoken to again all come back. Some of what returns can be held. Some of it is an hour of a day long past, and the soul is given the hour.
+What a soul gave up is returned to it in Sacrifice, including the things it never told anyone about. Items, time, years of a career, and the names of people never spoken to again all come back. Some of what returns can be held. Some of it is an hour of a day long past, and the soul is given the hour.
 
 ## Giving Again
 
-Once a soul has taken back what it gave, it may give something up again, for someone else, and the gift reaches them. This is the one place in the afterlives where a sacrifice is not wasted. [[Gwenhael]] arranged it that way, and it is the reason a soul in another afterlife can choose to come here.
+Once a soul has taken back what it gave, it may give something up again, for someone else, and the gift reaches them. This is the one place in the afterlives where a sacrifice is not wasted. [[Gwenhael]] arranged it that way, and it is the reason a soul in any of the other five heavens may choose to come and live here. Souls in the hells cannot. See [[Iudis]] for the pact that keeps them out.
 
 ## The Cost
 
@@ -41,7 +41,3 @@ Sacrifice and [[Desire]] were one place under [[Aaranea]], and where they touch 
 Two things the book already says about Sacrifice are kept together here: souls get back what they gave, and the blessed give up things for others and are received. The second begins after the first.
 
 The stewards give a visiting party a way to ask for a specific item and find out what it cost the person who gave it up.
-
-## Open
-
-- Whether a soul in a hell can choose to enter Sacrifice is unsettled. The page on Gwenhael says it is the only afterlife anyone can enter by choice from another.

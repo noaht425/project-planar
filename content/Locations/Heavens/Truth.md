@@ -12,11 +12,11 @@ There are no walls in Truth and nothing casts a shadow. The air is clear to the 
 
 ## Asking
 
-Nothing is withheld in Truth. A soul can ask anything and will be told, including the questions it carried for a lifetime and never expected settled. Questions are answered in the order they were asked, for as long as the soul keeps asking. The answers are short. Nobody is made to continue.
+Nothing is withheld in Truth. A soul can ask anything and will be told, including the questions it carried for a lifetime and never expected settled. Questions are answered in the order they were asked, for as long as the soul keeps asking. [[Verita]] answers some of them personally, and any angel Verita created or gave a station to can answer as well, which is most of the angels in the heaven. The answers are short. Nobody is made to continue.
 
 ## What Is Told
 
-Some answers are worse than the not knowing. A soul learns what people truly thought of it, what its choices actually caused, what was being kept from it and who was keeping it. A soul that asks about a loved one hears what the loved one felt. A soul that asks about its own death hears the order in which things went wrong. Nothing is softened, and nothing is added.
+Some answers are worse than the not knowing. A soul learns what people truly thought of it, what its choices actually caused, what was being kept from it, and who was keeping it. A soul that asks about a loved one hears what the loved one felt. A soul that asks about its own death hears the order in which things went wrong. Nothing is softened, and nothing is added.
 
 ## Life Among the Blessed
 
@@ -41,7 +41,3 @@ Truth and [[Deceit]] were one place under Sylas. [[Pride]] is the hell nearest T
 Truth is written as a place where nobody is cruel and the cost is still real. It matches Indulgence in method: nothing in it is done to a soul.
 
 The short answers are an addition. They keep a long conversation from becoming a lecture, and they leave the soul to ask the next question.
-
-## Open
-
-- Whether Verita gives the answers personally or the lesser angels do is unsettled.

@@ -44,6 +44,10 @@ In 50 AF the heavens and the hells came apart from one another. See [[Great Sepa
 
 The souls in them were not moved by it. The archangels and archdevils had to go through the realm by hand, taking souls out of what was no longer theirs and putting them where they now belonged. A few clever souls are thought to have avoided being found during the sorting, and to be where they should not be.
 
+## Middling Souls
+
+There is no neutral afterlife. [[Bis]] hates neutrality and will not return a balanced verdict, so a soul that was unremarkable in either direction is still sent to one side and still placed in one of the twelve. Every afterlife therefore holds a body of souls it was not designed for, and each of the twelve has arrived at its own way of dealing with them.
+
 ## The Dead
 
 A soul keeps its name and its memory. Both wear down with time, and a soul that has been there long enough may begin to lose the details of who it was.
@@ -72,11 +76,13 @@ Underneath the specifics, a heaven is a pleasant place and a hell is not. The he
 
 Most souls get the general treatment of the place they are in. A few get something made for them. A hell will run its ordinary punishment across everyone who arrives and single out particular souls for something specific, built to answer what that soul in particular did.
 
-Three of the hells are run to a plan. In Cruelty, Desire and Tyranny the devils are briefed on each soul, on what it did and how best to torment it. In Indulgence, Deceit and Pride the devils are free to do as they see fit.
+The angels of all six heavens are briefed on every soul before it arrives. Among the hells, only three are run that way. In Cruelty, Desire, and Tyranny the devils are briefed on what a soul did and how best to torment it. In Indulgence, Deceit, and Pride the devils are left to do as they see fit.
 
 None of this makes the archangels good or the archdevils evil. The hells are administered places with institutions, work, standing and economies of their own. A soul can learn a trade there, build a reputation and rise. Rising is genuinely possible, and the punishment does not stop while it happens.
 
-A soul can travel between the heavens and visit any of them. Reward only reaches a soul in the heaven it was assigned to, so visiting is sightseeing.
+A soul can travel between the heavens and visit any of them, and a great many do. Reward only reaches a soul in the heaven it was assigned to, so visiting is sightseeing.
+
+No soul in a hell may enter a heaven at all. The archangels made a pact to that effect and have kept it, and it is the one position all six of them hold together.
 
 The hells can be moved between as well. Their borders are policed, crossing is far harder than it is above, and it is hardest of all for a soul bound to a particular hell.
 

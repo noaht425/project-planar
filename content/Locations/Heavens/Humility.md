@@ -28,7 +28,7 @@ Most souls arrive remembering what they did. After a few centuries most of them 
 
 ## Pavlas
 
-Pavlas bows to every visitor, insists that the visitor enter first and will not accept precedence in a doorway.
+Pavlas bows to every visitor, insists that the visitor enter first, and will not accept precedence in a doorway.
 
 ## The Neighbours
 
