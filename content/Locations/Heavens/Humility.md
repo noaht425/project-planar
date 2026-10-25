@@ -14,7 +14,7 @@ Souls in Humility are honoured in the open for everything they never claimed, by
 
 ## The Records
 
-The records are kept by researchers, some of them lesser angels and some of them souls who have taken up the work. A researcher finds out what a soul did by asking the people it was done for and by checking the surviving documents. An entry is posted only when the researcher is satisfied that the soul never took credit for the deed. Entries are plain and dated, and each one names the people who helped confirm it. A soul may ask to see its own entry. Most decline.
+The records are kept by researchers, some of them lesser angels and some of them souls who have taken up the work. A researcher finds out what a soul did by asking the people it was done for and by checking the surviving documents. An entry is posted only when the researcher is satisfied that the soul never took credit for the deed or at least never reveled in the glory of it. Entries are plain and dated, and each one names the people who helped confirm it. A soul may ask to see its own entry. Most do not.
 
 ## Daily Life
 

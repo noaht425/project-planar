@@ -18,7 +18,7 @@ Particular tyrants are given particular places in the structure, chosen to answe
 
 ## The Bottom
 
-The lowest tier is hot and wet. Water collects there, and the first work of every new arrival is to move it, by bucket and by pump, up to channels that carry it away. The tier is also where the hell is extended. The souls at the bottom cut the next tier down, and the upper galleries stay dry because the water has somewhere to go.
+The lowest tier is hot and wet. Water collects there as well as the waste of those in the tiers above, and the first work of every new arrival is to move it, by bucket and by pump, up to channels that carry it away. The tier is also where the hell is extended. The souls at the bottom cut the next tier down, and the upper galleries stay dry because the water has somewhere to go.
 
 ## Orders
 

@@ -20,7 +20,7 @@ Souls in Kindness are treated by strangers exactly as they treated strangers, co
 
 ## Better Selves
 
-Each soul is kept company by a being that looks and speaks like a better version of itself. The companion listens and does not interrupt, and it knows the soul's history. For most souls the company is a comfort. For some it is a sentence, because the companion has no fault that the soul can find fault with.
+Each soul is kept company by a being that looks and speaks like a better version of itself. The companion listens and does not interrupt, and it knows the soul's history. For most souls the company is a comfort. For some it is a sentence, because the companion has no fault that the soul can find.
 
 ## The Cost
 
