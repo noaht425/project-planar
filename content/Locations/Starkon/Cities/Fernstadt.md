@@ -13,13 +13,13 @@ Fernstadt is further from [[Hekatania]] than anywhere else in Starkon, and the r
 
 > *Fernstadt is far enough from Hekatania that its people date things by when the news arrived. I was told about a coronation there as though it had happened last spring.*
 
-The lag is not only a joke about the post. Royal officers arrive in Fernstadt with instructions that have been overtaken, tax demands are settled by correspondence that runs for a season, and the town has learned to wait before acting on anything from the capital, on the reasonable grounds that it may already have changed.
+The lag is not only a joke about the post. Royal officers arrive in Fernstadt with instructions that have been overtaken. Tax demands are settled by correspondence that runs for a season. So the town has learned to wait before acting on anything from the capital, on the reasonable grounds that it may already have changed.
 
 ## The Vineyards
 
 The south of Starkon is the only part of it warm enough for wine, and Fernstadt makes nearly all of it. The wine is decent, it is drunk in Starkon, and almost none of it leaves the kingdom.
 
-The comparison with [[Toscal]] is the town's sore subject. Toscal's wine is poured at the [[Panarex]] and Fernstadt's is not, and the people of Fernstadt will tell a visitor that this is a matter of whose kingdom has the older arrangement rather than of what is in the cup.
+The comparison with [[Toscal]] is the town's sore subject. Toscal's wine is poured at the [[Panarex]] and Fernstadt's is not. The people of Fernstadt will tell a visitor that this is a matter of whose kingdom has the older arrangement, rather than of what is in the cup.
 
 ## The Town
 

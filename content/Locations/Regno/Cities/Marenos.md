@@ -15,7 +15,7 @@ Marenos is marked by sound rather than by light. The approaches carry bells on f
 
 The reason is the fog. A light is useless in it and a bell is not, so the harbour invested in sound several centuries ago and has gone on maintaining it. The bells are checked daily, tuned on a schedule, and replaced by a foundry that does nothing else.
 
-Several of the best pilots in Marenos are blind. The harbour treats this as unremarkable and the pilots themselves treat the question as tiresome, since the work is listening and they are the people doing it best.
+Several of the best pilots in Marenos are blind. The harbour treats this as unremarkable, and the pilots themselves treat the question as tiresome. The work is listening, and they are the people doing it best.
 
 ## The Harbour
 
@@ -25,7 +25,7 @@ The port is not large by the standards of [[Plowo]] or the Sylfaen coast. It is 
 
 ## The Pilots' Hall
 
-Pilotage is compulsory. No captain takes a ship in or out of Marenos without one of the hall's pilots aboard, the fees are posted, and the hall is one of the few bodies in Regno that can refuse a kingdom's officer to their face and make it stick.
+Pilotage is compulsory. No captain takes a ship in or out of Marenos without one of the hall's pilots aboard. The fees are posted. So the hall is one of the few bodies in Regno that can refuse a kingdom's officer to their face and make it stick.
 
 A pilot who loses a ship is heard by the hall rather than by a court. The hall's judgements are harsher than a court's would be and nobody has ever successfully appealed one.
 

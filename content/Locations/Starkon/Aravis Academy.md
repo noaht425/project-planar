@@ -13,15 +13,15 @@ The greatest school of magic on any of the eight planes, in [[Hekatania]], the c
 
 It has grown every decade since. Hekatania grew with it, and the city now exists to house, feed, and supply the Academy, whatever the city would say about that.
 
-[[Ignatius]] studied here in the Academy's first century, before he ascended, and did not finish. He was expelled in his second graduate year for burning the face off another student, [[Owen Bramble]], in the main courtyard in front of the school, after the two of them fell out over credit for a doctoral project the Academy had given them. [[Hekate]] expelled him rather than hand him to the city, and he has not been allowed on the grounds since. The Academy lists him among its famous alumni regardless, on the grounds that he is a god.
+[[Ignatius]] studied here in the Academy's first century, before he ascended, and did not finish. He was expelled in his second graduate year for burning the face off another student, [[Owen Bramble]], in the main courtyard in front of the school. The two of them had fallen out over credit for a doctoral project the Academy had given them. [[Hekate]] expelled him rather than hand him to the city, and he has not been allowed on the grounds since. The Academy lists him among its famous alumni regardless, on the grounds that he is a god.
 
 [[Alistar Stormjaw]] enrolled on 1 Aucaela, 199 AM and left on 37 Mortera, 201 AM without completing his degree. The following year he opened the breach to [[Tarkis]] in [[Geno (City)|Geno]]. The Academy does not acknowledge him as an alumnus and has never been asked a question about him that it enjoyed answering.
 
 ## Admission and Cost
 
-There is tuition. Almost nobody pays it. The Academy and the crown between them cover the great majority of students, the alumni give generously and are asked often, and in practice only the richest families are billed at all. A student who can show aptitude is taken, and aptitude is established by the entrance examination. See [[The Sitting]].
+There is tuition. Almost nobody pays it. The Academy and the crown between them cover the great majority of students. The alumni give generously and are asked often. So in practice only the richest families are billed at all. A student who can show aptitude is taken, and aptitude is established by the entrance examination. See [[The Sitting]].
 
-The winnowing happens after admission rather than before it. The first year is where a cohort loses the people who were never going to manage, and everyone at the Academy knows which year is the hard one.
+The winnowing happens after admission rather than before it. The first year is where a cohort loses the people who were never going to manage. Everyone at the Academy knows which year is the hard one.
 
 ## The First Year
 
@@ -37,7 +37,7 @@ Undergraduate study runs several years and ends in a degree from a college. Most
 
 Graduate study is smaller, and a graduate student works under a professor rather than through a college's course. A doctorate is awarded for a project, and a project is expected to be the student's own work and to be good enough to be used.
 
-The largest projects are commissions. The Academy is the place a kingdom goes when it wants something magical done at scale, and it has handed commissions to graduate students more than once, including the work on [[Hekatania]]'s walls that [[Ignatius]] and [[Owen Bramble]] were given. The Academy's position is that this is how the best work gets done. The position is defensible and the Bramble case is what anyone raising it brings up.
+The largest projects are commissions. The Academy is the place a kingdom goes when it wants something magical done at scale. It has handed commissions to graduate students more than once, including the work on [[Hekatania]]'s walls that [[Ignatius]] and [[Owen Bramble]] were given. The Academy's position is that this is how the best work gets done. The position is defensible and the Bramble case is what anyone raising it brings up.
 
 ## The Colleges
 
@@ -96,21 +96,21 @@ A student who wants to go deep finds a professor who works on that thing and att
 
 ## The Arcanis Work
 
-The Academy studies [[Arcanis]] directly. No other institution does. Wizards here work on what can be learned about the eight regions in order to get at the schools themselves, and a new insight into a school is the usual reason anyone looks.
+The Academy studies [[Arcanis]] directly. No other institution does. Wizards here work on what can be learned about the eight regions in order to get at the schools themselves. A new insight into a school is the usual reason anyone looks.
 
-Reaching the realm is a separate matter and the Academy forbids attempting it. [[Hekate]] got in and came out and has never told anyone how she did either half, and a great many people have died working on the problem. The rule against attempts is the Academy's only absolute rule, and it is broken often enough that Grunwald's fourth year keeps a list.
+Reaching the realm is a separate matter and the Academy forbids attempting it. [[Hekate]] got in and came out and she has never told anyone how she did either half. A great many people have died working on the problem. The rule against attempts is the Academy's only absolute rule, and it is broken often enough that Grunwald's fourth year keeps a list.
 
 ## The Catalogue
 
 Before [[The Coalescence]] there were thousands of minor schools rather than eight. The Academy keeps a catalogue of them, reconstructed from fragments, and it is the most complete record of pre-Coalescence magic anywhere.
 
-The necromancy section is the largest, because necromancy alone was blood, bone, death by one means, death by another, and the separate pieces of life and of the soul. Access to that section is restricted, the restriction is administered by the Krummel college, and the Krummel college does not consistently get access to it either.
+The necromancy section is the largest, because necromancy alone was blood, bone, death by one means, death by another, and the separate pieces of life and of the soul. Access to that section is restricted. The restriction is administered by the Krummel college, and Krummel does not consistently get access to it either.
 
 ## Student Life
 
 Half the houses in Hekatania let rooms to students and every landlady has her own rule about magic indoors. The usual compromise is cantrips in the daytime and nothing after dark.
 
-The colleges keep their own halls, their own kitchens, and their own grudges. Osterloh and Reichert are the two that matter in city politics, Hensel and Lindner share a building and do not speak, and the Conservatory holds a concert at the end of each term that the whole city attends and the wizard colleges claim not to.
+The colleges keep their own halls, their own kitchens, and their own grudges. Osterloh and Reichert are the two that matter in city politics. Hensel and Lindner share a building and do not speak. The Conservatory holds a concert at the end of each term that the whole city attends, and that the wizard colleges claim not to.
 
 > *I sat in on the first-year hall, which holds nine hundred and was full. The lecturer set a candle alight at the front and asked them to put it out, any way they could, and then stood back. About forty of them tried. Most of what happened did not touch the candle. A girl in the back row put it out by taking the air out of the room, and we all sat there in the dark getting our breath back while the lecturer wrote her name down.*
 

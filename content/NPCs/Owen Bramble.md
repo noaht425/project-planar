@@ -17,7 +17,7 @@ After the courtyard he had one eye. The right was taken along with a good deal o
 
 ## Manner
 
-He was the better talker of the two by a wide margin and he knew it. He could talk almost anyone into almost anything, and he was born with a knack for ending up in the position that held the money or the meeting.
+He was the better talker of the two by a wide margin and he knew it. He could talk almost anyone into almost anything. And he was born with a knack for ending up in the position that held the money or the meeting.
 
 He held the budget on the doctoral project, dealt with the examining board, and reminded Ignatius of both whenever it was useful. He was not cruel about it so much as he was unable to leave it alone.
 
@@ -25,11 +25,11 @@ He read the same classes as Ignatius and matched him in all of them. He worked i
 
 ## The Project and the Courtyard
 
-The two of them were given the commission to turn the old walls of [[Hekatania]] into magical defences for [[Kingdom of Starkon|Starkon]], as their doctoral project and in their second graduate year. Bramble ran the money and the presentations. The work turned on Forbiddance and on components the funding would not cover.
+The two of them were given the commission to turn the old walls of [[Hekatania]] into magical defences for [[Kingdom of Starkon|Starkon]]. It was their doctoral project, in their second graduate year. Bramble ran the money and the presentations. The work turned on Forbiddance and on components the funding would not cover.
 
 At the halfway presentation he said "I" where he meant "we". Ignatius put a fear spell into him for it, took over the presentation, and winked at him afterwards.
 
-Bramble hit him from behind in the courtyard, which he had never done to anyone, and then they fought with spells until they were both spent. He was a foot away when Ignatius let go of everything he was holding.
+Bramble hit him from behind in the courtyard. He had never done that to anyone. Then they fought with spells until they were both spent. He was a foot away when Ignatius let go of everything he was holding.
 
 He survived it.
 

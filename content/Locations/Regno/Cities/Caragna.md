@@ -11,7 +11,7 @@ Caragna (ca-RAN-ya) is the capital of the [[Kingdom of Regno|Regno]], a northern
 
 The arcades are the thing Caragna is known for. Nearly every street in the old part of the city runs under a covered colonnade. That is why three of its market districts trade through Mortera while the rest of the kingdom waits for the weather. The stone is grey, it is old, and the city repairs it rather than replacing it.
 
-It is built on a slope. The government quarter sits at the top, the markets spread below it, and the walk between the two is short enough that a petitioner can be heard and be home for lunch.
+It is built on a slope. The government quarter sits at the top and the markets spread below it. The walk between the two is short enough that a petitioner can be heard and be home for lunch.
 
 ## Office Hours
 
@@ -23,11 +23,11 @@ It is built on a slope. The government quarter sits at the top, the markets spre
 
 Caragna holds the kingdom's university, which teaches history, law, and politics, along with a good deal else. It is smaller than the [[Aravis Academy]] and is not small, and it has never tried to compete on magic.
 
-What it produces is the people who run an elective kingdom: clerks, advocates, electoral officers, and the sort of scholar who can tell a city council what it is actually permitted to do. Regno's election law is argued in its halls before it is argued anywhere else, and a fair proportion of the kingdom's officeholders were taught there.
+What it produces is the people who run an elective kingdom: clerks, advocates, electoral officers, and the sort of scholar who can tell a city council what it is actually permitted to do. Regno's election law is argued in its halls before it is argued anywhere else. A fair proportion of the kingdom's officeholders were taught there.
 
 ## The Election Office
 
-Regno has no fixed term for its ruler. A new election happens when the kingdom calls for one, and calling for one takes a petition. The office that receives those petitions sits permanently in Caragna, with a staff, a counter, and very little to do in most years.
+Regno has no fixed term for its ruler. A new election happens when the kingdom calls for one, and calling for one takes a petition. So the office that receives those petitions sits permanently in Caragna, with a staff, a counter, and very little to do in most years.
 
 It is nonetheless one of the most watched buildings in the kingdom. Everybody in Caragna knows roughly how many signatures are currently lodged against the sitting ruler. The number for [[XLZL]] is low and has not moved much.
 

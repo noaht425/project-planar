@@ -19,9 +19,9 @@ Visitors enjoy themselves. Almost everyone who has written about Festivus report
 
 Three things at once, which is why nobody can get a straight answer about any one of them.
 
-It is the domain reduced to its purest form. A park is a schedule with people inside it, and this is what [[Chronos]] does, built small enough to walk round in an afternoon.
+It is the domain reduced to its purest form. A park is a schedule with people inside it. That is what [[Chronos]] does, built small enough to walk round in an afternoon.
 
-It is the only life the automata get. They have no afterlife, because the twelve have never accepted that a made thing has anything to send on, so Chronos built his automata somewhere they are looked forward to, thanked, and remembered. See [[Chronos]].
+It is the only life the automata get. They have no afterlife. The twelve have never accepted that a made thing has anything to send on. So Chronos built his automata somewhere they are looked forward to, thanked, and remembered. See [[Chronos]].
 
 It is also evidence. Every guest spends a day being served, entertained, and looked after by made things, and treats them as people for the length of it. Cuimhne keeps the record of every appointment ever made in this domain, and the park's attendance is part of that record. The case Chronos is assembling will be able to call on several centuries of mortals who behaved as though the staff were persons.
 

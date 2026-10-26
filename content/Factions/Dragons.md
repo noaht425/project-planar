@@ -30,7 +30,7 @@ They also intend to bring Zaros and Vari back. The two are dead and they are not
 
 ## Hoards
 
-Each dragon collects a different thing, and helping a patron add to its hoard is what a dragon asks of anyone it deals with.
+Each dragon collects a different thing. Helping a patron add to its hoard is usually what a dragon asks of anyone it deals with.
 
 | Dragon | Hoard |
 | --- | --- |

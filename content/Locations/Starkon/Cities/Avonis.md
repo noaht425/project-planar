@@ -19,9 +19,9 @@ Nobody in Avonis finds this strange. Visitors cross the river as little as possi
 
 ## The Guilds
 
-The town has no mayor. It has a hall where the guilds sit, in an order of precedence settled by how old each guild is, and it decides what it can agree on. The arrangement is slow and has held for centuries.
+The town has no mayor. It has a hall where the guilds sit, in an order of precedence settled by how old each guild is. The hall decides what it can agree on. The arrangement is slow and has held for centuries.
 
-Guild membership is the whole of civic life here. A person without a guild cannot own a frontage, cannot take an apprentice, and cannot be heard in the hall, which makes the first year of a newcomer's life in Avonis a matter of finding somebody to take them.
+Guild membership is the whole of civic life here. A person without a guild cannot own a frontage, cannot take an apprentice, and cannot be heard in the hall. So the first year of a newcomer's life in Avonis is a matter of finding somebody to take them.
 
 ## The River
 

@@ -12,11 +12,11 @@ The caverns are glass, lit in colours, and the walls hand a soul back its own re
 
 ## The Fairground
 
-Booths line the main galleries, each with a barker and a game. The barkers are imps in painted coats. The games cannot be won, and the barker tells every player that it came close. Prizes sit in glass cases at the back of each booth, in plain view from the gallery, and a soul that wants one will play for years. The lights change colour on a slow cycle, and the shadows they throw change with them.
+Booths line the main galleries, each with a barker and a game. The barkers are imps in painted coats. The games cannot be won, and the barker tells every player that it came close. Prizes sit in glass cases at the back of each booth, in plain view from the gallery. A soul that wants one will play for years. The lights change colour on a slow cycle, and the shadows they throw change with them.
 
 ## What a Soul Is Shown
 
-Deceit is built largely of glass, and most of what happens in it is done to a soul's sight. Souls are shown things that are not there and are given back a view that cannot be trusted. Some are blinded first. A reflection may move slightly late and a doorway may be a painting of one. A soul that calls to someone across a gallery may be calling to its own image, or to a soul in a different gallery whose image has been bent to arrive there.
+Deceit is built largely of glass, and most of what happens in it is done to a soul's sight. Souls are shown things that are not there and are given back a view that cannot be trusted. Some are blinded first. A reflection may move slightly late and a doorway may be a painting of one. A soul that calls to someone across a gallery may be calling to its own image. Or to a soul in a different gallery, whose image has been bent to arrive there.
 
 ## The Long Lie
 
@@ -24,7 +24,7 @@ The hell does not rely on single tricks. Each soul is the subject of a lie built
 
 ## Standing
 
-A soul rises by becoming a good liar. Skilled souls are given booths and then deceptions of their own to run on new arrivals, and rank is judged on the quality of the work. A soul that is running a lie on others still has one running on it.
+A soul rises by becoming a good liar. Skilled souls are given booths, and then deceptions of their own to run on new arrivals. Rank is judged on the quality of the work. A soul that is running a lie on others still has one running on it.
 
 ## Middling Souls
 
@@ -36,7 +36,7 @@ A devil's shadow in [[Iudis]] belongs to [[Tiyanak]], because none of the other 
 
 ## The Tenth
 
-The realm of [[Sylas]] was not split evenly. In the deal that ended the [[Divine War]], [[Tiyanak]] gave [[Verita]] ninety per cent of it and kept a tenth, so as to be sure of holding the part where [[Indri]]'s cage lies underground. Deceit is the smallest of the six hells by area, and the glass hides how small it is. Nothing else in the hell was built near it. Since Indri escaped, Tiyanak has had the cage sealed off, and lesser devils are not stationed in that part of the hell.
+The realm of [[Sylas]] was not split evenly. In the deal that ended the [[Divine War]], [[Tiyanak]] gave [[Verita]] ninety per cent of it and kept a tenth. He wanted to be sure of holding the part where [[Indri]]'s cage lies underground. Deceit is the smallest of the six hells by area, and the glass hides how small it is. Nothing else in the hell was built near it. Since Indri escaped, Tiyanak has had the cage sealed off, and lesser devils are not stationed in that part of the hell.
 
 > *I spent a morning in Deceit walking toward a lamp I could see clearly at the far end of a long gallery. At midday I put out a hand to steady myself and touched it. It had been at my elbow the whole time, and the gallery was a wall.*
 

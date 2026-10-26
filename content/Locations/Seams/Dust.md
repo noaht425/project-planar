@@ -11,9 +11,9 @@ One of the ten seams of [[Tarkis]], where [[Elemental Plane of Earth|Earth]] and
 
 ## The Air Itself
 
-There is no water anywhere in the dust seam. Earth's stone comes apart here and Air's wind keeps the pieces up, so the ground is rock and the air above it is rock as well, in grades from gravel down to powder that hangs for days.
+There is no water anywhere in the dust seam. Earth's stone comes apart here and Air's wind keeps the pieces up. So the ground is rock and the air above it is rock as well, in grades from gravel down to powder that hangs for days.
 
-Visibility runs from a few hundred feet on a settled day to arm's length in a blow. Everything wears. Rope, cloth, hinges, and lungs all go the same way, and the seam's whole economy of maintenance exists because of it.
+Visibility runs from a few hundred feet on a settled day to arm's length in a blow. Everything wears. Rope, cloth, hinges, and lungs all go the same way. The seam's whole economy of maintenance exists because of it.
 
 The dust carries a charge. Hair stands, metal tools spark against stone, and a blow that comes through dry enough will put out a lamp and raise the hair on everyone in a camp.
 
@@ -27,9 +27,9 @@ A sorter's reputation is her grades, and a camp caught selling one grade as anot
 
 ## Working In It
 
-Crews work in short shifts and seal everything. Gear is checked at the start and the end of a shift, and a camp will not let a visitor walk out into a blow without someone who knows the ground.
+Crews work in short shifts and seal everything. Gear is checked at the start and the end of a shift. A camp will not let a visitor walk out into a blow without someone who knows the ground.
 
-Navigation is by cairn and by count. The cairns are rebuilt constantly, and a route is given as a number of paces between them rather than as a direction, since a direction is no use when nobody can see.
+Navigation is by cairn and by count. The cairns are rebuilt constantly. A route is given as a number of paces between them rather than as a direction, since a direction is no use when nobody can see.
 
 ## Camps
 

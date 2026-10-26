@@ -13,15 +13,15 @@ Fire's people call it the new ground. Earth's clerks call it the unregistered, a
 
 ## The Ground
 
-Molten rock moves through broken stone here, in channels that open and close over weeks. Where a channel cools, it leaves rock that was not there the month before, and the seam is bigger every year because of it.
+Molten rock moves through broken stone here, in channels that open and close over weeks. Where a channel cools, it leaves rock that was not there the month before. So the seam is bigger every year.
 
 This is the only place in Tarkis where ground is made rather than counted.
 
-The live rock is the hazard. A cooled surface takes a day or more to become safe and looks finished long before it is, so nothing in the seam is walked on until somebody has watched it.
+The live rock is the hazard. A cooled surface takes a day or more to become safe, and it looks finished long before it is. Nothing in the seam is walked on until somebody has watched it.
 
 ## The Registry Problem
 
-[[Tenu]] counts the stone of Earth as hoard, which means every tunnel and seam in that realm is already lent out. Stone made in the magma seam was not there when the count was made, and the registry at Panisde Eteros will not enter it as a holding.
+[[Tenu]] counts the stone of Earth as hoard, which means every tunnel and seam in that realm is already lent out. Stone made in the magma seam was not there when the count was made. The registry at Panisde Eteros will not enter it as a holding.
 
 It will not let anyone else claim it either. Earth's surveyors come in, measure the new rock, record that it exists, and go back without granting anything over it. The result is the only unclaimed ground in Tarkis, and everyone working it knows the position is temporary.
 
@@ -29,7 +29,7 @@ Fire's side wants obsidian and fresh ore, and [[Pyrrha]]'s people come through f
 
 ## Working It
 
-Founders and cutters work the cooling edge. A crew takes a channel, waits out the cooling, and cuts what it can before the next flow comes through, and the good crews can read a surface by its colour and the sound it gives back.
+Founders and cutters work the cooling edge. A crew takes a channel, waits out the cooling, and cuts what it can before the next flow comes through. The good crews can read a surface by its colour and the sound it gives back.
 
 Everything in the seam is built to be left. Camps are timber and canvas on bare rock, shifted every few years when a channel turns, and nobody puts a stone floor down.
 

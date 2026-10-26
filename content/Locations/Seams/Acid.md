@@ -19,11 +19,11 @@ Nothing built here is permanent in the way a building is permanent. A platform i
 
 ## Vessels
 
-The seam's trade is in what will hold acid. Glass out of Kalixos in [[Elemental Plane of Fire|Fire]] is the standard and the expensive answer, and the cheap answer is a stoneware that only two camps know how to fire.
+The seam's trade is in what will hold acid. Glass out of Kalixos in [[Elemental Plane of Fire|Fire]] is the standard and the expensive answer. The cheap answer is a stoneware that only two camps know how to fire.
 
-Amolira in Noxia ships acid to all five realms, and a good deal of what it ships is drawn here and carried out in those vessels. The drawing crews are paid by strength rather than by volume, so a crew that can work nearer the middle earns more and lasts less time.
+Amolira in Noxia ships acid to all five realms. A good deal of what it ships is drawn here and carried out in those vessels. The drawing crews are paid by strength rather than by volume, so a crew that can work nearer the middle earns more and lasts less time.
 
-Etching is the other business. Anything that needs a mark cut into it without a tool touching it comes here, which includes a certain amount of work that the owner would rather not have done where it could be seen.
+Etching is the other business. Anything that needs a mark cut into it without a tool touching it comes here. So does a certain amount of work the owner would rather not have done where it could be seen.
 
 ## What Water Does About It
 

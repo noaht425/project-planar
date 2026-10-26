@@ -15,9 +15,9 @@ The wine is good. The town's own view is that about a third of it is very good a
 
 ## The Panarex Contract
 
-Toscal has supplied the [[Panarex]] for longer than anybody has questioned, which means its wine is poured in the one room where every ruler in the world sits.
+Toscal has supplied the [[Panarex]] for longer than anybody has questioned. So its wine is poured in the one room where every ruler in the world sits.
 
-The town does not choose what goes. A buyer comes out from [[Caragna]], tastes across the holdings, and takes what the buyer takes, and the vintners are not told whose wine was chosen or which year was poured. The secrecy is deliberate and is said to be the condition on which the arrangement was first made, so that no holding in Toscal could advertise itself as the Panarex vintner and the rest be ruined by it.
+The town does not choose what goes. A buyer comes out from [[Caragna]], tastes across the holdings, and takes what the buyer takes. The vintners are not told whose wine was chosen, or which year was poured. The secrecy is deliberate. It is said to be the condition on which the arrangement was first made, so that no holding in Toscal could advertise itself as the Panarex vintner and ruin the rest.
 
 > *The vintners of Toscal are never told which year's wine is poured at the Panarex. One of them told me she had once tasted it there by accident and had been insulted by the choice.*
 
@@ -29,7 +29,7 @@ The town makes more money from its oil than from its wine and never mentions thi
 
 ## The Presses
 
-The oil presses run in Mortera, after the vintage, and they are the reason Toscal has money in a bad wine year. Pickers come down from [[Campara]] for both seasons and are housed in the holdings that hire them, which is an arrangement several generations old and the subject of a dispute every few years about what housing means.
+The oil presses run in Mortera, after the vintage, and they are the reason Toscal has money in a bad wine year. Pickers come down from [[Campara]] for both seasons and are housed in the holdings that hire them. The arrangement is several generations old. Every few years there is a dispute about what housing means.
 
 ## Design Notes
 

@@ -16,15 +16,15 @@ The first halls are tall enough for a giant to walk through upright. The innermo
 
 ## Contests
 
-Pride is built to humble. The arrangements are specific to the soul: whatever a soul was proud of, it will find itself surrounded by those who are better at it, and it will be given every chance to compete with them. A soul proud of its learning is set to argue before better scholars, and a soul proud of its strength is set to wrestle stronger opponents. Contests are held in open halls before audiences of devils, and the results are posted on the walls where every soul can read them. The ranking has no top. Whenever a soul reaches the head of it, a name is added above. When a soul wins, the credit is recorded under another name, and the soul is not permitted to dispute it.
+Pride is built to humble. The arrangements are specific to the soul. Whatever a soul was proud of, it will find itself surrounded by those who are better at it. And it will be given every chance to compete with them. A soul proud of its learning is set to argue before better scholars, and a soul proud of its strength is set to wrestle stronger opponents. Contests are held in open halls before audiences of devils. The results are usually posted on the walls where every soul can read them. The ranking has no top. Whenever a soul reaches the head of it, a name is added above. When a soul wins, the credit is recorded under another name, and the soul is not permitted to dispute it.
 
 ## Standing
 
-Standing in Pride is measured in height. A soul of high standing is allowed to stand upright in halls where others stoop, and the doorways are recut to suit it. Standing is lost the same way. A soul that has been allowed to stand tall and is then brought down has the doors recut around it again, and the workers are not discreet about it.
+Standing in Pride is measured in height. A soul of high standing is allowed to stand upright in halls where others stoop, and the doorways are recut to suit it. Standing is lost the same way. A soul that has been allowed to stand tall and is then brought down has the doors recut around it again. The workers are not discreet about it.
 
 ## Lux and His Line
 
-The kings of the Genasi line are here. [[Iras]] killed [[Genasi VII]] for the throne of [[Kingdom of Geno|Geno]], and [[Lux]] took the line's dead into Pride. The progenitor [[Genasi]] fought him for them in 405 AM and lost, and Lux has kept them since. They are given no standing and are treated as any other soul in the hell, which is the punishment for a family known for its pride.
+The kings of the Genasi line are here. [[Iras]] killed [[Genasi VII]] for the throne of [[Kingdom of Geno|Geno]], and [[Lux]] took the line's dead into Pride. The progenitor [[Genasi]] fought him for them in 405 AM and lost, and Lux has kept them since. They are given no standing and are treated as any other soul in the hell. For a family known for its pride, that is punishment enough.
 
 ## Arrivals
 

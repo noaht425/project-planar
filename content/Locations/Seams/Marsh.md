@@ -11,9 +11,9 @@ One of the ten seams of [[Tarkis]], where [[Elemental Plane of Water|Water]] and
 
 ## Drowned Country
 
-The marsh is cave country with the water in it. Earth's lower systems run down into this seam and fill, and what comes out is miles of flooded chamber, half-submerged passage, and silt beds that are firm in one season and not in the next.
+The marsh is cave country with the water in it. Earth's lower systems run down into this seam and fill. So what comes out is miles of flooded chamber, half-submerged passage, and silt beds that are firm in one season and not in the next.
 
-Nothing here is reliably above or below water. A passage walked dry one year is swum the next, and the silt moves enough that a route is re-marked every time anyone uses it.
+Nothing here is reliably above or below water. A passage walked dry one year is swum the next. The silt moves enough that a route is re-marked every time anyone uses it.
 
 The water is fresh, slow, and full of what the stone has given up to it. Reed and peat grow in the beds, and both are cut and sold, which is the only farming anywhere in the ten seams.
 
@@ -21,11 +21,11 @@ The water is fresh, slow, and full of what the stone has given up to it. Reed an
 
 Earth granted holdings down here before the water came up, and the registry at Panisde Eteros has never cancelled them. Families still hold flooded tunnels on paper and pay what the grant asks, because a lapsed grant is gone for good and the water has gone down before.
 
-Some of those families have not seen their holding in six generations. A few hire divers out of Water to go and confirm the tunnel is still there, which satisfies the registry and settles nothing else.
+Some of those families have not seen their holding in six generations. A few hire divers out of Water to go and confirm the tunnel is still there. That satisfies the registry and settles nothing else.
 
 ## Living In It
 
-The seam's people live on the silt, on rafts and on platforms driven into it, and they move when the beds move. Everyone here can swim and most can hold their breath a long time, and the children of mixed households from both realms are the ones who do the deep work.
+The seam's people live on the silt, on rafts and on platforms driven into it, and they move when the beds move. Everyone here can swim and most can hold their breath a long time. The children of mixed households from both realms are the ones who do the deep work.
 
 Carrying is done by boat and by hand. Nothing with a wheel is any use in the marsh and nothing heavy stays where it is put.
 

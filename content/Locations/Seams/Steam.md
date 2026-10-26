@@ -31,7 +31,7 @@ Burns are the ordinary injury and everyone can treat one. A visitor is told the 
 
 ## The Crossing
 
-The seam is the only ground in Tarkis where the people of Fire and Water can meet without either of them needing gear to breathe. Fire's traders come down out of the hot arc, Water's come up through the crust, and the business of the holding place is the exchange between them. Salvage out of Water goes up the cords to be valued, and worked glass and forged goods come the other way.
+The seam is the only ground in Tarkis where the people of Fire and Water can meet without either of them needing gear to breathe. Fire's traders come down out of the hot arc and Water's come up through the crust. The business of the holding place is the exchange between them. Salvage out of Water goes up the cords to be valued, and worked glass and forged goods come the other way.
 
 A good deal of what crosses here is not recorded on either side, which is understood by everyone and written down nowhere.
 
@@ -46,9 +46,9 @@ A good deal of what crosses here is not recorded on either side, which is unders
 
 ## What the Two Realms Want
 
-[[Pyrrha]] has nearly finished fireproofing her own realm, and most of what is left to do is in her four seams, so her people work the steam seam constantly. What they are after is anything the heat has not destroyed, and they will buy it off a camp at a fair price.
+[[Pyrrha]] has nearly finished fireproofing her own realm. Most of what is left to do is in her four seams. So her people work the steam seam constantly. What they are after is anything the heat has not destroyed, and they will buy it off a camp at a fair price.
 
-[[Vetur]]'s interest is the other direction. Salvage that comes up through the crust was on the trench floor once, and anything lifted out of Water without permission is contraband that cannot be sold in Water. It can be sold here. Neither dragon has claimed the seam. See [[Tarkis]].
+[[Vetur]]'s interest is the other direction. Salvage that comes up through the crust was on the trench floor once. Anything lifted out of Water without permission is contraband that cannot be sold there. It can be sold here. Neither dragon has claimed the seam. See [[Tarkis]].
 
 > *Nothing I wrote in the seam survived the seam. The ink ran while I was still forming the letters, and by the second day I was dictating to a woman who keeps the record there in knots on a cord. She has my whole account of the place and I have none of it. She will read it back for a fee.*
 

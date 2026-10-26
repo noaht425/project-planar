@@ -27,7 +27,7 @@ In 424 AM Oinarria agreed to help Sylfaen against [[Kingdom of Krotaphos|Krotaph
 
 ## Government
 
-The crown of Oinarria alternates between the two peoples. An orc succeeds a giantkin, and a giantkin succeeds an orc, and neither people has held it twice running since the kingdom was founded.
+The crown of Oinarria alternates between the two peoples. An orc succeeds a giantkin, and a giantkin succeeds an orc. Neither people has held it twice running since the kingdom was founded.
 
 ## Language
 

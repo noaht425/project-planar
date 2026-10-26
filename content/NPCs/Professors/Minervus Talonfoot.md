@@ -13,17 +13,17 @@ Age: about two hundred and fifty, so born in the 450s AM.
 
 ## Appearance
 
-Minervus (mih-NER-vus) is a small grey Owlin, going white around the face, who has not been seen hurrying since anyone currently enrolled arrived. He keeps his talons filed flat as a courtesy to the floors and the furniture, and he is the only professor at Aravis who regularly lectures in a shape other than his own.
+Minervus (mih-NER-vus) is a small grey Owlin, going white around the face, who has not been seen hurrying since anyone currently enrolled arrived. He keeps his talons filed flat as a courtesy to the floors and the furniture. He is also the only professor at Aravis who regularly lectures in a shape other than his own.
 
 ## Manner
 
 He is patient to a degree that students find unnerving, and he does not interrupt. A conversation with him usually involves a long silence in the middle of it that he is perfectly comfortable with and the student is not.
 
-He teaches the runic forms. That is why a druid at Grunwald has wizards in his rooms most hours of the day. Runes are not a school and do not belong to any of the eight colleges, and the Academy has never worked out where to put the subject, so it has stayed with the Talonfoots by default. A sigil is a fixed number of strokes laid down in a fixed order, and getting either wrong produces a different sigil rather than a failed one. That is the first thing he says to a new class, and the thing most of them have to be told again.
+He teaches the runic forms. That is why a druid at Grunwald has wizards in his rooms most hours of the day. Runes are not a school and do not belong to any of the eight colleges. The Academy has never worked out where to put the subject. So it has stayed with the Talonfoots by default. A sigil is a fixed number of strokes laid down in a fixed order, and getting either wrong produces a different sigil rather than a failed one. That is the first thing he says to a new class, and the thing most of them have to be told again.
 
-He is the person students are sent to when something has gone wrong with a shape. Half-finished wild shapes, polymorphs that have set, and transformations that took something with them are all brought to him, and he deals with several a term without appearing to find any of them remarkable.
+He is the person students are sent to when something has gone wrong with a shape. Half-finished wild shapes, polymorphs that have set, and transformations that took something with them are all brought to him. He deals with several a term, without appearing to find any of them remarkable.
 
-He takes in students who have nowhere to go. The practice is older than he is. There has been a Talonfoot on the Aravis faculty on and off since the Academy's first century, and an earlier one housed [[Ignatius]] on the night he was expelled. That is the single best known thing any of the family has done, and the thing Minervus will not discuss.
+He takes in students who have nowhere to go. The practice is older than he is. There has been a Talonfoot on the Aravis faculty on and off since the Academy's first century. An earlier one housed [[Ignatius]] on the night he was expelled. That is the single best known thing any of the family has done, and the thing Minervus will not discuss.
 
 ## At the Academy
 

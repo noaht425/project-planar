@@ -13,7 +13,7 @@ One of the ten seams of [[Tarkis]], where [[Elemental Plane of Air|Air]] and [[E
 
 Noxia's works push their worst into this seam, and Air's wind takes it and keeps it moving. What settles out is not poison in the way the rest of Noxia is poison. It is live, it breeds in the warm wet of the lower seam, and it gets into people.
 
-A filter helps and does not solve it. The illnesses here are many and they change, and a filter rated for the works is rated for dust and vapour rather than for what is bred in the seam.
+A filter helps and does not solve it. The illnesses here are many and they change. A filter rated for the works is rated for dust and vapour, rather than for what is bred in the seam.
 
 Nobody healthy stays long. The seam is not short of people regardless.
 
@@ -21,15 +21,15 @@ Nobody healthy stays long. The seam is not short of people regardless.
 
 Two kinds of people live in the plague seam.
 
-The first are the sick, who came in already owing more than they could carry and had nowhere further down to go. Noxia will not take a debtor back across the line once they have been in the seam, and Air has no capacity to take anyone at all.
+The first are the sick, who came in already owing more than they could carry and had nowhere further down to go. Noxia will not take a debtor back across the line once they have been in the seam. And Air has no capacity to take anyone at all.
 
-The second are the ones who had everything and came out of it. A survivor who can no longer take any of the seam's illnesses is worth a great deal, because such a person can carry goods and messages through ground that will kill a courier, and the carriers are the only people here with money.
+The second are the ones who had everything and came out of it. A survivor who can no longer take any of the seam's illnesses is worth a great deal. Such a person can carry goods and messages through ground that will kill a courier. The carriers are the only people here with money.
 
 A carrier's immunity is specific and partial. The illnesses change, and a carrier who has been at it a long time has usually stopped taking new routes.
 
 ## Passage
 
-The seam produces nothing. What it sells is the crossing, which is the shortest route between Noxia's works and what is left of Air's cities, and the long way round costs more in time than most freight will bear.
+The seam produces nothing. What it sells is the crossing. It is the shortest route between Noxia's works and what is left of Air's cities, and the long way round costs more in time than most freight will bear.
 
 Laxokzu in Noxia holds the Noxian approach and runs the manifests. On the Air side the traffic comes down out of the storm and is met by whoever is working that week.
 

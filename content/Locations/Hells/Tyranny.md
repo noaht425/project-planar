@@ -18,15 +18,15 @@ Particular tyrants are given particular places in the structure, chosen to answe
 
 ## The Bottom
 
-The lowest tier is hot and wet. Water collects there as well as the waste of those in the tiers above, and the first work of every new arrival is to move it, by bucket and by pump, up to channels that carry it away. The tier is also where the hell is extended. The souls at the bottom cut the next tier down, and the upper galleries stay dry because the water has somewhere to go.
+The lowest tier is hot and wet. Water collects there, and so does the waste of those in the tiers above. The first work of every new arrival is to move it up to channels that carry it away, by bucket and by pump. The tier is also where the hell is extended. The souls at the bottom cut the next tier down, and the upper galleries stay dry because the water has somewhere to go.
 
 ## Orders
 
-Orders move down through the tiers, and each tier has an overseer. The overseers are briefed on each arrival, on what the soul did and where it should be put to work. [[Archon]] appoints the overseers. Each one gets everything it asks for until it becomes comfortable, and then it is replaced. A replaced overseer goes back down. Between the overseer and the bottom are layers of lesser supervisors who have appointed themselves, and the damned keep the hell's records and settle its disputes among themselves.
+Orders move down through the tiers, and each tier has an overseer. The overseers are briefed on each arrival, on what the soul did and where it should be put to work. [[Archon]] appoints the overseers. Each one gets everything it asks for until it becomes comfortable, and then it is replaced. A replaced overseer goes back down. Between the overseer and the bottom are layers of lesser supervisors who have appointed themselves. The damned keep the hell's records and settle its disputes among themselves.
 
 ## Climbing
 
-A soul climbs by being useful to someone above it. The usual routes are informing on a rival and taking blame that would otherwise land higher up. Every soul has someone above it with a reason to keep it where it is and someone below it with a reason to want its place, and the hierarchy depends on both.
+A soul climbs by being useful to someone above it. The usual routes are informing on a rival and taking blame that would otherwise land higher up. Every soul has someone above it with a reason to keep it where it is and someone below it with a reason to want its place. So the hierarchy depends on both.
 
 ## Particular Tyrants
 
@@ -38,7 +38,7 @@ Archon is seldom seen in the hell. His attention is on the rulers of [[Arenis]],
 
 ## Middling Souls
 
-A soul with no particular crime has nothing specific to answer for, so nothing in the structure is built to hold it down. Those souls climb fastest. Several overseers have come up that way, and they tend to last longer in the post than a tyrant does, because they are slower to become comfortable. The tyrants working beneath them know exactly who is giving the orders.
+A soul with no particular crime has nothing specific to answer for, so nothing in the structure is built to hold it down. Those souls climb fastest. Several overseers have come up that way, and they usually last longer in the post than a tyrant does, because they are slower to become comfortable. The tyrants working beneath them know exactly who is giving the orders.
 
 ## The Neighbours
 

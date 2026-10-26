@@ -15,7 +15,7 @@ Member of the [[Beings of the Eternal Void]].
 
 A black robe covered in stars, a black crown with diamonds set on the points, and pale skin. The pupils are moons.
 
-He is blind. [[The King of Day]] did it in the fight at the Syzygy, and the blinding can be read in the dark half of [[Nullis]] by anyone able to see without using sight.
+He is blind. [[The King of Day]] did it in the fight at the Syzygy. The blinding can be read in the dark half of [[Nullis]] by anyone able to see without using sight.
 
 ## True Name
 
@@ -43,7 +43,7 @@ Lost the domain of death to [[Orcus]], a mortal, who stole from him and built th
 
 He wants to know who talked him into it.
 
-He has established that he was worked on, that the reasoning he acted upon was supplied rather than his own, and that at least one of the conversations was with something wearing his husband's face. He has not established by whom, and he has been looking since the Division. The god of secrets has exactly one he cannot get at.
+He has established that he was worked on. The reasoning he acted upon was supplied rather than his own. And at least one of the conversations was with something wearing his husband's face. He has not established by whom, and he has been looking since the Division. The god of secrets has exactly one he cannot get at.
 
 He has made no attempt to reconcile with [[The King of Day]] and has never said why.
 

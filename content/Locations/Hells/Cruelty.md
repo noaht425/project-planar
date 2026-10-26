@@ -20,7 +20,7 @@ The tunnels are narrow and low, lit by oil lamps hung at long intervals, and the
 
 ## The Rooms
 
-Each room is fitted for one soul. The tools and the layout are chosen from what the soul did to other people, and most rooms are ready before their occupant arrives. The devils are briefed on each soul before it comes, on what it did and how it is best answered, and they fit a room from the briefing. A soul that arrives is shown to a door with its name already on it. The work in a room is continuous. Attendants change it as the soul adapts to it.
+Each room is fitted for one soul. The tools and the layout are chosen from what the soul did to other people. Most rooms are ready before their occupant arrives. The devils are briefed on each soul before it comes, on what it did and how it is best answered. They usually fit a room from the briefing. A soul that arrives is shown to a door with its name already on it. The work in a room is continuous. Attendants change it as the soul adapts to it.
 
 ## The Attendants
 
@@ -30,11 +30,11 @@ A soul can rise in Cruelty by earning its way into the work. Souls with standing
 
 ## Abaddon
 
-Abaddon holds the hell and does not administer it. His seat is at the deepest point, at the end of the tunnel that every other tunnel eventually joins, and he is seldom seen outside it. The attendants run the rooms on routine and refer nothing to him that the routine can answer.
+Abaddon holds the hell and does not administer it. His seat is at the deepest point, at the end of the tunnel every other tunnel eventually joins. He is seldom seen outside it. The attendants run the rooms on routine and refer nothing to him that the routine can answer.
 
 ## Middling Souls
 
-A soul whose cruelty was ordinary has no room waiting for it. The briefing on it is thin, and the devils fit a room out of what little they were given, which takes time. The soul waits in the tunnels while the work goes on, in the quiet, and the waiting is the first part of its punishment. Attendants pass it without comment and will not say how long the fitting has left to run.
+A soul whose cruelty was ordinary has no room waiting for it. The briefing on it is thin, and the devils fit a room out of what little they were given, which takes time. The soul waits in the tunnels while the work goes on, in the quiet. And the waiting is the first part of its punishment. Attendants pass it without comment and will not say how long the fitting has left to run.
 
 ## The Neighbours
 

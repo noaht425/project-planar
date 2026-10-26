@@ -11,15 +11,15 @@ One of the ten seams of [[Tarkis]], where [[Elemental Plane of Fire|Fire]] and [
 
 ## The Deposit
 
-The ash here is not ordinary ash. Fire burns and Noxia dumps, and what the two leave has settled into the seam for as long as either realm has been running, in beds that go down further than anyone has dug.
+The ash here is not ordinary ash. Fire burns and Noxia dumps. What the two leave has settled into the seam for as long as either realm has been running, in beds that go down further than anyone has dug.
 
-The top is hot and the poison in it is in the dust rather than in the air, so it rises when disturbed and settles on everything. A digger works in heat gear bought in Fire and a filter bought in Noxia, which makes this the one seam where a visitor needs both, and the reason almost nobody here is native to it.
+The top is hot and the poison in it is in the dust rather than in the air, so it rises when disturbed and settles on everything. A digger works in heat gear bought in Fire and a filter bought in Noxia. So this is the one seam where a visitor needs both, and almost nobody here is native to it.
 
 ## What Is In It
 
 The beds hold metal, glass, residues that Noxia's works will buy back, and the occasional piece of machinery that was dumped intact. Deep digging turns up older material that nobody can account for.
 
-Everything dug is owed against. [[Okzu]] counts what he is owed as hoard, and his clerks treat a find in the ash as proceeds, so a crew that lifts something valuable has it entered at Varilpithru before it reaches a buyer. Crews dig anyway, because the alternative is the works.
+Everything dug is owed against. [[Okzu]] counts what he is owed as hoard, and his clerks treat a find in the ash as proceeds. A crew that lifts something valuable has it entered at Varilpithru before it reaches a buyer. Crews dig anyway, because the alternative is the works.
 
 [[Pyrrha]]'s people come for the same thing they come for everywhere, which is whatever survived. Fireproof material out of the ash is the one trade here that Noxia's ledger has never managed to price.
 
