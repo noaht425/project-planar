@@ -34,7 +34,7 @@ It lasted from 36 to 39 Aucaela, 405 AM. Nobody has produced an account of the f
 
 Lux won and did not give the souls up. The Genasi line is in [[Pride]] and has been since, treated as any other soul in the hell, which is the punishment for a family known for its pride.
 
-He then agreed that someone other than his own line would hold Geno. That is the only concession any archdevil has made to a progenitor, and he honoured it in 419 AM when [[Iras]] abdicated and Lux named [[Gaius Flaminius]] to replace him.
+He then agreed that someone other than his own line would hold Geno. That is the only concession any archdevil has made to a progenitor. He honoured it in 419 AM, when [[Iras]] abdicated and Geno's council elected [[Gaius Flaminius]] with Lux's hand on the result.
 
 ## What Came Of It
 

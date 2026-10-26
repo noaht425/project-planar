@@ -23,7 +23,7 @@ Iras (EE-rahs) is the son of a dragon and an archdevil and shows both. He has hi
 
 Iras calls himself the Phoenix King. The phoenix was [[Moto]]'s before it was his, and Moto has never forgiven the theft.
 
-He took the throne of Geno in 405 AM by killing [[Genasi VII]], on the principle that Geno owed its existence to the dragons and should be ruled by a dragon's descendant. He defaced the twin statues of [[Genasi]] at the city gate the same year. He held the throne for fourteen years, gave it up, and has never said why.
+He took the throne of Geno in 405 AM by killing [[Genasi VII]], on the principle that Geno owed its existence to the dragons and should be ruled by a dragon's descendant. He defaced the twin statues of [[Genasi]] at the city gate the same year. He held the throne for fourteen years, gave it up, and has never said why. Geno's council elected [[Gaius Flaminius]] to succeed him.
 
 Everyone he kills with the [[Hell's Fire Staff]] goes to his father in [[Pride]].
 
