@@ -41,7 +41,7 @@ Laxokzu in Noxia holds the Noxian approach and runs the manifests. On the Air si
 | Longbreath | A carriers' camp. Keeps the record of who is proof against what |
 | Backline | Where those turned back from Noxia end up |
 
-> *I was not allowed in. The carrier I hired would take my letters and would not take me, and we settled it at the edge over a long afternoon in which she explained, more patiently than I deserved, what my being there would cost her if I fell ill on her route. She had been seven years at the work. She asked after my health twice before she left and once when she came back, and she was the only person in Tarkis who did. The letters arrived. I have not written to anyone in the seam since.*
+> *I was not allowed in. The carrier I hired would take my letters but would not take me, so we settled it at the edge over a long afternoon in which she explained, more patiently than I deserved, what my being there would cost her if I fell ill on her route. She had been seven years at the work. She asked after my health twice before she left and once when she came back, and she was the only person in Tarkis who did. The letters arrived. I have not written to anyone in the seam since.*
 
 ## Design Notes
 

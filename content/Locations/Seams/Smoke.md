@@ -38,7 +38,7 @@ Nobody has told them to go back and nobody can take them on. [[Pyrrha]]'s buyers
 | The Low Pan | Drifting. Its column has been weakening for a decade |
 | Cinder Hall | Working. Keeps the lifts and the beasts that fly them |
 
-> *I had the islands wrong. I had taken them for anchored, and spent two days asking after the engineering, and the woman humouring me finally walked me to the edge and had me look down at the column. Nothing holds them up. The smoke holds them up. She asked whether I wanted to go on with my questions about the foundations.*
+> *I had the islands wrong. I had taken them for anchored, and spent two days asking after the engineering, until the woman humouring me finally walked me to the edge and had me look down at the column. Nothing holds them up. The smoke holds them up. She asked whether I wanted to go on with my questions about the foundations.*
 
 ## Design Notes
 
