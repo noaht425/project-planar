@@ -11,7 +11,7 @@ summary: >-
 
 Hekate is the ascendant god of Magic. She was twenty when she did it, which makes her the youngest person ever to ascend, and she is the only one who took her power from a realm instead of from a being. She siphoned it out of Arcanis itself.
 
-**She runs a university.** She founded Aravis Academy as a school for local children before she was a god and made it a university two days after. She still teaches the first-year course herself.
+**She runs a university.** She founded Aravis Academy as a school for local children before she was a god and made it a university two days after. She taught the first-year course herself for the better part of a century and has handed it on, and she still takes a few students of her own.
 
 **She will teach you anything except one thing.** She has never told anyone how she got into Arcanis or how she got out again, and she has never written it down. A great many people have died trying to work it out.
 
