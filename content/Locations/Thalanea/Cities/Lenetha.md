@@ -19,7 +19,7 @@ Work in the hall is slow and contested. A proposed word is posted, argued over f
 
 ## The Oath-Holders
 
-Thalanea's ruler is elected for life by the oath-holders, which is the body of families and institutions holding the kingdom's oldest contracts. Sylvan kept every word that touches names, oaths, debts, and bargains, so those contracts are still readable and still enforceable, and holding one is the qualification.
+Thalanea's ruler is elected for life by the oath-holders, which is the body of families and institutions holding the kingdom's oldest contracts. Sylvan kept every word that touches names, oaths, debts, and bargains, so those contracts are still readable and still enforceable. Holding one is the qualification.
 
 Caleth was elected under that rule and is addressed as A Chaleth. The electors meet in Lenetha, in the hall's older building, which the scholars resent.
 

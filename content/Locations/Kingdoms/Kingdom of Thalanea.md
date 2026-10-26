@@ -27,6 +27,8 @@ Thalanean children are told about Yupri, a faerie who carries off badly behaved 
 
 Thalanea is ruled by Caleth, addressed in Sylvan as A Chaleth.
 
+The ruler is elected for life by the oath-holders, the families and institutions that hold the kingdom's oldest contracts. Sylvan kept every word that touches names, oaths, debts, and bargains, so those contracts remain readable and enforceable, and holding one is what qualifies an elector. The electors meet in [[Lenetha]].
+
 ## Language
 
 [[Sylvan]]. After the war the elves threw out the everyday words that made their speech sound like the fae language, and kept every word that touched names, oaths, debts, and bargains, because their old agreements are written in them. The result is a language that can negotiate a binding contract and struggles to ask for bread.
@@ -50,6 +52,6 @@ Every elf a party meets has an opinion about them, and the truth is written down
 
 ## Open
 
-Caleth's title, and how the ruler of Thalanea is chosen, is unwritten.
+Caleth's title in Sylvan is unwritten. The language has dod for oath and conv for hold, and the morphology is yours.
 
-What Darasil and Terpisthla are like is unwritten.
+How many oath-holders there are, and whether a contract can be bought to join them, is unwritten.

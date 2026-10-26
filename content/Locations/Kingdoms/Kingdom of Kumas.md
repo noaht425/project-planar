@@ -35,6 +35,8 @@ Kumas is ruled by Kelvari, addressed in Low Fae as A Chelvari.
 
 [[Low Fae]], which continues the speech of Thalamas with many words borrowed from the court of Iris. It has no word for thanks. The nearest phrase means "I owe you", and it is meant literally.
 
+Small obligations are remembered. Above a certain size a debt is registered in [[Velanea]] and becomes enforceable, and where that line falls is argued about constantly.
+
 ## Cities
 
 **[[Velanea]]** is the capital. The other cities are **[[Fylwa]]** and **[[Tithra]]**.
@@ -52,4 +54,4 @@ Any party that is polite in Kumas is running up debts, because the language has 
 
 ## Open
 
-What Fylwa and Tithra are like is unwritten.
+Whether Kelvari holds the throne by descent, election, or something else is unwritten.

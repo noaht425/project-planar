@@ -27,7 +27,11 @@ Nobody in Tithra regards this as a failure. The town's position is that Iris cha
 
 ## The Passes
 
-The high passes above the town are the practical reason anyone comes here. They are the route between Kumas and the kingdoms beyond it, they are shut for a good part of the year, and Tithra takes a toll and provides the guides.
+The high passes above the town are the practical reason anyone comes here. They are the route between Kumas and the kingdoms beyond it, shut for a good part of the year. Tithra takes the toll and provides the guides.
+
+## The Winter
+
+For the months the passes are shut, Tithra is as cut off as anywhere in Kumas and considerably colder. The castles are provisioned for it, the bridges between ridges are the first thing to ice, and the town's indoor season is when most of its imitation of Iris actually gets practised.
 
 ## Design Notes
 

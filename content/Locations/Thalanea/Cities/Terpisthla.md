@@ -17,7 +17,7 @@ Nearly everything Thalanea sells abroad leaves from here, and nearly everything 
 
 ## The Open Secret
 
-Thalanea and [[Kingdom of Kumas|Kumas]] trade with each other, steadily and in volume, and both capitals behave as though they do not.
+Thalanea and [[Kingdom of Kumas|Kumas]] trade with each other steadily and in volume. Both capitals behave as though they do not.
 
 The traffic runs through this harbour and through the border towns. Kumas sends cloth, worked silver, and a good deal of what it buys from [[Iris]]. Thalanea sends stone, grain, and timber. The paperwork describes a great deal of it as coming from somewhere else, and nobody at either end examines the paperwork closely.
 

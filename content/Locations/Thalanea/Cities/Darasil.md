@@ -23,7 +23,7 @@ Elves elsewhere in Thalanea treat this as a matter of geography. Elves outside T
 
 ## The Work
 
-Stone and metal. Darasil cuts and ships both, and the deep levels are worked as well as lived in, so a family's address and a family's trade are often the same fact.
+Stone and metal. Darasil cuts and ships both. The deep levels are worked as well as lived in, so a family's address and a family's trade are often the same fact.
 
 The city sells a great deal to [[Kingdom of Oinarria|Oinarria]], which has mountains of its own and no interest in cutting them, and it is the one Thalanean city with a trade that does not run through [[Terpisthla]].
 

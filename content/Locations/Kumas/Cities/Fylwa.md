@@ -27,6 +27,10 @@ Residents of upper floors are correspondingly particular about whom they invite,
 
 Timber, pitch, and the carpentry that comes of both. Fylwa frames buildings for half of Kumas and sends the rest of its cut down to [[Velanea]].
 
+## The Ground
+
+The forest between the towers is common land and is not built on, which the town enforces strictly. Pigs run in it, children are sent into it, and a proposal to clear a stretch for building comes up about once a generation and has never passed.
+
 ## Design Notes
 
 The stairs are the mechanic. Any scene in Fylwa that involves getting to somebody has a cost attached that has nothing to do with difficulty, and a party that climbs carelessly arrives owing things to strangers.
