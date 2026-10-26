@@ -111,7 +111,7 @@ Gargantuan dragon
 
 **Inhale Cinders (1).** Pyrrha ends the Burning condition on a creature within 15 ft.; if it does, it rolls to recharge Slagflame Breath.
 
-**Burn Away (2). One burning creature within 90 ft. makes a DC 20 Charisma save or the lowest‑level spell affecting it ends; if no spell is affecting it, it takes 16 (3d10) fire instead.
+**Burn Away (2).** One burning creature within 90 ft. makes a DC 20 Charisma save or the lowest‑level spell affecting it ends; if no spell is affecting it, it takes 16 (3d10) fire instead.
 
 **Wing Buffet (2).** Each creature within 20 ft. makes a DC 22 Strength save or is pushed 15 ft. and knocked prone. Pyrrha then flies up to half its speed without provoking attacks of opportunity. (Combos into Whorlflame Landing.)
 
