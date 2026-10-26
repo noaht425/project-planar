@@ -13,13 +13,13 @@ The greatest school of magic on any of the eight planes, in [[Hekatania]], the c
 
 It has grown every decade since. Hekatania grew with it, and the city now exists to house, feed, and supply the Academy, whatever the city would say about that.
 
-[[Ignatius]] studied here before he ascended, and the Academy lists him among its alumni without being clear about whether he finished.
+[[Ignatius]] studied here in the Academy's first century, before he ascended, and did not finish. He was expelled in his second graduate year for burning the face off another student, [[Owen Bramble]], in the main courtyard in front of the school, after the two of them fell out over credit for a doctoral project the Academy had given them. [[Hekate]] expelled him rather than hand him to the city, and he has not been allowed on the grounds since. The Academy lists him among its famous alumni regardless, on the grounds that he is a god.
 
 [[Alistar Stormjaw]] enrolled on 1 Aucaela, 199 AM and left on 37 Mortera, 201 AM without completing his degree. The following year he opened the breach to [[Tarkis]] in [[Geno (City)|Geno]]. The Academy does not acknowledge him as an alumnus and has never been asked a question about him that it enjoyed answering.
 
 ## Admission and Cost
 
-There is tuition. Almost nobody pays it. The Academy and the crown between them cover the great majority of students, the alumni give generously and are asked often, and in practice only the richest families are billed at all. A student who can show aptitude is taken.
+There is tuition. Almost nobody pays it. The Academy and the crown between them cover the great majority of students, the alumni give generously and are asked often, and in practice only the richest families are billed at all. A student who can show aptitude is taken, and aptitude is established by the entrance examination. See [[The Sitting]].
 
 The winnowing happens after admission rather than before it. The first year is where a cohort loses the people who were never going to manage, and everyone at the Academy knows which year is the hard one.
 
@@ -30,6 +30,14 @@ Every student takes the same first year, whatever they came to study. It is basi
 Alongside it are the distribution requirements, which are the reason the Academy employs historians and tacticians as well as mages. A student leaves here able to do something other than magic, which is deliberate and is unpopular with about half of each intake.
 
 At the end of the first year a student chooses a focus. Arcane, natural, and divine are the three broad paths, and most of the intake goes arcane.
+
+## The Degrees
+
+Undergraduate study runs several years and ends in a degree from a college. Most students stop there.
+
+Graduate study is smaller, and a graduate student works under a professor rather than through a college's course. A doctorate is awarded for a project, and a project is expected to be the student's own work and to be good enough to be used.
+
+The largest projects are commissions. The Academy is the place a kingdom goes when it wants something magical done at scale, and it has handed commissions to graduate students more than once, including the work on [[Hekatania]]'s walls that [[Ignatius]] and [[Owen Bramble]] were given. The Academy's position is that this is how the best work gets done. The position is defensible and the Bramble case is what anyone raising it brings up.
 
 ## The Colleges
 
@@ -116,6 +124,12 @@ Hekate being a god who runs a school is the tension in the place. She wants magi
 
 The faculty and the students above are a starting cast. Names are mine and are meant to be overwritten.
 
+## Famous Expulsions
+
+[[Ignatius]], second graduate year, for burning [[Owen Bramble]]. The Academy does not use the word expulsion about him in public and has never published a reason.
+
+[[Alistar Stormjaw]] was not expelled. He left of his own accord on 37 Mortera, 201 AM, which the Academy would rather people did not look into too closely, since it means nobody stopped him.
+
 ## DM Notes
 
 The [[Zygaris Society]] is inside the Academy. [[Irtha Melpomene]] ran the branch working for [[Mens]], and its business is infiltrating universities and museums to take artifacts and knowledge for a dragon's hoard. [[Nerinè Melpomene]] was placed here as a student to steal, which is how the current campaign began.
@@ -126,6 +140,5 @@ Otho's office was robbed in Session 1 and the puzzle box taken from it held a ri
 
 - How the entrance assessment actually works is unwritten.
 - What the eight endowing families got in return, and which of them still have influence, is unwritten.
-- Whether [[Ignatius]] finished is unwritten on purpose.
 - What is in the restricted section that the necromancers are not allowed to see is unwritten.
 - The college and faculty names are coined and should be checked or replaced.
