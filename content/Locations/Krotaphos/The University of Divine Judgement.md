@@ -15,7 +15,7 @@ Founded by [[Verita]] with the help of the other [[Archangels|archangels]], and 
 
 Verita built it to teach what judgement is and how it works, which is the half of [[Sylas]] that Verita kept. The other five archangels came in early.
 
-The archdevils came in later and paid their way in. Their reasoning was practical. Clergy of the archdevils are as ordinary in the mortal world as clergy of the archangels, those clergy were being trained somewhere, and the archangels were otherwise going to own the definition of the subject. Both sides have funded it ever since and neither has ever held it outright.
+The archdevils let it run for about ten years and then wanted in, and they paid their way. Their reasoning was practical. Clergy of the archdevils are as ordinary in the mortal world as clergy of the archangels, those clergy were being trained somewhere, and the archangels were otherwise going to own the definition of the subject. Both sides have funded it ever since and neither has ever held it outright.
 
 ## What It Is For
 
@@ -31,17 +31,17 @@ Scholarship is the third thing it does and the one it is least organised about. 
 
 Students are taught by trade rather than by patron. A student takes clergy, enforcement, or scholarship, and the three schools keep separate buildings, separate deans, and separate reputations.
 
-**Clergy** is the largest by a long way and the one the kingdom cares about.
+**Clergy** is the largest by a long way and the one the kingdom cares about. Its dean is **Hesper Ofala**, an Ill Omen of Lilien's house, who has held the post for thirty years and is the reason the alternating rows in the examination hall are still enforced to the inch.
 
-**Enforcement** trains in law, in combat, and in the procedure of the certificate. Its graduates used to be sent across the continents and now mostly work inside the circle of Krotaphos.
+**Enforcement** trains in law, in combat, and in the procedure of the certificate. Its graduates used to be sent across the continents and now mostly work inside the circle of Krotaphos. Its dean is **Varo Threnn**, a Good Omen of Themis's house, who signs every certificate personally and has refused to sign eleven of them.
 
-**Scholarship** takes few students, produces the work the rest of the world actually cites, and is chronically short of money.
+**Scholarship** takes few students, produces the work the rest of the world actually cites, and is chronically short of money. Its dean is **Ammet Sarei**, of Alter, who worships nothing anyone has established and has run the faculty for nine years on money she raises herself.
 
 ## The Thirteen Houses
 
 Where a student lives and who a student answers to is a separate matter from what they study. The University keeps houses, and a house is a patron.
 
-There are twelve houses for the twelve. There is also a thirteenth, which takes anyone whose devotion is to something other than an archangel or an archdevil: the dragons, the archfey, the ascendant gods, the winds, and whatever else a student arrives carrying. It was added long after the first twelve. The twelve pretend it is not there, and in a kingdom that counts carefully, a thirteenth of anything is noticed.
+There are twelve houses for the twelve. There is also a thirteenth, the **Alter house**, which takes anyone whose devotion is to something other than an archangel or an archdevil: the dragons, the archfey, the ascendant gods, the winds, and whatever else a student arrives carrying. It was added long after the first twelve. The twelve pretend it is not there, and in a kingdom that counts carefully, a thirteenth of anything is noticed.
 
 House matters more than school in a student's daily life. Houses eat together, compete against each other, hold their own services, and keep rivalries that outlast the people in them. Baator's two halves have the oldest and worst of those rivalries, since Temperance and Indulgence came out of one house and have never been able to leave each other alone.
 
@@ -51,13 +51,15 @@ A house is run by its head, who is faculty, and by its senior students, who are 
 
 Most students arrive with a patron already. Krotaphos families are devoted to particular members of the twelve, often for centuries, and a child is entered under the house the family keeps.
 
-The patrons are not bound by any of that. A patron may reject a student it does not want and claim one it does, at any point and without explanation, which produces a shuffle during most first years. Later moves happen and are rare enough to be a scandal when they do. A student rejected by a patron and claimed by nobody goes to the thirteenth house, and the thirteenth house takes them without comment.
+The patrons are not bound by any of that. A patron may reject a student it does not want and claim one it does, at any point and without explanation, which produces a shuffle during most first years. Later moves happen and are rare enough to be a scandal when they do. A student rejected by a patron and claimed by nobody goes to Alter, and Alter takes them without comment.
 
 ## The Chancellor
 
 The University is run by a mortal chancellor whom both sides tolerate, which is the only arrangement either side will accept. The chancellor answers to twelve patrons and to the two kings, in that order, and the office has no power that the funding cannot overrule.
 
-By convention the chancellor has no patron at all and is drawn from the thirteenth house. An unclaimed Omen is the one candidate nobody can object to on principle, and every chancellor has therefore come out of the house the twelve pretend not to see.
+By convention the chancellor has no patron at all and is drawn from the Alter house, since an unclaimed candidate is the only one nobody can object to on principle. The office has therefore always come out of the house the twelve pretend not to see.
+
+The present chancellor is **Yaveth Serilin**, an elf, which goes further than the convention asks. An Omen without a patron is still an Omen, raised in the kingdom of the Omens and related to half of it. An elf out of [[Kingdom of Thalanea|Thalanea]] has no stake in Krotaphos at all, which is the argument that got her the post and the thing both sides like least about her.
 
 ## The Faculty
 
@@ -97,8 +99,8 @@ The kings are further gone than the University is. A party that works out what i
 
 ## Open
 
-- When the archdevils bought in, and what it cost them, is unwritten.
-- The current chancellor is unwritten, including whether they are a Good or an Ill Omen.
-- What the thirteenth house is called, and when it was added, is unwritten.
-- Who holds the deanships of the three schools is unwritten.
+- What the archdevils paid to come in is unwritten, as is the year the University opened.
+- When the Alter house was added is unwritten.
+- The chancellor and the three deans are coined and should be checked.
+- Why Serilin took a post in a kingdom she has no stake in is unwritten.
 - Whether an enforcement certificate is still honoured in any kingdom outside Krotaphos by law rather than by courtesy is unwritten.
