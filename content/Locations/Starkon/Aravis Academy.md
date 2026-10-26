@@ -108,7 +108,7 @@ The colleges keep their own halls, their own kitchens, and their own grudges. Os
 
 ## Design Notes
 
-The Academy is built to be run as a campaign setting rather than visited. The colleges give a party eight rival institutions inside one wall, each with its own resources and its own reason to want something fetched, and the distribution requirements mean a student has a legitimate reason to be anywhere on campus.
+The Academy is built to be run as a campaign setting as well as visited. The colleges give a party eight rival institutions inside one wall, each with its own resources and its own reason to want something fetched, and the distribution requirements mean a student has a legitimate reason to be anywhere on campus.
 
 Three live threads sit here and they do not depend on one another. The Arcanis attempts kill students every year. The catalogue holds magic that was separated for a reason. Hollenbeck is doing dangerous work behind a safety campaign that changed nothing.
 
