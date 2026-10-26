@@ -39,7 +39,7 @@ The patrols have no authority in the seam and everyone knows it, so the arrangem
 | Two Kilns | Fires the stoneware. Will not explain how |
 | The Reach | A drawing camp on the strong water, rebuilt twice in ten years |
 
-> *They showed me a thing at Glasshouse that has been sitting in the strong water for longer than the camp has been there, and it is not marked. It is about the size of a door, it is not glass, and it is not any stone they know. Everyone there has a theory. The theory I was given twice is that somebody should stop looking at it.*
+> *They showed me a thing at Glasshouse that has been sitting in the strong water for longer than the camp has been there, and it is not marked. It is about the size of a door, it is not glass, and it is not any stone they know. Everyone there has a theory. The theory I was given twice is that people should stop looking at it.*
 
 ## Design Notes
 
