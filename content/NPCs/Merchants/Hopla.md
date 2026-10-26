@@ -14,6 +14,8 @@ Race: Elf
 
 Home Realm: [[Arenis]]
 
+> *She sets the rune while you wait and she will not sell the permanent one on a first visit. The reason is not money. A rune set into a weapon is set into it, she said, and people who come in certain of what they are going to need are usually wrong, so she sends them off with the ten minute version and waits to see whether they come back.*
+
 Wears:
 - Rune of Elemental Resistance (Activated BA:1/LR (10 min))
 	- 550 gp

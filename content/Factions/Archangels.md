@@ -15,3 +15,5 @@ They write by tracing letters in the air with their fingers. The letters harden 
 Archangels write slowly and ornately, curving every stroke and adding serifs. Their texts are beautiful and hard to read.
 
 Language: [[Celestial]]. The archangels reshaped it so the archdevils could not understand it, mainly by reversing words and turning bad words into good ones.
+
+> *Celestial has a word that used to mean plague and now means harvest, and nothing about the word changed except who was using it. An archangel's clerk showed me a list of them, in a beautiful hand I could not read without help, and read them out to me in pairs. He found it funny. He had not noticed that he found it funny.*

@@ -39,6 +39,8 @@ Reaching the Eternal Void is possible in theory, and no one has ever done it. An
 
 This is the hardest plane in which to set a scene. It is close to open space, with no ground, no structures and almost nothing physical to interact with. Anything run here needs a reason for the party to survive the environment at all, which in practice means the invitation or protection of one of the four Beings.
 
+> *Nullis is the one chapter in this book I have written without having been there, and I want that on the page rather than buried. What I have is what [[Eos]] was willing to tell me, which was a great deal about the light half and one sentence about the dark half. The sentence was that she does not go.*
+
 ## Design Notes
 
 The plane is exactly what its name says. It is the one plane where the setting offers a party nothing to stand on.

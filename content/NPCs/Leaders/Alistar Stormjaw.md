@@ -10,6 +10,8 @@ Blue Dragonborn Scientist.
 
 Home Realm: [[Arenis]]
 
+> *In Tama they have his workbench. It is in the hall at [[Liber]], under glass, with a label that gives his dates and his title but does not mention [[Kingdom of Geno|Geno]] anywhere on it. The guide told me the kingdom was founded by the man who made the hole, then asked whether I knew of another kingdom that would put that on a plinth.*
+
 ## History
 - 36 Auctera, 180: born
 - 1 Aucaela, 199 AM: starts attending [[Aravis Academy]]

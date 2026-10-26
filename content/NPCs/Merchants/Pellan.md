@@ -13,6 +13,8 @@ Lives in [[Lenetha]]. Addressed in Sylvan as A Fellan.
 
 Home Realm: [[Arenis]]
 
+> *He sells incomplete texts. It says so on his sign. The Sylvan primer he sold me covers contracts but not food, which I did not understand until I had been in Thalanea a week and tried to order a meal. He had warned me. It was written on the cover, he had said it aloud, and I had heard what I wanted to hear.*
+
 Wares:
 - Language Primer (any common language): learn the language in 30 days of study
 	- 250 GP

@@ -13,6 +13,8 @@ Hosted by [[Eltarien Eladris]]. Rotates which plane it is hosted on. A grand cir
 
 [[Isadora]] will be at a Liar's Dice table. If the players bet a large amount of money against her she will claim to not have that much but will offer one of her dice, saying that many have made this bet before and lost. If she loses, she will look at one of the dice and remark how it likes the winning player and to take good care of it.
 
+> *The Extravaganza runs on prizes, and the prizes are real, which is the part nobody believes until they have watched somebody carry one out. At a dice table I saw a boy win something that I am fairly sure had belonged to a god, and nobody at that table asked how it had come to be on it. Eltarien was three stalls away and did not look up.*
+
 ## Events
 
 ### Gambling (for money only)

@@ -13,6 +13,8 @@ Home Realm: [[Arenis]]
 Lives in [[Hekatania]]
 Cleric of [[Hekate]]
 
+> *Her price list for scrolls is the only one in Hekatania that does not move, and she will tell anyone why. She is a cleric of [[Hekate]], Hekate wants magic taught widely, and a student who is being gouged is not being taught. Then she sold me a mirror that shows whoever is holding its pair, and did not move on the price of that either.*
+
 Wares:
 - Spell Scrolls (+/- 10% depending on power)
 	- 0:10, 1:60, 2:120, 3:200, 4:320, 5:640, 6:1,280, 7:2,560, 8:5,120, 9:10,240

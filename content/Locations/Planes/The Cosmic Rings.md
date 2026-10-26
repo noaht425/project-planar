@@ -38,6 +38,8 @@ The rings are the clearest way to draw the structure on a page, and they are a f
 
 This is how the seams of [[Tarkis]] work. Its five elements each touch all four of the others, which gives ten contacts, and those ten are the in-between realms the genasi types are named for.
 
+> *Every drawing of the rings is wrong and everyone who draws one says so before they start. The lecturer at Aravis who drew it for me spent longer on the apology than on the drawing, and when I said I would like a version that was not wrong, she told me to hold out both hands, and then did something with them that I have not been able to reproduce or to forget.*
+
 ## Design Notes
 
 The nesting rule holds the cosmology together and decides the order of the rings. A realm's place is fixed by how many portions it has.

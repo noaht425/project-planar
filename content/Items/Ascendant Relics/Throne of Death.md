@@ -6,7 +6,7 @@ summary: 'Artifact throne created by Orcus, granting command over the undead and
 
 Created by [[Orcus]]
 
-> *Orcus offered me the chair. He was perfectly pleasant about it, said that I could go anywhere I had been or anywhere I could see, and then waited. I had read the part about souls by then. I thanked him and said I would rather walk, and he said that this is the answer most people give, and that he asks everyone.*
+> *Orcus offered me the chair. He was perfectly pleasant about it, said I could go anywhere I had been or anywhere I could see, then waited. I had read the part about souls by then. I thanked him and said I would rather walk, so he told me that this is the answer most people give, and that he asks everyone.*
 
 _Wondrous item, artifact (requires attunement)_
 

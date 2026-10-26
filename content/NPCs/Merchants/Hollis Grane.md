@@ -15,6 +15,8 @@ Home Realm: [[Arenis]]
 
 Buys anything at two fifths of its value and asks no questions.
 
+> *He holds the hand up before you can work out how to ask about it, which saves everybody a moment. Sylfaen took the fingers for forgery and took the wrong two, since he is right-handed, and he tells it with the pleasure of a man who has told it a great many times and intends to go on telling it.*
+
 Wares:
 - Travel Papers (any kingdom): pass inspection unless the inspector succeeds on a DC 15 Investigation check
 	- 200 GP

@@ -6,7 +6,7 @@ summary: 'Armor (plate), artifact (requires attunement)'
 
 Belongs to [[Kodren]].
 
-> *It was set down in a yard in Oinarria a long time ago and it is still in the yard. The family built around it. There is a wall on three sides of it now and a roof over the top, and the youngest of them told me quite seriously that the house is the shape it is because of the armour.*
+> *Kodren moved aside politely so that I could see past him. Then he told me to try moving him myself, which was the joke he had been setting up, so I put my shoulder into a titan in full plate for the amusement of his household. He did not shift. Nothing has.*
 
 ## Hill's Durability
 You have resistance to all damage types except psychic. Additionally, you are immune to poison damage, the poisoned condition, and disease.

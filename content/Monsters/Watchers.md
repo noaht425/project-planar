@@ -8,6 +8,8 @@ hp: 36
 
 Born of relations between powerful fey and powerful fiends. Appear almost as barren poplar trees, tall, thin, white, lots of "branches" with two piercing golden eyes.
 
+> *There are dead white poplars in Iris and there are white poplars that are not trees, and I have never once been able to tell which I was looking at until it blinked.*
+
 ## Stat block
 
 Medium Fey, Fiend, neutral evil

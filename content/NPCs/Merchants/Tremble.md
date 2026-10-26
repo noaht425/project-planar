@@ -13,6 +13,8 @@ Exiled from [[Kingdom of Krotaphos]]. Wanders across the land.
 
 Home Realm: [[Arenis]]
 
+> *He works in a grey coat and an elk skull. He will not take the skull off indoors, which several of his patients have objected to without ever winning the argument. The discount is real. It is the first thing he tells you, before the prices, before what he can actually do. I sat in the corner of a barn while he took a man's eye out and put something better in, talking the whole way through it, mostly about Krotaphos, which threw him out and which he will not be drawn on. Afterwards he washed his hands. Then he said the thing he says to everybody, which is that he has never lost a patient he was sober for. The man with the new eye laughed. I did not.*
+
 ## Basic Services
 
 - **Eye Shine:** Dark Vision (120 ft) — 1,000 GP

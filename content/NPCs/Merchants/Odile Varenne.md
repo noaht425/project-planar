@@ -15,6 +15,8 @@ Home Realm: [[Arenis]]
 
 [[Kingdom of Mathair|Mathair]] does not restrict worship, and Odile stocks for every power a person might call on.
 
+> *The holy symbol she wears changes every day and she will not say which one is hers. A customer told me the practice is older than Odile and came down from her mother, who kept the same shop. In a city where nobody's worship is restricted, a seller who shows a preference has taken a side, and a shop in that district cannot afford one.*
+
 Wares:
 - Holy Symbol (any archangel, archdevil, dragon, archfey, scholarch, or ascendant): usable as a spellcasting focus
 	- 25 GP

@@ -13,6 +13,8 @@ Keeps a workshop in [[Caragna]].
 
 Home Realm: [[Arenis]]
 
+> *There are a great many clocks in that workshop and no two of them agree, which does not trouble him at all. Each Tráthlain clock is correct, he says, and the disagreement is between the places they are correct about. He keeps one on the wall set to somewhere he would not name, and he winds that one first.*
+
 Wares:
 - Tráthlain Clock: bought from [[Time]]. Always correct and never in agreement with another clock. You have advantage on any check to know the exact time.
 	- 150 GP

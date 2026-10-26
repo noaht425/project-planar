@@ -15,3 +15,5 @@ They write by tracing letters in the air with their fingers. The letters harden 
 Archdevils write in a rush, straightening every stroke and cutting corners. Their texts are fast and hard to read.
 
 Language: [[Infernal]]. The archdevils reshaped it so the archangels could not understand it, mainly through riddles and euphemisms. They mock the archangels at every turn.
+
+> *An archdevil's letter reached me in Infernal and in his own hand, which is to say in a hurry. I had three different devils read it for me and was given three different meanings. All three agreed on one word, an abbreviation, which turned out to be a joke about Verita that took the third of them a quarter of an hour to explain. The letter was two lines long.*

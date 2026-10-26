@@ -6,7 +6,7 @@ summary: 'Wondrous item, artifact (requires attunement)'
 
 Belongs to [[Loime]]. Green, gemlike spider (a few inches in diameter).
 
-> *I was shown it in a glass and told not to put my hand near the glass. It is the green of a bottle held up to a lamp, and it is warm, which I could feel through the glass, and in the time I stood there it moved twice. Nobody in that room would tell me what it is waiting for.*
+> *The spider is in his chest, under the coat, and it is alive. He opened the coat for me without being asked, which I had not wanted. In the time it was open the thing moved twice. He watched me watch it. He was pleased.*
 
 **Creation:** Fed a venomous spider a gem from the heart of the [[Elemental Plane of Noxia]] and used this as ascension relic. Only known use of a living creature as ascension relic.
 

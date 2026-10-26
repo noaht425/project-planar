@@ -61,6 +61,8 @@ The rules around names are the practical danger. See [[High Fae]] for how true n
 
 Every style of feyborn had a hand from each of the archfey, or at the least took something from each of them. The fairies, eladrin, changelings, firbolgs, nymphs, shifters, myconids and automatons line up with the seven domains, and none of them came from one domain alone.
 
+> *I went to Iris with letters of introduction and nowhere to present them. There is no court to arrive at, nobody whose business it is to say yes. I spent the first fortnight working out that the only lawful way to be anywhere in that plane is to be somebody's guest, the second fortnight finding out what being a guest costs, which is not money. The letters came home with me unopened. I keep them, and take them out occasionally to remind myself what I had thought the place would be like.*
+
 ## Design Notes
 
 Iris is the only plane carved into private holdings. There is no throne above the archfey and no body they all answer to, which means a party dealing with one of them is dealing with a sovereign.

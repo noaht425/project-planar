@@ -13,6 +13,8 @@ Lives in Arteros, in the [[Elemental Plane of Fire]]
 
 Home Realm: [[Tarkis]]
 
+> *He laughs at his customers and he is not unkind about it. What he finds funny is the ones who buy a single filter. He sells spares at ten gold and watches people decide that they will not be in Noxia long enough to want a second one, and he keeps a box behind the counter of things that other people have brought back to him.*
+
 Wares:
 - Arteros Cloak: immune to the heat of the flows and to fire damage from the environment, lasts about a morning (4 hours), then crumbles
 	- 400 GP

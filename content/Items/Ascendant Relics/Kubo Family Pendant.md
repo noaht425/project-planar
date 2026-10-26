@@ -6,7 +6,7 @@ summary: 'Wondrous item, artifact (requires attunement)'
 
 Belongs to [[Nausicaä]]. A glimmering silver necklace with a brass gear surrounding a half sun/half moon.
 
-> *It is called the family pendant, and I did ask whose family. She gave me the name and then asked me not to print it, and I have not. What I will write down is that the people it came from did not want her, and that she wears their gear at her throat where anybody can see it.*
+> *I had meant to ask her whose family it was. The name is cut into the back of the gear, so the question answers itself. That left me the one I actually wanted, which she did not answer for a long moment. Then she said that the Kubos had not wanted her, and turned the pendant round so the name faced outward again.*
 
 Whenever you expend a sorcery point, this item gains 2 charges. While not in combat you can expend any number of charges and regain that many hit-points. You lose all charges at midnight.
 

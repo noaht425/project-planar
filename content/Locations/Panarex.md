@@ -57,7 +57,7 @@ Five chairs is not six, so the five present seated Tama to make up the number an
 
 The vote went against sending aid. The four kingdoms that were not there are bound by it, and whether Tama's chair counted toward the six is the argument they have.
 
-> *The ninth chair is the only thing in that hall anybody will talk about. A keeper walked me round the ring and named the eight for me, and then stood on the far side of the ninth and told me which of the two kingdoms had drawn it, and how. He would not tell me which way the lots had been weighted. He said that part is not written down anywhere and that he is not the one who is going to write it.*
+> *The ninth chair is the only thing in that hall anybody will talk about. A keeper walked me round the ring, named the eight for me, then stood on the far side of the ninth and told me which of the two kingdoms had drawn it, and how. He would not tell me which way the lots had been weighted. That part is not written down anywhere, he said, and he is not the one who is going to write it.*
 
 ## Design Notes
 

@@ -8,7 +8,7 @@ summary: ''
 
 Crafted for [[The Seventh (Septimus)]] by [[Pavlas]]. Though originally crafted to hold Septimus, his power has infused them.
 
-> *A smith in Panthea was sent a single link of it to repair, without being told what it had come off. She told me she had got it as hot as her forge goes and got nowhere, and that the metal took the heat and gave it back out as light. She sent it on to somebody else. I did not tell her what she had been holding, because I had been asked not to.*
+> *He wears them. [[Pavlas]] made them to hold him, so they are shorter than a weapon of that sort has any business being, and he moves slower in them than he would without. I watched him come the length of a hall at that pace, in no hurry whatever, with the thing that was meant to have stopped him wound round his arm.*
 
 Weapon (Spiked Chain), artifact (requires attunement)
 

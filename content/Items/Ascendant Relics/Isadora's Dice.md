@@ -6,7 +6,7 @@ summary: 'Wondrous item, artifact (requires attunement)'
 
 Belongs to [[Isadora]]. A set of 5d6 made of obsidian and inscribed with gold.
 
-> *She offered me one throw and let me name the stake myself, which she said was only fair, and I named something I was certain was worthless. That was the first mistake. The second was taking three dice when she said I could take up to three, since it had not occurred to me that she already knew what they were going to do. Two of them came up the same. The floor of that room is gold now, and so is the table the dice landed on and the chair I had been sitting in, and she let me keep the chair. I have it still. I cannot sell it and I will not explain it.*
+> *She threw for me rather than letting me throw, which I took for courtesy at the time. The stake was mine to name and I named something I was certain was worthless. Two of the dice came up the same. The floor of that room is gold now, as is the table, as is the chair I had been sitting in, which she let me keep. I cannot sell it. I will not explain it.*
 
 ## Fate Untamed
 After you roll these dice, you may choose up to two of them. Their value becomes equal to the value of another rolled die.

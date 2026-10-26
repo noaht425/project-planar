@@ -6,7 +6,7 @@ summary: 'Wondrous item, artifact (requires attunement)'
 
 Created by [[Gallum]].
 
-> *I had assumed they would be heavy, since he is, and I asked to lift them and was handed them, and they came up off the table like an empty basket. A moment later they were not liftable at all. The attendant who had been watching me struggle took them back with one hand and said that they do that.*
+> *Gallum stood on a frozen pond in front of me, on purpose, to prove the ice would hold him. Then he stepped off onto the flagstones and I heard the stones go. He never took the boots off at any point, so I have no idea what they weigh. I suspect that is the point.*
 
 ## Cloud's Speed
 You gain a fly speed of 100 ft.

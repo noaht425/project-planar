@@ -6,7 +6,7 @@ summary: 'Wondrous item, artifact (requires attunement)'
 
 Created by [[Sarma]].
 
-> *I was allowed to hold it for a moment. The cold does not come off it. It goes into you, and it stays.*
+> *I stood near enough to talk for an hour. The cold does not come off that cloak. It goes into you, and it stays.*
 
 Your AC increases by 2.
 

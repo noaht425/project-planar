@@ -17,3 +17,5 @@ He spoke in [[Celestial]] as he went for it, calling the Sylfaen ruler a tyrant 
 He was restrained by [[Lucien Apirga]], his co-ruler, and by the Sylfaen ruler.
 
 The consequences were immediate and fell on his whole kingdom. Sylfaen ordered the arrest of every citizen of Krotaphos, and people have been arrested and killed since.
+
+> *Three people who were close enough to hear it have told me what he said, and the three accounts agree on the words. What none of them can tell me is why he said it in [[Celestial]], which carries a sentence in his own kingdom, in front of nine rulers and their courts. He has been asked. He has given no answer and does not appear to think that one is owed.*
