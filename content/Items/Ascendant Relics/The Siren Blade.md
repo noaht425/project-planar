@@ -6,6 +6,8 @@ summary: 'Weapon (rapier), artifact (requires attunement)'
 
 Belongs to [[Chore]].
 
+> *A harbourmaster in Kumas has heard it twice, both times before she could see the ship. She told me the singing carries further than the shrieking does, which she takes to be deliberate, and that the second time she had the harbour cleared before the mast came over the horizon.*
+
 When you land a critical hit with this weapon, the target becomes charmed or frightened of you until the end of your next turn, they are then immune to this effect for the next minute.
 
 Once per short/long rest you can make the blade begin to sing or shriek as an action for 4 turns. While it is singing, up to four allies (can include self) within 10 ft of you add 1 to their attack rolls. While it is shrieking, up to four enemies within 10 feet receive a -1 penalty to all attack rolls. Both enemies and allies must be able to hear the blade's song in order to receive the respective effect and you have disadvantage on stealth while the blade is singing or shrieking.

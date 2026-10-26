@@ -6,6 +6,8 @@ summary: 'Staff, artifact (requires attunement)'
 
 Belongs to [[Iras]].
 
+> *The staff keeps no count of what it has sent to Pride and Iras does not keep one either. Somebody does. A clerk in Pride read me a figure, in the hundreds, and would not tell me how far back the record went or whether anything was still being added to it.*
+
 ## Beneficial Properties
 While the staff is on your person, you gain the following benefits:
 

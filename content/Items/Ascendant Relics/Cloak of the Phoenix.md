@@ -6,6 +6,8 @@ summary: 'Wondrous item, artifact (requires attunement)'
 
 Belongs to [[Moto]].
 
+> *Moto's attendants stand a long way back from him in company, which I took for deference until one of them explained the cloak to me. The last time it brought him back, everyone inside fifty feet went up with him. She said that the ones who learn this learn it once.*
+
 ## Fiery Rebirth
 Once per day, when you would be reduced to 0 hitpoints, you instead go to half your hitpoint maximum. When you do, all creatures within 50 ft. of you must make a DC 18 DEX save, on a fail they take 10d10 fire damage, or half on a save.
 

@@ -6,6 +6,8 @@ summary: 'Wondrous item, artifact (requires attunement)'
 
 Belongs to [[Cleome]].
 
+> *It will not take her own blood. That is the thing to understand about it. I asked what it takes instead and was told, pleasantly, that there is an arrangement, that it has held for years, and that the arrangement is not mine to look into. The flowers are beautiful. I was offered one and declined it.*
+
 ## Cursed
 The spider orchid that you have loved and cared for seems to have bonded with you, both emotionally and physically. It is now attached to your skull, feeding on your joy and sorrow, your love and fear, and using them to strengthen itself and you.
 

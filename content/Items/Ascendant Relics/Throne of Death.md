@@ -6,6 +6,8 @@ summary: 'Artifact throne created by Orcus, granting command over the undead and
 
 Created by [[Orcus]]
 
+> *Orcus offered me the chair. He was perfectly pleasant about it, said that I could go anywhere I had been or anywhere I could see, and then waited. I had read the part about souls by then. I thanked him and said I would rather walk, and he said that this is the answer most people give, and that he asks everyone.*
+
 _Wondrous item, artifact (requires attunement)_
 
 **_Undead Army._** While within 100 feet of the throne, you may cast the Danse Macabre spell at the 7th level. If you are sitting on the throne, you do not need to maintain concentration on the spell. You may cast it a number of times per day equal to your proficiency bonus.

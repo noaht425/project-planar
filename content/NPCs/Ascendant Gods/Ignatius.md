@@ -44,7 +44,7 @@ At the halfway presentation, Bramble said "I" where he meant "we". Ignatius cove
 
 Bramble hit him from behind in the main courtyard. They fought with spells in front of the school until both were spent and standing a foot apart, and Ignatius gathered everything he had, superheated it past what he could hold, and let it go into Bramble's face. It took the right eye and a good deal of the rest. Ignatius had burns on his own hands for months.
 
-He made his case to [[Hekate]] in person and was expelled rather than handed to the city. He has not been allowed on the grounds since. [[Minervus Talonfoot]] took him in that night, because his family lived a long way off and the professor had always had a soft spot for him.
+He made his case to [[Hekate]] in person and was expelled rather than handed to the city. He has not been allowed on the grounds since. A Professor Talonfoot took him in that night, an ancestor of [[Minervus Talonfoot]] and faculty at the Academy in that century, because his family lived a long way off and the professor had always had a soft spot for him.
 
 He lied to his family about why he left and has never corrected it. His mother is a perfectionist and his sisters looked up to him.
 

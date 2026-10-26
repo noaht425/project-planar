@@ -6,6 +6,8 @@ summary: 'Wondrous item, artifact (requires attunement)'
 
 Created by [[Sarma]].
 
+> *I was allowed to hold it for a moment. The cold does not come off it. It goes into you, and it stays.*
+
 Your AC increases by 2.
 
 ## Heart of Ice

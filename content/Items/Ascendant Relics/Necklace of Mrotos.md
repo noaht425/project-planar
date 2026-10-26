@@ -6,6 +6,8 @@ summary: 'Wondrous item, artifact (requires attunement)'
 
 Belongs to [[Hieronymous]]. A braided leather necklace with a pendant of crossed ivory antlers.
 
+> *A woman who had worn it for a season told me what the antlers do. The symbol comes up over people who have about a day left in them, it is not always the person you came to see, and she gave the necklace back because she had started checking rooms on the way in.*
+
 When you heal a creature using a spell slot of first level or higher, you get a glimpse into that creatures future, once per day per creature, after healing a creature you may increase or decrease its next d20 roll by half your proficiency bonus rounded down.
 
 Whenever a creature fails a saving throw against one of your spells, you may deal 1d4 necrotic damage to that creature, if it failed by 5 or more, the damage increases to 2d4.

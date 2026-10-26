@@ -6,6 +6,8 @@ summary: 'Wondrous item, artifact (requires attunement)'
 
 Belongs to [[Vato]].
 
+> *No dents. None anywhere, and he has been hit by things that leave craters.*
+
 Your AC increases by 1.
 
 ## Unlimited Endurance

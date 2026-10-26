@@ -70,7 +70,7 @@ A student who wants to go deep finds a professor who works on that thing and att
 
 ## The Faculty
 
-**[[Minervus Talonfoot]]**, an Owlin of the [[Beastfolk]] and a moon druid, at Grunwald. The longest serving professor at the Academy and the one students are sent to when something has gone wrong with a shape.
+**[[Minervus Talonfoot]]**, an Owlin of the [[Beastfolk]] and a moon druid, at Grunwald. The longest serving professor at the Academy and the one students are sent to when something has gone wrong with a shape. There has been a Talonfoot on this faculty on and off since the Academy's first century.
 
 **[[Professor Theodosius Martialis Otho]]**, a fae automaton out of [[Chronos]]'s realm, teaching history and warfare to the distribution requirement. He is a Conquest paladin of [[Abaddon]], which nobody at the Academy has a public explanation for. His office was robbed in 702 AM.
 

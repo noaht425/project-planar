@@ -6,6 +6,8 @@ summary: 'Wondrous item, artifact (requires attunement)'
 
 Created by [[Gallum]].
 
+> *I had assumed they would be heavy, since he is, and I asked to lift them and was handed them, and they came up off the table like an empty basket. A moment later they were not liftable at all. The attendant who had been watching me struggle took them back with one hand and said that they do that.*
+
 ## Cloud's Speed
 You gain a fly speed of 100 ft.
 

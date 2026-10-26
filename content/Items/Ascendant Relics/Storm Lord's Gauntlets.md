@@ -6,6 +6,8 @@ summary: 'Wondrous item, artifact (requires attunement)'
 
 Created by [[Afthor]], infused with the blood of [[Zaros]] and [[Vari]].
 
+> *He names them when he puts them on. One hand is Zaros and the other is Vari, and he says which is which, out loud, every time, the way a man reads a label off a jar. The dragons of Tarkis know that he does it. Somebody tells them.*
+
 ## Might of the Titans
 While wearing these gauntlets, your strength score becomes 29. If your Strength is already equal to or greater than 29, ignore this effect.
 

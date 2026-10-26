@@ -6,6 +6,8 @@ summary: 'Wondrous item, artifact (requires attunement)'
 
 Belongs to [[Nausicaä]]. A glimmering silver necklace with a brass gear surrounding a half sun/half moon.
 
+> *It is called the family pendant, and I did ask whose family. She gave me the name and then asked me not to print it, and I have not. What I will write down is that the people it came from did not want her, and that she wears their gear at her throat where anybody can see it.*
+
 Whenever you expend a sorcery point, this item gains 2 charges. While not in combat you can expend any number of charges and regain that many hit-points. You lose all charges at midnight.
 
 While wearing this pendant, you gain +2 to Wisdom (Insight and Perception) checks to determine the proper order of things.

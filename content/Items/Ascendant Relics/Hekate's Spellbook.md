@@ -6,6 +6,8 @@ summary: 'Wondrous item, artifact (requires attunement)'
 
 Crafted by [[Hekate]].
 
+> *She let me read it, which I had not expected, and sat with me while I did. It holds Time Stop, in her own hand, on the last page anyone has written on. It holds nothing whatever about Arcanis. I turned every leaf, and there is not one line in it about the realm she took her power out of, and she watched me look for it.*
+
 Requires attunement by a Wizard. This book may be used a Wizard's spellbook.
 
 ## Always Prepared

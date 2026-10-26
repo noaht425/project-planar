@@ -6,6 +6,8 @@ summary: 'Wondrous item, artifact (requires attunement)'
 
 Belongs to [[Ignatius]]. A fairly simple leather bound tome (crimson with gold stitching along the edges) with a slight sheen if you look at it from the right angle.
 
+> *The room it had been kept in was still scorched and nobody had repainted. There are marks up two walls and across part of the ceiling, and a clean rectangle on the desk where the book had been lying. The book has no mark on it anywhere. The desk is burnt right up to the edge of where it sat.*
+
 Requires attunement by a Wizard. Acts as a normal spell book would.
 
 The book has 2 charges. Whenever you cast a spell of 1st level or higher, you may expend one charge and increase the spell's effective level by 1. You regain all spent charges at midnight.
