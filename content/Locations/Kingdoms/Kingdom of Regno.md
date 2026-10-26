@@ -23,6 +23,8 @@ It is the home kingdom of the brothers [[Orcus]] and [[Loime]], both of whom asc
 
 Regno elects its ruler. The present one is [[XLZL]], an automaton of the fey with a divine spark, made when [[Chronos]] tricked [[Themis]] into putting a spark into one, and raised by Themis afterwards. XLZL was made in 687 AM, grew up very quickly under Themis's care, and was elected within the last few years.
 
+Regno elects its ruler and sets no term. A ruler serves until the kingdom calls a new election, which takes a petition, and the office that receives petitions sits permanently in [[Caragna]]. The franchise is broad and the count is run out of the capital.
+
 ## Cities
 
 **[[Caragna]]** is the capital. The other cities are **[[Campara]]**, **[[Lontaci]]**, **[[Marenos]]** and **[[Toscal]]**.
@@ -40,6 +42,6 @@ XLZL is also the precedent [[Chronos]] has been building a case on. Whatever the
 
 ## Open
 
-What Campara, Lontaci, Marenos and Toscal are like is unwritten.
+How many signatures force an election is unwritten.
 
-How Regno's elections work is unwritten.
+Whether the crown has ever tried to interfere with the petition office is unwritten.

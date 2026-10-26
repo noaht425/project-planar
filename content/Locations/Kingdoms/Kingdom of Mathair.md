@@ -50,4 +50,6 @@ The claim to be the centre of the world is proud and a little absurd, and it is 
 
 ## Open
 
-What Flùm and Lonvil are like is unwritten.
+What the palace does with the Mascarade's invitation list afterwards is unwritten.
+
+Queen [[Palas Arakol]]'s route to the throne is unwritten.
