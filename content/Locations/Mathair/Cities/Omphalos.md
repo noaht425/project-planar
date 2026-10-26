@@ -35,7 +35,7 @@ When Mathair's turn at the Mascarade comes round, the city spends a year on it. 
 
 The 702 AM Mascarade was held here. [[Theophilius Fanatis]] attacked the ruler of [[Kingdom of Sylfaen|Sylfaen]] in the palace, in front of the assembled guests.
 
-> *I asked a priest in the temple district which house had the best position and was given a long answer about sightlines, foot traffic, and the morning sun, delivered in the tone of a man who had not been asked for several years and had the answer ready. He is of the archangels. His house faces the second rank of the archdevils' row, which he mentioned twice.*
+> *I asked a priest in the temple district which house had the best position and was given a long answer about sightlines, foot traffic, and the morning sun, delivered in the tone of a man who had not been asked for several years and had the answer ready. He is of the archangels. His house faces the second rank of the archdevils' row. He mentioned that twice.*
 
 ## Design Notes
 

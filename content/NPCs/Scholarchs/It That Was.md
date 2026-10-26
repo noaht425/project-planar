@@ -38,7 +38,7 @@ Accounts of decisions, particularly the ones that went badly, and what the perso
 
 A warlock of It That Was can use what it knows after the fact, replacing something that has already happened. None of the other two will offer that. See [[Warlock Scholarch]].
 
-> *It asked me about a position I turned down before I had begun this book, which I had not mentioned to it or to anyone in that realm. Then it asked what I would have written instead, and listened to the answer, and asked again in slightly different words an hour later. I gave it a different answer the second time. It thanked me for both and I have not stopped wondering which of them it wanted.*
+> *It asked me about a position I turned down before I had begun this book. I had never mentioned that to it, or to anyone in that realm. Then it asked what I would have written instead, and listened to the answer, and asked again in slightly different words an hour later. I gave it a different answer the second time. It thanked me for both and I have not stopped wondering which of them it wanted.*
 
 ## Design Notes
 

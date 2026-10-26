@@ -79,7 +79,7 @@ Krotaphos lost its war with [[Kingdom of Sylfaen|Sylfaen]] in 427 AM, was cut do
 
 The University came through it better than the kingdom did. The twelve kept funding it while the crown shrank, it is still the best in its field, and it still draws students from every kingdom. For most of the world it is the only reason to go to Krotaphos at all, which the kingdom knows and does not enjoy.
 
-> *I was shown the examination hall, which seats four hundred and is used twice a year. The invigilator told me that the clergy of the heavens and the clergy of the hells sit it alternately by row, and have since the hall was built, so that nobody can claim a side was favoured by where it was put. I asked who decided the arrangement. He said it had been agreed by all twelve, which is the only thing he knew of that all twelve had agreed on.*
+> *I was shown the examination hall. It seats four hundred and is used twice a year. The invigilator told me that the clergy of the heavens and the clergy of the hells sit it alternately by row, and have since the hall was built, so that nobody can claim a side was favoured by where it was put. I asked who decided the arrangement. He said it had been agreed by all twelve. It is the only thing he knew of that all twelve had ever agreed on.*
 
 ## Design Notes
 

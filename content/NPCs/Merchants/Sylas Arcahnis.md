@@ -12,7 +12,7 @@ Race: [[Giantkin]]
 Spends most of time in [[Kingdom of Oinarria]]
 Home Realm: [[Arenis]]
 
-> *Every tattoo he sells is somewhere on him, which is how he shows you what you are buying, and he puts a hand on the relevant one while he quotes the price. He has stopped selling two of them, he told me, because he has run out of room to carry them. He would not say which two.*
+> *Every tattoo he sells is somewhere on him. That is how he shows you what you are buying, and he puts a hand on the relevant one while he quotes the price. He has stopped selling two of them, he told me, because he has run out of room to carry them. He would not say which two.*
 
 Tattoos:
 - Witchlight Eyes: See the true forms of shape-changers and illusions, 20 ft

@@ -41,7 +41,7 @@ Lomaxis in Earth holds the seam's main road and takes the registered traffic. Th
 | Brightwork | Cuts and carries finished sheet. The largest camp |
 | Nobody's Vein | A worked-out site that keeps its name, and where unregistered metal changes hands |
 
-> *I asked at Assay how a crew decides which realm to register a vein in, and was told that the question was the wrong way round. A crew decides which realm it can afford to be caught by. Then they asked me which realm I had come in from, and when I told them, the clerk put my name in a book and said it was nothing to worry about.*
+> *I asked at Assay how a crew decides which realm to register a vein in, and was told that the question was the wrong way round. A crew decides which realm it can afford to be caught by. Then they asked where I had come in from, and when I told them, the clerk put my name in a book and said it was nothing to worry about.*
 
 ## Design Notes
 

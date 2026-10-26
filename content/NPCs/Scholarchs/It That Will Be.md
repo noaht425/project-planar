@@ -36,7 +36,7 @@ To know what is coming before anyone else does, and to make certain that nobody 
 
 A warlock of It That Will Be gets more foreknowledge than the other two will allow and loses whatever is not used before the next rest. In exchange the warlock reports in, keeps to the rules about what may be said, and accepts that the rules are not explained. See [[Warlock Scholarch]].
 
-> *It answered a question I had not asked yet, in full, and then told me that the one I had come with was not available to me. I never said either question aloud. On the way out of the field I tried to write down the answer it had given and found that I could remember all of it except the part that would have made it useful, which I am told is not an accident.*
+> *It answered a question I had not asked yet, in full, and then told me that the one I had come with was not available to me. I never said either question aloud. On the way out of the field I tried to write down the answer it had given and found that I could remember all of it except the part that would have made it useful. I am told that is not an accident.*
 
 ## Design Notes
 

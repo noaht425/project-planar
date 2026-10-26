@@ -39,7 +39,7 @@ Nothing much. He left no work that is cited, no post that is remembered, and no 
 
 He was one of the two best students the Academy had in its first century and he is not remembered at all. The courtyard is remembered, because of who did it.
 
-> *He is too long dead for me to have met anyone who knew him, so I went to the Academy's records instead, which is not how I prefer to work. He is on a class list twice and on a funding line once, for ruby dust, against a professor's name. There is no file on the courtyard and no file on the expulsion. I asked three people in that building who he had been and got the same answer from all three, which was that they had no idea and would I like to see the portrait of the one who burned him.*
+> *He is too long dead for me to have met anyone who knew him, so I went to the Academy's records instead. That is not how I prefer to work. He is on a class list twice and on a funding line once, for ruby dust, against a professor's name. There is no file on the courtyard and no file on the expulsion. I asked three people in that building who he had been and got the same answer from all three. None of them had any idea, and would I like to see the portrait of the one who burned him.*
 
 ## Design Notes
 
