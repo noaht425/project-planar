@@ -24,7 +24,7 @@ Of the ten, this is the dragon that holds the collaborations in open contempt. [
 
 Amol is not stupid and is not a bully to anything smaller. The contempt runs upward only, at the three dragons who outrank Amol in every respect except how they were made.
 
-> *Amol asked me whether I understood the difference between a dragon made by one dragon and a dragon made by a dragon and a committee, and I said that I did. An hour later, in the middle of another subject, Amol asked me again in the same words and a good deal louder. Mens had come in behind me and was reading at the far end of the room, and did not look up.*
+> *Amol asked me whether I understood the difference between a dragon made by one dragon and a dragon made by a dragon and a committee. I said that I did. An hour later, in the middle of another subject, Amol asked me again in the same words and a good deal louder. Mens had come in behind me and was reading at the far end of the room, and did not look up.*
 
 ## Goals
 

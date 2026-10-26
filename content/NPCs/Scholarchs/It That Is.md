@@ -38,7 +38,7 @@ A warlock of It That Is can use what it knows while surprised or helpless, and o
 
 It is the one of the three that visibly dislikes [[Isadora]], and the only one that has ever shown a mortal what that looks like. See [[Scholarchs]].
 
-> *I brought it the price of fish in two ports. It was all I had that it did not already have. It took the whole of it, then asked follow-up questions for half an hour. It was not being kind to me. It wanted the figures. At the end of it a child came past selling something on a string and it bought one, and I was dismissed for the string.*
+> *I brought it the price of fish in two ports. It was all I had that it did not already know. It took the whole of it, then asked follow-up questions for half an hour. It was not being kind to me, it wanted the figures. At the end of it a child came past selling something on a string and it bought one, and I was dismissed in favor of the string.*
 
 ## Design Notes
 

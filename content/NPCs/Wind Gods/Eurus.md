@@ -21,7 +21,7 @@ He is courting [[Princess Esta]] of [[Seasons]] publicly, with his court's appro
 
 He has not told her about the plan.
 
-> *He asked me about the mortal kingdoms for most of an evening and he was genuinely interested, which I had not had from anything of that rank before. When I asked him in return about the plane of air he changed the subject so gracefully that I did not notice until I was writing up the evening and found I had nothing.*
+> *He asked me about the mortal kingdoms for most of an evening and he was genuinely interested, which I had not had from anything of that rank before. When I asked him in return about the plane of air he changed the subject so gracefully that I did not notice. I was writing up the evening before I found I had nothing.*
 
 ## Goals
 

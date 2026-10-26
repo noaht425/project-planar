@@ -27,7 +27,7 @@ I have not met him. What follows is from records and from the four beings who ha
 
 He is the god of secrets and he is described, consistently, as a good listener. He asks and remembers, and he does not repeat. Every account of a petition to him agrees that he gave the petitioner his full attention and that nothing of what was said went anywhere afterwards.
 
-> *There are nine surviving petitions to the dark throne and I have read all nine. Not one of them was refused. Not one of them was granted either. Each answer is a question put back, and each question is better than the one that was brought to him, and all nine petitioners went away and did something other than what they came to ask for.*
+> *There are nine surviving petitions to the dark throne and I have read all nine. Not one of them was refused. Not one of them was granted either. Each answer is a question put back. Each question is better than the one that was brought to him. All nine petitioners went away and did something other than what they came to ask for.*
 
 ## History
 

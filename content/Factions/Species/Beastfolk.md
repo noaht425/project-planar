@@ -17,7 +17,7 @@ Sylfaen law sorts beastfolk by mouth type: Lipped, Snouted, Beaked, and Long-jaw
 
 Made by [[Numen]] at the [[Council of Creation]] in 1 AM, with help from the [[Dragons]], which is why there are so many kinds.
 
-> *A kenku in Plowo told me that the dragons had given his people their voices. A tabaxi at the next table told him that was nonsense, and the two of them argued about which dragon had done what until the owner asked them both to leave.*
+> *A kenku in Plowo told me that the dragons had given his people their voices. A tabaxi at the next table told him that was nonsense. The two of them argued about which dragon had done what until the owner asked them both to leave.*
 
 ## Design Notes
 

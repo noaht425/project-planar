@@ -10,7 +10,7 @@ Indri had been researching the ascension process before that night. In the momen
 
 So Indri died, went to the afterlife and was caged there by Tiyanak, and kept a great deal of power through all of it, because the ascension completed as the death did. See [[Ascension Process]] for what the ritual normally requires.
 
-> *I have not held Mendax and I do not expect to. What I have is a handful of accounts that disagree about its size and agree about everything else, which in my experience is the shape of a real object rather than a story. A dagger used to kill an archfey, which the archfey then used, while dying, to make themself a god.*
+> *I have not held Mendax and I do not expect to. What I have is a handful of accounts that disagree about its size and agree about everything else. In my experience that is the shape of a real object rather than a story. A dagger used to kill an archfey, which the archfey then used, while dying, to make themself a god.*
 
 *Weapon (+3 dagger), artifact (requires attunement)*
 

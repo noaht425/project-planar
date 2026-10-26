@@ -7,7 +7,7 @@ locationType: location
 
 Campara (cam-PA-ra) is the market town of the [[Kingdom of Regno|Regno]], inland and well south of the capital.
 
-> *Campara holds its market on a different square each week, by a rota older than anyone selling there, and the town has never once lost track of whose week it is.*
+> *Campara holds its market on a different square each week, by a rota older than anyone selling there. The town has never once lost track of whose week it is.*
 
 ## The Rota
 

@@ -14,7 +14,7 @@ Race: [[Earthborn]] (gnome)
 
 Home Realm: [[Arenis]]
 
-> *He calls a coma potion Big Big Nap Nap and charges two and a half thousand for it. The names are not a joke at the customer's expense. He told me, without looking up from the bench, that people remember which bottle is which when they are frightened, and that I would be surprised how many professionals come back for the one with the silly name.*
+> *He calls a coma potion Big Big Nap Nap and charges two and a half thousand for it. The names are not a joke at the customer's expense. He told me, without looking up from the bench, that people remember which bottle is which when they are frightened. I would be surprised, he said, how many professionals come back for the one with the silly name.*
 
 Potions:
 - Big Big Nap Nap: dreamless coma for 48 hours, only awoken by greater restoration

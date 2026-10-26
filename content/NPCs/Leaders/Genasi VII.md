@@ -21,7 +21,7 @@ He had no military reputation and no ally he could call on when [[Iras]] came fo
 
 His line went to [[Pride]] after his death, the whole of it, taken by [[Lux]]. See [[Pride]].
 
-> *The last of the Genasi kings has no tomb, because there was nobody left with standing to build him one and nothing in him to bury by the time the matter was raised. There is a plaque in the petition hall. It gives his dates and does not give the manner of his death, and the clerk who walks visitors past it does not stop.*
+> *The last of the Genasi kings has no tomb. There was nobody left with standing to build him one, and nothing in him to bury by the time the matter was raised. There is a plaque in the petition hall. It gives his dates and does not give the manner of his death, and the clerk who walks visitors past it does not stop.*
 
 ## Design Notes
 

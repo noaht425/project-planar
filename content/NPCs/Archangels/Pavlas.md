@@ -23,7 +23,7 @@ Pavlas speaks quietly, defers to whoever else is present, and will not accept pr
 
 Humility in Pavlas's domain is administered by removing the blessed from their own achievements gently. They are not shown someone else taking credit. That is [[Lux]]'s method. They are simply never reminded, and after a few centuries most of them cannot recall having done anything in particular.
 
-> *Pavlas insisted I go through the door first, and I did, and then I spent the rest of the day being deferred to by something thousands of years older than I. By evening I was issuing opinions on the governance of the afterlives. I only heard myself doing it on the walk back.*
+> *Pavlas insisted I go through the door first, and I did. Then I spent the rest of the day being deferred to by something thousands of years older than I am. By evening I was issuing opinions on the governance of the afterlives. I only heard myself doing it on the walk back.*
 
 ## Goals
 

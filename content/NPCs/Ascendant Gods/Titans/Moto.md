@@ -21,7 +21,7 @@ Moto is fiery and quick to anger, and the anger goes as quickly as it comes. He 
 
 He hates [[Iras]] for calling himself the Phoenix King. The phoenix was Moto's, and Iras took the title without asking. [[Genasi]] is trying to bring Moto into a plan to kill Iras, and Moto has not said no.
 
-> *Moto's phoenixes roost in the rafters of his hall. I was reading him the list of gods in this chapter, so that he could check the spelling of his own name, and I read out the next entry without thinking. It was Iras, the Phoenix King. The rafters were alight before I had finished the line, and Moto spent the next hour putting them out himself and apologising to the birds.*
+> *Moto's phoenixes roost in the rafters of his hall. I was reading him the list of gods in this chapter, so that he could check the spelling of his own name. I read out the next entry without thinking. It was Iras, the Phoenix King. The rafters were alight before I had finished the line, and Moto spent the next hour putting them out himself and apologising to the birds.*
 
 ## Ascension
 

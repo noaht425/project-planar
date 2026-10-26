@@ -15,7 +15,7 @@ Home Realm: [[Arenis]]
 
 In [[Low Fae]] there is no word for thanks, and the nearest phrase means "I owe you". Bryla trades in what that produces.
 
-> *I thanked her. In [[Low Fae]] there is no way to do that, and what I actually said was that I owed her, and she had it in the ledger before I had finished saying it. The debt is small. She was good enough to tell me what it was for, which is more than she does for most people, and what it is for is the thanks.*
+> *I thanked her. In [[Low Fae]] there is no way to do that. What I actually said was that I owed her. She had it in the ledger before I had finished saying it. The debt is small. She was good enough to tell me what it was for, which is more than she does for most people, and what it is for is the thanks.*
 
 Wares:
 - Small Debt: owed by a minor fae, redeemable for a favour about the size of a 1st-level spell or a night's shelter

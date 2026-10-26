@@ -8,7 +8,7 @@ Language of the [[Beings of the Eternal Void]]. It has no relatives. A few of it
 
 Theis is the mortal spelling of Teʾiš. The Void holds that the word is older than the pairing, as the names of the Kings are, and that it means the first voice. No one outside the Void has spoken it in living memory. Written Theis survives in records that left the Void by routes no one has accounted for.
 
-> *Every root in Theis has a day form and a night form, and said together they make a third thing that is larger than both. Then there are the still words, which have no night form at all and cannot be halved. That is why the Void swears its oaths in them. An oath in an ordinary word that can be broken by saying half of it, and I would like that fact to sit with you as long as it has sat with me.*
+> *Every root in Theis has a day form and a night form, and said together they make a third thing that is larger than both. Then there are the still words, which have no night form at all and cannot be halved. That is why the Void swears its oaths in them. An oath in an ordinary word that can be broken by saying half of it. I would like that fact to sit with you as long as it has sat with me.*
 
 ## Word: ʾAz
 Meaning: Stand, be as it is

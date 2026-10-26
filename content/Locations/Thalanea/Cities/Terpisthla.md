@@ -13,7 +13,7 @@ Its harbour is where Thalanea meets the rest of the world, and the city is more 
 
 Nearly everything Thalanea sells abroad leaves from here, and nearly everything it buys arrives. Cloth, worked stone out of [[Darasil]], and a steady trade in contracts, since a Sylvan agreement drawn up properly is wanted by merchants in several kingdoms who cannot read a word of it.
 
-> *A harbour clerk in Terpisthla stamped my papers, looked at the fae merchant behind me in the queue, and stamped his as well, which I was told afterwards was a very liberal thing to have done.*
+> *A harbour clerk in Terpisthla stamped my papers, looked at the fae merchant behind me in the queue, and stamped his as well. I was told afterwards that this was a very liberal thing to have done.*
 
 ## The Open Secret
 

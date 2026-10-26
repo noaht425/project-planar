@@ -52,7 +52,7 @@ Tráthu (TRAH-huh), Gealna (GAL-na), Oíghra (EEGH-ra), Moichne (MOKH-neh), Deir
 
 Each exists to keep one mechanism running and each has a scheduled shift that has never been missed. The people in them are not unhappy. They are extremely punctual.
 
-> *My appointment at Tráthlain had been made before I reached the domain, by someone I never identified, and a card with the time on it was waiting for me at the border. I kept it. The tea was already poured when I came in, and the clerk apologised that it had been poured a moment early.*
+> *My appointment at Tráthlain had been made before I reached the domain, by someone I never identified. A card with the time on it was waiting for me at the border. I kept it. The tea was already poured when I came in, and the clerk apologised that it had been poured a moment early.*
 
 ## Chronos
 

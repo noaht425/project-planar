@@ -14,7 +14,7 @@ Race: [[Beastfolk]]
 
 Home Realm [[Arenis]]
 
-> *He will not sell an animal to anybody who cannot tell him what it eats. I watched him turn down three sales in an afternoon on that question alone, to people with the money already out, and the third of them came back an hour later with the right answer and left with the animal.*
+> *He will not sell an animal to anybody who cannot tell him what it eats. I watched him turn down three sales in an afternoon on that question alone, to people with the money already out. The third of them came back an hour later with the right answer, and left with the animal.*
 
 ## Associated [[Quests]]: ##
 - Kraken Snatcher

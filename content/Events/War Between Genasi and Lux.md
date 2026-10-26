@@ -42,7 +42,7 @@ Genasi lost his descendants, his throne stayed out of his family, and the kingdo
 
 The ninth king's death in 546 AM, with no rule left for choosing a tenth, began [[The Great Unrest]].
 
-> *There is a field outside Geno that nothing has grown in since, and the city has built around it rather than over it. A man grazing goats at the edge of it told me that his family has had the grazing there for six generations and that the arrangement is that they do not let the animals onto the bare part. I asked what happens if they do. He said that nobody has.*
+> *There is a field outside Geno that nothing has grown in since, and the city has built around it rather than over it. A man grazing goats at the edge of it told me his family has had the grazing there for six generations. The arrangement is that they do not let the animals onto the bare part. I asked what happens if they do. He said that nobody has.*
 
 ## Design Notes
 

@@ -11,7 +11,7 @@ Hesit meant to feel what another feels. [[The Division]] left [[Abaddon]] with t
 
 Hesit's place became the heaven of [[Kindness]] and the hell of [[Cruelty]], and the wall between them is thin.
 
-> *A soul in Kindness told me that on quiet days you can hear the other side of the wall, and that the blessed there keep their own voices down out of consideration for it.*
+> *A soul in Kindness told me that on quiet days you can hear the other side of the wall. The blessed there keep their own voices down out of consideration for it.*
 
 ## Design Notes
 

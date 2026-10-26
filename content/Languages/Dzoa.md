@@ -9,7 +9,7 @@ summary: ''
 
 Language of the [[Beastfolk]], spoken across the [[Kingdom of Sylfaen]]. Not related to any other known language. The official Dzoa name for the empire is Ḥadzoa, "the place of Dzoa". Iudimian has lent it many words in everyday speech, which the Sylfaen government does not accept as proper Dzoa.
 
-> *Eight noun classes, and each one does something different to the word that follows it. Fine. Then I learned that every borrowed word is filed into class two, the outsider class, so a foreign word triggers the harshest change in the language and everyone within earshot hears exactly where it came from. You cannot smuggle anything into Dzoa. It announces you.*
+> *Eight noun classes, and each one does something different to the word that follows it. Fine. Then I learned that every borrowed word is filed into class two, the outsider class. A foreign word triggers the harshest change in the language. Everyone within earshot hears exactly where it came from. You cannot smuggle anything into Dzoa. It announces you.*
 
 ## Word: Moʿaṭi
 Meaning: Person (beastfolk)

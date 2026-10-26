@@ -20,7 +20,7 @@ One branch per dragon, including the dead ones. The branches of [[Zaros]] and [[
 
 Written accounts name several different people as the head of the society at the same time, which is explained by the branches rather than by any of the accounts being wrong.
 
-> *The Zaros branch still meets. I sat at the back of one of their evenings in Regno, where the subscriptions were collected, the minutes of the last meeting were read out, and a man gave a report on progress that contained no progress. Nobody there spoke about the dragon as dead, and the word they use for him is away.*
+> *The Zaros branch still meets. I sat at the back of one of their evenings in Regno. The subscriptions were collected. The minutes of the last meeting were read out. A man gave a report on progress that contained no progress. Nobody there spoke about the dragon as dead, and the word they use for him is away.*
 
 ## Design Notes
 

@@ -25,7 +25,7 @@ What he does instead is find someone who already holds power and make himself ne
 
 Tyranny in his domain is administered by the damned on each other. Archon appoints one of them to oversee the rest and gives that one everything it asks for, then replaces it when it becomes comfortable.
 
-> *The gauntlets are the thing nobody mentions. He has not touched anything with his own hands since the Division. Every cup he has lifted, he has lifted with those on, and I watched him pick up a document and tear it without meaning to, and then apologise to me, and then do it again with the next one.*
+> *The gauntlets are the thing nobody mentions. He has not touched anything with his own hands since the Division. Every cup he has lifted, he has lifted with those on. I watched him pick up a document and tear it without meaning to. Then he apologised to me, and then did it again with the next one.*
 
 ## Goals
 

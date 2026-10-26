@@ -19,7 +19,7 @@ Sylvana Lorien (sil-VAH-nuh LOR-ee-en) looks like an elf, because the elves were
 
 Sylvana is very sure of herself, and she is sure in a different way from [[Genasi]] or [[Numen]]. Their pride is in themselves. Hers is in the elves. She thinks very highly of her people and will not hear a word against them from anyone.
 
-> *I mentioned to Sylvana Lorien, in passing, that the elves of Thalanea are not always easy company. She corrected me at length, with examples, and then asked for the name of the elf I had found difficult, so that she could find out what I had done to him.*
+> *I mentioned to Sylvana Lorien, in passing, that the elves of Thalanea are not always easy company. She corrected me at length, with examples. Then she asked for the name of the elf I had found difficult, so that she could find out what I had done to him.*
 
 ## The Elves and Ius Primum
 

@@ -29,7 +29,7 @@ Everyone he kills with the [[Hell's Fire Staff]] goes to his father in [[Pride]]
 
 His mother [[Pyrrha]] has never visited him.
 
-> *The statue at the main gate of Geno that is meant to be Iras was a statue of Genasi until Gaius Flaminius had it altered, and he did not have much altered. The face is new. The hands are still Genasi's, and somebody keeps them polished. When I mentioned the statue to Iras, he said he had never been back to see it.*
+> *The statue at the main gate of Geno that is meant to be Iras was a statue of Genasi until Gaius Flaminius had it altered. He did not have much altered. The face is new. The hands are still Genasi's, and somebody keeps them polished. When I mentioned the statue to Iras, he said he had never been back to see it.*
 
 ## Ascension
 

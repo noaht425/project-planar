@@ -21,7 +21,7 @@ Chronos keeps agreements to the letter and has never been recorded breaking one.
 
 Chronos is the archfey mortals find least frightening in the room and should find most frightening afterwards.
 
-> *Every clock in that domain is correct and none of them agree. I spent a week trying to work out the error and there is no error. I was looking for a single time that they were all failing to show, and the domain does not have one, and the staff could not understand what I thought was missing.*
+> *Every clock in that domain is correct and none of them agree. I spent a week trying to work out the error and there is no error. I was looking for a single time that they were all failing to show. The domain does not have one. The staff could not understand what I thought was missing.*
 
 ## Goals
 

@@ -38,7 +38,7 @@ Souls who were kind when it cost them nothing are given companions only slightly
 
 Kindness and [[Cruelty]] were one place under [[Hesit]], and where they touch the wall between them is thin. [[Desire]] is the hell nearest Kindness in spirit.
 
-> *I was the only person in Kindness who needed anything, and word got round. By evening my boots had been mended twice, by two people who had each missed the other, and a man I had never met had carried my letters to the border and come back to ask whether there were more.*
+> *I was the only person in Kindness who needed anything, and word got round. By evening my boots had been mended twice, by two people who had each missed the other. A man I had never met had carried my letters to the border and come back to ask whether there were more.*
 
 ## Design Notes
 

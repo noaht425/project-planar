@@ -6,7 +6,7 @@ summary: 'Weapon (rapier), artifact (requires attunement)'
 
 Belongs to [[Chore]].
 
-> *A harbourmaster in Kumas has heard it twice, both times before she could see the ship. She told me the singing carries further than the shrieking does, which she takes to be deliberate, and that the second time she had the harbour cleared before the mast came over the horizon.*
+> *A harbourmaster in Kumas has heard it twice, both times before she could see the ship. She told me the singing carries further than the shrieking does, which she takes to be deliberate. The second time, she had the harbour cleared before the mast came over the horizon.*
 
 When you land a critical hit with this weapon, the target becomes charmed or frightened of you until the end of your next turn, they are then immune to this effect for the next minute.
 

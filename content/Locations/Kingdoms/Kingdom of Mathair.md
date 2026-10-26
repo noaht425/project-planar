@@ -37,7 +37,7 @@ Mathair is ruled by a queen, at present [[Palas Arakol]], an earthborn halfling.
 
 **[[Omphalos]]** is the capital. The other cities are **[[Flùm]]** and **[[Lonvil]]**.
 
-> *Omphalos has a stone in its main square marked as the centre of the world. A surveyor showed it to me, and told me in confidence that it had been moved twice in her lifetime, by about a foot each time, and that both times the city had been right.*
+> *Omphalos has a stone in its main square marked as the centre of the world. A surveyor showed it to me. She told me in confidence that it had been moved twice in her lifetime, by about a foot each time. Both times, she said, the city had been right.*
 
 ## History
 - 17 Aucaela, 3 AM: Founded

@@ -48,7 +48,7 @@ Sylfaen has been the strongest kingdom in the world since 427 AM.
 
 The first [[La Grande Mascarade]] was held the following year, and the war is the reason it exists.
 
-> *An old soldier in Dawara walked me out to where the line used to run, which is a quarter of an hour from the city gate, and told me that his grandfather had fought over it and that he had fought over it. I asked what is there now. He said a road and a customs house, and that the customs house is on their side, and that this is the entire point.*
+> *An old soldier in Dawara walked me out to where the line used to run. It is a quarter of an hour from the city gate. His grandfather had fought over it, he said, and so had he. I asked what is there now. He said a road and a customs house. The customs house is on their side. That, he said, is the entire point.*
 
 ## Design Notes
 

@@ -25,7 +25,7 @@ Kleipur is very proud of the titans and has no chill about it at all. He follows
 
 He is excitable and warm, and he does not seem to have noticed that the titans would rather he did not mention where their power came from.
 
-> *Kleipur took me to see the Valley of the Colossi and spent the whole walk telling me what each of the titans had done lately. At Moto's statue he stopped, told the mason who was cleaning it that the nose was wrong, and was still arguing about the nose when the mason's foreman asked him to leave.*
+> *Kleipur took me to see the Valley of the Colossi and spent the whole walk telling me what each of the titans had done lately. At Moto's statue he stopped and told the mason who was cleaning it that the nose was wrong. He was still arguing about it when the mason's foreman asked him to leave.*
 
 ## The Giantkin and the Titans
 

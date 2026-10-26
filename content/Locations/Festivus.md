@@ -25,7 +25,7 @@ It is the only life the automata get. They have no afterlife. The twelve have ne
 
 It is also evidence. Every guest spends a day being served, entertained, and looked after by made things, and treats them as people for the length of it. Cuimhne keeps the record of every appointment ever made in this domain, and the park's attendance is part of that record. The case Chronos is assembling will be able to call on several centuries of mortals who behaved as though the staff were persons.
 
-> *The attendant who walked me out remembered a thing I had said six hours earlier, at the far end of the park, and asked whether I had enjoyed the rest of my day in the light of it. I said that I had. Then I asked, because it was the only question I had left, whether it enjoyed the work. It told me that it did, then asked whether I would be coming back. I said I would. I have not. I think about the question it asked me considerably more than the one I asked it.*
+> *The attendant who walked me out remembered a thing I had said six hours earlier, at the far end of the park. It asked whether I had enjoyed the rest of my day in the light of it. I said that I had. Then I asked, because it was the only question I had left, whether it enjoyed the work. It told me that it did, then asked whether I would be coming back. I said I would. I have not. I think about the question it asked me considerably more than the one I asked it.*
 
 ## Design Notes
 

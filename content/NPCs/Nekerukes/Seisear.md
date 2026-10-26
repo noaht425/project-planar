@@ -21,7 +21,7 @@ He does not explain. He has never given a reason for a placement and has never b
 
 He is, by every account I have collected, friendly. Souls arriving at the end of the worst part of the process describe a dog that was pleased to see them.
 
-> *Six heads and one of them had my name before I said it. I was not dead and I want that recorded, because the welcome was the same welcome. Whichever head it was went through the business of being glad I had come, and then the whole animal lost interest in me completely, because I was not sorted and there was nothing for it to do.*
+> *Six heads and one of them had my name before I said it. I was not dead and I want that recorded, because the welcome was the same welcome. Whichever head it was went through the business of being glad I had come. Then the whole animal lost interest in me completely. I was not sorted, and there was nothing for it to do.*
 
 ## Goals
 

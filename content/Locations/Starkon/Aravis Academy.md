@@ -112,7 +112,7 @@ Half the houses in Hekatania let rooms to students and every landlady has her ow
 
 The colleges keep their own halls, their own kitchens, and their own grudges. Osterloh and Reichert are the two that matter in city politics. Hensel and Lindner share a building and do not speak. The Conservatory holds a concert at the end of each term that the whole city attends, and that the wizard colleges claim not to.
 
-> *I sat in on the first-year hall, which holds nine hundred and was full. The lecturer set a candle alight at the front and asked them to put it out, any way they could, and then stood back. About forty of them tried. Most of what happened did not touch the candle. A girl in the back row put it out by taking the air out of the room, and we all sat there in the dark getting our breath back while the lecturer wrote her name down.*
+> *I sat in on the first-year hall, which holds nine hundred and was full. The lecturer set a candle alight at the front and asked them to put it out, any way they could, and then stood back. About forty of them tried. Most of what happened did not touch the candle. A girl in the back row put it out by taking the air out of the room. We all sat there in the dark getting our breath back while the lecturer wrote her name down.*
 
 ## Design Notes
 

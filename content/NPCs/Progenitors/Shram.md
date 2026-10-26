@@ -22,7 +22,7 @@ Shram keeps to himself and would mostly like to be left alone. He is kindly when
 
 He enjoys games of strategy. Anyone who finds him and beats him at one is rewarded, and he does not say in advance with what.
 
-> *It took me most of a season to find Shram. He was playing a board game against himself, and he offered me the other side. I lost quickly. He set the pieces up again, showed me where I had gone wrong, and then asked very politely whether I would mind leaving him to finish the game he had been playing before I arrived.*
+> *It took me most of a season to find Shram. He was playing a board game against himself, and he offered me the other side. I lost quickly. He set the pieces up again and showed me where I had gone wrong. Then he asked very politely whether I would mind leaving him to finish the game he had been playing before I arrived.*
 
 ## Relationships
 

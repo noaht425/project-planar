@@ -44,7 +44,7 @@ At the Mascarade in Omphalos in 702 AM, [[Theophilius Fanatis]], one of the two 
 
 Sylfaen ordered every citizen of Krotaphos arrested or killed. The masks meant that most of the room could not say afterwards who had been standing where.
 
-> *The rule about titles is enforced by the guests and not by the host. I used one, once, out of habit, to a woman whose mask was a bird. The three people nearest us stopped talking at the same moment and waited to see what she would do about it, and she said, pleasantly, that she had no idea who I meant. I have been careful since, and I have never found out whether I was right.*
+> *The rule about titles is enforced by the guests and not by the host. I used one, once, out of habit, to a woman whose mask was a bird. The three people nearest us stopped talking at the same moment, and waited to see what she would do about it. She said, pleasantly, that she had no idea who I meant. I have been careful since, and I have never found out whether I was right.*
 
 ## Design Notes
 

@@ -41,7 +41,7 @@ Everything in the seam is built to be left. Camps are timber and canvas on bare 
 | Sixty Days | Named for how long its ground has held. Cuts obsidian |
 | Tollgate | Sits on the one route a cart can take into Earth |
 
-> *The founder I followed would not step on anything she had not watched for a full day, and she had watched most of that seam. She told me which stretches were mine to walk on. I walked on those. On the third day I put a foot somewhere she had not named and went through to the ankle, and she had the boot off me before I had finished shouting.*
+> *The founder I followed would not step on anything she had not watched for a full day, and she had watched most of that seam. She told me which stretches were mine to walk on. I walked on those. On the third day I put a foot somewhere she had not named and went through to the ankle. She had the boot off me before I had finished shouting.*
 
 ## Design Notes
 

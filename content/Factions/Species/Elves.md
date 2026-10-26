@@ -16,7 +16,7 @@ The elves speak [[Sylvan]].
 
 Drow, high, wood, astral, sea and shadar-kai elves are all elves.
 
-> *An elf in Darasil would not take my coin until she had turned it over twice, to be sure it was not one of the old Thalamas pieces with a fae on the back.*
+> *An elf in Darasil would not take my coin until she had turned it over twice. She wanted to be sure it was not one of the old Thalamas pieces, with a fae on the back.*
 
 ## Design Notes
 

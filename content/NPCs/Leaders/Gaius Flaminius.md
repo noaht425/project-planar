@@ -35,7 +35,7 @@ Some of that is true. The weight of it is not, and the record will support a fai
 
 He died on 32 Morcaela, 546 AM with no successor chosen. [[The Great Unrest]] began four days later and ran for a hundred and eleven years.
 
-> *I set out to confirm one of the stories about him, which is that he had the petition desk moved to a lower room so that petitioners would not have to climb. It is not true. What is true is that the story has been told against him, as evidence that he was performing humility for the hells, and told for him, as evidence that he was decent, by people quoting the same clerk's journal. The journal says he moved it because the upper room was cold.*
+> *I set out to confirm one of the stories about him. He had the petition desk moved to a lower room, the story goes, so that petitioners would not have to climb. It is not true. What is true is that the story has been told both ways, by people quoting the same clerk's journal. Against him, as evidence that he was performing humility for the hells. For him, as evidence that he was decent. The journal says he moved it because the upper room was cold.*
 
 ## Design Notes
 

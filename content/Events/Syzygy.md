@@ -29,4 +29,4 @@ The Syzygy set off the chain of events that ended in [[The Planar Collision]].
 
 Day knows that something wearing his face finished the persuasion of Night, and he cannot forgive Night for believing it. Night knows he was worked on and does not know by whom. Neither King knows the other is looking for Indri.
 
-> *Eos told me she was in the room. She would not say anything else about it, and when I pressed her she asked whether I had ever watched two people I loved find out what the other was capable of.*
+> *Eos told me she was in the room. She would not say anything else about it. When I pressed her she asked whether I had ever watched two people I loved find out what the other was capable of.*

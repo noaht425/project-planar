@@ -34,7 +34,7 @@ A soul that was never greedy loses nothing to the measure. It is given enough, a
 
 Temperance and [[Indulgence]] were one place under [[Baator]]. A door joins them and both sides keep it shut. [[Tyranny]] is the hell nearest Temperance in spirit.
 
-> *I was given a meal in Temperance that was exactly the right size, which had never once happened to me, and I have been quietly annoyed about every meal I have eaten since.*
+> *I was given a meal in Temperance that was exactly the right size. That had never once happened to me. I have been quietly annoyed about every meal I have eaten since.*
 
 ## Design Notes
 

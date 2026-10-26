@@ -26,7 +26,7 @@ Neema is kind in a way that is difficult to be in the room with, because the kin
 
 Of the six, Neema is the one who will actually help a mortal, and the one who asks for least in return.
 
-> *It was my own face and I did not recognise it for most of an hour. Slightly older. The posture was better. It listened to me describe my work for a long time without interrupting, which I do not do, and when I ran out of things to say it asked me a question about the second year of the project, which is the year I have been avoiding.*
+> *It was my own face and I did not recognise it for most of an hour. Slightly older. The posture was better. It listened to me describe my work for a long time without interrupting, which I do not do. When I ran out of things to say, it asked me a question about the second year of the project. That is the year I have been avoiding.*
 
 ## Goals
 

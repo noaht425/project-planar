@@ -6,7 +6,7 @@ summary: 'Wondrous item, artifact (requires attunement)'
 
 Belongs to [[Ignatius]]. A fairly simple leather bound tome (crimson with gold stitching along the edges) with a slight sheen if you look at it from the right angle.
 
-> *He keeps it on him. He did show me the desk in his own rooms where it sits while he works, which is scorched in a clean rectangle around the place the book goes, since everything near him takes some of that and the book takes none. He has had it since he was a student. It is the only thing he still has from then.*
+> *He keeps it on him. He did show me the desk in his own rooms where it sits while he works. It is scorched in a clean rectangle around the place the book goes. Everything near him takes some of that. The book takes none. He has had it since he was a student. It is the only thing he still has from then.*
 
 Requires attunement by a Wizard. Acts as a normal spell book would.
 

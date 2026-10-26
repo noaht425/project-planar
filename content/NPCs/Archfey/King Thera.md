@@ -26,7 +26,7 @@ He is patient with this. He has been hearing variations of the same four complai
 
 He is courteous to mortals and genuinely curious about them. Of the seven archfey he is the one most likely to grant an audience and least likely to want anything in exchange. The other six consider that a weakness, and they are not wrong.
 
-> *He asked me what month it was where I came from. I told him, and he asked what that was like, and I found I could not answer. I have lived through that month every year of my life and I could not describe it. He waited, and the leaves on his left side went from green to red to bare and back while he did it, and then he said that this was the difficulty exactly.*
+> *He asked me what month it was where I came from. I told him, and he asked what that was like, and I found I could not answer. I have lived through that month every year of my life and I could not describe it. He waited. The leaves on his left side went from green to red to bare and back while he did it. Then he said that this was the difficulty exactly.*
 
 ## Family
 

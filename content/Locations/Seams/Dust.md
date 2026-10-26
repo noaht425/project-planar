@@ -39,7 +39,7 @@ Navigation is by cairn and by count. The cairns are rebuilt constantly. A route 
 | Cairn Nine | A waystation, and the last camp before the open seam |
 | Lomaxis Road | Handles freight bound for Earth. Named for the road and not the town |
 
-> *I lost most of a week of notes in the dust seam. The damp was not the problem this time. The paper simply went. By the end of it my pen had worn through its own nib and I was taking notes with a stick of charcoal, like a man drawing on a wall, and I had been very proud of that pen.*
+> *I lost most of a week of notes in the dust seam. The damp was not the problem this time. The paper simply went. By the end of it my pen had worn through its own nib. I was taking notes with a stick of charcoal, like a man drawing on a wall. I had been very proud of that pen.*
 
 ## Design Notes
 

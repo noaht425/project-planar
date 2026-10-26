@@ -16,7 +16,7 @@ She is not publicly affiliated with any religion. Worship of the [[Dragons]] run
 
 Under her, Geno declared neutrality in the current trouble between [[Kingdom of Krotaphos|Krotaphos]] and [[Kingdom of Sylfaen|Sylfaen]] considerably faster than it did in the first war, where neutrality came 26 years into a 30 year conflict.
 
-> *She took Geno to neutrality inside a month, where the first war took the kingdom twenty six years to manage the same thing, and she has been asked about the comparison more than once. She told me she had read the whole of the Unrest before she was crowned, and that she did not intend to leave anybody a hundred and eleven years of anything.*
+> *She took Geno to neutrality inside a month. The first war took the kingdom twenty six years to manage the same thing. She has been asked about the comparison more than once. She told me she had read the whole of the Unrest before she was crowned, and that she did not intend to leave anybody a hundred and eleven years of anything.*
 
 ## Open
 

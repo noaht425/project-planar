@@ -37,7 +37,7 @@ Carrying is done by boat and by hand. Nothing with a wheel is any use in the mar
 | Grantholm | Where the hired divers are engaged, and where the confirmations are written |
 | Twelve Platforms | A moving village. Has had the name longer than it has had the count |
 
-> *The woman who dives the old holdings told me she has been down to one tunnel thirteen times for the same family, and that the family has never once asked her what is in it. They ask her to confirm that it is there. She confirms that it is there. She said that if they ever asked the other question she would have to decide whether to answer it.*
+> *The woman who dives the old holdings told me she has been down to one tunnel thirteen times for the same family. The family has never once asked her what is in it. They ask her to confirm that it is there. She confirms that it is there. She said that if they ever asked the other question she would have to decide whether to answer it.*
 
 ## Design Notes
 

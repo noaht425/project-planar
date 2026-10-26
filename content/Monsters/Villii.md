@@ -15,7 +15,7 @@ Appear as bone thin black beings with spikes instead of arms and legs.
 
 Know that Tiyanak is Indri but don't care and won't tell anyone
 
-> *A hedge healer in Kumas told me she had spent an afternoon working on a unicorn with a broken leg, and that every spell she put into it went in and did nothing, and that she came away tired in a way she has not been tired since. She did not see what it was until it stood up. She has not treated an animal she did not already know by sight since.*
+> *A hedge healer in Kumas told me she had spent an afternoon working on a unicorn with a broken leg. Every spell she put into it went in and did nothing. She came away tired in a way she has not been tired since. She did not see what it was until it stood up. She has not treated an animal she did not already know by sight since.*
 
 ## Stat block
 

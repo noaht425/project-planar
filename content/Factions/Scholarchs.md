@@ -26,7 +26,7 @@ Divination used to be far easier than it is. It That Will Be grew paranoid and m
 
 The Scholarchs hate [[Isadora]], who spends her time tipping things over to see which way they fall. Luck is noise in what they are trying to read. Every time she interferes with something, what [[It That Will Be]] can see of the future gets worse, and the balance they are keeping gets harder to keep.
 
-> *The only time I saw a Scholarch lose its composure was when I mentioned Isadora. It That Is stopped what it was doing and asked me when I had last seen her and where, and then asked me again, as though the first answer might have changed.*
+> *The only time I saw a Scholarch lose its composure was when I mentioned Isadora. It That Is stopped what it was doing and asked me when I had last seen her, and where. Then it asked me again, as though the first answer might have changed.*
 
 ## Design Notes
 

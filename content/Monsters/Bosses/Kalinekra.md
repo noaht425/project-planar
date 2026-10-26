@@ -14,7 +14,7 @@ Lives in the ocean between [[Kingdom of Kumas]] and [[Kingdom of Geno]].
 
 "She is such a powerful necromancer and enchantress that your body is trying to kill itself so that it might become a solider in her army of the dead"
 
-> *The crew that carried me from Fylwa round to Geno went a long way south to do it, which cost three days, and the master would not discuss why in front of his people. Privately he told me that his grandfather had taken the short way once, that this is the whole of the reason, and that the fee was the fee.*
+> *The crew that carried me from Fylwa round to Geno went a long way south to do it. It cost three days. The master would not discuss why in front of his people. Privately he told me that his grandfather had taken the short way once, that this is the whole of the reason, and that the fee was the fee.*
 
 ## Stat Block
 

@@ -6,7 +6,7 @@ summary: ''
 
 Language of the [[Elves]], spoken in the [[Kingdom of Thalanea]]. Descended from the [[High Fae]] taught to the elves at their creation in 1 AM. Elves and fae spoke it together in [[Kingdom of Thalamas|Thalamas]] until the civil war of 105 AM, after which the elves purged much of its everyday vocabulary.
 
-> *After the war the elves threw out the everyday words that made them sound like Kumas and kept every word touching names, oaths, debts, and bargains, because their old agreements are worded in them. The result is a language in which I can negotiate a binding contract and cannot reliably ask for bread.*
+> *After the war the elves threw out the everyday words, the ones that made them sound like Kumas. They kept every word touching names, oaths, debts, and bargains, because their old agreements are worded in them. The result is a language in which I can negotiate a binding contract and cannot reliably ask for bread.*
 
 ## Word: Felin
 Meaning: Fae, one of the fae folk

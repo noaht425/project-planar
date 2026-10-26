@@ -29,7 +29,7 @@ The present ruler is [[XLZL]], a fey automaton with a divine spark. [[Chronos]] 
 
 **[[Caragna]]** is the capital. The other cities are **[[Campara]]**, **[[Lontaci]]**, **[[Marenos]]** and **[[Toscal]]**.
 
-> *Regno's head of state is fifteen years old and was elected by a comfortable margin. I asked a baker in Caragna why she had voted for XLZL. She said that XLZL had answered every letter she had ever sent, the same day and in their own hand, and that she could not say that of anyone else who had stood.*
+> *Regno's head of state is fifteen years old and was elected by a comfortable margin. I asked a baker in Caragna why she had voted for XLZL. She said that XLZL had answered every letter she had ever sent, the same day and in their own hand. She could not say that of anyone else who had stood.*
 
 ## History
 - 17 Aucaela, 3 AM: Founded

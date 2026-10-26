@@ -62,7 +62,7 @@ Flasu (FLAH-soo), Zaru (ZAH-roo), Varith (VAH-rith), Eurasa (eh-oo-RAH-sah), Ias
 
 Four of these no longer have anyone in them and nobody has taken the names off the maps. The rest are small and poor, and in the business of getting through the next storm.
 
-> *There is a tavern in Thrasivar that holds a party every night without exception. I asked the owner what they were celebrating. He said they had got through the day, and that this was not a small thing, and then he asked whether I was going to drink or just stand there asking questions.*
+> *There is a tavern in Thrasivar that holds a party every night without exception. I asked the owner what they were celebrating. He said they had got through the day, and that this was not a small thing. Then he asked whether I was going to drink or just stand there asking questions.*
 
 ## Afthor
 

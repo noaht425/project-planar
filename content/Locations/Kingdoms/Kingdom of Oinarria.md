@@ -37,7 +37,7 @@ Gias. Most Oinarrians also speak Common, and plenty of them would rather not.
 
 **[[Goro]]** is the capital. The other cities a traveller is likely to hear of are **[[Tagra]]** and **[[Bacta]]**.
 
-> *Every public door in Goro is two doors, a giant's door with an ordinary one cut into it. On my first morning I went to use the small one, and the orc who was showing me round stopped me and opened the large one, on the grounds that a guest should not be made to feel small. It took both of us to close it again.*
+> *Every public door in Goro is two doors, a giant's door with an ordinary one cut into it. On my first morning I went to use the small one. The orc who was showing me round stopped me and opened the large one, on the grounds that a guest should not be made to feel small. It took both of us to close it again.*
 
 ## History
 

@@ -39,7 +39,7 @@ The ruler is elected for life by the oath-holders, the families and institutions
 
 The other cities are **[[Darasil]]** and **[[Terpisthla]]**.
 
-> *In Lenetha I learned enough Sylvan to draw up a binding agreement for the rent of my room, with clauses, in less time than it took me to learn how to ask for bread. I still cannot ask for bread. My landlady says that nobody can, and that most people point.*
+> *In Lenetha I learned enough Sylvan to draw up a binding agreement for the rent of my room, with clauses. It took me less time than learning how to ask for bread. I still cannot ask for bread. My landlady says that nobody can, and that most people point.*
 
 ## History
 - 72 Morcaela, 105 AM: Formed when [[Kingdom of Thalamas]] split in civil war, caused by rumors about [[Ius Primum]] and elves disappearing

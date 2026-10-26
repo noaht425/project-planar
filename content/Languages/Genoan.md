@@ -10,7 +10,7 @@ Genasi was given Ancient Draconic at his creation and did not keep it. Within a 
 
 What Genasi sorted his language by was element. Draconic has three genders. Genoan has five classes, one for each of the realms inside [[Tarkis]], and a word does not take an ending to show its class. It shows it in its vowels. Every vowel in a word of the fire class is a or e, and every vowel in a word of the water class is u or o, and so on through the five. A speaker hears the class of a word before hearing the word.
 
-> *You cannot say a word in Genoan without declaring what it is made of. The class is not an ending you can leave off, it is the vowels, and there is no spelling of the word that avoids them. Genasi sorted the whole vocabulary himself and his sorting is still the standard, so every time I say grief I am agreeing that grief is water, and every time I mention a lie I am calling it noxious. There is no neutral way to bring anything up.*
+> *You cannot say a word in Genoan without declaring what it is made of. The class is not an ending you can leave off, it is the vowels, and there is no spelling of the word that avoids them. Genasi sorted the whole vocabulary himself and his sorting is still the standard. So every time I say grief I am agreeing that grief is water. Every time I mention a lie I am calling it noxious. There is no neutral way to bring anything up.*
 
 ## Word: Ferra
 Meaning: Fire; the fire class

@@ -41,7 +41,7 @@ Small obligations are remembered. Above a certain size a debt is registered in [
 
 **[[Velanea]]** is the capital. The other cities are **[[Fylwa]]** and **[[Tithra]]**.
 
-> *I thanked a waiter in Velanea for my dinner, in the best Low Fae I had. He went pale and fetched the owner, and the two of them spent some time working out what I now owed and how I could most quickly be rid of it. We settled on my helping with the washing up.*
+> *I thanked a waiter in Velanea for my dinner, in the best Low Fae I had. He went pale and fetched the owner. The two of them spent some time working out what I now owed, and how I could most quickly be rid of it. We settled on my helping with the washing up.*
 
 ## History
 - 72 Morcaela, 105 AM: Formed when [[Kingdom of Thalamas]] split in civil war. Some fae left for other kingdoms.

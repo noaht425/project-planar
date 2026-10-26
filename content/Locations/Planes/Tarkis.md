@@ -76,7 +76,7 @@ Each lord rules from a seat shaped like a hoard, suited to the realm and to what
 
 The second dragons keep to their own realms loosely and travel far more than the lords do, both between the elemental realms and out into the other planes.
 
-> *Nobody checked my papers anywhere in Tarkis. On my way out, at the edge of the steam seam, a woman with a slate stopped me and read me a list of everything I had done in the realm that was large enough to be noticed, and then let me go. It was a short list, and she seemed disappointed in it.*
+> *Nobody checked my papers anywhere in Tarkis. On my way out, at the edge of the steam seam, a woman with a slate stopped me. She read me a list of everything I had done in the realm that was large enough to be noticed, and then let me go. It was a short list, and she seemed disappointed in it.*
 
 ## The Storm
 

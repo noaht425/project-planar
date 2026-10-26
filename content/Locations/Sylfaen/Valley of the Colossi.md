@@ -31,7 +31,7 @@ It is a working pass and the traffic through it is ordinary. Carts, herds, pilgr
 
 Maintenance is shared and is the one standing joint obligation between the two crowns. Stone falls. Somebody has to go up.
 
-> *The masons who keep the valley are Oinarrian and Sylfaen both, in one crew, as they have been for as long as the crew has existed. The foreman told me that the crown offices write to them separately, that the letters disagree about a great many things, and that the crew has found it simplest not to pass the letters on to each other.*
+> *The masons who keep the valley are Oinarrian and Sylfaen both, in one crew, as they have been for as long as the crew has existed. The foreman told me that the crown offices write to them separately. The letters disagree about a great many things. The crew has found it simplest not to pass them on to each other.*
 
 ## Design Notes
 

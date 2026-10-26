@@ -50,7 +50,7 @@ A good deal of what crosses here is not recorded on either side, which is unders
 
 [[Vetur]]'s interest is the other direction. Salvage that comes up through the crust was on the trench floor once. Anything lifted out of Water without permission is contraband that cannot be sold there. It can be sold here. Neither dragon has claimed the seam. See [[Tarkis]].
 
-> *Nothing I wrote in the seam survived the seam. The ink ran while I was still forming the letters, and by the second day I was dictating to a woman who keeps the record there in knots on a cord. She has my whole account of the place and I have none of it. She will read it back for a fee.*
+> *Nothing I wrote in the seam survived the seam. The ink ran while I was still forming the letters. By the second day I was dictating to a woman who keeps the record there in knots on a cord. She has my whole account of the place and I have none of it. She will read it back for a fee.*
 
 ## Design Notes
 

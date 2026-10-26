@@ -12,7 +12,7 @@ Their kingdom is [[Kingdom of Geno|Geno]]. Genasi founded it in 2 AM and ruled a
 
 The elementals speak [[Genoan]]. Genasi built it himself. Every word declares what it is made of through its vowels, and he sorted the whole vocabulary personally. His sorting is still the standard.
 
-> *A smoke genasi in Geno told me that her name could not go into Genoan without the vowels of either fire or air, and that her parents argued about it for a year. In the end they gave her a name from outside the language, so that it takes So in front of it, like a foreigner's.*
+> *A smoke genasi in Geno told me that her name could not go into Genoan without the vowels of either fire or air. Her parents argued about it for a year. In the end they gave her a name from outside the language, so that it takes So in front of it, like a foreigner's.*
 
 ## Design Notes
 

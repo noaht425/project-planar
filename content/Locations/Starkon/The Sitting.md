@@ -59,7 +59,7 @@ Resitting is allowed and is common. Nothing is held against a candidate who has 
 
 The one standing rumour about the Sitting is that one of the six stations is not scored and the Academy will not say which. All six are scored.
 
-> *I sat the Sitting, under a number, to find out what was in it. I will not be publishing my result. What I will say is that I went into it certain the Question was the trick, and that I spent the whole day building an answer to a question I could not have answered, and that when I finally said I did not know it, the examiner wrote something down and looked pleased, and I have not stopped thinking about the benches.*
+> *I sat the Sitting, under a number, to find out what was in it. I will not be publishing my result. What I will say is this. I went into it certain the Question was the trick. I spent the whole day building an answer to a question I could not have answered. When I finally said I did not know it, the examiner wrote something down and looked pleased. I have not stopped thinking about the benches.*
 
 ## Running It At The Table
 
