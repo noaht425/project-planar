@@ -13,23 +13,23 @@ Locally it is **Vethruquari** (veth-roo-KWAH-ree), the ice box, which is what Wa
 
 ## The Lid
 
-Water's cold current runs up into this seam and Air's weather comes down into it, and where they meet the sea has frozen from the top down. The result is a sheet with sea under it and sky over it, thick enough in most places to build on and thin enough in others to lose a cart through.
+Water's cold current runs up into this seam and Air's weather comes down into it. Where they meet, the sea has frozen from the top down. The result is a sheet with sea under it and sky over it. In most places it is thick enough to build on. In others it is thin enough to lose a cart through.
 
 Under the sheet the water is lit blue by whatever light comes through and is colder than the Vethruiasi inside Water proper. Above it the wind never drops.
 
-The seam is getting bigger. The storm that settled over Air after [[Zaros]] died pushes more cold down than the old weather did, and the sheet has advanced on the Water side within living memory. Vethrakis in Water tracks the edge and will not say why.
+The seam is getting bigger. The storm that settled over Air after [[Zaros]] died pushes more cold down than the old weather did. So the sheet has advanced on the Water side within living memory. Vethrakis in Water tracks the edge and will not say why.
 
 ## Cutting
 
-Ice is the trade. Water's realm already cuts and ships it out of Vethrakis, and the seam is where the oldest and hardest of it is, which is what buyers in Fire and Noxia pay for.
+Ice is the trade. Water's realm already cuts and ships it out of Vethrakis. The seam holds the oldest and hardest of it, and that is what buyers in Fire and Noxia pay for.
 
-A cutting crew works from the top, scores a block out, and floats it clear underneath. The work is done by people who breathe water and people who breathe air together, since the block has to be handled on both sides of the sheet at once, and the pairs that do it well stay together for years.
+A cutting crew works from the top, scores a block out, and floats it clear underneath. The work is done by people who breathe water and people who breathe air together. A block has to be handled on both sides of the sheet at once. Pairs that do it well usually stay together for years.
 
-A crew that holes the sheet badly loses the block, the hole freezes over at a different thickness, and the map is wrong from then on.
+A crew that holes the sheet badly loses the block. The hole freezes over at a different thickness, and the map is wrong from then on.
 
 ## Above and Below
 
-Air's traffic crosses the top. The sheet is the only flat ground anywhere near Air and the storm does not reach down here with its full weight, so what is left of Air's long haulage comes through, which keeps the seam's camps fed.
+Air's traffic crosses the top. The sheet is the only flat ground anywhere near Air, and the storm does not reach down here with its full weight. So what is left of Air's long haulage comes through. That keeps the seam's camps fed.
 
 Water's traffic runs beneath, and the two sides trade through cut shafts kept open by constant work.
 

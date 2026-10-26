@@ -11,9 +11,9 @@ One of the seven domains of [[Iris]], held by [[Chronos]]. For how names and bar
 
 ## The Domain
 
-Time is machinery. The ground, the weather and a fair amount of the wildlife run on mechanisms, and all of it runs exactly as it was built to run and exactly when it is meant to.
+Time is machinery. The ground, the weather, and a fair amount of the wildlife run on mechanisms. All of it runs exactly as it was built to run, and exactly when it is meant to.
 
-Nothing here is broken and nothing is late. The unsettling part is the precision. A visitor who spends a week in the domain starts listening for the one thing that will be off schedule, and the one thing never comes.
+Nothing here is broken and nothing is late. But the precision is the unsettling part. A visitor who spends a week in the domain starts listening for the one thing that will be off schedule. It never comes.
 
 Appointments here are binding in the way a bargain is binding elsewhere. Being late to one is an offence with consequences, and the consequences are also on schedule.
 
@@ -21,11 +21,11 @@ Appointments here are binding in the way a bargain is binding elsewhere. Being l
 
 [[Pratta]] is the seat of the domain and the home of Chronos.
 
-Inside it stands [[Festivus]], a theme park that Chronos built and still operates, staffed entirely by automata. It runs perfectly. Everyone who visits comes away slightly unsettled and unable to point at the reason.
+Inside it stands [[Festivus]], a theme park that Chronos built and still operates, staffed entirely by automata. It runs perfectly, as far as anyone has been able to tell. Almost everyone who visits comes away unsettled, and mostly unable to point at the reason.
 
 ## The Cities
 
-**Tráthlain** (TRAH-lan) makes the clocks. Every mechanism in the domain is cut and regulated here, and the city's authority comes from the fact that the schedule the whole realm runs on is the schedule Tráthlain keeps.
+**Tráthlain** (TRAH-lan) makes the clocks. Every mechanism in the domain is cut and regulated here. The schedule the whole realm runs on is the schedule Tráthlain keeps, and that is where the city's authority comes from.
 
 **Gealánea** (GA-lah-nya), the day seat, holds the daylight to its timetable. Dawn and dusk in this domain arrive at an appointed moment, and Gealánea is the office that appoints it.
 
@@ -56,7 +56,7 @@ Each exists to keep one mechanism running and each has a scheduled shift that ha
 
 ## Chronos
 
-[[Chronos]] is mechanical, built of clocks and dials, and tricked [[Themis]] into putting a divine spark into an automaton, which produced [[XLZL]].
+[[Chronos]] is mechanical, built of clocks and dials. He tricked [[Themis]] into putting a divine spark into an automaton, and that produced [[XLZL]].
 
 That is the shape of how Chronos operates. Nothing was stolen, nothing was broken, and an agreement was kept to the letter by a party who knew what the letter would produce.
 

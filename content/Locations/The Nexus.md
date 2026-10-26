@@ -17,21 +17,21 @@ Each kingdom's contribution was recorded at the time. The eight accounts that su
 
 ## The Island
 
-The island is a single piece of raised stone, roughly circular, with a harbour cut into its western side. It holds the [[Panarex]] at its centre and very little else: the harbour works, the houses of the people who keep the place, and a cistern system, since there is no fresh water on it.
+The island is a single piece of raised stone, roughly circular, with a harbour cut into its western side. It holds the [[Panarex]] at its centre and very little else. There are the harbour works, the houses of the people who keep the place, and a cistern system. No fresh water comes out of the ground.
 
-Nothing is grown there. Everything eaten on the Nexus arrives by ship, so the harbour is the busiest thing on the island for the fortnight before a session and quiet for years at a stretch.
+Nothing is grown there. Everything eaten on the Nexus arrives by ship. So the harbour is the busiest thing on the island for a fortnight before a session, and quiet for years at a stretch.
 
 The stone has no seams in it anywhere, and no quarry on any continent matches it.
 
 ## The Keepers
 
-The people who run the island are sworn to it rather than to any kingdom, and they hold no allegiance that a seated ruler could call in. Doorkeepers, cooks, harbour hands, and clerks all come under the same oath, and the posts pass down within families.
+The people who run the island are sworn to it rather than to any kingdom. They hold no allegiance a seated ruler could call in. Doorkeepers, cooks, harbour hands, and clerks all come under the same oath. The posts pass down within families.
 
-A good number of them are Tamans now. [[Kingdom of Tama|Tama]] holds no vote to compromise, which makes its people the easiest hires to agree on, and the kingdom with no seat keeps the hall that the other nine sit in.
+A good number of them are Tamans now. [[Kingdom of Tama|Tama]] holds no vote to compromise, so its people are the easiest hires to agree on. The kingdom with no seat keeps the hall the other nine sit in.
 
 ## Getting There
 
-A session is attended by invitation, and an invitation is a physical token with a name cut into it. The doorkeepers check the name against the roll and keep the token. Between sessions the island takes any ship that calls, and a handful do, mostly carrying stores and the occasional traveller who has talked their way onto a supply run.
+A session is attended by invitation, and an invitation is a physical token with a name cut into it. The doorkeepers check the name against the roll and keep the token. Between sessions the island takes any ship that calls. A handful do, mostly carrying stores, and the occasional traveller who has talked their way onto a supply run.
 
 Nobody is buried on the Nexus. The dead go home, because the island is nobody's soil and no kingdom will let its people lie in it.
 

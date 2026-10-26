@@ -19,9 +19,9 @@ Before the Division, the Judgements spoke [[Old Iudimian]]. Afterward, the archa
 
 ## What Happened
 
-In 3,097 AF [[The King of Night]] split each of the six Judgements into two beings, an archangel and an archdevil, and split each Judgement's place in [[Iudis]] into a heaven and a hell.
+In 3,097 AF [[The King of Night]] split each of the six Judgements into two beings, an archangel and an archdevil. Each Judgement's place in [[Iudis]] split with them, into a heaven and a hell.
 
-Night did it because he had been persuaded that the Judgements were too powerful in their combined form. [[Indri]] had worked on him for well over a thousand years, and toward the end he wore the face of [[The King of Day]] to finish it. Indri's own reason was that he hated sharing a domain with [[Sylas]].
+Night did it because he had been persuaded that the Judgements were too powerful in their combined form. [[Indri]] had worked on him for well over a thousand years. Toward the end he seems to have worn the face of [[The King of Day]] to finish it. Indri's own reason was that he hated sharing a domain with [[Sylas]].
 
 | Judgement | Known as | Archangel | Archdevil |
 | --- | --- | --- | --- |
@@ -38,7 +38,7 @@ Each half kept one half of what the Judgement had been for, and none of the twel
 
 The Judgements had spoken [[Old Iudimian]]. Afterward the archangels and archdevils reshaped it into [[Celestial]] and [[Infernal]], each so the other side could not understand it.
 
-The small pieces left over from the splitting went into the making of the mortal realm, and [[Thean]] later made the [[Omens]] from them.
+So the small pieces left over from the splitting went into the making of the mortal realm. [[Thean]] later made the [[Omens]] from them.
 
 [[The King of Day]] divorced Night over the Division the following year. See [[Syzygy]].
 

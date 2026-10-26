@@ -11,17 +11,17 @@ One of the seven domains of [[Iris]], held by [[Alsa]]. For how names and bargai
 
 ## The Domain
 
-Nothing decays in Bone. Everything that has died here is still here, and the domain has been accumulating for as long as it has existed.
+Nothing decays in Bone. Everything that has died here is still here. So the domain has been accumulating for as long as it has existed.
 
 The ground is bone. The buildings are bone. What a creature was in life stays legible in what is left of it long after the creature itself is gone. That makes the domain the best archive in the fey realms, and an unpleasant place to walk.
 
-Bone faces Hunt across the realm. One of them produces the dead and the other one keeps them, and the two domains have a working relationship that neither enjoys.
+Bone faces Hunt across the realm. One of them produces the dead and the other keeps them. The two domains have a working relationship that neither enjoys.
 
 **Craimhlúbhar** (KRAV-loo-var), the bone ground, is the plain that covers most of the domain, layered deep enough that nobody has dug to the bottom.
 
 **An Cionn (KONN) Mór** (MOHR), the great head, is a skull large enough to hold a city, left by something the domain has no record of.
 
-**Cnámhdárabhe** (KNAHV-dah-ra-veh), the bone mountain, is the oldest accumulation, and the deepest layers of it are from before there were fey to remember them.
+**Cnámhdárabhe** (KNAHV-dah-ra-veh), the bone mountain, is the oldest accumulation, and the deepest layers of it are probably from before there were fey to remember them.
 
 **Rélannlúbhar** (RAY-lann-loo-var), the star ground, is where the bone has gone white and smooth enough to reflect the sky. Nothing is built on it.
 

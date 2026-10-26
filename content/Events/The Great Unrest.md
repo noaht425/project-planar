@@ -25,7 +25,7 @@ The hundred and eleven years [[Kingdom of Geno|Geno]] spent without a ruler, fro
 
 The succession had been broken twice over before Flaminius died.
 
-Seven kings named Genasi had ruled in order, each the son of the last, and the rule was simple while it held. [[Iras]] ended it by killing [[Genasi VII]] in 405 AM and taking the throne by force. [[Lux]] then took the whole of the Genasi line's dead into [[Pride]], so there was no surviving claimant of that blood to produce. When Iras abdicated in 419 AM, Flaminius was named to replace him by Lux, which made the ninth king of Geno an appointment in an archdevil's gift.
+Seven kings named Genasi had ruled in order, each the son of the last, and the rule was simple while it held. [[Iras]] ended it by killing [[Genasi VII]] in 405 AM and taking the throne by force. [[Lux]] then took the whole of the Genasi line's dead into [[Pride]], so there was no surviving claimant of that blood to produce. When Iras abdicated in 419 AM, Lux named Flaminius to replace him. So the ninth king of Geno held his throne at an archdevil's gift.
 
 By 546 AM the kingdom had a throne, no dynasty, and no rule for filling it that anyone was obliged to accept.
 
@@ -33,13 +33,13 @@ By 546 AM the kingdom had a throne, no dynasty, and no rule for filling it that 
 
 What followed was a century of rival claims and fighting in bursts. Claims were made on descent from the elemental houses, on military command, on marriage into Flaminius's family, and on having held the capital at the right moment. Several claimants ruled in fact for a few years at a time without any of them being crowned.
 
-The fighting was never continuous. It came in bouts, usually when a claimant died or a season was good enough to campaign in, and the long quiet stretches between bouts were quiet rather than settled.
+The fighting was never continuous. It came in bouts, usually when a claimant died or a season was good enough to campaign in. The long quiet stretches between bouts were quiet rather than settled.
 
 ## The Wall
 
-The one thing that could not stop was the breach. [[Alistar Stormjaw]] opened [[Tarkis]] into the capital in 202 AM and holding it back takes constant magical work, and the work went on through all hundred and eleven years.
+The one thing that could not stop was the breach. [[Alistar Stormjaw]] opened [[Tarkis]] into the capital in 202 AM, and holding it back takes constant magical work. That work went on through all hundred and eleven years.
 
-Every claimant paid for the wall, including claimants at war with each other. The mages who keep it were the only body in Geno that nobody could afford to fight, which made them the kingdom's real government for a century without their ever claiming to be.
+Every claimant paid for the wall, including claimants at war with each other. The mages who keep it were the only body in Geno that nobody could afford to fight. That made them the kingdom's real government for a century, without their ever claiming to be.
 
 ## How It Ended
 

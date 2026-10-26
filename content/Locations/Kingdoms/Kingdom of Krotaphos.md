@@ -17,21 +17,21 @@ Allowed a seat in the Panarex but are always expected to vote with Sylfaen
 
 ## The Kingdom
 
-Krotaphos was founded on 61 Morcaela, 2 AM, a few days after Geno, and it is the kingdom of the Omens. Good Omens are aasimar and Ill Omens are tieflings, and the kingdom was built around the worship of the archangels and the archdevils both.
+Krotaphos was founded on 61 Morcaela, 2 AM, a few days after Geno. It is the kingdom of the Omens. Good Omens are aasimar and Ill Omens are tieflings. The kingdom was built around worship of the archangels and the archdevils both.
 
 The archangels and archdevils avoid the number two out of hatred for what they used to be. The Omens have taken it back. The kingdom always has two kings, and Iudimian has sayings built on the number, such as "two kings are sitting" for a fair deal.
 
-Krotaphos enforces the will of the heavens and the hells in the mortal world. Since 427 AM it has had the authority to do that and almost none of the power.
+Krotaphos enforces the will of the heavens and the hells in the mortal world. But since 427 AM it has had the authority to do that and almost none of the power.
 
 ## The War and the Terms
 
 Krotaphos fought [[Kingdom of Sylfaen|Sylfaen]] from 397 to 427 AM and lost. [[Kingdom of Geno|Geno]] declared neutrality in 423, and [[Kingdom of Oinarria|Oinarria]] joined Sylfaen in 424.
 
-The terms were humiliating by design. The kingdom was cut down to a circle and the land outside the circle went to Geno and Oinarria. [[Iudimian]] may now be spoken in public only in religious settings. Celestial and Infernal are illegal outside worship, which sits oddly in a kingdom that worships the beings who speak them. Krotaphos keeps its seat at the [[Panarex]] and is expected to vote with Sylfaen every time.
+The terms were humiliating by design. The kingdom was cut down to a circle. The land outside it went to Geno and Oinarria. [[Iudimian]] may now be spoken in public only in religious settings. Celestial and Infernal are illegal outside worship. In a kingdom that worships the beings who speak them, that sits oddly. Krotaphos keeps its seat at the [[Panarex]] and is expected to vote with Sylfaen every time.
 
 ## Government
 
-Two kings rule at once, one Good Omen and one Ill, and both are elected. The present pair are [[Theophilius Fanatis]], who is Good, and [[Lucien Apirga]], who is Ill.
+Two kings rule at once, one Good Omen and one Ill. Both are elected. The present pair are [[Theophilius Fanatis]], who is Good, and [[Lucien Apirga]], who is Ill.
 
 ## Language
 
@@ -41,13 +41,13 @@ Two kings rule at once, one Good Omen and one Ill, and both are elected. The pre
 
 **[[Panthea]]** is the capital. Temple Hill holds a temple to each of the Judgements of [[Iudis]].
 
-[[The University of Divine Judgement]] was founded by [[Verita]] with the help of the other archangels, and eventually the archdevils.
+[[The University of Divine Judgement]] was founded by [[Verita]] with the help of the other archangels. The archdevils bought in later.
 
 > *A family in Panthea had me to dinner. They spoke Iudimian at the table and Common whenever the window was open, and the change happened mid-sentence without anyone appearing to notice it. The youngest child had learned to shut the window before saying anything rude.*
 
 ## 702 AM
 
-At [[La Grande Mascarade]] in 702 AM, Theophilius Fanatis attacked the ruler of Sylfaen in front of the assembled rulers. He was under an enchantment at the time. Sylfaen ordered the arrest of every citizen of Krotaphos in response, and people have been arrested and killed since.
+At [[La Grande Mascarade]] in 702 AM, Theophilius Fanatis attacked the ruler of Sylfaen in front of the assembled rulers. He was under an enchantment at the time. Sylfaen ordered the arrest of every citizen of Krotaphos in response. People have been arrested and killed since.
 
 ## History
 - 61 Morcaela, 2 AM: founded
@@ -57,9 +57,9 @@ At [[La Grande Mascarade]] in 702 AM, Theophilius Fanatis attacked the ruler of 
 
 ## Design Notes
 
-The terms of the defeat left Krotaphos with authority and no power, and a visitor sees it everywhere. The circular border puts the humiliation on every map.
+The terms of the defeat left Krotaphos with authority and no power. A visitor sees it everywhere, and the circular border puts the humiliation on every map.
 
-Reclaiming the number two is the Omens' answer to the beings they worship. It is a small piece of defiance built into the constitution, and it is a reason for an archangel or archdevil to be quietly irritated by the kingdom that serves them.
+Reclaiming the number two is the Omens' answer to the beings they worship. It is a small piece of defiance built into the constitution. So an archangel or archdevil has reason to be quietly irritated by the kingdom that serves them.
 
 ## Open
 

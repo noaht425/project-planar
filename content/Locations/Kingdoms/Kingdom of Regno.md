@@ -15,15 +15,15 @@ Ruler: [[XLZL]]
 
 ## The Kingdom
 
-Regno was founded on 17 Aucaela, 3 AM, on the same day as [[Kingdom of Mathair|Mathair]], and it is the third kingdom of the [[Trois Re]].
+Regno was founded on 17 Aucaela, 3 AM, the same day as [[Kingdom of Mathair|Mathair]]. It is the third kingdom of the [[Trois Re]].
 
 It is the home kingdom of the brothers [[Orcus]] and [[Loime]], both of whom ascended.
 
 ## Government
 
-Regno elects its ruler. The present one is [[XLZL]], an automaton of the fey with a divine spark, made when [[Chronos]] tricked [[Themis]] into putting a spark into one, and raised by Themis afterwards. XLZL was made in 687 AM, grew up very quickly under Themis's care, and was elected within the last few years.
+Regno elects its ruler and sets no term. A ruler serves until the kingdom calls a new election. Calling one takes a petition. So the office that receives them sits permanently in [[Caragna]].
 
-Regno elects its ruler and sets no term. A ruler serves until the kingdom calls a new election, which takes a petition, and the office that receives petitions sits permanently in [[Caragna]]. The franchise is broad and the count is run out of the capital.
+The present ruler is [[XLZL]], a fey automaton with a divine spark. [[Chronos]] tricked [[Themis]] into putting the spark in, and Themis raised them afterwards. XLZL was made in 687 AM and grew up very quickly under that care. The election came a few years ago. The franchise is broad and the count is run out of the capital.
 
 ## Cities
 
@@ -38,7 +38,7 @@ Regno elects its ruler and sets no term. A ruler serves until the kingdom calls 
 
 Regno elected a fifteen-year-old automaton, and it was a sensible choice. XLZL was raised by the archangel of justice and is very good at the job.
 
-XLZL is also the precedent [[Chronos]] has been building a case on. Whatever the twelve decide about whether a made thing has a soul, the decision lands on the head of a mortal kingdom, which gives Regno a stake in an argument it has no seat at.
+XLZL is also the precedent [[Chronos]] has been building a case on. Whatever the twelve decide about whether a made thing has a soul, the decision lands on the head of a mortal kingdom. So Regno has a stake in an argument it has no seat at.
 
 ## Open
 

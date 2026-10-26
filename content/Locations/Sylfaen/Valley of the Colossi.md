@@ -21,9 +21,9 @@ The work took a hundred and eleven years and the craft changed over that time. A
 
 Oinarria and Sylfaen built it together. It is the only thing the two kingdoms have ever made jointly.
 
-Neither kingdom has produced a tidy account of whose idea it was. What is on the record is that both wanted the pass held, that neither wanted the other holding it, that a monument is a claim needing no garrison, and that six titans were easier to agree on than a border.
+Neither kingdom has produced a tidy account of whose idea it was. What is on the record is thinner. Both wanted the pass held. Neither wanted the other holding it. A monument is a claim that needs no garrison, and six titans were probably easier to agree on than a border.
 
-The arrangement has outlasted a great deal. The two kingdoms were on the same side of the war with [[Kingdom of Krotaphos|Krotaphos]] by 424 AM, which the valley is sometimes credited with and probably should not be.
+The arrangement has outlasted a great deal. The two kingdoms were on the same side of the war with [[Kingdom of Krotaphos|Krotaphos]] by 424 AM. The valley is sometimes credited with that, and probably should not be.
 
 ## The Road
 

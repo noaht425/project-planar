@@ -19,7 +19,7 @@ A necrotic scar runs down the right side of the face, through the eye and the co
 
 ## True Name
 
-Suri (SOO-ree). Known to no one but himself, surviving hidden in the words for day in the ancient languages and in the tongues of immortals, and kept by no modern mortal language.
+Suri (SOO-ree). Known to no one but himself. It survives hidden in the words for day in the ancient languages and in the tongues of immortals, and no modern mortal language keeps it.
 
 ## Manner
 
@@ -43,11 +43,11 @@ The light and darkness of Nullis, which had run mixed through the whole plane, b
 
 He will not reconcile, and the reason is not the Division.
 
-Night acted on the endorsement of something wearing his face. He has known this for a long time, longer than Night has, and what he cannot get past is that Night believed it. He has never put this to Night, because putting it to Night would require telling him that the conversation happened at all, and he has decided that Night does not get to have that.
+Night acted on the endorsement of something wearing his face. He has known this for a long time, longer than Night has, and what he cannot get past is that Night believed it. But he has never put this to Night. Doing so would require telling him the conversation happened at all, and he has decided that Night does not get to have that.
 
 He wants [[Indri]] found, and for the same reason his husband does, and neither of them knows the other is looking.
 
-He also wants the separation of the plane completed. A finished division would end the bleeding along the boundary, and he regards the bleeding as the last part of the marriage still operating.
+He also wants the separation of the plane completed. A finished division would end the bleeding along the boundary. He regards that bleeding as probably the last part of the marriage still operating.
 
 This puts him on the same side as [[Cado]] and against [[Eos]], and both children know it.
 

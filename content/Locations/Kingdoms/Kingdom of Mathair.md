@@ -15,19 +15,19 @@ Ruler: Queen [[Palas Arakol]]
 
 ## The Kingdom
 
-Mathair was founded on 17 Aucaela, 3 AM, on the same day as [[Kingdom of Regno|Regno]], and it is one of the three kingdoms of the [[Trois Re]].
+Mathair was founded on 17 Aucaela, 3 AM, the same day as [[Kingdom of Regno|Regno]]. It is one of the three kingdoms of the [[Trois Re]].
 
-Its capital, Omphalos, claims to be the most central point in the world. Nobody has successfully disputed the claim and nobody has entirely proved it.
+Its capital, Omphalos, claims to be the most central point in the world. Nobody has successfully disputed the claim. But nobody has entirely proved it either.
 
-Mathair does not restrict worship. The royal palace has statues of every group a person might call on for a favour, and the city has a temple district to match, with the archangels and archdevils, the dragons, the archfey, the scholarchs, and the ascendant gods all represented.
+Mathair does not restrict worship. The royal palace has a statue of every group a person might call on for a favour. The temple district matches it, more or less: archangels and archdevils, dragons, archfey, scholarchs, and the ascendant gods.
 
 ## La Grande Mascarade
 
-Mathair hosted the first [[La Grande Mascarade]] in 428 AM, and people still think of it as Mathair's. It commemorates the war between [[Kingdom of Krotaphos|Krotaphos]] and [[Kingdom of Sylfaen|Sylfaen]], which is a strange thing to commemorate, and nobody says so aloud. It is held every other year, the host rotates between the kingdoms, and the kingdoms compete for the honour.
+Mathair hosted the first [[La Grande Mascarade]] in 428 AM. People still think of it as Mathair's. It commemorates the war between [[Kingdom of Krotaphos|Krotaphos]] and [[Kingdom of Sylfaen|Sylfaen]]. That is a strange thing to commemorate, and nobody says so aloud, at least not in Omphalos. It is held every other year. The host rotates, and the kingdoms compete for the honour.
 
-In Omphalos it is held in the royal palace at the centre of the city, which is marble worked with gold vines. Entry is by invitation, and the guest list runs to the wealthiest people of several planes.
+In Omphalos it is held in the royal palace at the centre of the city, marble worked with gold vines. Entry is by invitation. The guest list usually runs to the wealthiest people of several planes.
 
-The 702 AM Mascarade was held in Omphalos, and it was there that [[Theophilius Fanatis]] attacked the ruler of Sylfaen.
+The 702 AM Mascarade was held in Omphalos. That is where [[Theophilius Fanatis]] attacked the ruler of Sylfaen.
 
 ## Government
 
@@ -44,7 +44,7 @@ Mathair is ruled by a queen, at present [[Palas Arakol]], an earthborn halfling.
 
 ## Design Notes
 
-Mathair is the host. Its open worship and its Masquerade make it the one kingdom where every power in the setting can plausibly turn up in the same room, which is why the 702 AM attack happened there.
+Mathair is the host. Open worship and the Mascarade make it the one kingdom where every power in the setting can plausibly turn up in the same room. That is why the 702 AM attack happened there.
 
 The claim to be the centre of the world is proud and a little absurd, and it is probably correct.
 
