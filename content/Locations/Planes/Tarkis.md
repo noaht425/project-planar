@@ -29,7 +29,24 @@ Before [[The Planar Collision]] the five realms sat inside Tarkis under more con
 
 Each of the five realms touches all four others, and the ten places where they meet are their own realms. All ten are habitable, and all ten are inhabited.
 
-They are [[Steam|steam]], ash, magma, smoke, ice, marsh, acid, dust, plague, and metal. Only steam has a page of its own so far.
+Each seam lies between the two realms that make it.
+
+| Seam | Between |
+| --- | --- |
+| [[Steam]] | Fire and Water |
+| [[Magma]] | Fire and Earth |
+| [[Smoke]] | Fire and Air |
+| [[Ash]] | Fire and Noxia |
+| [[Ice]] | Water and Air |
+| [[Marsh]] | Water and Earth |
+| [[Acid]] | Water and Noxia |
+| [[Dust]] | Earth and Air |
+| [[Metal]] | Earth and Noxia |
+| [[Plague]] | Air and Noxia |
+
+No dragon has claimed a seam. A hoard stops at the edge of its realm, and the five lords send people into the seams to count what is there rather than to govern it. The counts do not agree with one another. Each seam settles its own disputes and has done so for a long time.
+
+Pieces of [[Ventis]] fell into Tarkis during [[The Planar Collision]] and came to rest in the seams. Several of them are large enough to live on and are lived on.
 
 The ten genasi types are named for the seams but did not come out of them. Every genasi was made by [[Genasi]] the progenitor, who took the seams as the model.
 

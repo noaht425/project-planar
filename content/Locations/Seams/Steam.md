@@ -44,9 +44,11 @@ A good deal of what crosses here is not recorded on either side, which is unders
 | Fyrilu (fir-EE-loo) | The last hold before the hot arc, and where sealed gear is hired |
 | Minovu (mee-NOH-voo) | Boils the crust for salt and minerals |
 
-## Who Holds It
+## What the Two Realms Want
 
-Neither [[Pyrrha]] nor [[Vetur]] has claimed the seam, and neither has given it up. Officials from both realms arrive, count what is there, and go back, and their counts do not agree. The camps settle their own disputes in the meantime and have done so for a long time.
+[[Pyrrha]] has nearly finished fireproofing her own realm, and most of what is left to do is in her four seams, so her people work the steam seam constantly. What they are after is anything the heat has not destroyed, and they will buy it off a camp at a fair price.
+
+[[Vetur]]'s interest is the other direction. Salvage that comes up through the crust was on the trench floor once, and anything lifted out of Water without permission is contraband that cannot be sold in Water. It can be sold here. Neither dragon has claimed the seam. See [[Tarkis]].
 
 > *Nothing I wrote in the seam survived the seam. The ink ran while I was still forming the letters, and by the second day I was dictating to a woman who keeps the record there in knots on a cord. She has my whole account of the place and I have none of it. She will read it back for a fee.*
 
