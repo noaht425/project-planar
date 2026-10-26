@@ -27,7 +27,7 @@ The winnowing happens after admission rather than before it. The first year is w
 
 Every student takes the same first year, whatever they came to study. It is basic magical training, taught in large halls, and it assumes nothing.
 
-Alongside it are the distribution requirements, which are the reason the Academy employs historians and tacticians as well as mages. A student leaves here able to do something other than magic, which is deliberate and is unpopular with about half of each intake.
+Alongside it are the distribution requirements, which are the reason the Academy employs historians and tacticians as well as mages. A student leaves here able to do something other than magic. That is deliberate, and it is unpopular with about half of each intake.
 
 At the end of the first year a student chooses a focus. Arcane, natural, and divine are the three broad paths, and most of the intake goes arcane.
 
@@ -41,7 +41,7 @@ The largest projects are commissions. The Academy is the place a kingdom goes wh
 
 ## The Colleges
 
-The wizard programme is the largest and the oldest, and it is divided into eight colleges, one for each school of magic. Each is named for whoever founded or endowed it rather than for the school it teaches, which outsiders find needlessly confusing and students never think about.
+The wizard programme is the largest and the oldest, and it is divided into eight colleges, one for each school of magic. Each is named for whoever founded or endowed it rather than for the school it teaches. Outsiders find this needlessly confusing and students never think about it.
 
 | College | School | Note |
 | --- | --- | --- |
@@ -72,7 +72,7 @@ A student who wants to go deep finds a professor who works on that thing and att
 
 **[[Minervus Talonfoot]]**, an Owlin of the [[Beastfolk]] and a moon druid, at Grunwald. The longest serving professor at the Academy and the one students are sent to when something has gone wrong with a shape. There has been a Talonfoot on this faculty on and off since the Academy's first century.
 
-**[[Professor Theodosius Martialis Otho]]**, a fae automaton out of [[Chronos]]'s realm, teaching history and warfare to the distribution requirement. He is a Conquest paladin of [[Abaddon]], which nobody at the Academy has a public explanation for. His office was robbed in 702 AM.
+**[[Professor Theodosius Martialis Otho]]**, a fae automaton out of [[Chronos]]'s realm, teaching history and warfare to the distribution requirement. He is a Conquest paladin of [[Abaddon]]. Nobody at the Academy has a public explanation for that. His office was robbed in 702 AM.
 
 **Professor Wehrhart**, at Osterloh, who holds the Academy's wards and has not slept a full night since taking the post. Every ward on the campus is keyed to her and she will not delegate it.
 
@@ -90,13 +90,13 @@ A student who wants to go deep finds a professor who works on that thing and att
 
 **Sev**, first year, unaffiliated, who arrived without a surname or a sponsor and has passed everything.
 
-**Orin Tasse**, fifth year at Albrecht, who has failed the same examination four times and has been allowed to retake it four times, which several colleagues have noticed.
+**Orin Tasse**, fifth year at Albrecht, who has failed the same examination four times and has been allowed to retake it four times. Several colleagues have noticed.
 
 **Bettin Aloe**, fourth year at Grunwald, who keeps a list of students who have gone into [[Arcanis]] and not come out, and has shown it to nobody on the faculty.
 
 ## The Arcanis Work
 
-The Academy studies [[Arcanis]] directly, which no other institution does. Wizards here work on what can be learned about the eight regions in order to get at the schools themselves, and a new insight into a school is the usual reason anyone looks.
+The Academy studies [[Arcanis]] directly. No other institution does. Wizards here work on what can be learned about the eight regions in order to get at the schools themselves, and a new insight into a school is the usual reason anyone looks.
 
 Reaching the realm is a separate matter and the Academy forbids attempting it. [[Hekate]] got in and came out and has never told anyone how she did either half, and a great many people have died working on the problem. The rule against attempts is the Academy's only absolute rule, and it is broken often enough that Grunwald's fourth year keeps a list.
 
@@ -120,7 +120,7 @@ The Academy is built to be run as a campaign setting as well as visited. The col
 
 Three live threads sit here and they do not depend on one another. The Arcanis attempts kill students every year. The catalogue holds magic that was separated for a reason. Hollenbeck is doing dangerous work behind a safety campaign that changed nothing.
 
-Hekate being a god who runs a school is the tension in the place. She wants magic taught well and widely, which is a generous aim, and she keeps the one secret that students keep dying over.
+Hekate being a god who runs a school is the tension in the place. She wants magic taught well and widely, a generous aim, and she keeps the one secret that students keep dying over.
 
 The faculty and the students above are a starting cast. Names are mine and are meant to be overwritten.
 
@@ -128,11 +128,11 @@ The faculty and the students above are a starting cast. Names are mine and are m
 
 [[Ignatius]], second graduate year, for burning [[Owen Bramble]]. The Academy does not use the word expulsion about him in public and has never published a reason.
 
-[[Alistar Stormjaw]] was not expelled. He left of his own accord on 37 Mortera, 201 AM, which the Academy would rather people did not look into too closely, since it means nobody stopped him.
+[[Alistar Stormjaw]] was not expelled. He left of his own accord on 37 Mortera, 201 AM. The Academy would rather people did not look into that too closely, since it means nobody stopped him.
 
 ## DM Notes
 
-The [[Zygaris Society]] is inside the Academy. [[Irtha Melpomene]] ran the branch working for [[Mens]], and its business is infiltrating universities and museums to take artifacts and knowledge for a dragon's hoard. [[Nerinè Melpomene]] was placed here as a student to steal, which is how the current campaign began.
+The [[Zygaris Society]] is inside the Academy. [[Irtha Melpomene]] ran the branch working for [[Mens]], and its business is infiltrating universities and museums to take artifacts and knowledge for a dragon's hoard. [[Nerinè Melpomene]] was placed here as a student to steal. That is how the current campaign began.
 
 Otho's office was robbed in Session 1 and the puzzle box taken from it held a ring rather than the dagger that was expected. Whether Otho chose his oath to [[Abaddon]] or was put under it is unsettled.
 

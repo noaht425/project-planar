@@ -22,9 +22,9 @@ He is the only being in his own domain that still turns.
 
 Thera is a king in the old sense: he hears quarrels and he rules on them, and he does not govern much else. The four quarters run themselves because none of the four rulers can alter what their own quarter is, so every dispute they bring him is about something other than the thing that is actually wrong.
 
-He is patient with this. He has been hearing variations of the same four complaints for millennia and he treats each one as new, which his children read as wisdom and which is closer to resignation.
+He is patient with this. He has been hearing variations of the same four complaints for millennia and he treats each one as new. His children read that as wisdom. It is closer to resignation.
 
-He is courteous to mortals and genuinely curious about them. Of the seven archfey he is the one most likely to grant an audience and least likely to want anything in exchange, which the other six consider a weakness and which is a fair assessment.
+He is courteous to mortals and genuinely curious about them. Of the seven archfey he is the one most likely to grant an audience and least likely to want anything in exchange. The other six consider that a weakness, and they are not wrong.
 
 > *He asked me what month it was where I came from. I told him, and he asked what that was like, and I found I could not answer. I have lived through that month every year of my life and I could not describe it. He waited, and the leaves on his left side went from green to red to bare and back while he did it, and then he said that this was the difficulty exactly.*
 
@@ -40,7 +40,7 @@ Children, each holding one quarter:
 
 Thera wants a successor who can turn, and none of his four children can. Each of them is their season completely, which is what makes them able to hold a quarter and what makes them unable to hold the centre.
 
-He has not said this to any of them. The succession is the unspoken subject of every court session, and all four of them know the shape of the problem without having been told it, which is why they fight about harvest stores and road tolls instead.
+He has not said this to any of them. The succession is the unspoken subject of every court session, and all four of them know the shape of the problem without having been told it, so they fight about harvest stores and road tolls instead.
 
 He does not know about [[Ius Primum]]. [[Atris]] and [[Hakea]] signed it without the court, and the signing was supposed to be witnessed by [[Indri]].
 

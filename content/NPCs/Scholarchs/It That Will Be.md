@@ -10,7 +10,7 @@ Home Realm: [[Temporalis]]
 
 Member of the [[Scholarchs]].
 
-The Scholarch of the future. Holds the field, which runs under stars for as long as anyone walks it, with trees at the edge that nobody has reached.
+The Scholarch of the future. Holds the field, running under stars for as long as anyone walks it, with trees at the edge that nobody has reached.
 
 ## Appearance
 
@@ -20,7 +20,7 @@ The hardest of the three to look at directly. Its outline does not settle, and t
 
 The strictest of the three by a distance. It is formal, it is exact, and it does not make allowances.
 
-It will not answer a question until the terms are agreed, which means what may be repeated afterwards, to whom, and in what words. The terms are not negotiable and it does not explain them. People who have broken them are not seen in the field again.
+It will not answer a question until the terms are agreed: what may be repeated afterwards, to whom, and in what words. The terms are not negotiable and it does not explain them. People who have broken them are not seen in the field again.
 
 ## The Difficulty
 
@@ -28,7 +28,7 @@ Divination used to be far easier than it is. It That Will Be grew paranoid about
 
 It did this without asking the other two. Both of them have backed it in public ever since, and nothing that was said between the three about it has ever reached anyone outside the realm. See [[Scholarchs]].
 
-Every diviner in the world is working against a setting that one being chose, which most of them know.
+Every diviner in the world is working against a setting that one being chose, and most of them know it.
 
 ## What It Asks
 

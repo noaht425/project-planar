@@ -22,7 +22,7 @@ Nobody has established what Neema looks like unobserved. [[Blythe]], who has mor
 
 [[Hesit]] meant to feel what another feels. [[Abaddon]] kept that as the knowledge of where a wound lands, and Neema kept it as the thing it was for.
 
-Neema is kind in a way that is difficult to be in the room with, because the kindness is addressed to a version of you that you can see and are not. Petitioners tend to confess to Neema without being asked. The blessed in Kindness are kept company by beings that are their own better selves, which is a reward for most of them and a sentence for some.
+Neema is kind in a way that is difficult to be in the room with, because the kindness is addressed to a version of you that you can see and are not. Petitioners tend to confess to Neema without being asked. The blessed in Kindness are kept company by beings that are their own better selves, a reward for most of them and a sentence for some.
 
 Of the six, Neema is the one who will actually help a mortal, and the one who asks for least in return.
 
@@ -30,9 +30,9 @@ Of the six, Neema is the one who will actually help a mortal, and the one who as
 
 ## Goals
 
-Neema does not want the archdevils killed and is the only archangel on record against it. The collective position passed without Neema's agreement and Neema has not obstructed it either, which the other five have noticed.
+Neema does not want the archdevils killed and is the only archangel on record against it. The collective position passed without Neema's agreement and Neema has not obstructed it either. The other five have noticed.
 
-What Neema wants is the [[Omens]] left alone. The ill-leaning Omens are the stated target of the purification and Neema has been quietly moving individual Omens out of reach for several hundred years, which is the nearest thing to a secret any archangel keeps.
+What Neema wants is the [[Omens]] left alone. The ill-leaning Omens are the stated target of the purification and Neema has been quietly moving individual Omens out of reach for several hundred years. It is the nearest thing to a secret any archangel keeps.
 
 ## Design Notes
 

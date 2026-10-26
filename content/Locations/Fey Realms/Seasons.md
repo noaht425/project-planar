@@ -37,7 +37,7 @@ Towns: **Brathlán** (BRAH-lahn), which works metal because it is the only quart
 
 Villages: Meilgeog (MEL-gog), Beachóg (BA-khohg) and Fionnrach (FONN-rakh).
 
-Esta is seeing [[Eurus]] of [[Ventis]], which is public and regarded in the other quarters as showing off.
+Esta is seeing [[Eurus]] of [[Ventis]], openly, and the other quarters regard it as showing off.
 
 ## Buainnea (BUN-nya), the Autumn Quarter
 
@@ -55,7 +55,7 @@ Towns: **Reodhlain** (ROGH-lan), cut into the ice and mostly below the surface, 
 
 Villages: Fuairne (FUR-neh), Cloichne (KLOKH-neh) and Oíghne (EEGH-neh).
 
-Verna is betrothed to [[Boreas]] and wants out of it. The quarter knows. Nobody in it will say so where it might be repeated, which in a fey realm is a serious undertaking.
+Verna is betrothed to [[Boreas]] and wants out of it. The quarter knows. Nobody in it will say so where it might be repeated. In a fey realm that is a serious undertaking.
 
 ## The Fronts
 

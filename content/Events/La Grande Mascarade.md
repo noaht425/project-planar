@@ -20,7 +20,7 @@ A masked festival held every other year, hosted by a different kingdom each time
 
 Mathair put it on to get the kingdoms into one room when none of them would sit down formally. The [[Panarex]] was no use for that. A session there is a session, with chairs, precedence, and votes that bind the absent, and in 428 nobody wanted to be bound to anything.
 
-The Mascarade decides nothing and records nothing, which is the whole of its usefulness. What is agreed at one is agreed between the people who agreed it, and has to be done again properly somewhere else if it is to hold.
+The Mascarade decides nothing and records nothing, and that is the whole of its usefulness. What is agreed at one is agreed between the people who agreed it, and has to be done again properly somewhere else if it is to hold.
 
 ## The Masks
 
@@ -40,7 +40,7 @@ The right to host is contested and kingdoms campaign for it years ahead. The hos
 
 ## 702 AM
 
-At the Mascarade in Omphalos in 702 AM, [[Theophilius Fanatis]], one of the two kings of Krotaphos, attacked the ruler of Sylfaen in front of the assembled guests. He was under an enchantment, he was given a saving throw against it, and he chose to fail. He spoke [[Celestial]] as he went for it, which is illegal in his own kingdom, and called the Sylfaen ruler a tyrant and a despot.
+At the Mascarade in Omphalos in 702 AM, [[Theophilius Fanatis]], one of the two kings of Krotaphos, attacked the ruler of Sylfaen in front of the assembled guests. He was under an enchantment, he was given a saving throw against it, and he chose to fail. He spoke [[Celestial]] as he went for it, illegal in his own kingdom, and called the Sylfaen ruler a tyrant and a despot.
 
 Sylfaen ordered every citizen of Krotaphos arrested or killed. The masks meant that most of the room could not say afterwards who had been standing where.
 

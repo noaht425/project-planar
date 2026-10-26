@@ -9,7 +9,7 @@ Fylwa (FIL-wa) is a town of tall, narrow towers among the pine forests of [[King
 
 ## The Towers
 
-The towers are timber, built from the pine around them, and they are narrow because the ground between them is left standing as forest. Fylwa has never cleared its woods and has built upward instead, which the town regards as the obvious solution and visitors regard as perverse.
+The towers are timber, built from the pine around them, and they are narrow because the ground between them is left standing as forest. Fylwa has never cleared its woods and has built upward instead. The town regards that as the obvious solution and visitors regard it as perverse.
 
 A tower holds several households, one to a floor, reached by a single stair that passes every door.
 
@@ -29,7 +29,7 @@ Timber, pitch, and the carpentry that comes of both. Fylwa frames buildings for 
 
 ## The Ground
 
-The forest between the towers is common land and is not built on, which the town enforces strictly. Pigs run in it, children are sent into it, and a proposal to clear a stretch for building comes up about once a generation and has never passed.
+The forest between the towers is common land and is not built on. The town enforces that strictly. Pigs run in it, children are sent into it, and a proposal to clear a stretch for building comes up about once a generation and has never passed.
 
 ## Design Notes
 

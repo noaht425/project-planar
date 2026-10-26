@@ -13,13 +13,13 @@ Member of the [[Archfey]].
 
 Alsa (AL-sa) appears as a werewolf eight feet tall, with broken bones protruding through the skin at the shoulders, forearms and ribs. The breaks do not heal and do not appear to cause difficulty.
 
-The seat is inside An Cionn Mór, the skull large enough to hold a city, which is either the grimmest joke in Iris or just the largest available building. Alsa has never clarified.
+The seat is inside An Cionn Mór, the skull large enough to hold a city, either the grimmest joke in Iris or just the largest available building. Alsa has never clarified.
 
 ## Manner
 
 Alsa is quiet, exact and uninterested in being liked. The other archfey keep Alsa at arm's length for not being pleasant to look at, along with [[Grixt]], and this has not cost Alsa an inch of territory.
 
-Nothing decays in Bone. What a creature was in life stays legible in what is left of it, long after the creature is gone, which makes the domain the best archive in the fey realms. Alsa reads it, and has done so without interruption for as long as Alsa has held the domain.
+Nothing decays in Bone. What a creature was in life stays legible in what is left of it, long after the creature is gone. That makes the domain the best archive in the fey realms. Alsa reads it, and has done so without interruption for as long as Alsa has held the domain.
 
 Conversation with Alsa consists of being asked precise questions and receiving no reaction to the answers.
 
@@ -31,7 +31,7 @@ Alsa wants a seat at court, and intends to be given it without asking.
 
 Bone holds everything that has died in the fey realms, and that includes things the other six would prefer were not legible. Alsa knows what is in the deeper layers, has known for some time, and has said nothing to anyone.
 
-What is in there has not been settled in full. One of them is the body that An Cionn Mór came off, which the domain has no record of and which predates the fey who would have had to remember it.
+What is in there has not been settled in full. One of them is the body that An Cionn Mór came off. The domain has no record of it, and it predates the fey who would have had to remember it.
 
 ## Design Notes
 

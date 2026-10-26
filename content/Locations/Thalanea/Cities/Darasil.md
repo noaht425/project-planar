@@ -17,7 +17,7 @@ The upper levels hold the gate, the markets, and the business that has to deal w
 
 ## The Name
 
-Drow and Darasil come from the same word. The people are named for the mountain rather than the mountain for the people, which means a drow in this setting is an elf of Darasil or descended from one, and nothing else.
+Drow and Darasil come from the same word. The people are named for the mountain rather than the mountain for the people. A drow in this setting is an elf of Darasil or descended from one, and nothing else.
 
 Elves elsewhere in Thalanea treat this as a matter of geography. Elves outside Thalanea frequently do not, and the city is used to correcting people.
 
@@ -25,13 +25,13 @@ Elves elsewhere in Thalanea treat this as a matter of geography. Elves outside T
 
 Stone and metal. Darasil cuts and ships both. The deep levels are worked as well as lived in, so a family's address and a family's trade are often the same fact.
 
-The city sells a great deal to [[Kingdom of Oinarria|Oinarria]], which has mountains of its own and no interest in cutting them, and it is the one Thalanean city with a trade that does not run through [[Terpisthla]].
+The city sells a great deal to [[Kingdom of Oinarria|Oinarria]], a kingdom with mountains of its own and no interest in cutting them. Darasil is also the one Thalanean city with a trade that does not run through [[Terpisthla]].
 
 ## Distance from the Capital
 
 Darasil is a long way from [[Lenetha]] and conducts itself accordingly. It sends its oath-holders, it pays what it owes, and it settles nearly everything else in its own halls.
 
-The scholars' new words arrive here late and are used inconsistently, which nobody in Lenetha has the appetite to come and enforce.
+The scholars' new words arrive here late and are used inconsistently. Nobody in Lenetha has the appetite to come and enforce them.
 
 ## Design Notes
 

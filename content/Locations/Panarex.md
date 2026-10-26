@@ -9,7 +9,7 @@ The temple on [[The Nexus]] where the rulers of the kingdoms meet, and the counc
 
 ## The Hall
 
-One round room with a ring of chairs in it and no head of the table, which was the condition on which the eight original kingdoms agreed to sit at all. The floor is obsidian and the ring of chairs stands on marble set into it.
+One round room with a ring of chairs in it and no head of the table. That was the condition on which the eight original kingdoms agreed to sit at all. The floor is obsidian and the ring of chairs stands on marble set into it.
 
 There are nine chairs. There were eight when the hall was built.
 
@@ -39,7 +39,7 @@ A vote carries on a majority of the chairs in the room, and a kingdom that was n
 
 The hall has no means of enforcement. Nothing in the Panarex can compel a kingdom to do what it voted to do, so a vote is a statement of where the kingdoms stand and a record of who is in breach if they do not follow it. What is done about a breach is decided by the other kingdoms, in the hall, by another vote.
 
-A session binds the absent only when two thirds of the chairs are filled, which is six of the nine.
+A session binds the absent only when two thirds of the chairs are filled, six of the nine.
 
 ## The Ninth Chair
 

@@ -17,7 +17,7 @@ Morcaela is the month that matters. The whole town spends it laying in: food, fu
 
 ## The Shut Month
 
-Nothing comes up the pass in Mortera. The town does not consider this a hardship. It does consider it a test of the preparation, which has not failed in living memory.
+Nothing comes up the pass in Mortera. The town does not consider this a hardship. It does consider it a test of the preparation, and the preparation has not failed in living memory.
 
 What the town does in the shut month is talk. Lontaci's reputation across the kingdom is for argument, for long memories, and for producing people who leave with something to prove.
 
@@ -31,7 +31,7 @@ Nothing has been built. The house still stands, it is lived in by somebody else,
 
 ## The Pass
 
-The toll on the northern pass is the town's other income. Traffic through it is light, seasonal, and entirely dependent on Lontaci's willingness to keep the road clear, which gives a small mountain town a say in anything that has to go north.
+The toll on the northern pass is the town's other income. Traffic through it is light, seasonal, and entirely dependent on Lontaci's willingness to keep the road clear. That gives a small mountain town a say in anything that has to go north.
 
 ## Design Notes
 

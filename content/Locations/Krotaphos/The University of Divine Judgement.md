@@ -13,7 +13,7 @@ Founded by [[Verita]] with the help of the other [[Archangels|archangels]], and 
 
 ## The Founding
 
-Verita built it to teach what judgement is and how it works, which is the half of [[Sylas]] that Verita kept. The other five archangels came in early.
+Verita built it to teach what judgement is and how it works. That is the half of [[Sylas]] that Verita kept. The other five archangels came in early.
 
 The archdevils let it run for about ten years and then wanted in, and they paid their way. Their reasoning was practical. Clergy of the archdevils are as ordinary in the mortal world as clergy of the archangels, those clergy were being trained somewhere, and the archangels were otherwise going to own the definition of the subject. Both sides have funded it ever since and neither has ever held it outright.
 
@@ -21,11 +21,11 @@ The archdevils let it run for about ten years and then wanted in, and they paid 
 
 Two things, and the University is careful about the order it names them in.
 
-The first is clergy. Every priest, cleric, and paladin of the twelve who wants formal training comes here, and the great majority do. A student of Temperance and a student of Indulgence sit the same examinations in the same room, taught by the same faculty, which is the condition the archdevils bought.
+The first is clergy. Every priest, cleric, and paladin of the twelve who wants formal training comes here, and the great majority do. A student of Temperance and a student of Indulgence sit the same examinations in the same room, taught by the same faculty. That was the condition the archdevils bought.
 
 The second is enforcement. Krotaphos holds the authority to enforce the will of the heavens and the hells in the mortal world, and the University is where that authority is turned into people. An enforcer carries a certificate issued here. Inside Krotaphos it has the force of law. Outside Krotaphos it had real weight until 427 AM, and since the defeat it is honoured as a courtesy where it is honoured at all.
 
-Scholarship is the third thing it does and the one it is least organised about. The study of judgement itself goes on here, which means the sorting at [[Liminia]], the work of [[Bis]] and [[Seisear]], the backlog, and the objections [[Themis]] has been sending for seven centuries. The scholars are the smallest faculty and have the best library.
+Scholarship is the third thing it does and the one it is least organised about. The study of judgement itself goes on here: the sorting at [[Liminia]], the work of [[Bis]] and [[Seisear]], the backlog, and the objections [[Themis]] has been sending for seven centuries. The scholars are the smallest faculty and have the best library.
 
 ## The Three Schools
 
@@ -51,15 +51,15 @@ A house is run by its head, who is faculty, and by its senior students, who are 
 
 Most students arrive with a patron already. Krotaphos families are devoted to particular members of the twelve, often for centuries, and a child is entered under the house the family keeps.
 
-The patrons are not bound by any of that. A patron may reject a student it does not want and claim one it does, at any point and without explanation, which produces a shuffle during most first years. Later moves happen and are rare enough to be a scandal when they do. A student rejected by a patron and claimed by nobody goes to Alter, and Alter takes them without comment.
+The patrons are not bound by any of that. A patron may reject a student it does not want and claim one it does, at any point and without explanation. The result is a shuffle during most first years. Later moves happen and are rare enough to be a scandal when they do. A student rejected by a patron and claimed by nobody goes to Alter, and Alter takes them without comment.
 
 ## The Chancellor
 
-The University is run by a mortal chancellor whom both sides tolerate, which is the only arrangement either side will accept. The chancellor answers to twelve patrons and to the two kings, in that order, and the office has no power that the funding cannot overrule.
+The University is run by a mortal chancellor whom both sides tolerate. No other arrangement is acceptable to either of them. The chancellor answers to twelve patrons and to the two kings, in that order, and the office has no power that the funding cannot overrule.
 
 By convention the chancellor has no patron at all and is drawn from the Alter house, since an unclaimed candidate is the only one nobody can object to on principle. The office has therefore always come out of the house the twelve pretend not to see.
 
-The present chancellor is **Yaveth Serilin**, an elf, which goes further than the convention asks. An Omen without a patron is still an Omen, raised in the kingdom of the Omens and related to half of it. An elf out of [[Kingdom of Thalanea|Thalanea]] has no stake in Krotaphos at all, which is the argument that got her the post and the thing both sides like least about her.
+The present chancellor is **Yaveth Serilin**, an elf, further than the convention asks. An Omen without a patron is still an Omen, raised in the kingdom of the Omens and related to half of it. An elf out of [[Kingdom of Thalanea|Thalanea]] has no stake in Krotaphos at all. That is the argument that got her the post, and the thing both sides like least about her.
 
 ## The Faculty
 
@@ -77,7 +77,7 @@ Students from other kingdoms arrive with no Iudimian and are expected to have it
 
 Krotaphos lost its war with [[Kingdom of Sylfaen|Sylfaen]] in 427 AM, was cut down to a circle, and has had authority without power since.
 
-The University came through it better than the kingdom did. The twelve kept funding it while the crown shrank, it is still the best in its field, and it still draws students from every kingdom. For most of the world it is the only reason to go to Krotaphos at all, which the kingdom knows and does not enjoy.
+The University came through it better than the kingdom did. The twelve kept funding it while the crown shrank, it is still the best in its field, and it still draws students from every kingdom. For most of the world it is the only reason to go to Krotaphos at all. The kingdom knows it and does not enjoy it.
 
 > *I was shown the examination hall. It seats four hundred and is used twice a year. The invigilator told me that the clergy of the heavens and the clergy of the hells sit it alternately by row, and have since the hall was built, so that nobody can claim a side was favoured by where it was put. I asked who decided the arrangement. He said it had been agreed by all twelve. It is the only thing he knew of that all twelve had ever agreed on.*
 

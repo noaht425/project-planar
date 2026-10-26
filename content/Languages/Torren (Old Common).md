@@ -1020,7 +1020,7 @@ Common: glory
 - Vowels: a, e, i, o, u, y, and æ, each short or long. A long vowel is written with a bar: ā, ē, ī, ō, ū, ȳ.
 - Consonants: p, b, t, d, k, g, f, v, s, z, h, m, n, l, r, w, j, the pairs sh and ch, þ for the sound in thing, and ƕ for the sound written wh in Common.
 - Torren has none of the sliding vowels that make early writing hard to read. Minem allowed one vowel to a syllable and held to it.
-- Stress falls on the first syllable in the plain register. In the formal register it falls on the syllable before the ending, which is why the two registers wore down so differently.
+- Stress falls on the first syllable in the plain register. In the formal register it falls on the syllable before the ending, and that is why the two registers wore down so differently.
 - Vowel length is the only thing Torren spelling marks that Common spelling lost. Most of what looks arbitrary in Common spelling is a long vowel that stopped being long.
 
 ## Grammar: The Two Registers
@@ -1039,12 +1039,12 @@ Common: glory
 | -ura | the result of doing | -ure | Natura, nature |
 | -mentum | the thing used or made | -ment | Documentum, document |
 
-- A Torren speaker could tell the registers apart without knowing a word, by where the stress sat. A Common speaker still can, which is why the formal half of the language sounds educated.
+- A Torren speaker could tell the registers apart without knowing a word, by where the stress sat. A Common speaker still can, and so the formal half of the language sounds educated.
 
 ## Grammar: Gender
 - Two genders, animate and inanimate. Minem sorted by whether a thing acts.
 - Gender shows only in the article and in the dative. It does nothing else, and Common dropped it without losing anything.
-- Beasts are animate. Fire, wind and water are animate, which Minem is recorded as having argued about with himself.
+- Beasts are animate. Fire, wind, and water are animate. Minem is recorded as having argued about that with himself.
 
 ## Grammar: Nouns
 - Four cases. Nominative for the one acting, accusative for the one acted on, genitive for whose it is, dative for the one given to or spoken to.
@@ -1125,7 +1125,7 @@ Common: glory
 5. The final unstressed vowel is lost. What remains of it is the silent e of Common, which marks the length of the vowel before it and nothing else.
 6. An unstressed vowel in a final closed syllable weakens to the sound written e. Faþar gives father.
 7. A before l and another consonant rounds. Kalda gives cold.
-8. The long vowels all shift. Written Common still spells them as they were said before the shift, which is why its spelling looks wrong to the people using it.
+8. The long vowels all shift. Written Common still spells them as they were said before the shift. That is why its spelling looks wrong to the people using it.
 
 - The two words that fix the first two changes are Darak and Suris, and both are in the oldest layer of the language.
 

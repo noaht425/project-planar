@@ -17,11 +17,11 @@ Nobody has seen the face. The hair does not move when Pavlas does.
 
 ## Manner
 
-[[Charios]] meant to entertain and to perform. [[Lux]] took the performance and Pavlas took the audience's half of it, which is the posture of deference held past the point where anyone is watching.
+[[Charios]] meant to entertain and to perform. [[Lux]] took the performance and Pavlas took the audience's half of it: the posture of deference held past the point where anyone is watching.
 
 Pavlas speaks quietly, defers to whoever else is present, and will not accept precedence in a doorway. This is sincere and it is also the complete performance of sincerity, and there is no version of Pavlas underneath it to compare against.
 
-Humility in Pavlas's domain is administered by removing the blessed from their own achievements gently. They are not shown someone else taking credit, which is [[Lux]]'s method. They are simply never reminded, and after a few centuries most of them cannot recall having done anything in particular.
+Humility in Pavlas's domain is administered by removing the blessed from their own achievements gently. They are not shown someone else taking credit. That is [[Lux]]'s method. They are simply never reminded, and after a few centuries most of them cannot recall having done anything in particular.
 
 > *Pavlas insisted I go through the door first, and I did, and then I spent the rest of the day being deferred to by something thousands of years older than I. By evening I was issuing opinions on the governance of the afterlives. I only heard myself doing it on the walk back.*
 
@@ -29,7 +29,7 @@ Humility in Pavlas's domain is administered by removing the blessed from their o
 
 Pavlas wants the credit for the peace moved off [[Verita]] and onto the [[Archangels|archangels]] as a body, so that the thing the other four treat as Verita's surrender becomes a collective act they are bound by. Pavlas wants none of it personally.
 
-Pavlas supports the purification and has never said so directly, which is consistent with everything else about Pavlas.
+Pavlas supports the purification and has never said so directly, a silence consistent with everything else about Pavlas.
 
 ## Design Notes
 

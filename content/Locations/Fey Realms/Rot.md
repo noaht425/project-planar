@@ -31,7 +31,7 @@ Grixt keeps a seat in the mushroom forest that is grown rather than built and is
 
 Grixt appears as a short, very old myconid with a mushroom beard and a cloak of moss, and behaves like a kindly old man. What Grixt actually is is a swarm of undead rats, insects and other small animals, called the Lord of Rot, and uses we and us.
 
-Grixt gave [[Orcus]] the power to steal from [[The King of Night]], which is the most consequential thing any archfey has done to the cosmos. Grixt's own ambition is to unseat the Kings of day and night.
+Grixt gave [[Orcus]] the power to steal from [[The King of Night]], the most consequential thing any archfey has done to the cosmos. Grixt's own ambition is to unseat the Kings of day and night.
 
 ## The Cities
 

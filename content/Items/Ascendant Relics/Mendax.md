@@ -6,7 +6,7 @@ summary: 'Weapon (+3 dagger), artifact (requires attunement)'
 
 Used to belong to [[Tiyanak]], and was an ordinary weapon at the time. Tiyanak killed the original [[Indri]] with it in 3,096 AF.
 
-Indri had been researching the ascension process before that night. In the moment of dying, Indri claimed the dagger and used it as both the relic and the source of power for the ascension, which is the only recorded case of one object serving as both.
+Indri had been researching the ascension process before that night. In the moment of dying, Indri claimed the dagger and used it as both the relic and the source of power for the ascension. It is the only recorded case of one object serving as both.
 
 So Indri died, went to the afterlife and was caged there by Tiyanak, and kept a great deal of power through all of it, because the ascension completed as the death did. See [[Ascension Process]] for what the ritual normally requires.
 

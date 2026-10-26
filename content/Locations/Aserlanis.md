@@ -9,7 +9,7 @@ The capital of the [[Kingdom of Thalamas]], which no longer exists. The city has
 
 ## The City
 
-Aserlanis was built by elves and fae together, which is legible in every street of it. The stonework and the growing work are set into each other rather than placed side by side, with both peoples' hands on the same buildings. It was the capital of the bright alliance for a hundred and two years.
+Aserlanis was built by elves and fae together, and that is legible in every street of it. The stonework and the growing work are set into each other rather than placed side by side, with both peoples' hands on the same buildings. It was the capital of the bright alliance for a hundred and two years.
 
 It is subarctic. What was left when the city emptied has been held by the cold rather than rotted by the weather, so Aserlanis has not fallen so much as stopped. Doors are still on their hinges. There is furniture.
 

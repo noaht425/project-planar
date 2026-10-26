@@ -6,7 +6,7 @@ summary: ''
 
 Language of the [[Kingdom of Geno]]. It has no parent. [[Genasi]] made it.
 
-Genasi was given Ancient Draconic at his creation and did not keep it. Within a few years of taking the throne in 2 AM he had begun building a language of his own, and he built it the way a maker builds: one ending for one job, no exceptions, every word sorted into its proper place. He took what he wanted from Draconic, which is most of the element words, the numbers, the pronouns and the communal number, and threw out the rest. He then enforced the result for four hundred and three years. Nothing in Genoan is irregular that was in the language before 405 AM.
+Genasi was given Ancient Draconic at his creation and did not keep it. Within a few years of taking the throne in 2 AM he had begun building a language of his own, and he built it the way a maker builds: one ending for one job, no exceptions, every word sorted into its proper place. He took most of the element words, the numbers, the pronouns, and the communal number from Draconic, and threw out the rest. He then enforced the result for four hundred and three years. Nothing in Genoan is irregular that was in the language before 405 AM.
 
 What Genasi sorted his language by was element. Draconic has three genders. Genoan has five classes, one for each of the realms inside [[Tarkis]], and a word does not take an ending to show its class. It shows it in its vowels. Every vowel in a word of the fire class is a or e, and every vowel in a word of the water class is u or o, and so on through the five. A speaker hears the class of a word before hearing the word.
 
@@ -1567,7 +1567,7 @@ Stratum: Genasi
 
 - Negation is a prefix, n and a second vowel: fire Neburnar (does not burn), water Noburnur, air Nyburnir.
 - Fire-class Barnar (burns): Barnan, Barnar, Bernez, Barnask. Passive: Barnether, Barnethez, Barnethask.
-- A subject that has no class, which means any name and any loan, puts its verb in the earth class. Earth is the class of the throne and of law, and it was the class the court used when it had nothing to go on. Iras and Gaius Flaminius were both spoken of in earth-class verbs for their whole reigns.
+- A subject that has no class, meaning any name and any loan, puts its verb in the earth class. Earth is the class of the throne and of law, and it was the class the court used when it had nothing to go on. Iras and Gaius Flaminius were both spoken of in earth-class verbs for their whole reigns.
 
 ## Grammar: Word Order
 - Verb, subject, object, as in Ancient Draconic.
@@ -1579,7 +1579,7 @@ Stratum: Genasi
 ## Grammar: What Stands Outside
 - Harmony applies to nouns, verbs, adjectives and pronouns. Nothing else in the language has a class.
 - Particles are classless: Lo, Vai, Dost, Neh, Esk, Veld, Tan, Sen, Ton, Kel, Mir, Ens, Ard, Esh, Nolt, Braht, Pel.
-- The numbers are Draconic and unchanged. Counting is the one thing in Genoan that belongs to no element, which is why Geno's accounts and contracts can be read by outsiders when nothing else can.
+- The numbers are Draconic and unchanged. Counting is the one thing in Genoan that belongs to no element. That is why Geno's accounts and contracts can be read by outsiders when nothing else can.
 
 | Number | Genoan |
 | --- | --- |
@@ -1596,7 +1596,7 @@ Stratum: Genasi
 | 10 | Rame |
 
 - Eleven onward are built as in Draconic: Rahpey, Räast, Roak, and so on.
-- Proper names do not harmonise, which is to say that no genasi's name has a class. Genasi, Iras, Nara Veril and Geno itself are all classless words.
+- Proper names do not harmonise. No genasi's name has a class. Genasi, Iras, Nara Veril and Geno itself are all classless words.
 - The four winds kept their Draconic names and their Draconic vowels: Boras, Euras, Notos, Zephyras. They are the only common nouns in the language with no class.
 
 ## Grammar: Classless Words and the Particle So
@@ -1626,7 +1626,7 @@ Stratum: Genasi
 - A hundred and eleven years with no king, and no one enforcing anything. This is where a made language breaks, and it is where Genoan did.
 - The dative and the allative fell together in speech. Both are -2r now outside court use, and the allative -2k is a written form that people learn and do not say.
 - The communal came loose. It had marked a small group of important things. By 657 it was being used of any group of people the speaker wanted to flatter, and it is now an ordinary polite plural. Nara Veril's chancery has tried twice to pull it back.
-- The classless second person Te appeared, which Genasi's language had no room for and a century without a court had constant need of.
+- The classless second person Te appeared. Genasi's language had no room for it and a century without a court had constant need of it.
 - The passive -2th wore down to nothing before a tense ending in fast speech, so that Barnethez and Barnez are both heard for was burned, and Barnez is also the past active. The collision has not been resolved and context carries it.
 - Three combined-class words lost the canonical vowel order, all of them trade goods: metal, acid and steam. Smiths say Thänküzel for Thänökzëlü and have said it for three hundred years. The chancery spelling is unchanged.
 

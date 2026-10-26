@@ -9,7 +9,7 @@ locationType: location
 
 Tarkis is the realm of the dragons and holds five portions, which are the five elemental realms. See [[The Cosmic Rings]].
 
-It is enormous, and it is physically strange. From any one of the five realms a traveller can reach all four of the others, which means every one of the ten in-between places can be reached from anywhere.
+It is enormous, and it is physically strange. From any one of the five realms a traveller can reach all four of the others, so every one of the ten in-between places can be reached from anywhere.
 
 Before [[The Planar Collision]] the five realms sat inside Tarkis under more control than they have now. The shattering loosened everything.
 
@@ -66,13 +66,13 @@ Each lord rules from a seat shaped like a hoard, suited to the realm and to what
 
 **[[Pyrrha]]** rules Fire out of an enormous volcano, and what she keeps inside it is everything in the realm that fire cannot destroy. In a place where almost nothing lasts, the surviving remainder is worth piling up, and she has been piling it up since the realm began.
 
-**[[Okzu]]** rules Noxia the way a crime baron does, out of a factory that has never stopped running. What he collects is what he is owed. Nearly everyone in the realm owes him something, and the debts are inherited and called in, which is how a dragon holds a realm without ever sitting on a throne in it.
+**[[Okzu]]** rules Noxia the way a crime baron does, out of a factory that has never stopped running. What he collects is what he is owed. Nearly everyone in the realm owes him something, and the debts are inherited and called in. That is how a dragon holds a realm without ever sitting on a throne in it.
 
 **[[Tenu]]** rules Earth from inside a mountain that has been hollowed out chamber by chamber until the whole of it is one vault. The stone is the hoard. Anyone living in the earth realm is living in something Tenu considers already counted.
 
 **[[Vetur]]** rules Water from a trench floor, over everything that has ever sunk into it. Ships, cargo and the drowned are laid out across the bed in order, and the arrangement is maintained.
 
-**[[Zaros]]** ruled Air from a seat above its cities, and what he collected was the cities themselves. The realm was built up and busy under him for exactly that reason. [[Afthor]] holds the realm now and collects nothing, which is most of what has gone wrong with it.
+**[[Zaros]]** ruled Air from a seat above its cities, and what he collected was the cities themselves. The realm was built up and busy under him for exactly that reason. [[Afthor]] holds the realm now and collects nothing, and that is most of what has gone wrong with it.
 
 The second dragons keep to their own realms loosely and travel far more than the lords do, both between the elemental realms and out into the other planes.
 

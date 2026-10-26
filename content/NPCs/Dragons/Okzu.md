@@ -20,7 +20,7 @@ Okzu (OK-zoo) is built heavy and low, scaled in the colours industrial runoff go
 
 ## Manner
 
-Okzu runs Noxia the way a crime baron runs a city, and he is good at it. The factory has never stopped. Nearly everyone in the realm owes him something. The debts pass down through families and he calls them in, which is how he holds a realm without ever sitting on a throne in it.
+Okzu runs Noxia the way a crime baron runs a city, and he is good at it. The factory has never stopped. Nearly everyone in the realm owes him something. The debts pass down through families and he calls them in. That is how he holds a realm without ever sitting on a throne in it.
 
 He is affable, he is fair by the terms he sets out, and he never alters a figure after the fact. He does not need to.
 
@@ -34,7 +34,7 @@ Okzu is running the effort to bring [[Zaros]] and [[Vari]] back. The two are dea
 
 He wants [[Afthor]] killed after the resurrection, so that Zaros can be there for it.
 
-He wants the debts collected, all of them, which is not a goal he expects to finish.
+He wants the debts collected, all of them, and it is not a goal he expects to finish.
 
 ## What He Asks
 

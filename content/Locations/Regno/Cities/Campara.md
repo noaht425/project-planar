@@ -19,9 +19,9 @@ The rota is kept by the town itself rather than by an office. Traders know their
 
 ## The Trade
 
-Campara sells what the south of Regno grows, which is grain, fruit, oil, and a great deal of wool. Nothing in it is a luxury trade. The town's advantage is that it sits where the roads from four directions meet, so a farmer with a cart can reach it inside a day.
+Campara sells what the south of Regno grows: grain, fruit, oil, and a great deal of wool. Nothing in it is a luxury trade. The town's advantage is that it sits where the roads from four directions meet, so a farmer with a cart can reach it inside a day.
 
-The money is made on volume and the margins are thin, which gives the place its character. Campara is busy, unglamorous, and sharper about prices than anywhere else in the kingdom.
+The money is made on volume and the margins are thin, and that gives the place its character. Campara is busy, unglamorous, and sharper about prices than anywhere else in the kingdom.
 
 ## Festivals and the Fifth Square
 
@@ -29,7 +29,7 @@ One square is kept out of the rota and is used for festivals, hangings, proclama
 
 ## The Council of Squares
 
-The town is run by a council in which every square on the rota has a voice, which is to say that the traders of each square send one. It is a crowded, argumentative body with a long reputation for getting the roads mended.
+The town is run by a council in which every square on the rota has a voice. The traders of each square send one. It is a crowded, argumentative body with a long reputation for getting the roads mended.
 
 No square has ever been given a second voice. Proposals to that effect are what passes for a scandal in Campara.
 

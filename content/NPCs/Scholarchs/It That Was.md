@@ -10,13 +10,13 @@ Home Realm: [[Temporalis]]
 
 Member of the [[Scholarchs]].
 
-The Scholarch of the past. Holds the lake, which is ringed on every side by waterfalls that nobody has reached.
+The Scholarch of the past. Holds the lake, ringed on every side by waterfalls that nobody has reached.
 
 ## Appearance
 
 The oldest-looking of the three. Its hide is the colour of wet stone, weathered the way a step is weathered. Water runs off it constantly, whether or not it has been in the lake. The wings are too heavy to look as though they are used.
 
-Its eyes do not follow a visitor. They settle somewhere slightly behind where you are standing, which several people have taken for rudeness and which is not.
+Its eyes do not follow a visitor. They settle somewhere slightly behind where you are standing. Several people have taken that for rudeness. It is not.
 
 ## Manner
 

@@ -15,7 +15,7 @@ Every living thing in Hunt has a role. A visitor is either hunting or being hunt
 
 The roles are assigned on arrival and they are not permanent. A hunter that fails badly enough becomes quarry. Quarry that survives long enough is offered the other side.
 
-The quarry is always given a real chance. This is the rule the domain is built on and it has never been waived, which is the only reason anyone comes here voluntarily.
+The quarry is always given a real chance. This is the rule the domain is built on and it has never been waived. That is the only reason anyone comes here voluntarily.
 
 **Fiadhachlúbhar** (FEE-a-ghakh-loo-var), the hunting ground, is open country cut by treelines, laid out as though somebody designed it for the purpose, because somebody did.
 
@@ -29,7 +29,7 @@ The quarry is always given a real chance. This is the rule the domain is built o
 
 Atris keeps a lodge rather than a court, and it moves. Where the lodge is standing is where the domain's business is done that season.
 
-Atris appears as a young woman in a chiton, barefoot, carrying a bow. She was the lover of [[Thalia]] and gave her the power that made her a god, which is the single most consequential thing any archfey has done for a mortal.
+Atris appears as a young woman in a chiton, barefoot, carrying a bow. She was the lover of [[Thalia]] and gave her the power that made her a god, the single most consequential thing any archfey has done for a mortal.
 
 ## The Cities
 
@@ -58,7 +58,7 @@ Atris appears as a young woman in a chiton, barefoot, carrying a bow. She was th
 
 Cuithu (KUH-huh), Fiadhu (FEE-a-ghuh), Sionnu (SHON-nuh), Géiru (GAY-ruh), Ulchu (UL-khuh), Tuircu (TUR-kuh), Faolru (FAL-ruh), Rosclu (ROSK-luh), Eachu (A-khuh), Giorau (GO-ra), Natharu (NA-ha-ruh) and Cáirneu (KAHR-neh).
 
-Every one of them is downwind of something. Villages in Hunt are sited for cover rather than for water or road access, which makes the domain's map look wrong to anyone who has not lived in it.
+Every one of them is downwind of something. Villages in Hunt are sited for cover rather than for water or road access, so the domain's map looks wrong to anyone who has not lived in it.
 
 > *I was told on arrival which of the two I was, and I will not be writing it down. I will say that the chance they give you is genuine, that I took it, and that I have never run so well before or since.*
 

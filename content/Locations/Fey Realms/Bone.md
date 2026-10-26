@@ -13,7 +13,7 @@ One of the seven domains of [[Iris]], held by [[Alsa]]. For how names and bargai
 
 Nothing decays in Bone. Everything that has died here is still here, and the domain has been accumulating for as long as it has existed.
 
-The ground is bone. The buildings are bone. What a creature was in life stays legible in what is left of it long after the creature itself is gone, which makes the domain the best archive in the fey realms and an unpleasant place to walk.
+The ground is bone. The buildings are bone. What a creature was in life stays legible in what is left of it long after the creature itself is gone. That makes the domain the best archive in the fey realms, and an unpleasant place to walk.
 
 Bone faces Hunt across the realm. One of them produces the dead and the other one keeps them, and the two domains have a working relationship that neither enjoys.
 
@@ -27,9 +27,9 @@ Bone faces Hunt across the realm. One of them produces the dead and the other on
 
 ## Lainea (LA-nya) Alsa
 
-Alsa's seat stands inside An Cionn Mór, which is either the grimmest joke in Iris or simply the largest available building, and Alsa has never clarified.
+Alsa's seat stands inside An Cionn Mór, either the grimmest joke in Iris or simply the largest available building. Alsa has never clarified.
 
-Alsa appears as a werewolf eight feet tall with broken bones protruding. The other archfey keep Alsa at arm's length for not being pleasant to look at, which has not cost Alsa an inch of territory.
+Alsa appears as a werewolf eight feet tall with broken bones protruding. The other archfey keep Alsa at arm's length for not being pleasant to look at. It has not cost Alsa an inch of territory.
 
 ## The Cities
 

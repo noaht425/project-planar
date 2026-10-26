@@ -10,11 +10,11 @@ Home Realm: [[Temporalis]]
 
 Member of the [[Scholarchs]].
 
-The Scholarch of the present. Holds the city, which is busy, loud, and lit at all hours.
+The Scholarch of the present. Holds the city: busy, loud, and lit at all hours.
 
 ## Appearance
 
-The least impressive of the three on first sight, which is deliberate. In the city it reads as one more figure in the crowd, and a visitor can walk past it several times in an afternoon. It is a sphinx when it chooses to be and it chooses to be rarely.
+The least impressive of the three on first sight. That is deliberate. In the city it reads as one more figure in the crowd, and a visitor can walk past it several times in an afternoon. It is a sphinx when it chooses to be and it chooses to be rarely.
 
 It is the easiest of the three to reach and much the hardest to find.
 
@@ -32,7 +32,7 @@ It is the hungriest of the three for that reason. What it wants is what is happe
 
 ## What It Asks
 
-News, and the newer and stranger the better. A warlock of It That Is reports constantly and is never asked to keep any of it secret, which is the opposite of the arrangement on offer from [[It That Will Be]].
+News, and the newer and stranger the better. A warlock of It That Is reports constantly and is never asked to keep any of it secret, the opposite of the arrangement on offer from [[It That Will Be]].
 
 A warlock of It That Is can use what it knows while surprised or helpless, and on things they cannot see. See [[Warlock Scholarch]].
 

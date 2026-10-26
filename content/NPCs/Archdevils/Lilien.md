@@ -22,9 +22,9 @@ Both halves are awake and both speak. They do not frequently argue in front of v
 
 [[Aaranea]] meant to love. Lilien kept wanting and lost having, and every soul in Desire is kept at the point just before a thing is obtained.
 
-Lilien is the only one of the twelve aside from Abaddon who is visibly two, which the others treat as an obscenity. All twelve avoid the number two out of hatred for what they used to be, and Lilien cannot. The other five archdevils address only the right half and always have. [[Belphegor]] is the exception and talks to both.
+Lilien is the only one of the twelve aside from Abaddon who is visibly two. The others treat that as an obscenity. All twelve avoid the number two out of hatred for what they used to be, and Lilien cannot. The other five archdevils address only the right half and always have. [[Belphegor]] is the exception and talks to both.
 
-Desire covers lust, envy, and greed, and Lilien regards the three as one thing badly divided, which is a view the other archdevils have learned not to raise.
+Desire covers lust, envy, and greed, and Lilien regards the three as one thing badly divided. The other archdevils have learned not to raise the point.
 
 > *Lilien had the map of Iudis I had come for and sold it to me at a fair price. While it was being wrapped, the left half mentioned that there was an older one, more complete, for only a little more, and I bought that instead. While that one was being wrapped, the right half mentioned another. I left at nightfall without any map at all, and owing for several.*
 

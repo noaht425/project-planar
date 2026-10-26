@@ -17,7 +17,7 @@ On 56 Morcaela, 202 AM, on the two hundredth anniversary of the kingdom, [[Alist
 
 He banished Stormjaw, banned dragonborn from the capital, and commissioned the wall that holds the breach, which has been maintained without a break ever since. The first two decisions were popular. The second is still in force and is the kingdom's standing injustice, since the people it falls on had nothing to do with the man it was aimed at.
 
-He did not try to close the breach. He was advised that it could not be done and he accepted the advice, which later kings have been criticised for accepting as well.
+He did not try to close the breach. He was advised that it could not be done and he accepted the advice. Later kings have been criticised for accepting it as well.
 
 > *The ban on dragonborn is read out at the gate of Geno on the anniversary, in Genoan, by a clerk who is not required to explain it. I watched it happen. A dragonborn carter who had been waiting in the queue listened to the whole thing, turned the cart round, and went to [[Mensosde Talthu]] instead, which is five days further on.*
 

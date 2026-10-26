@@ -23,7 +23,7 @@ Anyone who says the name aloud in Tiyanak's hearing has Tiyanak's full attention
 
 ## Manner
 
-[[Sylas]] meant to compose verse and to sing. Tiyanak's lies are built rather than improvised. They are long and internally consistent. A Tiyanak deception usually has a shape that is beautiful to follow, which is most of why people follow it.
+[[Sylas]] meant to compose verse and to sing. Tiyanak's lies are built rather than improvised. They are long and internally consistent. A Tiyanak deception usually has a shape that is beautiful to follow, and that is most of why people follow it.
 
 They do not lie about small things and find it tedious when others do.
 
@@ -35,7 +35,7 @@ Tiyanak wants chaos generally and keeps several projects running toward it at on
 
 The current one is [[Ius Primum]]. Tiyanak intends to get an archfey and an elf to break it, which requires a fey willing to renounce the claim and an elf willing to refuse it, and the collapse of the deal would put [[Kingdom of Thalanea|Thalanea]] and [[Kingdom of Kumas|Kumas]] into open war rather than the cold one they have now. Tiyanak was supposed to witness the signing and did, standing in for the Indri they had already killed, so they know the terms better than any living party to it.
 
-Tiyanak knows that [[Indri]] has escaped the underworld and has sealed the cage. Tiyanak is sending warlocks to hunt Indri and tells each of them whichever lie will get them to kill him. Some are told that Indri is causing chaos, which is Tiyanak's own work, and that he must be stopped. Others are told that he is an imposter.
+Tiyanak knows that [[Indri]] has escaped the underworld and has sealed the cage. Tiyanak is sending warlocks to hunt Indri and tells each of them whichever lie will get them to kill him. Some are told that Indri is causing the chaos that is in fact Tiyanak's own work, and that he must be stopped. Others are told that he is an imposter.
 
 ## History
 

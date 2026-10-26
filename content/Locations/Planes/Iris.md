@@ -29,7 +29,7 @@ There is no capital and no central court. Each archfey holds their own ground an
 
 **Bone**, held by [[Alsa]], keeps everything that has ever died in it. Nothing breaks down here. The ground is bone, the buildings are bone, and what a creature was is still legible in what is left of it long after the creature is gone.
 
-**Rot**, held by [[Grixt]], breaks everything down and puts it back to use. Nothing is wasted and nothing is kept. Much of what lives there is several things at once wearing a single shape, which is also true of Grixt.
+**Rot**, held by [[Grixt]], breaks everything down and puts it back to use. Nothing is wasted and nothing is kept. Much of what lives there is several things at once wearing a single shape. The same is true of Grixt.
 
 Alsa and Grixt are kept at arm's length by the other archfey on the grounds of not being pleasant enough to look at. Their domains sit out at the edges of the feywilds. They are still their domains, and the two of them still hold them outright.
 
@@ -47,7 +47,7 @@ What remains is small and scattered. A hole in a tree that comes out somewhere i
 
 A couple of fey may suspect. Proving it is another matter. The domain of Trickery and the hell of [[Deceit]] both run on lying, so the other archfey have always known that whoever holds Trickery lies to them constantly. Knowing that gives them no way to sort one kind of lie from another.
 
-Those who have got close to it have not done well. Ezra Linvale worked out that Indri had been replaced and was killed for it, which is the sort of thing that keeps the rest from looking too hard.
+Those who have got close to it have not done well. Ezra Linvale worked out that Indri had been replaced and was killed for it. That is the sort of thing that keeps the rest from looking too hard.
 
 ## Mortals in Iris
 

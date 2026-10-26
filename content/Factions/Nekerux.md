@@ -16,9 +16,9 @@ Both live in [[Liminia]], which lies between the heavens and the hells inside [[
 
 Two decisions, in order.
 
-[[Bis]] decides whether a soul is good or bad overall, which settles the side.
+[[Bis]] decides whether a soul is good or bad overall, and so settles the side.
 
-[[Seisear]] decides which of the six portions it goes to, which settles the domain. Each of the six portions pairs a heaven with the hell most like it, so between the two of them the twelve destinations are covered.
+[[Seisear]] decides which of the six portions it goes to, and so settles the domain. Each of the six portions pairs a heaven with the hell most like it, so between the two of them the twelve destinations are covered.
 
 A soul meets Bis first. Seisear's decision is quick. Bis's is not.
 

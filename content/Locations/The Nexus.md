@@ -11,7 +11,7 @@ A man-made island in the middle of the three continents, raised in about 40 AM, 
 
 The eight kingdoms that existed then paid for it together: [[Kingdom of Geno|Geno]], [[Kingdom of Krotaphos|Krotaphos]], [[Kingdom of Sylfaen|Sylfaen]], [[Kingdom of Thalamas|Thalamas]], [[Kingdom of Starkon|Starkon]], [[Kingdom of Mathair|Mathair]], [[Kingdom of Regno|Regno]], and [[Kingdom of Oinarria|Oinarria]]. None of them did the work. They hired it, and the hire was the largest single commission any of the kingdoms had placed to that point.
 
-What the eight were buying was ground that none of them owned. A meeting held in a capital is a meeting held on somebody's terms, and all eight refused to be the host, which is the whole reason the island exists.
+What the eight were buying was ground that none of them owned. A meeting held in a capital is a meeting held on somebody's terms, and all eight refused to be the host. That is the whole reason the island exists.
 
 Each kingdom's contribution was recorded at the time. The eight accounts that survive do not agree with one another, and every one of them has its own kingdom paying the most.
 
@@ -19,7 +19,7 @@ Each kingdom's contribution was recorded at the time. The eight accounts that su
 
 The island is a single piece of raised stone, roughly circular, with a harbour cut into its western side. It holds the [[Panarex]] at its centre and very little else: the harbour works, the houses of the people who keep the place, and a cistern system, since there is no fresh water on it.
 
-Nothing is grown there. Everything eaten on the Nexus arrives by ship, which is why the harbour is the busiest thing on the island for the fortnight before a session and quiet for years at a stretch.
+Nothing is grown there. Everything eaten on the Nexus arrives by ship, so the harbour is the busiest thing on the island for the fortnight before a session and quiet for years at a stretch.
 
 The stone has no seams in it anywhere, and no quarry on any continent matches it.
 

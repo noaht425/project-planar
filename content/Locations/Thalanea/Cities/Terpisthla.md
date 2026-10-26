@@ -21,7 +21,7 @@ Thalanea and [[Kingdom of Kumas|Kumas]] trade with each other steadily and in vo
 
 The traffic runs through this harbour and through the border towns. Kumas sends cloth, worked silver, and a good deal of what it buys from [[Iris]]. Thalanea sends stone, grain, and timber. The paperwork describes a great deal of it as coming from somewhere else, and nobody at either end examines the paperwork closely.
 
-Six centuries of cold war have not interrupted it. What the quarrel has produced is an elaborate habit of not mentioning it, which the clerks of Terpisthla maintain better than anyone.
+Six centuries of cold war have not interrupted it. What the quarrel has produced is an elaborate habit of not mentioning it. The clerks of Terpisthla maintain that better than anyone.
 
 ## The Clerks
 
