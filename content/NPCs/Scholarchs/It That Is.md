@@ -10,6 +10,48 @@ Home Realm: [[Temporalis]]
 
 Member of the [[Scholarchs]].
 
+The Scholarch of the present. Holds the city, which is busy, loud, and lit at all hours.
+
+## Appearance
+
+The least impressive of the three on first sight, which is deliberate. In the city it reads as one more figure in the crowd, and a visitor can walk past it several times in an afternoon. It is a sphinx when it chooses to be and it chooses to be rarely.
+
+It is the easiest of the three to reach and much the hardest to find.
+
+## Manner
+
+Relaxed, in a way the other two are not. It takes what arrives as it arrives and is rarely put out by any of it. It will answer a question in the street, in the middle of whatever else it is doing, and it will not tell you that you have been speaking to a Scholarch unless you work it out.
+
+It likes novelty. Trinkets, oddities, news, and a riddle it has not heard before all buy more of its time than deference does.
+
+## What It Cannot See
+
+It holds the present and cannot see the present anywhere but in its own city. This surprises people, who assume that the Scholarch of now knows what is happening everywhere now, and it is the reason the three take warlocks at all. A warlock is a pair of eyes somewhere the Scholarch is not.
+
+It is the hungriest of the three for that reason. What it wants is what is happening where you have just been, in as much detail as you can give it, and it does not much care whether the thing is important.
+
+## What It Asks
+
+News, and the newer and stranger the better. A warlock of It That Is reports constantly and is never asked to keep any of it secret, which is the opposite of the arrangement on offer from [[It That Will Be]].
+
+A warlock of It That Is can use what it knows while surprised or helpless, and on things they cannot see. See [[Warlock Scholarch]].
+
+It is the one of the three that visibly dislikes [[Isadora]], and the only one that has ever shown a mortal what that looks like. See [[Scholarchs]].
+
+> *I brought it the price of fish in two ports, which was all I had that it did not already have. It took the whole of it, then asked follow-up questions for half an hour. It was not being kind to me. It wanted the figures. At the end of it a child came past selling something on a string and it bought one, and I was dismissed for the string.*
+
+## Design Notes
+
+It That Is is the Scholarch a party will actually get an audience with, because it is in a city and it will talk to anybody. The difficulty is finding it rather than impressing it.
+
+The blind spot is the useful rule. The Scholarchs are not omniscient, they are well informed, and the difference is a party that has been somewhere they have not.
+
+## Open
+
+- What it does with the news it collects is unwritten.
+- Whether the city's people know what lives among them is unwritten.
+- Where it keeps the things it buys is unwritten.
+
 ## Stat Block
 
 Gargantuan Monstrosity, lawful neutral

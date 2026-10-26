@@ -10,6 +10,48 @@ Home Realm: [[Temporalis]]
 
 Member of the [[Scholarchs]].
 
+The Scholarch of the future. Holds the field, which runs under stars for as long as anyone walks it, with trees at the edge that nobody has reached.
+
+## Appearance
+
+The hardest of the three to look at directly. Its outline does not settle, and the stars of its own field show through it in places, so a visitor's eye keeps sliding off to somewhere behind it. Accounts of its face do not agree with one another.
+
+## Manner
+
+The strictest of the three by a distance. It is formal, it is exact, and it does not make allowances.
+
+It will not answer a question until the terms are agreed, which means what may be repeated afterwards, to whom, and in what words. The terms are not negotiable and it does not explain them. People who have broken them are not seen in the field again.
+
+## The Difficulty
+
+Divination used to be far easier than it is. It That Will Be grew paranoid about what could be found out, so it made divination harder. The difficulty has stayed exactly where it set it.
+
+It did this without asking the other two. Both of them have backed it in public ever since, and nothing that was said between the three about it has ever reached anyone outside the realm. See [[Scholarchs]].
+
+Every diviner in the world is working against a setting that one being chose, which most of them know.
+
+## What It Asks
+
+To know what is coming before anyone else does, and to make certain that nobody else does. Those are one purpose rather than two.
+
+A warlock of It That Will Be gets more foreknowledge than the other two will allow and loses whatever is not used before the next rest. In exchange the warlock reports in, keeps to the rules about what may be said, and accepts that the rules are not explained. See [[Warlock Scholarch]].
+
+> *It answered a question I had not asked yet, in full, and then told me that the one I had come with was not available to me. I never said either question aloud. On the way out of the field I tried to write down the answer it had given and found that I could remember all of it except the part that would have made it useful, which I am told is not an accident.*
+
+## Design Notes
+
+It That Will Be is the reason divination in this world behaves the way it does at the table. A diviner in a party therefore has a legitimate grievance against a being they can go and meet.
+
+The terms are the scene. An audience with it is a negotiation about disclosure before it is a conversation about anything, and a party that agrees too quickly has agreed to something it has not read.
+
+What it is afraid of is deliberately unwritten. It has rationed the future for a very long time and the obvious reading is that it has seen something in it.
+
+## Open
+
+- What it saw, if it saw anything, is unwritten.
+- What happens to people who break its terms is unwritten beyond that they do not come back.
+- Whether the trees at the edge of the field are anything is unwritten. See [[Temporalis]].
+
 ## Stat Block
 
 Gargantuan Monstrosity, lawful neutral

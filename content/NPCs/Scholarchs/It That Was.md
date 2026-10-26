@@ -10,6 +10,48 @@ Home Realm: [[Temporalis]]
 
 Member of the [[Scholarchs]].
 
+The Scholarch of the past. Holds the lake, which is ringed on every side by waterfalls that nobody has reached.
+
+## Appearance
+
+The oldest-looking of the three. Its hide is the colour of wet stone, weathered the way a step is weathered. Water runs off it constantly, whether or not it has been in the lake. The wings are too heavy to look as though they are used.
+
+Its eyes do not follow a visitor. They settle somewhere slightly behind where you are standing, which several people have taken for rudeness and which is not.
+
+## Manner
+
+Lofty, courteous, and very hard to read. It does not hurry and it does not interrupt.
+
+What occupies it is what could have gone differently. Every choice it is told about, and every chain of events that would have followed if the choice had gone the other way. It hides this better than the other two hide anything, and a visitor can go a whole audience without noticing that the questions have a pattern to them.
+
+The pattern is this: its questions are always about what you nearly did. Not what you did. Warlocks who spend long enough with it work this out eventually, usually by being asked a third time about a decision they thought was closed.
+
+## Its Own Account
+
+It is afraid of something in its own past and will not be drawn on what. The fear is quiet, it is old, and it is the reason for the questions. A visitor's bad decisions are useful to it because they are something to measure its own against, and it has been measuring for a very long time.
+
+Nobody has established whether the alternatives it keeps exist anywhere, or whether it is simply thinking about them.
+
+## What It Asks
+
+Accounts of decisions, particularly the ones that went badly, and what the person would do with another try. It takes few warlocks and it does not take anyone who cannot answer the second half of that honestly.
+
+A warlock of It That Was can use what it knows after the fact, replacing something that has already happened. None of the other two will offer that. See [[Warlock Scholarch]].
+
+> *It asked me about a position I turned down before I had begun this book, which I had not mentioned to it or to anyone in that realm. Then it asked what I would have written instead, and listened to the answer, and asked again in slightly different words an hour later. I gave it a different answer the second time. It thanked me for both and I have not stopped wondering which of them it wanted.*
+
+## Design Notes
+
+It That Was is the Scholarch to use when a party has something to undo. The offer is real and the price is an honest account of a decision, which is harder for most players to produce than treasure.
+
+Its paranoia about its own past is the thing to keep off the page in play. It never says so. A party that works it out has something no other mortal has.
+
+## Open
+
+- What it did, or failed to do, is unwritten.
+- Whether the alternatives it keeps are real places is unwritten.
+- Whether the waterfalls can be reached at all is unwritten. See [[Temporalis]].
+
 ## Stat Block
 
 Gargantuan Monstrosity, lawful neutral
