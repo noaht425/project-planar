@@ -138,7 +138,6 @@ Otho's office was robbed in Session 1 and the puzzle box taken from it held a ri
 
 ## Open
 
-- How the entrance assessment actually works is unwritten.
 - What the eight endowing families got in return, and which of them still have influence, is unwritten.
 - What is in the restricted section that the necromancers are not allowed to see is unwritten.
 - The college and faculty names are coined and should be checked or replaced.

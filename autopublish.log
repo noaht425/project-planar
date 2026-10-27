@@ -10566,3 +10566,230 @@ Filtered out 0 files in 220μs
 Emitting files
 Emitted 1067 files to `public` in 36s
 Done processing 429 files in 42s
+dm site pushed
+player site built, no changes to publish
+=== 2026-10-26 13:08:51
+vault unchanged, nothing to do
+=== 2026-10-26 13:18:51
+vault unchanged, nothing to do
+=== 2026-10-26 13:28:51
+vault unchanged, nothing to do
+=== 2026-10-26 13:38:51
+vault unchanged, nothing to do
+=== 2026-10-26 13:48:51
+vault unchanged, nothing to do
+=== 2026-10-26 13:58:51
+vault unchanged, nothing to do
+=== 2026-10-26 14:08:52
+vault unchanged, nothing to do
+=== 2026-10-26 14:34:47
+vault unchanged, nothing to do
+=== 2026-10-26 14:44:47
+vault unchanged, nothing to do
+=== 2026-10-26 14:54:47
+vault unchanged, nothing to do
+=== 2026-10-26 15:09:43
+vault unchanged, nothing to do
+=== 2026-10-26 15:23:13
+vault unchanged, nothing to do
+=== 2026-10-26 15:33:13
+vault unchanged, nothing to do
+=== 2026-10-26 15:43:13
+vault unchanged, nothing to do
+=== 2026-10-26 15:53:14
+vault unchanged, nothing to do
+=== 2026-10-26 16:03:14
+vault unchanged, nothing to do
+=== 2026-10-26 16:13:14
+vault unchanged, nothing to do
+=== 2026-10-26 16:23:14
+vault unchanged, nothing to do
+=== 2026-10-26 16:33:14
+vault unchanged, nothing to do
+=== 2026-10-26 16:43:14
+vault unchanged, nothing to do
+=== 2026-10-26 16:53:14
+vault unchanged, nothing to do
+=== 2026-10-26 17:03:15
+vault unchanged, nothing to do
+=== 2026-10-26 17:13:15
+vault unchanged, nothing to do
+=== 2026-10-26 17:23:15
+vault unchanged, nothing to do
+=== 2026-10-26 17:33:15
+vault unchanged, nothing to do
+=== 2026-10-26 17:43:15
+vault unchanged, nothing to do
+=== 2026-10-26 17:53:15
+vault unchanged, nothing to do
+=== 2026-10-26 18:25:35
+vault unchanged, nothing to do
+=== 2026-10-26 20:38:02
+vault unchanged, nothing to do
+=== 2026-10-26 22:00:28
+vault unchanged, nothing to do
+=== 2026-10-26 22:10:28
+vault unchanged, nothing to do
+=== 2026-10-26 22:20:28
+vault unchanged, nothing to do
+=== 2026-10-26 22:30:28
+vault unchanged, nothing to do
+=== 2026-10-26 22:45:50
+vault unchanged, nothing to do
+=== 2026-10-26 22:55:50
+vault unchanged, nothing to do
+=== 2026-10-26 23:07:44
+vault unchanged, nothing to do
+=== 2026-10-26 23:17:44
+vault unchanged, nothing to do
+=== 2026-10-26 23:38:40
+vault unchanged, nothing to do
+=== 2026-10-27 00:25:01
+vault unchanged, nothing to do
+=== 2026-10-27 00:39:12
+vault unchanged, nothing to do
+=== 2026-10-27 00:49:12
+vault unchanged, nothing to do
+=== 2026-10-27 00:59:12
+vault unchanged, nothing to do
+=== 2026-10-27 01:24:42
+vault unchanged, nothing to do
+=== 2026-10-27 01:34:42
+vault unchanged, nothing to do
+=== 2026-10-27 01:54:31
+vault unchanged, nothing to do
+=== 2026-10-27 02:04:31
+vault unchanged, nothing to do
+=== 2026-10-27 02:14:31
+vault unchanged, nothing to do
+=== 2026-10-27 02:24:31
+vault unchanged, nothing to do
+=== 2026-10-27 02:34:31
+vault unchanged, nothing to do
+=== 2026-10-27 02:44:31
+vault unchanged, nothing to do
+=== 2026-10-27 03:27:57
+vault unchanged, nothing to do
+=== 2026-10-27 04:25:55
+vault unchanged, nothing to do
+=== 2026-10-27 04:37:16
+vault unchanged, nothing to do
+=== 2026-10-27 05:05:38
+vault unchanged, nothing to do
+=== 2026-10-27 05:58:36
+vault unchanged, nothing to do
+=== 2026-10-27 06:08:36
+vault unchanged, nothing to do
+=== 2026-10-27 06:33:34
+vault unchanged, nothing to do
+=== 2026-10-27 08:22:30
+vault unchanged, nothing to do
+=== 2026-10-27 09:06:59
+vault unchanged, nothing to do
+=== 2026-10-27 10:13:21
+vault unchanged, nothing to do
+=== 2026-10-27 10:31:56
+vault unchanged, nothing to do
+=== 2026-10-27 12:08:08
+vault unchanged, nothing to do
+=== 2026-10-27 12:53:39
+vault unchanged, nothing to do
+=== 2026-10-27 13:28:57
+vault unchanged, nothing to do
+=== 2026-10-27 13:38:57
+vault unchanged, nothing to do
+=== 2026-10-27 14:26:20
+vault unchanged, nothing to do
+=== 2026-10-27 14:36:21
+vault unchanged, nothing to do
+=== 2026-10-27 14:46:21
+copied 105 notes, skipped 328 notes, 0.19 MB, flattened links in 5 files
+
+ Quartz v5.0.0  
+
+Cleaned output directory `public-players` in 16ms
+Found 106 input files from `content` in 22ms
+Parsing input files using 1 threads
+Parsed 106 Markdown files in 2s
+Filtered out 0 files in 104μs
+Emitting files
+Emitted 254 files to `public-players` in 9s
+Done processing 106 files in 11s
+copied 428 notes, skipped 5 notes, 1.55 MB
+
+ Quartz v5.0.0  
+
+Cleaned output directory `public` in 67ms
+Found 429 input files from `content` in 41ms
+Parsing input files using 3 threads
+
+Warning: found invalid date "1 Aucaela, 1 AM – 1 Auctera, 1 AM" in `Events/Council of Creation.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "1 Aucaela, 1 AM – 1 Auctera, 1 AM" in `Events/Council of Creation.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "1 Aucaela, 1 AM – 1 Auctera, 1 AM" in `Events/Council of Creation.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "2,987 AF – 50 AF" in `Events/Divine War.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "2,987 AF – 50 AF" in `Events/Divine War.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "2,987 AF – 50 AF" in `Events/Divine War.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "50 AF" in `Events/Great Separation.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "50 AF" in `Events/Great Separation.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "50 AF" in `Events/Great Separation.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "99 Morcaela, 428" in `Events/La Grande Mascarade.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "99 Morcaela, 428" in `Events/La Grande Mascarade.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "99 Morcaela, 428" in `Events/La Grande Mascarade.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "3,096 AF" in `Events/Syzygy.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "3,096 AF" in `Events/Syzygy.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "3,096 AF" in `Events/Syzygy.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "39-10 AF" in `Events/The Coalescence.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "39-10 AF" in `Events/The Coalescence.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "39-10 AF" in `Events/The Coalescence.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "3,097 AF" in `Events/The Division.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "3,097 AF" in `Events/The Division.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "3,097 AF" in `Events/The Division.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "36 Morcaela, 546 AM – 16 Auctera, 657 AM" in `Events/The Great Unrest.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "36 Morcaela, 546 AM – 16 Auctera, 657 AM" in `Events/The Great Unrest.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "36 Morcaela, 546 AM – 16 Auctera, 657 AM" in `Events/The Great Unrest.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "50 AF" in `Events/The Planar Collision.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "50 AF" in `Events/The Planar Collision.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "50 AF" in `Events/The Planar Collision.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "36 Aucaela, 405 AM" in `Events/War Between Genasi and Lux.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "36 Aucaela, 405 AM" in `Events/War Between Genasi and Lux.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "36 Aucaela, 405 AM" in `Events/War Between Genasi and Lux.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "86 Auctera, 397 AM – 3 Mortera, 427" in `Events/War Between Kingdom of Krotaphos and Kingdom of Sylfaen.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "86 Auctera, 397 AM – 3 Mortera, 427" in `Events/War Between Kingdom of Krotaphos and Kingdom of Sylfaen.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "86 Auctera, 397 AM – 3 Mortera, 427" in `Events/War Between Kingdom of Krotaphos and Kingdom of Sylfaen.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+Parsed 429 Markdown files in 6s
+Filtered out 0 files in 378μs
+Emitting files
+Emitted 1067 files to `public` in 38s
+Done processing 429 files in 44s
