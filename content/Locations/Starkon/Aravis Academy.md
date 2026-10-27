@@ -108,7 +108,7 @@ The necromancy section is the largest, because necromancy alone was blood, bone,
 
 ## Student Life
 
-Half the houses in Hekatania let rooms to students and every landlady has her own rule about magic indoors. The usual compromise is cantrips in the daytime and nothing after dark.
+Half the houses in Hekatania let rooms to students and every landlord or lady has her own rule about magic indoors. The usual compromise is cantrips in the daytime and nothing after dark.
 
 The colleges keep their own halls, their own kitchens, and their own grudges. Osterloh and Reichert are the two that matter in city politics. Hensel and Lindner share a building and do not speak. The Conservatory holds a concert at the end of each term that the whole city attends, and that the wizard colleges claim not to.
 
