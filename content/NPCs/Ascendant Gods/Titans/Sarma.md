@@ -9,6 +9,9 @@ Home Realm: [[Arenis]]
 
 Member of the [[Ascendant Gods]].
 
+## History
+- 98 Aucaela, 1 AM: [[Kleipur]] gives the six titans their power
+
 ## Appearance
 
 Sarma (SAR-muh) is a frost giant. The air around them is always cold, and frost forms on whatever they lean against.

@@ -15,6 +15,11 @@ Wears a rabbit mask when attempting to disguise her appearance.
 
 Member of the [[Ascendant Gods]].
 
+## History
+- 583 AM: First attested, at a gaming table in [[Caragna]]
+- 601 AM: First recorded appearance under the rabbit mask
+- 640 AM: First recorded as a god rather than as a very fortunate mortal
+
 ## Manner
 
 Isadora (ees-uh-DOR-uh) is the goddess of luck, fortune and misfortune both, and she plays with fate the way a cat plays with a ball of yarn.
@@ -33,7 +38,13 @@ The [[Scholarchs]] hate her. Their purpose is to keep things in balance, and she
 
 **Relic:** [[Isadora's Dice]], five obsidian dice inscribed with gold. She gives them away from time to time and they tend to come back.
 
-**Source:** unwritten.
+**Source:** unwritten, and she will not say.
+
+Isadora is the most recent of the ascendants and the worst documented. There is no date for her ascension because she has never given one, and she treats the question as the funniest thing anybody asks her. She has given at least four different answers to it that cannot all be true, and it is not clear that any of them is.
+
+What can be dated is when people started noticing her. She is first attested at a table in [[Caragna]] in 583 AM, first recorded behind the mask in 601 AM, and first written down as a god rather than as an unusually lucky woman in 640 AM. So she ascended at some point before 583 AM and after [[Iras]] in 441 AM, which leaves a window of a hundred and forty years.
+
+She knows the window exists. She has been asked to narrow it and has instead offered to play for the answer.
 
 ## Goals
 

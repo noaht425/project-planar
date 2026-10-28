@@ -9,6 +9,9 @@ Home Realm: [[Arenis]]
 
 Member of the [[Ascendant Gods]].
 
+## History
+- 98 Aucaela, 1 AM: [[Kleipur]] gives the six titans their power
+
 ## Appearance
 
 Kodren (KOH-dren) is a hill giant, and when he is lying down, which is most of the time, he is difficult to tell from a hill.

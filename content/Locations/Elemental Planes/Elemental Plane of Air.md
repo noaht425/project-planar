@@ -13,7 +13,7 @@ One of the five elemental realms of [[Tarkis]]. It was ruled by [[Zaros]], whose
 
 Air was the built-up realm. Under Zaros it carried more city and less open sky than probably anywhere else in Tarkis. What Zaros collected was cities, and he went on collecting them for as long as he held the place.
 
-The storm has been on it ever since he died. Lightning and thunder do not stop. Roofs are gone across whole districts and have not been replaced. People are poor in a way the other realms mostly are not. Daily life swings between revelry and panic, and usually settles into neither.
+The storm has been on it since he died on 29 Morcaela, 374 AM, which is over three centuries now. Lightning and thunder do not stop. Roofs are gone across whole districts and have not been replaced. People are poor in a way the other realms mostly are not. Daily life swings between revelry and panic, and usually settles into neither.
 
 **Zarosde Eteros** (zah-ROS-deh eh-TEH-ros), Zaros's place, is the ring of cities under the old seat. Most of what is left of the realm's population is here.
 

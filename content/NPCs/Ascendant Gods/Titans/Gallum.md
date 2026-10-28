@@ -9,6 +9,9 @@ Home Realm: [[Arenis]]
 
 Member of the [[Ascendant Gods]].
 
+## History
+- 98 Aucaela, 1 AM: [[Kleipur]] gives the six titans their power
+
 ## Appearance
 
 Gallum (GAL-um) is a cloud giant, and he weighs whatever he likes. Most of the time he likes to weigh very little.

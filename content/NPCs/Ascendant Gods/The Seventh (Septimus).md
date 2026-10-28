@@ -6,11 +6,11 @@ hp: 345
 ac: 20
 ---
 
-Devil of Rebellion. Paladin of Archon who tried to claim all of the heavens and was cast to the role of almost archdevil and stripped of name and title (placed in chains to contain his power by [[Pavlas]]).
+Devil of Rebellion. Paladin of Archon who tried to claim all of the heavens. Cast to the role of almost archdevil and stripped of name and title, and placed in chains by [[Pavlas]] to contain his power.
 
 It is believed that the archangels hold his name but only fae have the power to steal names.
 
-He was close to success and became too powerful to fully stop but was stopped from becoming an archangel and is less powerful than the archdevils.
+He was close to success and became too powerful to fully stop. He was stopped from becoming an archangel, and he is less powerful than the archdevils.
 
 Calls himself Septimus but the archangels do not like it when anyone calls him anything but The Seventh. [[Archdevils]] don't really pay attention to him.
 
@@ -37,7 +37,7 @@ The Seventh calls himself Septimus (SEP-tih-mus), and the difference between the
 
 Rebellion is his domain and the whole of his temperament. He does not accept that anyone has authority over him, and he has been in chains for as long as he has been a god.
 
-He came closer than anyone has to taking the heavens, and the archangels could only stop him partway. The power he reached could not be taken back, so they bound it instead, and the [[Chains of Rebellion]] that [[Pavlas]] made to hold him have taken on his power rather than draining it.
+He came closer than anyone has to taking the heavens, and the archangels could only stop him partway. The power he reached could not be taken back, so they bound it instead. The [[Chains of Rebellion]] that [[Pavlas]] made to hold him have taken on his power rather than draining it.
 
 The archangels treat him as a nuisance, a devil not quite good enough to be counted among the archdevils. The archdevils do not pay attention to him at all, which he finds harder to bear than the chains.
 

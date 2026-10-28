@@ -25,17 +25,22 @@ This is the method as it can be reconstructed from the notes that survive. It is
 
 ## Recorded Ascensions
 
-| Who | Source | Note |
-| --- | --- | --- |
-| [[Orcus]] | [[The King of Night]] | Took the domain of death. The only mortal to steal successfully from either King, with help from [[Grixt]] |
-| [[Hekate]] | [[Arcanis]] | Siphoned from a realm with no purchase on it. Left a hole that is still closing |
-| [[Afthor]] | [[Zaros]] and [[Vari]] | Killed both dragons and drank their blood |
-| [[Thalia]] | [[Atris]] | Given the power rather than taking it, so that she would not die |
-| [[Indri]] | [[Mendax]] | Used one object as both relic and source, while dying |
-| [[Ignatius]] | Powerful beings he killed, devils and dragons among them | Stored the power from each kill until he had enough for the ritual |
-| [[Cleome]] | [[Ignatius]]'s ascension | Held on to a friend as he ascended and went up with him. No other ascension has worked this way |
-| [[Nausicaä]] | [[Themis]] and [[Archon]] | Played the two halves of [[Themati]] against each other. Worked out the process from Ignatius's notes |
-| [[Chore]] | Deep powers of the sea | Followed the other three with help from [[Cleome]] |
+| Who | When | Source | Note |
+| --- | --- | --- | --- |
+| [[Orcus]] | 189 AM | [[The King of Night]] | Took the domain of death. The only mortal to steal successfully from either King, with help from [[Grixt]] |
+| [[Hekate]] | 157 AM | [[Arcanis]] | Siphoned from a realm with no purchase on it. Left a hole that is still closing |
+| [[Afthor]] | 374 AM | [[Zaros]] and [[Vari]] | Killed both dragons and drank their blood |
+| [[Thalia]] | 88 AM | [[Atris]] | Given the power rather than taking it, so that she would not die |
+| [[Indri]] | 3,096 AF | [[Mendax]] | Used one object as both relic and source, while dying |
+| [[Ignatius]] | 241 AM | Powerful beings he killed, devils and dragons among them | Stored the power from each kill until he had enough for the ritual |
+| [[Cleome]] | 241 AM | [[Ignatius]]'s ascension | Held on to a friend as he ascended and went up with him. No other ascension has worked this way |
+| [[Nausicaä]] | 248 AM | [[Themis]] and [[Archon]] | Played the two halves of [[Themati]] against each other. Worked out the process from Ignatius's notes |
+| [[Chore]] | 259 AM | Deep powers of the sea | Followed the other three with help from [[Cleome]] |
+| [[Loime]] | 192 AM | [[Grixt]] | Took from the archfey who had helped his brother, after being refused |
+| [[The Seventh (Septimus)]] | 199 AM | The heavens | Stopped partway. The binding made to hold him became his channel |
+| [[Iras]] | 441 AM | Unrecorded | Gave up the throne of [[Kingdom of Geno|Geno]] twenty-two years before it |
+
+[[Isadora]] and [[Hieronymous]] are not on this list. Isadora has never given a date or a source, and nothing of Hieronymous's route has ever been written down by anybody, including him.
 
 ## Failures
 

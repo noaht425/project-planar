@@ -18,6 +18,11 @@ Race: Giantkin
 
 Member of the [[Ascendant Gods]].
 
+## History
+- 98 Aucaela, 1 AM: [[Kleipur]] gives the six titans their power
+- 29 Morcaela, 374 AM: Kills [[Zaros]] and [[Vari]] and drinks their blood
+- 374 AM onward: A storm settles over the [[Elemental Plane of Air]] and has never lifted
+
 ## Appearance
 
 Afthor (AF-thor) is a storm giant and the largest of the titans. Since he drank the blood of two dragons, lightning runs over him whenever he moves.
@@ -39,6 +44,10 @@ He is overconfident, and so far he has got away with it. Every dragon in [[Tarki
 **Relic:** the [[Storm Lord's Gauntlets]], infused with the blood of Zaros and Vari.
 
 **Source:** [[Kleipur]], given, and later the blood of Zaros and Vari, taken. He is the only titan to have added to what he was given, and it has made him the most powerful of the six.
+
+The second taking was on 29 Morcaela, 374 AM, three hundred and seventy-three years after the first. He killed the lord of air and the lord's second on the same day and drank from both.
+
+The [[Elemental Plane of Air]] has had a storm over it ever since, and that storm is the part of this that has mattered to most people. It has been there for over three centuries. It has only recently grown heavy enough to push the cold down into the [[Ice]] seam and move the sheet there, which is why people who have never heard of Afthor can tell you when the weather changed.
 
 ## Goals
 

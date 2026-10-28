@@ -14,6 +14,13 @@ Race: [[Elementals]]
 
 Member of the [[Ascendant Gods]].
 
+## History
+- 178 AM: Born in [[Arenis]]
+- 196 AM: Enters [[Aravis Academy]]
+- 37 Mortera, 201 AM: Leaves the Academy, by the Academy's record of his own accord
+- 203 to 240 AM: Hunts for a source, killing devils and at least one dragon
+- 14 Mortera, 241 AM: Ascends, with [[Cleome]] going up alongside him
+
 ## Appearance
 
 Ignatius (ig-NAY-shus) is a fire elemental in the shape of a slight young man, orange-skinned, with pointed ears and eyes the colour of embers. His hair is fire and he wears it long and tied back. It burns higher and brighter with his temper, and anyone who has spent an afternoon with him can read his mood off it from across a room.
@@ -34,17 +41,17 @@ He and [[Nausicaä]] have quarrelled for as long as both have been gods. He has 
 
 Ignatius studied at the [[Aravis Academy]] and did not finish. He read abjuration at the Osterloh college, through his undergraduate years and into graduate study, and he was expelled in his second graduate year for burning another student's face off.
 
-He was there within the first hundred years of the Academy teaching magic widely, which puts him between 157 and 257 AM. He is an abjurer and was one before he was anything else.
+He was there from 196 to 201 AM, inside the first fifty years of the Academy teaching magic widely. He is an abjurer and was one before he was anything else.
 
 The student was **Owen Bramble**, a sheepfolk of the [[Beastfolk]], white-haired and horned, and the only person in their intake who could match him. They took the same classes, they were the top two in every one of them, and the faculty compared them constantly and out loud. They hated each other for three years, started seeing each other in the third year largely out of spite, and were together for four. They broke up somewhere between two and eleven times depending on who was counting. Bramble said nine. Ignatius said four of those did not count because they lasted less than a day.
 
 In their second graduate year the two of them shared a doctoral project, which was the commission to turn the old walls of [[Hekatania]] into magical defences for [[Kingdom of Starkon|Starkon]]. It was the largest piece of work the Academy had put in students' hands. Bramble held the budget and did the talking to the examining board. Ignatius did the casting work and resented the division.
 
-At the halfway presentation, Bramble said "I" where he meant "we". Ignatius covered his mouth as though wiping it and cast a fear spell into him, cut it off after a few seconds, took over the presentation while Bramble sat down, and finished it well enough to be applauded and offered more funding. Then he winked at him.
+At the halfway presentation, Bramble said "I" where he meant "we". Ignatius covered his mouth as though wiping it and cast a fear spell into him, then cut it off after a few seconds. He took over the presentation while Bramble sat down. He finished it well enough to be applauded and offered more funding. Then he winked at him.
 
-Bramble hit him from behind in the main courtyard. They fought with spells in front of the school until both were spent and standing a foot apart, and Ignatius gathered everything he had, superheated it past what he could hold, and let it go into Bramble's face. It took the right eye and a good deal of the rest. Ignatius had burns on his own hands for months.
+Bramble hit him from behind in the main courtyard. They fought with spells in front of the school until both were spent and standing a foot apart. Then Ignatius gathered everything he had, superheated it past what he could hold, and let it go into Bramble's face. It took the right eye and a good deal of the rest. Ignatius had burns on his own hands for months.
 
-He made his case to [[Hekate]] in person and was expelled rather than handed to the city. He has not been allowed on the grounds since. A Professor Talonfoot took him in that night, an ancestor of [[Minervus Talonfoot]] and faculty at the Academy in that century, because his family lived a long way off and the professor had always had a soft spot for him.
+He made his case to [[Hekate]] in person and was expelled rather than handed to the city. He has not been allowed on the grounds since. A Professor Talonfoot took him in that night, an ancestor of [[Minervus Talonfoot]] and faculty at the Academy in that century. His family lived a long way off, and the professor had always had a soft spot for him.
 
 He lied to his family about why he left and has never corrected it. His mother is a perfectionist and his sisters looked up to him.
 
@@ -56,9 +63,11 @@ Bramble survived the burning. He died in obscurity a long time ago and almost no
 
 **Source:** power taken from beings he killed, stored up and spent together.
 
-Ignatius decided, some time after the expulsion, that most of his problems would go away if nobody could get in his way, and he spent a long time researching how to ascend. For a source he hunted. He killed a number of very powerful beings, devils and at least one dragon among them, choosing ones he considered evil or at any rate in his way, and he stored what he took from each until he had enough for the ritual.
+Ignatius decided, some time after the expulsion, that most of his problems would go away if nobody could get in his way. So he spent a long time researching how to ascend. For a source he hunted. He killed a number of very powerful beings, devils and at least one dragon among them. He chose ones he considered evil, or at any rate in his way. He stored what he took from each until he had enough for the ritual.
 
-He was the first of the four. [[Cleome]] went up with him, and [[Nausicaä]] and [[Chore]] followed.
+It took him most of forty years. He left the Academy in 201 AM and ascended on 14 Mortera, 241 AM, and the hunting filled almost all of the gap.
+
+He was the first of the four. [[Cleome]] went up with him, and [[Nausicaä]] and [[Chore]] followed within twenty years.
 
 ## Goals
 

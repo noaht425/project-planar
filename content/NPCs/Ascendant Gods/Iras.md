@@ -15,6 +15,12 @@ Home Realm: [[Arenis]], [[Iudis]]
 
 Member of the [[Ascendant Gods]].
 
+## History
+- 33 Aucaela, 405 AM: Kills [[Genasi VII]] and takes the throne of [[Kingdom of Geno|Geno]]
+- 405 AM: Defaces the twin statues of [[Genasi]] at the city gate
+- 65 Mortera, 419 AM: Abdicates, and has never said why
+- 52 Morcaela, 441 AM: Ascends
+
 ## Appearance
 
 Iras (EE-rahs) is the son of a dragon and an archdevil and shows both. He has his father's height and his father's gold, and he burns at the edges the way his mother does. The fire on him does not go out.
@@ -23,9 +29,9 @@ Iras (EE-rahs) is the son of a dragon and an archdevil and shows both. He has hi
 
 Iras calls himself the Phoenix King. The phoenix was [[Moto]]'s before it was his, and Moto has never forgiven the theft.
 
-He took the throne of Geno in 405 AM by killing [[Genasi VII]], on the principle that Geno owed its existence to the dragons and should be ruled by a dragon's descendant. He defaced the twin statues of [[Genasi]] at the city gate the same year. He held the throne for fourteen years, gave it up, and has never said why. Geno's council elected [[Gaius Flaminius]] to succeed him.
+He took the throne of Geno in 405 AM by killing [[Genasi VII]]. His principle was that Geno owed its existence to the dragons and should be ruled by a dragon's descendant. He defaced the twin statues of [[Genasi]] at the city gate the same year. He held the throne for fourteen years, gave it up, and has never said why. Geno's council elected [[Gaius Flaminius]] to succeed him.
 
-Everyone he kills with the [[Hell's Fire Staff]] goes to his father in [[Pride]].
+Everyone he kills with the [[Hell's Fire Staff]] goes to his father in [[Pride]], or at least everyone whose death has been traced.
 
 His mother [[Pyrrha]] has never visited him.
 
@@ -36,6 +42,10 @@ His mother [[Pyrrha]] has never visited him.
 **Relic:** the [[Hell's Fire Staff]].
 
 **Source:** unwritten.
+
+He gave up the throne of Geno on 65 Mortera, 419 AM and ascended twenty-two years later, on 52 Morcaela, 441 AM. He has never said why he abdicated, and most people assume he abdicated in order to do this. Nobody has confirmed it and he has never been pressed on it by anyone he would answer.
+
+Twenty-two years is a long time for a man with an archdevil for a father and a dragon for a mother to spend on the problem. Whatever his source was, it was probably not either of his parents.
 
 ## Goals
 

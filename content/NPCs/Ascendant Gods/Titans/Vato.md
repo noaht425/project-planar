@@ -9,6 +9,9 @@ Home Realm: [[Arenis]]
 
 Member of the [[Ascendant Gods]].
 
+## History
+- 98 Aucaela, 1 AM: [[Kleipur]] gives the six titans their power
+
 ## Appearance
 
 Vato (VAH-toh) is a stone giant, and he wears a helm of the same stone.

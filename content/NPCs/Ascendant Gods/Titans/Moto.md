@@ -11,6 +11,9 @@ Created phoenixes. Hates [[Iras]] for claiming Phoenix King title.
 
 Member of the [[Ascendant Gods]].
 
+## History
+- 98 Aucaela, 1 AM: [[Kleipur]] gives the six titans their power
+
 ## Appearance
 
 Moto (MOH-toh) is a fire giant, and the phoenixes he made roost on his shoulders when they are not in his hall.

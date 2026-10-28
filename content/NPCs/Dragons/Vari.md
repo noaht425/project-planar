@@ -6,7 +6,7 @@ ac: 19
 hp: 462
 ---
 
-Created by [[Zaros]], without assistance. Killed by [[Afthor]].
+Created by [[Zaros]], without assistance. Killed by [[Afthor]] on 29 Morcaela, 374 AM, the same day as Zaros.
 
 Deceased, and not gone for good.
 

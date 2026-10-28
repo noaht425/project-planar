@@ -11,6 +11,12 @@ Home Realm: [[Arenis]]
 
 Member of the [[Ascendant Gods]].
 
+## History
+- 169 AM: Born in [[Arenis]]
+- 241 to 248 AM: Watches the other three ascend
+- 250 to 258 AM: At sea, keeping company with the deep powers
+- 31 Auctera, 259 AM: Ascends, with help from [[Cleome]]
+
 ## Appearance
 
 Chore (KOR-ay) is an elf who has spent her life at sea and looks it. She carries [[The Siren Blade]] at her hip, and it can be heard humming when she is close.
@@ -32,6 +38,8 @@ She tries to hide how much she cares for her friends and does it badly. She will
 **Source:** deep powers of the sea.
 
 Chore would not be left behind by the other three. She went looking for power at sea and kept company with some of the deep powers there for a while, and with help from [[Cleome]] she went up after them.
+
+She was last of the four by eleven years, and she took the longest over it. What she agreed with the deep powers is not written down and she does not volunteer it. She ascended on 31 Auctera, 259 AM.
 
 ## Goals
 

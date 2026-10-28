@@ -11,6 +11,12 @@ Race: [[Beastfolk]]
 
 Member of the [[Ascendant Gods]].
 
+## History
+- 171 AM: Born in [[Arenis]]
+- 178 AM: Given away by her family to an aunt
+- 243 AM: Comes across [[Ignatius]]'s notes, left for her by [[Cleome]]
+- 68 Aucaela, 248 AM: Ascends, having set [[Themis]] and [[Archon]] against each other
+
 ## Appearance
 
 Nausicaä (now-SIK-ay-uh) is a tabaxi, immaculately kept, and she wears a silver pendant with a brass gear set around a sun that is half a moon.
@@ -33,7 +39,9 @@ She and [[Ignatius]] have quarrelled for as long as both have been gods, and nei
 
 Nausicaä would not let Ignatius get one over on her. She worked out the ascension process out of spite, largely from his notes, which happened to have been left where she would come across them. [[Cleome]] had left them there.
 
-For a source she went to Themis and Archon, the two halves of [[Themati]], and played them against each other until between them they had given her what she needed.
+For a source she went to Themis and Archon, the two halves of [[Themati]], and played them against each other until between them they had given her what she needed. That took five years, and neither half has ever acknowledged being used.
+
+She ascended on 68 Aucaela, 248 AM, seven years after Ignatius. She has never been told that the notes were left for her on purpose. [[Cleome]] has had two and a half centuries to mention it.
 
 ## Goals
 

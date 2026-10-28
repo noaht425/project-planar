@@ -6,7 +6,7 @@ hp: 600
 cr: '24'
 ---
 
-Former lord of the [[Elemental Plane of Air]]. Killed by [[Afthor]], who drank his blood and took the realm.
+Former lord of the [[Elemental Plane of Air]]. Killed by [[Afthor]] on 29 Morcaela, 374 AM, who drank his blood and took the realm.
 
 Deceased, and not gone for good.
 

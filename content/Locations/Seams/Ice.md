@@ -17,7 +17,7 @@ Water's cold current runs up into this seam and Air's weather comes down into it
 
 Under the sheet the water is lit blue by whatever light comes through and is colder than the Vethruiasi inside Water proper. Above it the wind never drops.
 
-The seam is getting bigger. The storm that settled over Air after [[Zaros]] died pushes more cold down than the old weather did. So the sheet has advanced on the Water side within living memory. Vethrakis in Water tracks the edge and will not say why.
+The seam is getting bigger. The storm has been over Air since [[Zaros]] died in 374 AM, and it has been pushing cold down into the seam for most of that time. It has also been getting heavier. Only in about the last century has it pushed down enough to move the sheet, which has advanced on the Water side within living memory. Vethrakis in Water tracks the edge and will not say why.
 
 ## Cutting
 

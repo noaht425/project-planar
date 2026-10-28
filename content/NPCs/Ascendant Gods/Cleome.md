@@ -11,6 +11,12 @@ Home Realm: [[Arenis]]
 
 Member of the [[Ascendant Gods]].
 
+## History
+- 164 AM: Born in [[Arenis]]
+- 14 Mortera, 241 AM: Ascends in the same moment as [[Ignatius]], by holding on to him
+- 243 AM: Leaves Ignatius's notes where [[Nausicaä]] will find them
+- 259 AM: Helps [[Chore]] through her own ascension
+
 ## Appearance
 
 Cleome (klee-OH-mee) is an elf, and a spider orchid grows from her head and through her hair. It is alive, it moves, and it is rooted in her skull.
@@ -37,7 +43,9 @@ She loves flowers and spiders, and the orchid most of all. She talks to it.
 
 Cleome became a god because she would not let Ignatius go through it alone. When he performed the ritual she held on, and their friendship was strong enough that she went up with him. No other ascension has worked that way.
 
-She then made sure nobody else was left behind. She put Ignatius's notes where [[Nausicaä]] would find them, and she helped [[Chore]] through her own.
+She then made sure nobody else was left behind. Two years later she put Ignatius's notes where [[Nausicaä]] would find them, and she did not tell either of them she had done it. Eighteen years after that she helped [[Chore]] through her own.
+
+Three of the four ascensions in that cluster happened because Cleome arranged for them to be possible. She has never claimed any of it.
 
 ## Goals
 
