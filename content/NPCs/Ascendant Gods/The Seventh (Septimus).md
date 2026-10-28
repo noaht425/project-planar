@@ -24,6 +24,13 @@ Member of the [[Ascendant Gods]].
 
 
 
+## History
+- 164 AM: Born in [[Kingdom of Krotaphos|Krotaphos]], an Ill Omen
+- 186 AM: Sworn as a paladin of [[Archon]]
+- 63 Auctera, 189 AM: [[Orcus]] takes death from [[The King of Night]]
+- 199 AM: Makes his attempt on the heavens and is stopped partway
+- 199 AM: [[Pavlas]] makes the [[Chains of Rebellion]] to hold him; his name and title are taken
+
 ## Manner
 
 The Seventh calls himself Septimus (SEP-tih-mus), and the difference between the two names matters to him and to the archangels more than anything else about him.
@@ -41,6 +48,12 @@ The archangels treat him as a nuisance, a devil not quite good enough to be coun
 **Relic:** the [[Chains of Rebellion]]. [[Pavlas]] made them to hold him, and his power went into them instead, so the binding meant to stop him became the channel for what he is now.
 
 **Source:** the heavens, in an attempt that was stopped partway.
+
+He made his attempt ten years after [[Orcus]] robbed the [[The King of Night|King of Night]], and the timing was not a coincidence. A mortal had taken a domain off one of the two oldest things in the cosmos and was still sitting on it. Septimus was a paladin of [[Archon]] at the time, and he drew the obvious conclusion, which was that the heavens could be taken too.
+
+He was closer than anyone has been. The archangels could not undo what he had already reached, so they stopped the rest of it and bound what he had. [[Pavlas]] made the [[Chains of Rebellion]] for that, and the chains took his power on instead of draining it.
+
+Then they took his name. The archangels hold it, or so it is believed, though only the fae are supposed to be able to steal a name at all. Nobody has explained how it was done, and the archangels are not asked twice.
 
 ## Goals
 

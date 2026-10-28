@@ -11,6 +11,11 @@ Race: [[Earthborn]]
 
 Member of the [[Ascendant Gods]].
 
+## History
+- 57 AM: Born in [[Arenis]]
+- 81 AM: First recorded at [[Atris]]'s lodge in [[Hunt]]
+- 4 Mortera, 88 AM: Atris gives her the power and the lyre
+
 ## Appearance
 
 Thalia (THAH-lee-uh) is earthborn and carries the lyre [[Atris]] gave her.
@@ -28,6 +33,10 @@ She is easy company and she sings without being asked. She will not talk about A
 **Relic:** [[Thalia's Lyre]], given to her by Atris.
 
 **Source:** [[Atris]], given rather than taken, so that she would not die.
+
+She was dying when the gift was made. What of is not recorded anywhere, and Thalia has never said. Atris gave her the power on 4 Mortera, 88 AM, which makes her the oldest of the mortal ascendants by about seventy years, and the only one who did not go looking.
+
+No archfey has done this for any other mortal, before or since. Several have been asked.
 
 ## Goals
 

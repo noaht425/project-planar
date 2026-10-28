@@ -18,6 +18,13 @@ Home Realm: [[Arenis]], from [[Kingdom of Regno]]
 
 Member of the [[Ascendant Gods]].
 
+## History
+- 151 AM: Born in [[Kingdom of Regno|Regno]]
+- 157 AM: His brother [[Loime]] born
+- 184 AM: First dealings with [[Grixt]]
+- 63 Auctera, 189 AM: Ascends, taking the domain of death from [[The King of Night]]
+- 189 AM: Builds the [[Throne of Death]] and begins governing the dead
+
 ## Appearance
 
 Orcus (OR-kus) was a man of [[Kingdom of Regno|Regno]] and still looks like one: heavy-set, plainly dressed, and nothing about him suggests the throne he sits on.
@@ -39,6 +46,10 @@ His younger brother [[Loime]] hates him for the help Grixt gave him. Orcus knows
 **Relic:** the [[Throne of Death]]. He built it as the channel for his ascension and has ruled the dead from it since.
 
 **Source:** [[The King of Night]], stolen from with means supplied by [[Grixt]]. He is the only mortal to have stolen successfully from either King.
+
+He was a man of Regno with no particular standing, and he spent about five years getting what he needed out of [[Grixt]]. What the archfey asked in return is not recorded. Orcus does not discuss it and Grixt has never been asked by anybody who came back with an answer.
+
+The theft itself took one day, 63 Auctera, 189 AM. He has governed the dead from the [[Throne of Death]] ever since, which is now most of the span of recorded history. There are people alive who can name the kings of their kingdom back six hundred years and could not tell you who held death before Orcus did.
 
 ## Goals
 

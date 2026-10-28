@@ -13,6 +13,12 @@ Member of the [[Ascendant Gods]].
 
 Home Realm: [[Arenis]], from [[Kingdom of Regno]]
 
+## History
+- 157 AM: Born in [[Kingdom of Regno|Regno]], six years after his brother [[Orcus]]
+- 63 Auctera, 189 AM: Orcus ascends
+- 190 AM: Asks [[Grixt]] for the same help and is refused
+- 21 Morcaela, 192 AM: Ascends, taking from Grixt rather than being given
+
 ## Appearance
 
 Loime (LOY-muh) wears a black cloak and a plague doctor's mask and is not seen without either. A green spider a few inches across sits embedded in his chest, and it is alive.
@@ -32,6 +38,12 @@ Whether the gem in his relic was really stolen is the one question he will not d
 **Relic:** [[Pestilence]], a venomous spider fed a gem from the heart of the [[Elemental Plane of Noxia]]. It is the only living creature known to have served as a relic.
 
 **Source:** [[Grixt]], taken rather than given.
+
+Three years after his brother, Loime went to the same archfey and asked for the same help. [[Grixt]] refused him. What Grixt had given Orcus had been given once, as a particular arrangement with a particular man, and it was not on offer a second time.
+
+So Loime took it instead. He is the only being on record to have taken anything from an archfey without a bargain, and he did it to the one who had made his brother a god. That is most of what anybody needs to know about him.
+
+He hates Orcus for the help, not for the refusal. Orcus knows, and has made no attempt to mend it.
 
 ## Goals
 
