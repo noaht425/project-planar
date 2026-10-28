@@ -112,10 +112,10 @@ Key anchors (the full list is [[Timeline]]):
 - 39 to 10 AF. The Coalescence. 10 AF, Arenis is made and the Progenitors are born.
 - 1 AM. The Council of Creation. Ius Primum signed 38 Aucaela, 1 AM, about seven hundred years before the campaign.
 - 202 AM. Alistar Stormjaw opens the breach to Tarkis in Geno and founds Tama.
+- 374 AM. Afthor kills Zaros and Vari.
 - 397 to 427 AM. Krotaphos loses its war with Sylfaen.
 - 405 AM. Iras kills Genasi VII and takes Geno. He abdicates in 419.
 - 428 AM onward. La Grande Mascarade, every other year, rotating host.
-- 652 AM. Afthor kills Zaros and Vari.
 - 700 AM. Indri escapes the underworld as the god of vengeance.
 - 702 AM. At the Mascarade in Omphalos, Theophilius Fanatis, enchanted, attacks the king of Sylfaen. Sylfaen orders every citizen of Krotaphos arrested.
 
