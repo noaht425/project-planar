@@ -9,7 +9,7 @@ Belongs to [[Isadora]]. A set of 5d6 made of obsidian and inscribed with gold.
 > *She offered me one throw and let me name the stake myself, since that was only fair, so I named something I was certain was worthless. That was the first mistake. The second was taking three dice when she said I could take up to three, since it had not occurred to me that she already knew what they were going to do. Two of them came up the same. The floor of that room is gold now, as is the table the dice landed on, as is the chair I had been sitting in. She let me keep the chair. I have it still. I cannot bring myself to sell it, nor can I explain why.*
 
 ## Fate Untamed
-After you roll these dice, you may choose up to two of them. Their value becomes equal to the value of another rolled die.
+After you roll these dice, you may choose up to two of them. Their value becomes equal to the value of another rolled die. This does not impact the Magical Multitudes ability.
 
 ## Gambling Expert
 You have advantage on all Charisma (Deception), Dexterity (Slight of Hand), Wisdom (Perception), and Wisdom (Insight) checks made while playing games that involve gambling, lying, and other such trickery.
