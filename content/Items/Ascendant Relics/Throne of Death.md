@@ -10,6 +10,8 @@ Created by [[Orcus]]
 
 _Wondrous item, artifact (requires attunement)_
 
+You cannot be forcably removed from the throne while sitting in it.
+
 **_Undead Army._** While within 100 feet of the throne, you may cast the Danse Macabre spell at the 7th level. If you are sitting on the throne, you do not need to maintain concentration on the spell. You may cast it a number of times per day equal to your proficiency bonus.
 
 **_Aura of Necromantic Dominion._** All undead creatures within 100 of the Throne of Death must succeed on a Wisdom saving throw DC of 21 or be forced to kneel. While they are kneeling they are treated as being under the prone condition. At the beginning of their turn, they may repeat the save. When a creature succeeds on the Wisdom saving throw, they are immune to its effects until the next time they enter its aura.
