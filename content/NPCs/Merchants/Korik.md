@@ -35,7 +35,7 @@ Home Realm [[Arenis]]
 - Saddlebags of Substantiality: extradimensional pair, 10 cu ft/100 lb each; rupture destroys contents | 4,500 gp
 - War's Focus: mount's blinders; mount gets adv. on initiative and on saves vs. charmed/frightened | 4,000 gp
 - Unicorn Tack (mount attunes): silver headpiece; telepathic link sharing surface thoughts and senses between mount and rider | 6,000 gp
-Horseshoes of Speed: mount's walking speed +30 ft | 6,500 gp
+- Horseshoes of Speed: mount's walking speed +30 ft | 6,500 gp
 
 
 ## Exclusive Wares: ##
