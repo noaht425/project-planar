@@ -3,7 +3,7 @@ type: npc
 tags: []
 cr: '17'
 ac: 17
-hp: 196
+hp: 199
 ---
 
 Minor fey lord who was banished to the mortal realm.
