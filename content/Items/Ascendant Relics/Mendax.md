@@ -4,7 +4,7 @@ tags: [artifact, weapon]
 summary: 'Weapon (+3 dagger), artifact (requires attunement)'
 ---
 
-Used to belong to [[Tiyanak]], and was an ordinary weapon at the time. Tiyanak killed the original [[Indri]] with it in 3,096 AF.
+[[Tiyanak]] made it for one purpose, which was to kill the original [[Indri]]. It carried no magic when it was made, and it has no history before that night, because there was nothing of it to have a history. Tiyanak killed Indri with it in 3,096 AF.
 
 Indri had been researching the ascension process before that night. In the moment of dying, Indri claimed the dagger and used it as both the relic and the source of power for the ascension. It is the only recorded case of one object serving as both.
 

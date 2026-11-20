@@ -37,6 +37,8 @@ The current one is [[Ius Primum]]. Tiyanak intends to get an archfey and an elf 
 
 Tiyanak knows that [[Indri]] has escaped the underworld and has sealed the cage. Tiyanak is sending warlocks to hunt Indri and tells each of them whichever lie will get them to kill him. Some are told that Indri is causing the chaos that is in fact Tiyanak's own work, and that he must be stopped. Others are told that he is an imposter.
 
+What the hunt is for is a body. Tiyanak means to stage a public showing that Indri is dead, then claim [[Trickery]] outright and under their own name. Their own hand in the killing stays out of it. An archdevil seen to have murdered an archfey would set off more disorder than Tiyanak wants to be standing in.
+
 ## History
 
 Killed the original [[Indri]] in secret in 3,096 AF, took most of his memories and his name, and replaced him in the fey realms. Left [[Mendax]] inside Indri, so Indri carried it into the afterlife.
@@ -60,3 +62,5 @@ Tiyanak knows about Indri's escape and is acting on it through intermediaries, s
 Whether Tiyanak can be killed while Indri is alive, and what happens to the Indri identity if Tiyanak dies first, is not settled.
 
 What a party can hold over Tiyanak now that Tiyanak knows about the escape is not settled.
+
+By what right Tiyanak intends to claim [[Trickery]] without admitting to having held it for three thousand years is not settled.

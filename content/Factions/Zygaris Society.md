@@ -18,7 +18,7 @@ One branch per dragon, including the dead ones. The branches of [[Zaros]] and [[
 
 [[Mens]]'s branch has no publicly known head. The last name on the public record is Baris Veril, who left the post at or before 602 AM, and [[Nara Veril]], the current queen of [[Kingdom of Geno|Geno]], is a descendant of his. Nothing public has named a head of that branch since.
 
-It has had one. [[Irtha Melpomene]] has led it since 678 AM, which leaves at least seventy-six years the record does not account for.
+It has had one. [[Irtha Melpomene]] has led it since 678 AM. The post is not filled by appointment. A candidate has to show [[Mens]] something that counts as a display of greatness, and Mens decides for himself whether he has been shown one. Between 602 and 678 AM nobody satisfied him.
 
 Written accounts name several different people as the head of the society at the same time, which is explained by the branches rather than by any of the accounts being wrong.
 
@@ -32,4 +32,6 @@ Keeping branches running for the dead dragons gives the resurrection effort an o
 
 ## Open
 
-Who led the Mens branch between 602 and 678 AM, and why no name has reached the public record since Baris Veril.
+Why no name has reached the public record since Baris Veril.
+
+What Baris Veril showed Mens, and whether the other branches fill their posts the same way.
