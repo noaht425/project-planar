@@ -29,13 +29,13 @@ He is excitable and warm, and he does not seem to have noticed that the titans w
 
 ## The Giantkin and the Titans
 
-Kleipur made the [[Giantkin]] at the [[Council of Creation]]. On 98 Aucaela, 1 AM, he gave six of the first giantkin the power that made them the titans. See [[Ascendant Gods]].
+Kleipur made the [[Giantkin]] at the [[Council of Creation]]. On 98 Aucaela, 1 AM, he gave six of the first giantkin the power that made them the titans, along with the relics they channelled it through. See [[Ascendant Gods]].
 
 The titans regard themselves as the original gods and do not like being reminded that they were handed their ascension. Kleipur reminds them constantly, because he is proud of it.
 
 ## Relationships
 
-- Gave the titans their power: [[Afthor]], [[Gallum]], [[Kodren]], [[Moto]], [[Sarma]] and [[Vato]]
+- Gave the titans their power and their relics: [[Afthor]], [[Gallum]], [[Kodren]], [[Moto]], [[Sarma]] and [[Vato]]
 
 ## Design Notes
 

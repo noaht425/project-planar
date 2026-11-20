@@ -26,7 +26,7 @@ Of all the titans, Sarma takes the suggestion that the titans were given their p
 
 ## Ascension
 
-**Relic:** the [[Cloak of Frost]], which Sarma made.
+**Relic:** the [[Cloak of Frost]], given to Sarma by [[Kleipur]].
 
 **Source:** [[Kleipur]], given, although Sarma disputes how much.
 

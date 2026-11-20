@@ -4,7 +4,7 @@ tags: [artifact]
 summary: 'Wondrous item, artifact (requires attunement)'
 ---
 
-Created by [[Afthor]], infused with the blood of [[Zaros]] and [[Vari]].
+Given to [[Afthor]] by [[Kleipur]], and infused later with the blood of [[Zaros]] and [[Vari]].
 
 > *He names them when he puts them on. One hand is Zaros and the other is Vari, and he says which is which, out loud, every time, the way a man reads a label off a jar. The dragons of Tarkis know that he does it. Somebody tells them.*
 

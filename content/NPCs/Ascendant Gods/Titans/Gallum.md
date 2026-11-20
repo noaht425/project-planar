@@ -26,7 +26,7 @@ He is as proud as any of the titans, but his pride is cheerful. He will tell any
 
 ## Ascension
 
-**Relic:** [[Gallum's Boots]], which he made.
+**Relic:** [[Gallum's Boots]], given to him by [[Kleipur]].
 
 **Source:** [[Kleipur]], given.
 
@@ -37,8 +37,6 @@ Gallum wants to enjoy himself, and mostly does.
 ## Design Notes
 
 A party is most likely to meet Gallum by accident, and least likely to get a straight answer from him. He is harmless until he is bored.
-
-The boots are worth knowing about. He made them, and he could be talked into making another pair by someone who kept him laughing long enough.
 
 ## Open
 

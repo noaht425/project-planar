@@ -45,7 +45,7 @@ Nobody is known to have succeeded since. Attempts continue, and most of them are
 
 ## The Titans
 
-The titans are the six elder giants, the first of the [[Giantkin]]. [[Kleipur]] gave them their power on 98 Aucaela, 1 AM, which makes them the oldest of the ascendants by a long way.
+The titans are the six elder giants, the first of the [[Giantkin]]. [[Kleipur]] gave them their power on 98 Aucaela, 1 AM, which makes them the oldest of the ascendants by a long way. He supplied their relics along with the power.
 
 All six are proud. They regard themselves as the original gods, which in a sense they are, and they do not like to be reminded that they were handed their ascension and did none of the work themselves. Each one fits the element of their kind.
 

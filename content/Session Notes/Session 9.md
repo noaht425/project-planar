@@ -103,5 +103,4 @@ Levers, if she is to be played as reachable. She decides fast and usually well, 
 
 - The title of this note, once the session has one.
 - The in-world date. [[Session 8 - Revived]] ran from 8 Mortera, 702 onward and included a two week boat hire.
-- Session 8 has her finding that [[Kleipur]] supplied the titans' relics. [[Gallum's Boots]] and [[Cloak of Frost]] both say the titan made their own. Either the record she found is wrong in-world, or those item pages need a look.
-- Whether the [[Zygaris Society]] page should name Irtha as head of the Mens branch and date Baris Veril's departure, or whether that stays run-specific.
+- Gallum's design notes lost the hook about him being talked into making a second pair of boots, since [[Kleipur]] made them. Worth a replacement.

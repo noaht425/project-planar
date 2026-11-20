@@ -4,7 +4,7 @@ tags: [artifact]
 summary: 'Wondrous item, artifact (requires attunement)'
 ---
 
-Created by [[Gallum]].
+Given to [[Gallum]] by [[Kleipur]].
 
 > *Gallum stood on a frozen pond in front of me, on purpose, to prove the ice would hold him. Then he stepped off onto the flagstones and I heard the stones go. He never took the boots off at any point, so I have no idea what they weigh. I suspect that is the point.*
 

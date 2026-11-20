@@ -4,7 +4,7 @@ tags: [artifact]
 summary: 'Wondrous item, artifact (requires attunement)'
 ---
 
-Created by [[Sarma]].
+Given to [[Sarma]] by [[Kleipur]].
 
 > *I stood near enough to talk for an hour. The cold does not come off that cloak. It goes into you, and it stays.*
 
