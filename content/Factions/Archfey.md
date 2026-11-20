@@ -43,3 +43,5 @@ The archfey are the most common patrons and the easiest powers to reach, and the
 ## Open
 
 What the archfey would do as a body if Ius Primum or the substitution came out is unwritten.
+
+Tiyanak intends to bring the substitution out, so the second half of that is a question the setting will have to answer. See [[Tiyanak]].

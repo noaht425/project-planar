@@ -70,7 +70,7 @@ The domain is the reason it has held. A seat where constant lying is expected is
 
 The real Indri escaped the underworld in 700 AM and is loose in [[Arenis]] as a god of vengeance. He wants to remember who he was and he wants Tiyanak killed as publicly as possible. Tiyanak knows he is out and is sending warlocks to hunt him.
 
-Tiyanak means to end the arrangement instead of keeping it. Once Indri is publicly dead, Tiyanak intends to claim the domain openly and in their own name, with no part of the death traced back to them. See [[Tiyanak]].
+Tiyanak means to end the arrangement instead of keeping it. Once Indri is publicly dead, Tiyanak intends to claim the domain openly and under their own name, with the three thousand years of impersonation put forward as the qualification for holding it. No part of the death is to be traced back to them. See [[Tiyanak]].
 
 ## Design Notes
 

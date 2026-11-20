@@ -39,6 +39,8 @@ Tiyanak knows that [[Indri]] has escaped the underworld and has sealed the cage.
 
 What the hunt is for is a body. Tiyanak means to stage a public showing that Indri is dead, then claim [[Trickery]] outright and under their own name. Their own hand in the killing stays out of it. An archdevil seen to have murdered an archfey would set off more disorder than Tiyanak wants to be standing in.
 
+The impersonation is the claim. Tiyanak means to put it to the fey plainly, that they wore Indri's face in front of all of them for three thousand years and none of them caught it, and then ask who else should hold Trickery. So Tiyanak admits the fraud and denies the killing.
+
 ## History
 
 Killed the original [[Indri]] in secret in 3,096 AF, took most of his memories and his name, and replaced him in the fey realms. Left [[Mendax]] inside Indri, so Indri carried it into the afterlife.
@@ -63,4 +65,4 @@ Whether Tiyanak can be killed while Indri is alive, and what happens to the Indr
 
 What a party can hold over Tiyanak now that Tiyanak knows about the escape is not settled.
 
-By what right Tiyanak intends to claim [[Trickery]] without admitting to having held it for three thousand years is not settled.
+Who Tiyanak leaves holding the killing is not settled. Whoever does it will have been sent by Tiyanak under a lie, which is a thread back to them.
