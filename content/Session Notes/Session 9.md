@@ -9,6 +9,8 @@ Prep. None of this has happened yet.
 
 Nerinè's research list came out of [[Session 8 - Revived]]. Below is what each line turns up, and what getting it costs.
 
+IGNATIUS WILL TALK WITH NERINÈ ABOUT HURTING CHORE
+
 ## Dates to Have Ready
 
 - Nerinè is 24, so she was made in 678 AM.
