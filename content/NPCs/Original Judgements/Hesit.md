@@ -19,11 +19,15 @@ A life took as long to feel as it had taken to live. Sixty years of a person wen
 
 So Hesit was permanently behind. The panel could not hear a soul until Hesit had finished with it, and the dead piled up in [[Liminia]] waiting their turn. Hesit spent the last several thousand years working on lives that had ended centuries earlier. Nobody wrote down what the queue looked like at its worst.
 
+The filing still shows it. Files in [[Themati]]'s record room are ordered by the date Hesit finished a life, never by the date the person died, and on the older shelves the two are centuries apart.
+
 ## Borrowed Faces
 
 Whoever stood in front of Hesit saw themselves. Injuries came with the face. While Hesit was carrying a life, whatever had been done to that person showed on Hesit's body, and it stayed there until the life was finished.
 
 [[Neema]] kept the face and shows a petitioner their own better self. [[Abaddon]] kept the marks. The swords and spears standing in him belong to other people, and not one of them has ever been pulled out.
+
+A soul far enough down the queue eventually saw its own face come up on Hesit. That was the only notice anybody got that their hearing was close.
 
 ## The Thin Wall
 

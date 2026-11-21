@@ -21,6 +21,8 @@ Charios meant to entertain and to perform. That takes a performer and somebody t
 
 Verdicts were announced from a stage, in front of whichever of the dead chose to come. Attendance was voluntary and attendance was heavy. Seats near the front went by length of residence, so a soul nine thousand years in the realm sat at the front while a soul that arrived last week stood at the back, and none of it had anything to do with what any of them had done alive. [[Pride]] runs on what is left of that arrangement.
 
+The house was stone, cut back into the slope behind the stage, and a voice from the boards carried to the last row without being raised. Seats could not be traded. Souls tried it for thousands of years and the house never once recognised a transfer, so a soul that wanted to move up waited for the ones in front of it to be moved out.
+
 Some souls came to every delivery for centuries. A few of them are still in the realm.
 
 ## The Deliveries
