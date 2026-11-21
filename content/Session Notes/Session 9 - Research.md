@@ -5,11 +5,15 @@ date: '2026-11-21'
 summary: ''
 ---
 
+22 Mortera, 702
+
 Prep. None of this has happened yet.
 
 Nerinè's research list came out of [[Session 8 - Revived]]. Below is what each line turns up, and what getting it costs.
 
 IGNATIUS WILL TALK WITH NERINÈ ABOUT HURTING CHORE
+
+Irtha Melpomene has Orcus' ascension notes and will take Wisp on an errand to the elemental planes with her
 
 ## Dates to Have Ready
 
