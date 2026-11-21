@@ -43,7 +43,7 @@ If one party should break the terms of this deal, they will be bound into servic
 
 The responsibility for enacting this punishment and ensuring that it is meted out in a proper and reasonable fashion falls upon the witness.
 
-(ADDED IN SECRET BY TIYANAK) If both parties break the terms of this deal, the contract shall pass into the care of the witness and they have full authority to alter the terms of the deal as they see fit.
+(ADDED IN SECRET BY TIYANAK) If two parties on opposite sides of this deal should break the terms of this deal, the contract shall pass into the care of the witness and they have full authority to alter the terms of the deal as they see fit.
 
 
 > *The clause that interests me is the one making the witness responsible for carrying out the punishment. I put it to a lawyer in Lenetha and asked who the witness had been. She read the name off the document, which is Indri, sat looking at it for a while, then asked me whether an archfey can be served with anything at all. She wrote the question down for herself and put it in a drawer.*
