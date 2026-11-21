@@ -15,6 +15,8 @@ IGNATIUS WILL TALK WITH NERINÈ ABOUT HURTING CHORE
 
 Irtha Melpomene has Orcus' ascension notes and will take Wisp on an errand to the elemental planes with her
 
+Brilis will have a feast waiting when the party goes to EP
+
 ## Dates to Have Ready
 
 - Nerinè is 24, so they were made in 678 AM.
