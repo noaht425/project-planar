@@ -38,7 +38,7 @@ Nerinè's page gives her a dead father. If [[Mens]] gifted Irtha a child, the fa
 
 ## Ascendant Relics
 
-She is in Geno, so the venue is [[Mensosde Talthu]]. The toll there is a permanent deposit, assessed by committee, so she gives something up forever to read about relics on her mother's behalf.
+They are in Geno, so the venue is [[Mensosde Talthu]]. The toll there is a permanent deposit, assessed by committee, so they give something up forever to read about relics on their mother's behalf.
 
 What the libraries hold:
 
@@ -46,7 +46,7 @@ What the libraries hold:
 - The six titan relics.
 - Two gaps. [[Isadora]] has never given a date or a source. [[Hieronymous]] left no trace of his route at all, and is the only one who did not.
 
-The pattern she can take out of it is that a relic absorbs part of what passes through it, which [[Orcus]] told her himself in [[Session 6 - The Black River|Session 6]]. A relic is about as dangerous as the ascension that ran through it.
+The pattern they can take out of it is that a relic absorbs part of what passes through it, which [[Orcus]] told them himself in [[Session 6 - The Black River|Session 6]]. A relic is about as dangerous as the ascension that ran through it.
 
 Reading across the set, how they were come by: several were made by the ascendant who used them. [[Thalia's Lyre]] was a gift from an archfey. The [[Kubo Family Pendant]] belonged to the family that gave [[Nausicaä]] away. [[Mendax]] is the weapon that killed its user. The [[Chains of Rebellion]] were built to hold the god who now channels through them. [[Pestilence]] is alive.
 
@@ -56,9 +56,9 @@ Irtha holds the throne and the method. With this record she lacks only a source.
 
 ## Mendax
 
-She is carrying the real one, so her pact weapon is the dagger [[Tiyanak]] used to murder an archfey and the relic that archfey used on himself while dying.
+They are carrying the real one, so their pact weapon is the dagger [[Tiyanak]] used to murder an archfey and the relic that archfey used on himself while dying.
 
-Research gets her nothing. The dagger returns false answers to identify and legend lore, and no record of it predates 3,096 AF. Two beings knew where it came from. One is Tiyanak. The other had his memories taken and is now dead by Deryl's hand.
+Research gets them nothing. The dagger returns false answers to identify and legend lore, and no record of it predates 3,096 AF. Two beings knew where it came from. One is Tiyanak. The other had his memories taken and is now dead by Deryl's hand.
 
 Both doors are draconic. [[Mens]] was made with the original Indri and has a hole in the collection where he belongs. [[Tenu]] asked about the murder once, got an account that did not hold together, and has not raised it since. Neither of them has ever worked on it with the other.
 
