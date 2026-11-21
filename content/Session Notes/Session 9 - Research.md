@@ -13,7 +13,7 @@ IGNATIUS WILL TALK WITH NERINÈ ABOUT HURTING CHORE
 
 ## Dates to Have Ready
 
-- Nerinè is 24, so she was made in 678 AM.
+- Nerinè is 24, so they were made in 678 AM.
 - Irtha took the [[Mens]] branch in 678 AM. See the DM note on [[Session 8 - Revived]] for how.
 - Baris Veril left the post at or before 602 AM, which leaves at least seventy-six years with no name in the public record.
 - [[The Great Unrest]] ran from 546 to 657 AM. [[Nara Veril]] was born in 632 and crowned in 657.
@@ -62,7 +62,7 @@ Research gets them nothing. The dagger returns false answers to identify and leg
 
 Both doors are draconic. [[Mens]] was made with the original Indri and has a hole in the collection where he belongs. [[Tenu]] asked about the murder once, got an account that did not hold together, and has not raised it since. Neither of them has ever worked on it with the other.
 
-Nerinè works for Mens, so she can sell this. The price is that Mens learns the party killed the real Indri, and Mens does not let anyone decide what is worth bringing.
+Nerinè works for Mens, so they can sell this. The price is that Mens learns the party killed the real Indri, and Mens does not let anyone decide what is worth bringing.
 
 ## Ignatius
 
