@@ -1,7 +1,7 @@
 ---
 type: session
 tags: []
-date: ''
+date: '2026-11-21'
 summary: ''
 ---
 
@@ -34,7 +34,7 @@ The wall is that Irtha's answer in Session 8 came out of her own mouth. No docum
 
 The warehouse does. Irtha is its director and keeps it running, so the earliest filing under her name dates the headship. A reader going back through it finds that the two dates are one date.
 
-Nerinè's page gives her a dead father. If [[Mens]] gifted Irtha a child, the father on record is a convenience. Available whenever it is wanted.
+Nerinè's page gives them a dead father. If [[Mens]] gifted Irtha a child, the father on record is a convenience. Available whenever it is wanted.
 
 ## Ascendant Relics
 
