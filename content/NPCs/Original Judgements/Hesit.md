@@ -11,25 +11,25 @@ Hésiine, to feel what another feels. For what was true of all six, see [[The Ju
 
 ## The Act
 
-Hesit meant to feel what another feels. The feeling arrived whole and it arrived uninvited, so Hesit had no say in whose life it took on and no way to put one down once it had started. Knowing what a life was like from the inside carried with it the question of what that life was owed, and in Hesit those were one faculty.
+Hesit meant to feel what another feels. The feeling came whole and came uninvited. Hesit had no say in whose life arrived or when, and no way to set one down once it had started.
 
-[[Abaddon]] kept the knowledge of exactly where a wound lands. [[Neema]] kept the thing that knowledge was for. Both of them still know precisely how another person feels, which is all the two halves have left in common.
+## The Backlog
 
-## In the Hearing
+A life took as long to feel as it had taken to live. Sixty years of a person went through Hesit at the speed that person had gone through it, in order, with the dull stretches left in.
 
-Hesit was the evidence. No soul in [[Liminia]] was ever asked to account for itself, because Hesit had already lived the life through and reported it to the other five, including the parts the soul would have left out and the parts it had never understood. Lying to the panel was not available and nobody troubled to attempt it.
+So Hesit was permanently behind. The panel could not hear a soul until Hesit had finished with it, and the dead piled up in [[Liminia]] waiting their turn. Hesit spent the last several thousand years working on lives that had ended centuries earlier. Nobody wrote down what the queue looked like at its worst.
 
-The cost of that fell on one being. Every death anywhere in the rings for seven thousand years was felt all the way through by Hesit, and the other five heard it described.
+## Borrowed Faces
 
-## What It Looked Like
+Whoever stood in front of Hesit saw themselves. Injuries came with the face. While Hesit was carrying a life, whatever had been done to that person showed on Hesit's body, and it stayed there until the life was finished.
 
-Hesit wore other people. Whoever stood in front of it saw themselves, and whatever had been done to that person was visible on Hesit's body for as long as the feeling lasted.
+[[Neema]] kept the face and shows a petitioner their own better self. [[Abaddon]] kept the marks. The swords and spears standing in him belong to other people, and not one of them has ever been pulled out.
 
-Neema kept the borrowed face and shows a petitioner their own better self. Abaddon kept the injuries. The swords and spears standing in him belong to other people and not one of them has ever been pulled out.
+## The Thin Wall
 
-## The Place
+Nothing in Hesit's place could be kept from anybody in it. Everyone there felt everyone, continuously, with no provision made for privacy because the idea had not come up.
 
-Hesit's place held nothing that could be kept from anybody in it. Everyone there felt everyone. [[The Division]] cut it into [[Kindness]] and [[Cruelty]], and the wall between them is thin because there had never been a wall there to divide.
+[[The Division]] cut it into [[Kindness]] and [[Cruelty]]. The wall between them is thin, and there had never been a wall there to divide in the first place.
 
 > *A soul in Kindness told me that on quiet days you can hear the other side of the wall. The blessed there keep their own voices down out of consideration for it.*
 
@@ -37,11 +37,12 @@ Hesit's place held nothing that could be kept from anybody in it. Everyone there
 
 Hesit's halves are the furthest apart of the six in what they do with the same gift. Abaddon and Neema both know precisely how another person feels.
 
-Making Hesit the panel's evidence is what explains the pair. Perfect knowledge of a person was built for a hearing where nobody could be asked to testify, and the two halves now use it to help and to hurt.
+The backlog is why the old arrangement looks unworkable. It was. Feeling every life in real time does not scale, so a realm taking the dead of five rings was always going to be in arrears, and that is why the Nekerukes answering immediately reads as a relief to everyone in Iudis, the twelve included.
 
-The thin wall is the most usable thing on this page. A party standing in Kindness can hear Cruelty, and a party standing in Cruelty can hear people being comforted.
+The thin wall is the most usable thing here. A party in Kindness can hear Cruelty. A party in Cruelty can hear people being comforted.
 
 ## Open
 
-- What seven thousand years of feeling every death in the rings did to Hesit is unwritten. A DM who wants one Judgement who would have welcomed the Division has the material here.
-- Whether Hesit could decline to feel a life is unsettled.
+- What seven thousand years of this did to Hesit is unwritten. A DM who wants one Judgement who would have welcomed the Division has the material.
+- Whether Hesit could refuse a life, or hand one off to somebody else, is unsettled.
+- How far behind the backlog ran by 3,097 AF is unwritten, and so is what became of the souls Hesit never got to.

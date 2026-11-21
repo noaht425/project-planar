@@ -15,33 +15,39 @@ Baátoine, to host. For what was true of all six, see [[The Judgements]].
 
 ## The Act
 
-Baator meant to host: to welcome a guest, seat them, feed them, and decide what they should have. The deciding and the welcome were one motion. A guest was given what Baator had judged it ought to have, in Baator's own hands, without having to ask for it and without being able to send it back.
+Baator meant to host. A guest was welcomed, seated, fed and given what Baator had decided it ought to have, all of that in one motion, with no step in it where anybody was consulted.
 
-The obligation ran both ways. A guest of Baator's owed Baator the same hospitality in return, and that debt was held to be permanent. Neither half of the domain has a return leg now. [[Belphegor]] hosts and cannot be a guest. [[Blythe]] rules on what a guest may have and has never served anybody.
+## The Table
 
-## In the Hearing
+A guest ate before stating its business. That was the rule of the house and there was no getting round it. The food came in Baator's own hands, a cup was full before anyone had asked for one, and a guest who said it wanted nothing was served anyway and watched until it had eaten.
 
-Baator received every soul that reached [[Liminia]] and opened the hearing by putting to the other five what the soul should be given. A soul was seated and fed before anything was said about it, and what it took along with what it refused went into what Baator then reported. The hospitality was the examination. A soul that worked this out in time could do nothing with it, because refusing the meal was also an answer.
+What a guest took went to the panel afterward. So did what it left. A soul could work this out, and some of them did, though refusing the meal went into the report as well.
 
-## The Body
+## The Hillside
 
-Read the two halves together and Baator had eyes for the ruling, along with mouths and hands for the serving. [[Blythe]] kept the eyes, is covered in them, and has no arms and no mouth. [[Belphegor]] kept the mouths and the hands and has more of each than anyone has counted. Each of them holds the part the other would need to finish the act.
+The place was a single site cut into a slope. Terraces at the top, open to the daylight, stepped down in even stages. Feast caverns underneath, warm, running one into the next, with no clean floor anywhere in them.
 
-## The Place
+Where a guest was seated was the ruling. A soul taken up to the terraces got a measured portion on a stone bench in the sun. A soul taken down got as much as it could hold and no door that shut. Nothing was explained to either of them at any point.
 
-Baator's place was one site cut into a hillside, with open terraces stepping down in even stages at the top and feast caverns running into one another underneath. Where a guest was seated was the verdict. [[The Division]] split the site and left the terraces to [[Temperance]] and the caverns to [[Indulgence]], which are still attached where they were torn apart. A single door joins them, and both sides keep it shut.
+[[The Division]] cut the slope in two. The terraces are [[Temperance]] now, the caverns are [[Indulgence]], and one door joins them.
+
+## The Return
+
+Xenia ran in both directions. A guest of Baator's owed Baator the same hospitality whenever Baator came to it, and that debt did not expire. No record has Baator travelling anywhere, and no record has the debt collected.
+
+Neither half has ever been on the receiving end of it. [[Belphegor]] has never been a guest in anybody's hall, and [[Blythe]], who has no arms, has never handed anything to anyone.
 
 > *There is a door between Temperance and Indulgence, where the two halves of Baator's place still touch. It is kept shut from both sides. On the Indulgence side someone has laid a place at a table in front of it.*
 
 ## Design Notes
 
-Baator is the clearest case of a Judgement split into its means and its judgement. [[Belphegor]]'s plan would put the hands back with the eyes. Under the rule on [[The Judgements]], what walks out of that is Belphegor holding Baator's full strength, still Belphegor.
+Baator is the clearest case of a Judgement split into its means and its judgement. Belphegor's plan to make the Judgements whole by having each archdevil eat its archangel would, in Baator's case, put a host back together with the one who decides how much the guest may have. Under the rule on [[The Judgements]], what walks out of that is Belphegor holding Baator's full strength, still Belphegor.
 
-The hillside is the two afterlives read as one place. A DM who wants to show a party what a Judgement actually was can start them on the terraces and walk them down to the door.
+The hillside is the two afterlives read as one place. A DM who wants to show a party what a Judgement was can start them on the terraces and walk them down to the door.
 
-Hospitality as examination is why both halves are so hard to refuse. Belphegor asks until a guest accepts, and Blythe answers slowly enough that the guest withdraws the question. Neither of them is taking no.
+Feeding a guest before asking its business is why both halves are hard to say no to. Neither of them treats a refusal as an answer, and neither has to raise its voice about it.
 
 ## Open
 
 - Who lays the place at the door is unsettled, as is whether anyone on the Temperance side has noticed it. See [[Indulgence]] and [[Temperance]].
-- What Baator did with a guest who owed the return hospitality and never paid it is unwritten.
+- Whether Baator ever left Iudis is unwritten, and so is what a guest who was never visited back made of the debt.

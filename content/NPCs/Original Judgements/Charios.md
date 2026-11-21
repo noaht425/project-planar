@@ -15,39 +15,40 @@ Chārimine, to entertain. For what was true of all six, see [[The Judgements]].
 
 ## The Act
 
-Charios meant to entertain and to perform, which takes a performer along with somebody to perform to. Charios was both of those. A show in Charios's place needed nobody brought in to see it, because the watching half was already present and was sincerely delighted.
+Charios meant to entertain and to perform. That takes a performer and somebody to perform to, and Charios was both, so a show in Charios's place needed nobody brought in from outside. The watching half enjoyed it sincerely.
 
-[[The Division]] gave the performance to [[Lux]] and the audience's half of it to [[Pavlas]], who has been deferring to whoever is in the room ever since. Lux plays to a larger room than the one he is standing in. Pavlas is the room.
+## The House
 
-## In the Hearing
+Verdicts were announced from a stage, in front of whichever of the dead chose to come. Attendance was voluntary and attendance was heavy. Seats near the front went by length of residence, so a soul nine thousand years in the realm sat at the front while a soul that arrived last week stood at the back, and none of it had anything to do with what any of them had done alive. [[Pride]] runs on what is left of that arrangement.
 
-The verdict was Charios's to deliver. A ruling of the six was announced to the dead already living in the realm and performed in front of them, and that performance was how a judgement became something the realm knew. [[Sylas]] wrote them. Charios put them on.
+Some souls came to every delivery for centuries. A few of them are still in the realm.
 
-What that did to the business of judging is still visible in both halves. A soul's worst act was recited in public to an audience of other souls, and the recital was where the sentence began.
+## The Deliveries
 
-The dead attended because they wanted to. Seats near the front went to whoever had been in the realm longest, which gave the souls of Iudis a hierarchy that had nothing to do with what any of them had done in life. [[Pride]] runs on the remains of it.
+A delivery was a performance, and it was the point at which a sentence started. The soul's worst act was recited aloud, in [[Sylas]]'s verse, to a full house. Then the soul was taken out to wherever the six had put it.
 
-## The Stage
-
-Charios's place was a stage with a house in front of it, and one being owned both. It had no wings and nowhere to wait, since there was nobody to come on from anywhere else.
-
-> *Where Pride and Humility still meet there is a stage, left over from when they were one place. Nobody from either realm will stand on it, and both sides keep it swept.*
+Nobody recorded what the audience did during these. The one account that survives says they were quiet.
 
 ## After the Split
 
-Neither half can finish the act. Lux performs to an audience that is mostly forbidden to speak, and the damned in [[Pride]] watch their own achievements credited to other people. Pavlas holds the deference past the point where anyone is watching and has no performance of its own left to give.
+[[Lux]] kept the performing. He plays to a bigger room than the one he is standing in, and the damned in Pride watch their own achievements credited to other people, mostly without permission to speak. [[Pavlas]] kept the watching, holds a bow past the point where anyone is looking, and has nothing of its own to put on.
 
-Between them they also lost the record. [[Sylas]] kept the written verdicts and Charios kept the performed ones, which is to say Charios remembered every judgement the six ever passed by having both given and watched it. Nothing holds that memory now.
+The performed record went to neither of them. Sylas wrote the verdicts down. Charios carried them the other way, by having given and watched every one, and nothing in [[Iudis]] holds that memory now.
+
+> *Where Pride and Humility still meet there is a stage, left over from when they were one place. Nobody from either realm will stand on it, and both sides keep it swept.*
 
 ## Design Notes
 
 Lux performs to a larger room than the one he is in, and Pavlas is the room. Together they are a show with an audience, and neither of them can enjoy it.
 
-Charios delivering the verdicts is what makes this pair a quarrel about credit. [[Pride]] takes authorship away in front of witnesses and [[Humility]] removes the memory of having done anything at all, and both of those can only be done to someone whose deeds were once announced in public.
+Public delivery is what makes this pair a quarrel about credit. Pride takes authorship away in front of witnesses, [[Humility]] removes the memory of having done anything at all, and both of those need a person whose deeds were once announced to a crowd.
+
+Seating by seniority hands a DM a hierarchy in the afterlives that has nothing to do with virtue. The oldest souls have the best seats and no patience for new arrivals.
 
 The swept stage is the best object in the group. Two realms that will not deal with each other maintain the same piece of furniture.
 
 ## Open
 
-- Whether anything was performed in Charios's place besides judgements is unwritten.
-- Who sweeps the stage is unsettled, as is whether the two sides have ever met over it.
+- Whether anything besides judgements was performed there is unwritten.
+- Who sweeps the stage is unsettled.
+- The souls who attended every delivery for centuries are unwritten. They would know more about the six than anyone now living.
