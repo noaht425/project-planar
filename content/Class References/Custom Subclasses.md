@@ -51,6 +51,6 @@ It was designed without Agra in mind and it does not fit yet. It assumes souls a
 Four things to settle before it enters the setting.
 
 - Who objects to a soul being caught before it reaches [[Iudis]]. [[Abaddon]] of Cruelty and [[Charis]], who hoards the dead, both have standing.
-- Whether the patron subclass belongs to an existing figure. [[Charis]] already collects the dead. The subclass is currently written for a generic lich, which this setting does not need.
+- Whether the patron subclass belongs to an existing figure. [[Charis]] already collects the dead. The subclass is currently written for a generic lich. This setting does not need one.
 - Whether the subclass that speaks with the dead overlaps the work of the [[The University of Divine Judgement]].
-- Whether a Soulbroker is a class or a calling. [[300 What You Do]] sorts classes by whether their power has an owner. A Soulbroker draws on the dead themselves, which is a sixth answer that page does not offer.
+- Whether a Soulbroker is a class or a calling. [[300 What You Do]] sorts classes by whether their power has an owner. A Soulbroker draws on the dead themselves. That page offers no such answer.
