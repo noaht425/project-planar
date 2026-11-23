@@ -60,6 +60,26 @@ Respellings are derived from the language's own sound rules rather than invented
 
 Two names in the same language should not respell identically. Where that happens, one of the names is changed.
 
+## Subclasses
+
+Custom subclasses live in Class References, one page each, indexed at [[Custom Subclasses]]. Published subclasses sit in the same folder for reference and are left alone.
+
+A page carries `type: class-reference` and `audience: player`, then `class:` and `subclass:`.
+
+It opens with two or three paragraphs addressed to the player in the second person, naming the patron and linking its page. Those paragraphs say what the patron wants from the character, not only what it hands over. A patron that asks for nothing has not been written yet.
+
+Warlock features land at 1, 6, 10, and 14. Sorcerer features land at 1, 6, 14, and 18. A second feature at 1st level is where the identity goes, and three of the five existing subclasses spend one there.
+
+Every warlock subclass carries an expanded spell list, two spells per level from 1st to 5th, introduced by one line naming the patron.
+
+Where a group holds several beings, the 1st-level feature is a choice table and the choice changes how the subclass works for the rest of its life. The archdevil picked sets a damage type, the sphinx picked sets a timing rule, the wind picked is one of four the character swaps between.
+
+Numeric riders use the Charisma modifier. No subclass introduces a stat the base class does not already care about.
+
+Uses are counted by proficiency bonus and come back on a long rest. A capstone reads "Once you use this feature, you cannot use it again until you finish a long rest."
+
+The strongest features charge for themselves. Deferred damage, escalating psychic damage, and exhaustion that will not lift until a goal is met are all in use. A feature that is pure upside is a feature that is not finished.
+
 ## Shared Guidance
 
 A rule that governs a group of pages is written once on the parent page and linked from the others. The afterlives work this way, with the common rules on [[Iudis]] and only the specifics on each of the twelve.
