@@ -37,17 +37,17 @@ For what applies to all six pacts, including your half and The Offer at 14th lev
 
 You can give up something of your own on another creature's behalf. The price comes due as you speak and it is paid in the open.
 
-Once on each of your turns, you can lose hit points equal to your warlock level. This loss cannot be reduced or prevented. Choose a creature other than you that you can see within 60 feet, and give it the benefit of your half.
+As a bonus action, you can lose hit points equal to your warlock level. This loss cannot be reduced or prevented. Choose a creature other than you that you can see within 60 feet, and give it the benefit of your half.
 
-**Lilien.** The creature has advantage on its next attack roll made before the end of its next turn. The first time it hits with that attack, the damage increases by your Charisma modifier.
+**Lilien.** The creature has advantage on its next attack roll made before the end of its next turn. If that attack hits, it deals extra fire damage equal to your Charisma modifier.
 
-**Gwenhael.** The creature gains temporary hit points equal to twice your warlock level.
+**Gwenhael.** The creature gains temporary hit points equal to twice your warlock level. While it still has any of them, the first creature that hits it with a melee attack takes cold damage equal to your Charisma modifier.
 
 ## Level 6 Argued Anyway
 
 Starting at 6th level, losing is not a reason to stop.
 
-When a creature you paid for misses with the attack, fails the saving throw it was about to make, or drops to 0 hit points before the end of your next turn, you can use Paid on the Spot again on the same turn. Doing so costs you the hit points again.
+When a creature you paid for misses with the attack, fails the saving throw it was about to make, or drops to 0 hit points before the end of your next turn, you can use your reaction to pay again. You lose the hit points a second time, and the creature gains the benefit of your half again.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 

@@ -35,7 +35,7 @@ For what applies to all six pacts, including your half and The Offer at 14th lev
 
 You give an account of a creature, and the account is the ruling.
 
-As an action, choose a creature you can see within 60 feet and one statement from the following list. The creature makes a Charisma saving throw against your warlock spell save DC. On a failed save the statement holds for 1 minute, or until you use this feature again.
+As an action, choose a creature you can see within 60 feet and one statement from the following list. The creature makes a Charisma saving throw against your warlock spell save DC. On a failed save it takes damage of your half's type equal to your Charisma modifier, and the statement holds for 1 minute or until you use this feature again.
 
 | Statement | What holds |
 | --- | --- |
@@ -52,19 +52,19 @@ You gain the following benefit according to your half.
 
 ## Level 6 Back to the Panel
 
-Starting at 6th level, an account that will not go into verse is settled again.
+Starting at 6th level, you can compose as a bonus action rather than as an action.
 
-When a creature succeeds on a saving throw against your composition, you can use your reaction to send the finding back. The creature repeats the saving throw.
+An account that will not go into verse comes back to be settled again. When a creature succeeds on its saving throw against your composition, you can compose on that creature once more on the same turn, with no action required.
 
-**Tiyanak.** The creature subtracts your Charisma modifier from the repeated saving throw.
+**Tiyanak.** The creature subtracts your Charisma modifier from the saving throw against that second composition.
 
-**Verita.** If the creature fails the repeated saving throw, the statement holds for 10 minutes rather than 1.
+**Verita.** If the creature fails the saving throw against that second composition, the statement holds for 10 minutes rather than 1 minute.
 
-You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+You can compose a second time this way a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ## Level 10 In One Hand
 
-At 10th level, you can have two compositions running at once, each on a different creature, and you gain the following benefit according to your half.
+At 10th level, every account you compose is in the same hand, and you gain the following benefit according to your half.
 
 **Tiyanak.** When you compose, you can name two statements instead of one. The creature makes a single saving throw against both.
 

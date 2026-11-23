@@ -45,7 +45,7 @@ Starting at 6th level, you can take the part of the act your patron did not keep
 
 Until you finish a long rest after using this feature, you deal an extra 1d6 necrotic damage once on each of your turns, and you have advantage on saving throws against being charmed or frightened.
 
-**Neema.** When a creature that can see you within 30 feet makes an attack roll, a saving throw, or an ability check, you can use your reaction to give it advantage on that roll. It also gains temporary hit points equal to your warlock level.
+**Neema.** When a creature that can see you within 30 feet makes an attack roll, a saving throw, or an ability check, you can use your reaction to give it advantage on that roll. It also gains temporary hit points equal to your warlock level, and the next time it hits a creature with an attack before the end of its next turn, that attack deals extra radiant damage equal to your Charisma modifier.
 
 A creature cannot gain this benefit again until it finishes a long rest.
 

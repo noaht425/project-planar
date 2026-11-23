@@ -8,11 +8,11 @@ subclass: Baator
 
 Your patron is [[Belphegor]], the Archdevil of Indulgence, or [[Blythe]], the Archangel of Temperance. They were [[Baator]], The Xenia, whose act was to host.
 
-A guest of Baator's ate before stating its business. The food came in Baator's own hands, a cup was full before anyone had asked for one, and a guest who said it wanted nothing was served anyway and watched until it had eaten. Where a guest was seated was the ruling, and nothing was explained to anybody at any point.
+A guest of Baator's ate before stating its business. The food came in Baator's own hands, a cup was full before anyone had asked for one, and a guest who said it wanted nothing was served anyway and watched until it had eaten.
+
+Baator's place was one site cut into a slope. Terraces at the top, open to the daylight, and feast caverns underneath, warm, with no clean floor anywhere in them. Where a guest was seated was the ruling. A soul taken up got a measured portion on a stone bench in the sun. A soul taken down got as much as it could hold and no door that shut. Nothing was explained to either of them.
 
 The Division split the serving from the deciding. Belphegor kept the hands and has never been a guest in anybody's hall. Blythe kept the judgement of the portion and has no arms, so Blythe has never handed anything to anyone.
-
-Xenia runs in both directions. A guest of yours owes you the same hospitality whenever you come to it, and that debt does not expire.
 
 For what applies to all six pacts, including your half and The Offer at 14th level, see [[Warlock Judgements]].
 
@@ -28,48 +28,55 @@ For what applies to all six pacts, including your half and The Offer at 14th lev
 
 | Half | Damage Type | What your patron kept |
 | --- | --- | --- |
-| [[Belphegor]], Indulgence | Poison | The hands. What you give is given whether or not it was wanted |
-| [[Blythe]], Temperance | Cold | The portion. You decide what a creature may have, and the decision holds |
+| [[Belphegor]], Indulgence | Poison | The hands. What you set out is taken whether or not it was wanted |
+| [[Blythe]], Temperance | Cold | The portion. You decide what anyone at your table may have |
 
-## Level 1 Set a Place
+## Level 1 Set a Table
 
-You seat a guest before anyone has asked.
+You lay out a place and whoever arrives is seated.
 
-As a bonus action, choose a creature you can see within 60 feet. It becomes your guest for 1 hour, until you use this feature again, or until you die. You can have one guest at a time.
+As an action, choose a point you can see within 60 feet. A 15-foot-radius sphere centred there is your table for 1 minute. You can dismiss it as a bonus action, and you can have one table at a time.
 
-While a creature is your guest, you know its location while it is on the same plane as you, and you gain the following benefit according to your half.
+When a creature enters your table for the first time on a turn, or starts its turn there, you may seat it. You choose which seat, and you may also choose to leave it unseated. The seat holds until the start of that creature's next turn.
 
-**Belphegor.** At the start of each of its turns, your guest takes poison damage equal to your Charisma modifier.
+| Seat | What the guest is given |
+| --- | --- |
+| The terraces | A measured portion. The creature takes damage of your half's type equal to your Charisma modifier, and it cannot regain hit points |
+| The caverns | As much as it can hold. The creature gains temporary hit points equal to your Charisma modifier, and its speed is halved |
 
-**Blythe.** Your guest cannot regain hit points or gain temporary hit points.
+A creature can be seated only once on a turn.
 
-## Level 6 A Guest Eats First
+You also gain the following according to your half.
 
-Starting at 6th level, your guest states its business when you have finished with it.
+**Belphegor.** A creature you seat in the caverns has its speed reduced to 0 rather than halved.
 
-When your guest makes an attack roll or casts a spell, you can use your reaction to serve it. It makes a Charisma saving throw against your warlock spell save DC. On a failed save, it has disadvantage on that attack roll, or the saving throw DC of that spell is reduced by your Charisma modifier.
+**Blythe.** A creature you seat on the terraces makes its next saving throw with disadvantage.
 
-You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+## Level 6 The Hillside
 
-## Level 10 The Return
+Starting at 6th level, you are the table rather than the keeper of one.
 
-At 10th level, you can collect what a guest owes.
+Your table is centred on you instead of on a point and it moves with you. It still lasts 1 minute, and you can set it out again as a bonus action rather than as an action.
 
-You can have two guests at a time, and you gain the following benefit according to your half.
+You can also seat a creature inside your table as a bonus action, without waiting for it to move.
 
-**Belphegor.** When one of your guests drops to 0 hit points, you gain temporary hit points equal to your warlock level.
+## Level 10 No Door That Shuts
 
-**Blythe.** When one of your guests drops to 0 hit points, you can make another creature you can see within 60 feet your guest. This requires no action.
+At 10th level, your table has a radius of 30 feet.
+
+A creature that leaves your table is seated once more on its way out, and you choose the seat. This happens even if the creature has already been seated that turn.
 
 ## Design Notes
 
-Baator is the clearest split of the six, into the means and the judgement, so this is the Judgement where the two halves are closest to each other mechanically. Both mark a guest and both punish being one. Belphegor's does it by giving too much and Blythe's by giving nothing.
+A zone rather than a mark. Hosting was a place in Baator's hands, so this is the one subclass of the six built on an area. It is also the only one where the warlock decides about every creature that walks in rather than about one chosen target.
 
-Blythe having no arms is why Blythe's half never hands anything over. Every benefit on Blythe's side is a denial of something to somebody else.
+Both seats are useful and neither is purely a buff. The caverns hand out temporary hit points and take the guest's legs, so an ally seated there is protected and stuck. That is as close as a rule gets to being served more than you asked for.
 
-The hospitality debt is in the 10th-level feature and nowhere else. Collecting it is the part no record has Baator ever doing, so a warlock doing it routinely is already further than the Judgement got.
+Seating is optional on purpose. The 6th-level version runs for an hour and follows the warlock around, so a feature that fired automatically would be hurting shopkeepers. Nothing happens at the table until the host decides it does.
+
+Blythe having no arms is why Blythe's rider denies rather than gives. Every benefit on that side is something withheld from somebody else.
 
 ## Open
 
-- Whether a willing creature can be made a guest to be helped rather than held is unsettled. Nothing in the feature requires hostility, and Belphegor would not call that a misuse.
-- Whether Blythe will permit a warlock to seat a guest Blythe has not approved is unwritten.
+- Whether a creature can refuse a seat is unsettled. Neither half treats a refusal as an answer, so the rule does not permit it, and a DM who wants to allow a saving throw has grounds.
+- Whether the hospitality debt a guest owes can be collected mechanically is unwritten. No record has Baator ever collecting one.
