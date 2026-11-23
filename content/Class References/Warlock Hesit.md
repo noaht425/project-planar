@@ -31,7 +31,7 @@ For what applies to all six pacts, including your half and The Offer at 14th lev
 
 ## Level 1 Felt Through
 
-What another creature feels arrives in you whole, and you did not ask for it.
+What another creature feels arrives in you whole.
 
 As a bonus action, choose a creature you can see within 60 feet. You learn its current hit points, any conditions affecting it, and the one thing it most wants at this moment. Your DM gives you that last part in a sentence.
 

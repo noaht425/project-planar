@@ -2,11 +2,12 @@
 tags: []
 type: note
 summary: >-
-  The five custom subclasses written for Agra, which patron groups still have
-  none, and what the Soulbroker needs before it can enter the setting.
+  The eleven custom subclasses written for Agra, the patron groups and callings
+  that still have none, and what the Soulbroker needs before it can enter the
+  setting.
 ---
 
-Five custom subclasses exist for this setting. Each has its own page in this folder.
+Eleven custom subclasses exist for this setting. Each has its own page in this folder. The six Judgement pacts share a parent at [[Warlock Judgements]]. That page holds everything common to them.
 
 | Subclass | Class | Patron or source | Page |
 | --- | --- | --- | --- |
@@ -15,6 +16,12 @@ Five custom subclasses exist for this setting. Each has its own page in this fol
 | Scholarch | Warlock | One of the three [[Scholarchs]] | [[Warlock Scholarch]] |
 | Wind | Warlock | One of the four [[Wind Gods]] | [[Warlock Wind]] |
 | Devil | Sorcerer | A devil in the bloodline | [[Sorcerer Devil]] |
+| Baator | Warlock | [[Belphegor]] or [[Blythe]] | [[Warlock Baator]] |
+| Hesit | Warlock | [[Abaddon]] or [[Neema]] | [[Warlock Hesit]] |
+| Charios | Warlock | [[Lux]] or [[Pavlas]] | [[Warlock Charios]] |
+| Themati | Warlock | [[Archon]] or [[Themis]] | [[Warlock Themati]] |
+| Aaranea | Warlock | [[Lilien]] or [[Gwenhael]] | [[Warlock Aaranea]] |
+| Sylas | Warlock | [[Tiyanak]] or [[Verita]] | [[Warlock Sylas]] |
 
 This folder also holds [[Warlock Archfey]], [[Cleric Light]], [[Rogue Soulknife]], and [[Armorer Artificer]]. Those are published subclasses kept here for reference because current characters use them. They are not custom work and nothing in them should be edited.
 
@@ -27,8 +34,8 @@ Seven patron groups have pages in the guide. Three of them have a subclass behin
 | Group | Individuals | Subclass |
 | --- | --- | --- |
 | [[410 The Archfey]] | 7 | The published Archfey patron covers this |
-| [[420 The Archdevils]] | 6 | None. [[Sorcerer Devil]] covers descent from a devil, not a pact with one |
-| [[430 The Archangels]] | 6 | None |
+| [[420 The Archdevils]] | 6 | [[Warlock Judgements]], one page per act. [[Sorcerer Devil]] covers descent rather than a pact |
+| [[430 The Archangels]] | 6 | [[Warlock Judgements]], one page per act |
 | [[440 The Dragons]] | 10 | [[Warlock Dragon]] |
 | [[455 The Scholarchs]] | 3 | [[Warlock Scholarch]] |
 | [[460 The Wind Gods]] | 4 | [[Warlock Wind]] |
@@ -38,7 +45,7 @@ Five callings route into those groups. Only [[340 Warlock]] and [[330 Sorcerer]]
 
 ## Design notes
 
-The archdevils and archangels are the largest hole. Twelve patrons have finished pages and no mechanics, and they are paired: every archdevil was half of a Judgement whose other half is an archangel still walking around. Writing the two subclasses separately would waste that, since the interesting version of either one is the half that is missing.
+The archdevils and archangels were the largest hole and are now covered. Twelve patrons across six subclasses, one per Judgement, because the twelve are six acts cut in half and the act is the design unit. A devil half and an angel half of one Judgement are the same subclass played from opposite ends.
 
 The ascendant gods are the largest group by count and the least suited to one subclass. Eighteen individuals with nothing in common except having been mortal means either one flexible subclass with a choice table, in the manner of [[Sorcerer Devil]], or a subclass per god as each becomes a patron in play. Ambition was written the second way because [[Ignatius]] took a live character.
 

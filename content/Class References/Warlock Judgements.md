@@ -16,12 +16,12 @@ Shared guidance for all six pacts sits here. Each Judgement's own page carries o
 
 | Judgement | Act | Devil half | Angel half | Page |
 | --- | --- | --- | --- | --- |
-| [[Baator]] | To host | [[Belphegor]] | [[Blythe]] | Not yet written |
+| [[Baator]] | To host | [[Belphegor]] | [[Blythe]] | [[Warlock Baator]] |
 | [[Hesit]] | To feel what another feels | [[Abaddon]] | [[Neema]] | [[Warlock Hesit]] |
-| [[Charios]] | To entertain | [[Lux]] | [[Pavlas]] | Not yet written |
-| [[Themati]] | To rule | [[Archon]] | [[Themis]] | Not yet written |
-| [[Aaranea]] | To love | [[Lilien]] | [[Gwenhael]] | Not yet written |
-| [[Sylas]] | To compose verse | [[Tiyanak]] | [[Verita]] | Not yet written |
+| [[Charios]] | To entertain | [[Lux]] | [[Pavlas]] | [[Warlock Charios]] |
+| [[Themati]] | To rule | [[Archon]] | [[Themis]] | [[Warlock Themati]] |
+| [[Aaranea]] | To love | [[Lilien]] | [[Gwenhael]] | [[Warlock Aaranea]] |
+| [[Sylas]] | To compose verse | [[Tiyanak]] | [[Verita]] | [[Warlock Sylas]] |
 
 ## Choosing Your Half
 
