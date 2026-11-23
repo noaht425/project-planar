@@ -42,7 +42,7 @@ As an action, choose a creature you can see within 60 feet and one statement fro
 | It is slow | The creature's speed is halved |
 | It is blind | The creature has the blinded condition |
 | It is afraid | The creature is frightened of you |
-| It is already wounded | The creature has vulnerability to your half's damage type |
+| It is wounded | The creature has vulnerability to your half's damage type |
 
 You gain the following benefit according to your half.
 
